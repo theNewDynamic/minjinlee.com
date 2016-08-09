@@ -2,6 +2,7 @@
 .border-muted {border-color: rgba(255,255,255,0.1)}
 .bg-brand { background-color: var(--brand)}
 .color-brand { color: var(--brand) !important;}
+.red { color: var(--red) }
 .near-white { color: var(--white-70) }
 
 .bg-black  { background-color: var(--black) }

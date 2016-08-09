@@ -1,3 +1,7 @@
 <time datetime="{{ object.date | date: "%F" }}">
   {{ date | date: "%B %-d, %Y" }}
+
+  {% unless object.show_time == false %}
+    {{ date | date: "%I:%M %p" }}    
+  {% endunless %}
 </time>

@@ -37,3 +37,10 @@ Layouts, includes and assets are located in the `_app` folder. The `assets` fold
 - add page-styling unit tests (ala WP theme unit tests)
 - set up as gem-based theme?
 
+
+
+TODO
+
+Instagram (lee_minjin)
+Twiter (@minjinlee11)
+FB (only to mine; there are some ghost ones which should be eliminated—in the works)

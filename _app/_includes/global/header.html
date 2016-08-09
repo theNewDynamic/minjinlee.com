@@ -1,13 +1,13 @@
 <nav class="block clearfix px3 lg-flex lg-fixed lg-top-0 lg-right-0 lg-left-0 bg-white mb-4 border-bottom border-silver">
 
-  <div class="py1 mr3 col-12 lg-col-5">
+  <div class="py1 mr3 col-12 lg-col-5 bg-white">
     <a href="/" class="h1 inline-block text-decoration-none hover-black dark-gray">
       {{ site.title }}
     </a>  
   </div>
     <div class="flex-auto"><!--  space  --></div>
     {% for object in site.data.navigation-links %}
-     <a class="hover-moon-gray text-decoration-none lg-h4 inline-block py2 mr2 lg-mr3{% if page.url == object.url %} gray{% else %} black{% endif %}" href="{{ object.url }}" title="{{ object.title }}">
+     <a class="hover-moon-gray text-decoration-none lg-h4 inline-block bg-white py2 mr2 lg-mr3{% if page.url == object.url %} gray{% else %} black{% endif %}" href="{{ object.url }}" title="{{ object.title }}">
       {{ object.title }}
      </a>
     {% endfor %}  
