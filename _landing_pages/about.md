@@ -1,14 +1,9 @@
 ---
-title: About
+title: About Min Jin Lee
+image_path: /uploads/minjinlee_bw.jpg
 ---
-'Stupid things!' Alice began in a loud, indignant voice, but she stopped  hastily, for the White Rabbit cried out, 'Silence in the court!' and the  King put on his spectacles and looked anxiously round, to make out who  was talking.
+Min Jin Lee's debut novel _Free Food for Millionaires_ was a No. 1 Book Sense Pick, a _New York Times_ Editor’s Choice, a _Wall Street Journal_ Juggle Book Club selection, and a national bestseller; it was a Top 10 Novels of the Year for _The Times_ of London,  NPR’s _Fresh Air_ and _USA Today_. _Free Food for Millionaires_ was also published in the U.K. (Random House, 2007), South Korea (Image Box Publishing) and Italy (Einaudi). Her novel _Pachinko_ is forthcoming in February 2017.
 
-Alice could see, as well as if she were looking over their shoulders,  that all the jurors were writing down 'stupid things!' on their slates,  and she could even make out that one of them didn't know how to spell  'stupid,' and that he had to ask his neighbour to tell him. 'A nice  muddle their slates'll be in before the trial's over!' thought Alice.
+Min Jin went to Yale College where she was awarded both the Henry Wright Prize for Nonfiction and the James Ashmun Veech Prize for Fiction. She attended law school at Georgetown University and worked as a lawyer for several years in New York to writing full time. She has received the NYFA Fellowship for Fiction, the Peden Prize from The Missouri Review for Best Story, and the Narrative Prize for New and Emerging Writer. Her fiction has been featured on NPR’s Selected Shorts. Her writings about books, travel and food have appeared in _The New York Times_, _Conde Nast Traveler_, _The Times of London_, _Vogue_ (US), _Travel + Leisure_ (SEA), _Wall Street Journal_ and _Food & Wine_. Her personal essays have been anthologized in _To Be Real_, _Breeder_, _THe Mark Twain Anthology: Great Writers on His Life and Works_, _One Big Happy Family_, _Sugar in My Bowl_, and _Global and the Intimate: Feminism in Our Time_. She served three consecutive seasons as a Morning Forum columnist of the _Chosun Ilbo_ of South Korea. Lee has lectured about writing, politics and literature at various institutions including Columbia, Tufts, Loyola Marymount University, Stanford, Johns Hopkins (SAIS), University of Connecticut, Boston College, Hamilton College, Harvard Law School, Yale University, Ewha University, Waseda University, the American School in Japan, World Women’s Forum, the Tokyo American Center of the U.S. Embassy and the Asia Society in New York, San Francisco and Hong Kong.
 
-One of the **jurors** had a pencil that squeaked. This of course, Alice  could not stand, and she went round the court and got behind him, and  very soon found an opportunity of taking it away. She did it so quickly  that the poor little juror (it was Bill, the Lizard) could not make out  at all what had become of it; so, after hunting all about for it, he was  obliged to write with one finger for the rest of the day; and this was  of very little use, as it left no mark on the slate.
-
-'Herald, read the accusation!' said the King.
-
-On this the White Rabbit blew three blasts on the trumpet, and then  unrolled the parchment scroll, and read as follows:–
-
-'The Queen of Hearts, she made some tarts, All on a summer day: The Knave of Hearts, he stole those tarts, And took them quite away!'
+From 2007 to 2011, Min Jin lived in Tokyo, Japan where she wrote _Pachinko_ (February 2017). She lives in New York City with her husband and son.

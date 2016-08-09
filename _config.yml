@@ -1,21 +1,21 @@
 # jekyll-seo-tag
-title: "Lean Jekyll"
-description: "A starter for using jekyll"
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+title: "Min Jin Lee"
+description: "Official Author site for Min Jin Lee, author of Free Food for Millionaires and Pachinko"
+url: "http://www.minjinlee.com" # the base hostname & protocol for your site
 author: []
 twitter:
-  username: budparr
+  username: minjinlee
 facebook:
   app_id: 
   publisher: 
   admins: 
-logo: /assets/images/jekyll-white.svg
+logo: /uploads/cover-pachinko.jpg
 google_site_verification:
 github:
   username: budparr
-owner: The New Dynamic
+owner: Min Jin Lee
 # manifest
-short_name: The Shortname
+short_name: Min Jin Lee
 display: fullscreen
 
 # development meta data
@@ -62,7 +62,11 @@ collections:
   landing_pages:
     output: true
     permalink: '/:path/'
-
+  books:
+    output: true
+    permalink: '/:collection/:path/'
+  events:
+    output: false
 defaults:
   - scope:
       path: ''

@@ -1,6 +1,6 @@
-<footer class="p3 cf bg-brand" role="contentinfo">
+<footer class="p3 cf bg-moon-gray" role="contentinfo">
  
-  <div class="py3 center clearfix">
+  <div class="py3 center clearfix" style="display:none">
   {% if site.facebook.publisher %}
      <a class="text-decoration-none mx2 tc white hover-gray" href="{{ site.facebook.publisher }}" title="">
     <svg data-icon="facebook" viewBox="0 0 32 32" style="fill:currentcolor;height:2rem;width:2rem;">
@@ -33,14 +33,16 @@
 
 
 
+  {% comment %}
   
   <div class="mt3 center">
     <a href="/language/" title="Language" class="text-decoration-none silver hover-gray mx2 my2">Language</a>
     <a href="/terms/"    title="Terms" class="text-decoration-none silver hover-gray mx2 my2">Terms of Use</a>
     <a href="/privacy/"  title="Privacy" class="text-decoration-none silver hover-gray mx2 my2">Privacy</a>
   </div>
+  {% endcomment %}
 
   <small class="h6 block center mt3 mb1 gray">
-    © {{ site.time | date:'%Y' }} {{ site.owner }}, All Rights Reserved
+    © {{ site.time | date:'%Y' }} {{ site.owner }}, All Rights Reserved &bull; <a href="https://sonnetmedia.net" class="text-decoration-none gray hover-black">site by the New Dynamic</a>
     </small>
 </footer>

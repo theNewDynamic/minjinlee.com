@@ -1,0 +1,11 @@
+
+/*.element {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}*/
+
+.more-on-the-story iframe { max-height: 60px !important;max-width: 100%;}
+/*.headline { text-indent: -5px; }
+.headline:before {content: '“';}
+.headline:after {content: '”';}*/

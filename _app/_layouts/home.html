@@ -1,0 +1,32 @@
+---
+layout: default
+---
+{% assign books = site.books | sort: 'publication_date' | reverse %}
+
+<div class="lg-col-9 mx3 lg-mx-auto clearfix my2 lg-my4">
+
+  {% for object in books limit: 1 %}
+    {% assign editions = object.editions %}
+    {% assign review = object.reviews[0] %}
+    {% assign list_classes = 'block md-inline-block lg-inline-block btn btn-outline mb2' %}
+
+    <div class="md-col lg-col col-12 md-col-5 lg-col-5">
+      <blockquote class="lede m0">
+        {{ review.copy | markdownify }}
+      </blockquote>
+      <div class="black bold h5">
+        — {{ review.attribution | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+      <div class="my4 col-12 clearfix">
+        {% include books/buy-links.html classes=list_classes %}
+      </div>
+    </div>
+
+    <div class="md-col lg-col col-12 md-col-5 lg-col-5 ml4 mb4">
+      {% if object.cover_image_path %}
+        <img src="{{ object.cover_image_path }}" alt="" class="box-shadow-large-black transition" />
+      {% endif %}      
+    </div>
+  {% endfor %}
+
+</div>

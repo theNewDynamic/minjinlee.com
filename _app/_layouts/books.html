@@ -1,0 +1,23 @@
+---
+layout: default
+---
+{% assign books = site.books | sort: 'publication_date' | reverse  %}
+
+<div class="has-layout layout-single-column">
+  {% for object in books  %}
+    {% assign title = object.title %}
+    {% assign content = object.content %}
+    {% assign url = object.url %}
+    {% assign subtitle = object.subtitle %}
+    {% assign genre = object.genre %}
+    {% assign cover_image_path = object.cover_image_path %}
+    {% assign publication_date = object.publication_date %}
+    {% assign editions = object.editions %}
+    {% assign pubdate = object.publication_date | date: "%Y%m%d" %}
+    {% assign editions = object.editions %}
+    <article class="hentry {% if page.class %}{{page.class}}{% endif %}" style="margin-bottom:5em;">
+      {% include books/layout.html %}
+    </article>
+  {% endfor %}
+</div>
+{% include mailing-list-signup.html %}

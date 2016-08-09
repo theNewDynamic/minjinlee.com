@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% assign title = page.title %}
+{% assign url = page.url %}
+{% assign subtitle = page.subtitle %}
+{% assign genre = page.genre %}
+{% assign cover_image_path = page.cover_image_path %}
+{% assign publication_date = page.publication_date %}
+{% assign editions = page.editions %}
+{% assign pubdate = page.publication_date | date: "%Y%m%d" %}
+{% assign editions = page.editions %}
+
+
+<div class="has-layout layout-single-column">
+ <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
+   {% include books/layout.html %}
+ </article>
+</div>
+
+{% include mailing-list-signup.html %}

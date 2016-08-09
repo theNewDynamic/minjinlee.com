@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+
+<div class="col-12 px3 pb4" id="filter">    
+  <h2>
+    Events
+  </h2>
+
+  {% assign box_classes = ' border col-12 rounded border-silver bg-transition' %}
+
+  <div class="md-pr2 lg-pr2">
+    <div class="flex flex-wrap mxn2 list"> 
+      {% for object in site.events  %}
+        {% assign todays_date = site.time | date: "%Y%m%d" | to_integer %}
+        {% assign event_date = object.start_date | date: "%Y%m%d" | to_integer %}
+        {% assign date = object.start_date  %}
+        {% if event_date >= todays_date %}        
+          {% include components/card.html classes=box_classes %}        
+        {% endif %}        
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="col-12 mt3">
+  <h2>
+    Past Events
+  </h2>
+    <div class="flex flex-wrap mxn2 list"> 
+      {% for object in site.events  %}
+        {% assign todays_date = site.time | date: "%Y%m%d" | to_integer %}
+        {% assign event_date = object.start_date | date: "%Y%m%d" | to_integer %}
+        {% assign date = object.start_date  %}
+      
+        {% if event_date <= todays_date %}        
+        
+          {% include components/card.html classes=box_classes %}        
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>  
+
+</div>

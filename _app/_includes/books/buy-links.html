@@ -1,0 +1,66 @@
+{% assign current_unix_date = site.time | date: "%Y%m%d" %}
+
+
+<div id="buy-links">
+<h5>{% if pubdate < current_unix_date %}buy{% else %}preorder{% endif %} <em>{{ item.name }}</em> from these retailers</h5>
+  <p>
+    <strong>
+      {% for edition in editions %}
+        {% if forloop.first %}Available editions: {% endif %}
+        {% for binding in edition %}
+          {% if binding[1] != '' %}
+            {{ binding[0] | capitalize  }}
+          {% endif %}{% endfor %}
+
+      {% endfor %}
+    </strong>
+  </p>
+
+
+    {% if page.distributor_link %}
+      <a href="{{ page.distributor_link }}" target="_blank" class="{{ edition.type }} {{ include.classes }}">
+
+          Buy {% if page.distributor %}{{ page.distributor }}{% endif %}
+
+      </a>
+        <br />
+    {% endif %}
+
+
+      {% for edition in editions %}
+
+        {% for binding in edition %}
+        {% assign type = binding[0] %}
+          {% assign isbn = binding[1] %}
+
+
+            {% if type == 'paperback' or type == 'hardcover' and isbn != '' %}
+            {% unless page.hide_indiebound == true %}
+            
+              <a href="http://www.indiebound.org/product/info.jsp?isbn={{ isbn }}" target="_blank" class="{{ edition.type }} {{ include.classes }}">
+                Your Independent Bookstore
+              </a>
+            
+            {% endunless %}
+            
+              <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ isbn }}" target="_blank" class="{{ edition.type }} {{ include.classes }}">
+                Barnes & Noble
+              </a>
+            
+
+            <span id='isbn10_{{ isbn }}'></span><!--  pulls in 10 digit ASIN for -->
+            {% include books/buy-links-isbn10to13.js %}
+
+            {% elsif type == 'ebook' and isbn != '' %}
+            
+              <a href="http://itunes.apple.com/us/book/isbn{{ isbn }}" target="_blank" class="{{ edition.type }} {{ include.classes }}">
+                Apple iBooks
+              </a>
+            
+            {% endif %}
+
+        {% endfor %}
+      {% endfor %}
+
+
+</div>

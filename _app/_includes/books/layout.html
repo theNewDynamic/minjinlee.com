@@ -1,0 +1,50 @@
+<header>
+  {% if title %}
+    <h1 class="book-title m0">
+      <a href="{{ url }}">
+        {{ title|safe }}
+      </a>
+      {% if subtitle %}
+        {% if subtitle.size > 10 %}
+          <br />
+        {% endif %}
+        <span style="font-weight:400;font-size:.5em;">
+          {{ subtitle }}
+        </span>
+      {% endif %}
+    </h1>
+  {% endif %}
+  {% if genre %}
+    <h6>
+      <small>
+        {{ genre}}
+      </small>
+    </h6>
+  {% endif %}
+</header>
+{% if cover_image_path %}
+  <img class="book-cover" src="{{ cover_image_path }}" />
+{% endif %}
+{{ content | markdownify }}
+<ul class="listings" style="margin-bottom:4em;">
+  <li>
+    <strong>Publication Date: </strong>
+    {{ publication_date | date: "%b %-d, %Y" }}
+  </li>
+  {% for edition in editions | first %}
+    {% for binding in edition %}
+    <li>
+      <strong>ISBN {{ binding[0]}}</strong>: {{ binding[1] }}
+    </li>
+    {% endfor %}
+  {% endfor %}
+</ul>
+
+{% if editions %}
+  <div id="buying-information" class="clear">
+    {% include books/buy-links.html %}
+  </div>
+{% endif %}
+{% if page.layout == 'book' %}
+  {% include books/related-reviews.html %}
+{% endif %}
