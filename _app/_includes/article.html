@@ -21,6 +21,9 @@
   </header>
 
   <div class="e-content lh-copy measure" itemprop="articleBody">
+    {% if page.image_path %}
+        <img src="{{ page.image_path}}" class="col-12 lg-col-4 lg-left lg-mr2 mb1 mt1">
+    {% endif %}
     {{ content }}
   </div>
 

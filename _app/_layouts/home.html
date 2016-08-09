@@ -8,7 +8,7 @@ layout: default
   {% for object in books limit: 1 %}
     {% assign editions = object.editions %}
     {% assign review = object.reviews[0] %}
-    {% assign list_classes = 'block md-inline-block lg-inline-block btn btn-outline mb2' %}
+    {% assign list_classes = 'block md-inline-block lg-inline-block btn btn-outline gray border-silver m2' %}
 
     <div class="md-col lg-col col-12 md-col-5 lg-col-5">
       <blockquote class="lede m0">
@@ -17,12 +17,12 @@ layout: default
       <div class="black bold h5">
         — {{ review.attribution | markdownify | remove: '<p>' | remove: '</p>' }}
       </div>
-      <div class="my4 col-12 clearfix">
+      <div class="my4 col-12 clearfix gray">
         {% include books/buy-links.html classes=list_classes %}
       </div>
     </div>
 
-    <div class="md-col lg-col col-12 md-col-5 lg-col-5 ml4 mb4">
+    <div class="md-col lg-col col-12 md-col-5 lg-col-5 lg-ml4 mb4">
       {% if object.cover_image_path %}
         <img src="{{ object.cover_image_path }}" alt="" class="box-shadow-large-black transition" />
       {% endif %}      
