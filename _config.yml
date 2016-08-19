@@ -27,7 +27,7 @@ incremental: true
 
 
 # Settings
-production: false
+production: true
 bust_css_cache: false
 full_rebuild: true
 timezone: Etc/Zulu
