@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/jeremiak/jekyll-offline.git
+  revision: 6c712a70d013ea5bf8fddf5d9799d115fb3b30e4
+  specs:
+    jekyll-offline (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -43,6 +49,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-offline!
   jekyll-seo-tag
   jekyll-sitemap
 
