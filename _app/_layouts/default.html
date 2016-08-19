@@ -51,6 +51,9 @@ layout: compress
     {% if layout.script %}
         <script src="{{ layout.script }}"{% unless layout.load_script_async == false %} async{% endunless %}></script>
     {% endif %}
-  {% register_service_worker %}
+    {% if jekyll.environment == "production" %}
+      {% register_service_worker %}
+    {% endif%}
+
   </body>
 </html>
