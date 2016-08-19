@@ -28,9 +28,13 @@ layout: default
       {% endif %}      
     </div>
   {% endfor %}
+  <div class="col-10 mt4 mx-auto">
+  {{ page.content | markdownify }}
+</div>
 
 </div>
 
 <div class="col-12" style="display:none;">
   This site is under development. Visit the old site 
 </div>
+
