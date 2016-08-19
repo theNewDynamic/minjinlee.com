@@ -52,7 +52,7 @@ layout: compress
         <script src="{{ layout.script }}"{% unless layout.load_script_async == false %} async{% endunless %}></script>
     {% endif %}
     {% if jekyll.environment == "production" %}
-      {% include register_service_worker %}
+      {% include global/register_service_worker.html %}
     {% endif%}
 <!-- rsw -->
   </body>
