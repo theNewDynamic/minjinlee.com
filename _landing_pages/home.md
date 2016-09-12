@@ -25,10 +25,16 @@ layout: home
 
 > “Both for those who love Korea, as well as for those who know no more than Hyundai, Samsung and kimchi, this extraordinary book will prove a revelation of joy and heartbreak. I could not stop turning the pages, and wished this most poignant of sagas would never end. Min Jin Lee displays a tenderness and wisdom ideally matched to an unforgettable tale that she relates just perfectly.”
 
-—**Simon Winchester, New York Times bestselling author of *The Professor and the Madman*and *Korea: A Walk through the Land of Miracles***
+—**Simon Winchester, New York Times bestselling author of *The Professor and the Madman* and *Korea: A Walk through the Land of Miracles***
 
 ---
 
 > “In 1930s Korea, an earnest young woman, abandoned by the lover who has gotten her pregnant, enters into a marriage of convenience that will take her to a new life in Japan. Thus begins Lee's luminous new novel *Pachinko* -a powerful meditation on what immigrants sacrifice to achieve a home in the world. *Pachinko* confirms Lee's place among our finest novelists.”
 
 **—Junot D&iacute;az, Pulitzer Prize-winning author of *The Brief Wondrous Life of Oscar Wao* and *This Is How You Lose Her***
+
+---
+
+> “Pachinko by Min Jin Lee is a great book, a passionate story, a novel of magisterial sweep. It’s also fiendishly readable—the real deal. An instant classic, a quick page-turner, and probably the best book of the year.”
+
+**—Darin Strauss, National Book Critics Circle Award-winning author of *Half a Life* and *Chang & Eng***
