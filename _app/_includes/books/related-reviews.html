@@ -1,18 +1,23 @@
-{% assign reviews = site.posts | where: 'category', 'reviews' %}
-{% assign reviews = reviews | where: 'book', page.slug %}
+{% if object.reviews  %}
+  {% assign reviews = object.reviews %}
+  {% assign book_title = object.title  %}
+{% else %}
+  {% assign reviews = page.reviews %}
+  {% assign book_title = page.title  %}
+{% endif %}
 
 
-{% if reviews %}<h2 style="margin-top:2em;">Praise for <em>{{ page.title }}</em></h2>{% endif %}
+{% if reviews %}<h2 style="margin-top:2em;">Praise for <em>{{ book_title }}</em></h2>{% endif %}
 
 {% for review in reviews limit: 20 %}
-  <blockquote class="review unadorned">
-    {% if review.description %}
-      <p class="quote_excerpt">
-        {{ review.description | markdownify }}
-      </p>
-    {% elsif review.content %}
-      {{ review.content | markdownify }}
+  <blockquote class="mb4 h2">
+    {% if review.copy_markdown  %}
+      {{ review.copy_markdown | markdownify }}
     {% endif %}
-    – {{ review.title | markdownify | remove: '<p>' | remove: '</p>' }}
+    {% if review.attribution %}
+      <span class="h4">
+        – {{ review.attribution | markdownify | remove: '<p>' | remove: '</p>' }}
+      </span>
+    {% endif %}
   </blockquote>
 {% endfor %}

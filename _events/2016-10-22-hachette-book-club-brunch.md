@@ -2,7 +2,7 @@
 title: "Hachette Book Club Brunch"
 link: "http://www.bookclubbrunch.com"
 location: "HACHETTE BOOK GROUP 1290 Avenue of the Americas, NY NY "
-start_date: 2016-10-22T10:00:00Z 
+start_at: 2016-10-22T10:00:00Z 
 ---
 Hachette Book Group’s 5th Annual Book Club Brunch
 

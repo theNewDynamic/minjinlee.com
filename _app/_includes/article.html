@@ -1,16 +1,26 @@
 <article class="h-entry" itemscope itemtype="https://schema.org/{{ page.schema | default: layout.schema }}">
 
   <header class="post-header">
+    {% if page.category %}
+      <div class="h3 py3">
+        {{ page.category}}
+      </div>
+    {% endif %}
+    {% if page.start_at %}
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" class="accent-color">
+        Event: {{ page.start_at | date: "%b %-d, %Y" }}
+      </time>
+    {% endif %}
     <h1 class="p-name" itemprop="name headline">
-      {{ page.title }}
+      {{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}
     </h1>
     <p class="post-meta">
-      {% unless page.date != '' %}
+
+      {% if page.collection == 'posts' %}
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
           {{ page.date | date: "%b %-d, %Y" }}
         </time>
-      {% endunless %}
-
+      {% endif %}
       {% if page.author %}
         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
           <span itemprop="name">
@@ -20,11 +30,17 @@
       {% endif %}</p>
   </header>
 
-  <div class="e-content lh-copy measure" itemprop="articleBody">
+  <div class="e-content lh-copy h3" itemprop="articleBody">
     {% if page.image_path %}
-        <img src="{{ page.image_path}}" class="col-12 lg-col-4 lg-left lg-mr2 mb1 mt1">
+        <img src="{{ page.image_path}}" class="rounded col-12 sm-col-5 md-col-5 lg-col-4 sm-left md-left lg-left sm-mr2 md-lg-mr2 lg-mr2 mb1 mt1">
     {% endif %}
     {{ content }}
+
+    {% if page.venue %}<br />
+      <div class="font-family-sans">
+        {% include events/venue-page.html %}
+      </div>
+    {% endif %}
   </div>
 
     {% if page.include %}

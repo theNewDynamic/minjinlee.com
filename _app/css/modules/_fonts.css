@@ -1,28 +1,12 @@
+/*--line-height-1: 1;
+--line-height-2: 1.125;
+--line-height-3: 1.25;
+--letter-spacing: 1;
+--caps-letter-spacing: .2em;
+--bold-font-weight: bold;
+*/
 :root {
-  --font-brand:  "Tungsten A","Tungsten B","Lato","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
-  --font-primary-sans:  'Avenir Next W00', 'Avenir Next', 'Lato','Helvetica Neue', Helvetica, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',sans-serif;
-  --font-primary: 'Merriweather', "Georgia", "Cambria", "Times New Roman", "Times", serif;
-  --light-font-weight: 300;
-  --caps-letter-spacing:.0625em;
 
+  --line-height-4: 1.8;
 
 }
-
-body {
-  font-family: var(--font-primary);
-  line-height: 1.5;
-}
-
-p {
-  font-size: 1.125em;
-  line-height: 1.6;
-  font-weight: 300;
-
-}
-
-.font-family-brand { font-family: var(--font-brand) } 
-.font-family-primary { font-family: var(--font-primary) } 
-.font-spaced { letter-spacing: var(--caps-letter-spacing) }
-.font-light-weight { font-weight: var(--light-font-weight) }
-.text-shadow-black { text-shadow: 1px 1px 0px #000000; }
-

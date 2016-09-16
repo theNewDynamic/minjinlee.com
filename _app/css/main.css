@@ -6,24 +6,27 @@
 
  /* MODULES */
 @import 'modules/_accessibility';
-@import 'modules/_borders';
-@import 'modules/_expandable';
+@import 'modules/_grid-auto';
 @import 'modules/_iframes';
 @import 'modules/_layout';
-@import 'modules/_padding';
 @import 'modules/_social-icons';
 @import 'modules/_styles';
 @import 'modules/_transitions';
-@import 'modules/_books';
+@import 'modules/_shadows';
 
 /* OVERRIDES */
-@import 'modules/_colors';
+/*@import 'modules/_colors';*/
 @import 'modules/_fonts';
-@import 'modules/_media-queries';
 /*@import 'modules/_debug';*/
+
 @media (--breakpoint-x-lg) {
   .xlg-wide {
     width: 500px;
-    max-width: 80%;    
+    max-width: 80%;
   }
+}
+a.btn { margin-bottom:.5em }
+
+.text-decoration-none > a {
+  text-decoration: none;
 }

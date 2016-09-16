@@ -1,0 +1,48 @@
+---
+layout: page-listing
+---
+{% if page.url contains 'category' %}
+  {% assign posts = page.posts %}
+{% else %}
+  {% assign posts = paginator.posts %}
+{% endif %}
+{% comment %}
+{% assign posts = posts | sort: 'date', 'last' | reverse  %}
+{% endcomment %}
+
+
+  <div class="md-col lg-col col-12 md-col-10 lg-col-9" id="filter">
+
+    {% if page.title %}
+      <h1 class="p3">{{ page.title | capitalize | replace: '-', ' ' }}</h1>
+    {% endif %}
+
+    {% unless page.url contains '/category/' %}
+      {% include events/events-listing.html %}
+    {% endunless %}
+
+    {% for object in posts %}
+      {% assign date = object.date %}
+      <a href="{{ object.url }}" class="col-12 border-bottom border-divider-color p3 text-decoration-none block py2 secondary-text-color hover-white hover-bg-primary-color transition">
+        <time class="h6 mute col-12">{{ object.date | date_to_string }}</time><br />
+        <span class="h1 primary-text-color">
+          {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}<br />
+        </span>
+        {% if object.excerpt %}
+          {{ object.excerpt | markdownify | strip_html }}
+        {% endif %}
+      </a>
+    {% endfor %}
+  </div>
+
+
+
+
+<div class="col-12 clearfix">
+  <div class="col-12 lg-col lg-col-3">
+    <!-- PUSH-->&nbsp;
+  </div>
+    <div class="md-col lg-col col-12 md-col-10 lg-col-9 p2" id="filter">
+  {% include components/pagination.html %}
+</div>
+</div>

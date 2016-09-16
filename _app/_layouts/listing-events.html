@@ -1,0 +1,14 @@
+---
+layout: page-listing
+---
+<div class="md-col lg-col col-12 md-col-10 lg-col-9" id="filter">
+
+  {% if page.title %}
+    <h1 class="p3">
+      {{ page.title }}
+    </h1>
+  {% endif %}
+
+  {% include events/events-listing.html %}
+
+</div>

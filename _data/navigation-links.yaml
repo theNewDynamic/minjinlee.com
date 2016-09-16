@@ -1,6 +1,9 @@
 - title: "Home"
   url: /
 
+- title: "Books"
+  url: /books/
+
 - title: "Events"
   url: /events/
 
@@ -8,4 +11,4 @@
   url: /about/
 
 - title: "Contact"
-  url: /contact/  
+  url: /contact/

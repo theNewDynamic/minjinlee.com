@@ -1,0 +1,18 @@
+{% assign link_classes = 'btn btn-primary hover-bg-gray inline-block mb2' %}
+<div class="clearfix mt3">  
+  {% if paginator.page %}
+    <div class="h3 mb1">
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </div>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="{{ link_classes }}">
+      Previous
+    </a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="{{ link_classes }}">
+      Next
+    </a>
+  {% endif %}
+</div>

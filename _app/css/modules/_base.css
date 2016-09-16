@@ -7,7 +7,7 @@
 body {
   line-height: 1.5;
   margin: 0;
-  color: #111;
+  color: #333;
   background-color: #fff;
 }
 
@@ -20,9 +20,9 @@ svg {
   max-height: 100%;
 }
 
-a {
+/*a {
   color: #07c;
-}
+}*/
 
 h1, h2, h3,
 h4, h5, h6 {
@@ -67,8 +67,8 @@ pre {
 }
 
 blockquote {
-  font-size: 1.125rem;
-  /*//font-style: italic;*/
+  font-size: 1.25rem;
+  font-style: italic;
   margin-left: 0;
 }
 

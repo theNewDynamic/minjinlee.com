@@ -1,0 +1,24 @@
+{% if page.venue.name %}
+<strong>{{ page.venue.name }}</strong><br />
+{% endif %}
+{% if page.venue.address %}
+  {{ page.venue.address }}<br />
+{% endif %}
+{% if page.venue.city %}
+  {{ page.venue.city }}{% if page.venue.state %}, {% endif %}
+{% endif %}
+{% if page.venue.state %}
+  {{ page.venue.state }}
+{% endif %}
+{% if page.venue.zip %}
+  {{ page.venue.zip }}
+{% endif %}
+{% comment %}
+  {% if object.venue.address and object.venue.city and object.venue.state and object.venue.zip %}
+  <br />
+  <a href="https://www.google.com/maps/place/{{ object.venue.address | slugify | replace: '-', '+' }},+{{ object.venue.city  | slugify | replace: '-', '+' }},+{{ object.venue.state | slugify | replace: '-', '+' }}+{{ object.venue.zip }}/">map
+  </a>
+
+{% endif %}
+
+ {% endcomment %}
