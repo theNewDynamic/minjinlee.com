@@ -7,7 +7,7 @@
       </div>
     {% endif %}
     {% if page.start_at %}
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" class="accent-color">
+      <time datetime="{{ page.start_at | date_to_xmlschema }}" itemprop="datePublished" class="accent-color">
         Event: {{ page.start_at | date: "%b %-d, %Y" }}
       </time>
     {% endif %}
