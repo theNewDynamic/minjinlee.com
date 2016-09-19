@@ -1,8 +1,9 @@
 ---
 title: HANDS ON TOKYO
 start_at: 2008-11-06T23:38:00-05:00
-venue: HANDS ON TOKYO
-venue_link: www.handsontokyo.org
+venue:
+  name: HANDS ON TOKYO
+  link: www.handsontokyo.org
 _slug: hands_on_tokyo
 ---
 
@@ -16,4 +17,3 @@ TICKETED EVENT
 Voie Lactee, Tomo Museum
 10,000 Yen, Three-course luncheon
 RSVP: marcela.campos@handsontokyo.org
-

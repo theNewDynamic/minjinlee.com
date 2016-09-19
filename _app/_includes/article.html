@@ -47,4 +47,21 @@
       {% include {{ page.include }} %}
     {% endif %}
 
+    {% if page.where_published %}
+      published:
+      {% if page.link_to_original %}
+          <a href="{{ page.link_to_original }}">
+            {{ page.where_published }}
+          </a>
+      {% elsif page.link_to_pdf %}
+        <a href="{{ page.link_to_pdf }}">
+          {{ page.where_published }} (pdf download)
+        </a>
+      {% else %}
+        {{ page.where_published }}
+      {% endif %}
+
+
+    {% endif %}
+
 </article>

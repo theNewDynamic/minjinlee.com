@@ -1,8 +1,9 @@
 ---
 title: BookExpo America
 start_at: 2007-05-31T10:00:00-05:00
-venue: BookExpo
-venue_link: www.bookexpoamerica.com
+venue:
+  name: BookExpo
+  link: www.bookexpoamerica.com
 _slug: bookexpo_america
 ---
 
@@ -13,4 +14,3 @@ Saturday, June 2, Author Signing
 
 Sunday, June 3, Author Signing
 11AM Grand Central Publishing/Hachette Book Group USA Booth
-

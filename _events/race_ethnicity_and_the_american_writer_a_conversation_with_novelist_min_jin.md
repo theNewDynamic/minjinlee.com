@@ -1,8 +1,9 @@
 ---
 title: "Race, Ethnicity, and the American Writer: A Conversation with Novelist Min Jin Lee"
 start_at: 2016-02-25T15:00:22-05:00
-venue: Yale University, William L. Harkness Hall 100 Wall Street
-venue_link: www.erm.yale.edu
+venue:
+  name: Yale University, William L. Harkness Hall 100 Wall Street
+  link: www.erm.yale.edu
 _slug: race_ethnicity_and_the_american_writer_a_conversation_with_novelist_min_jin
 ---
 

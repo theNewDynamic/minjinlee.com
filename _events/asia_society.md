@@ -1,8 +1,9 @@
 ---
 title: Asia Society - May 22nd,  2007
 start_at: 2007-05-22T19:30:01-05:00
-venue: Asia Society
-venue_link: www.asiasociety.org/events/calendar.pl
+venue:
+  name:  Asia Society
+  link: www.asiasociety.org/events/calendar.pl
 _slug: asia_society
 ---
 

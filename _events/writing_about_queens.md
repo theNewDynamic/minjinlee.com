@@ -2,7 +2,8 @@
 title: Harvard Law School—APALSA National Conference 2013 —FEBRUARY 23, 2013, SATURDAY
 start_at: 2013-02-23T13:30:11-05:00
 venue:
-venue_link: www3.law.harvard.edu
+  name:
+  link: www3.law.harvard.edu
 _slug: writing_about_queens
 ---
 
@@ -11,4 +12,3 @@ FEBRUARY 23, 2013, Saturday.
 
 Politics & Government Panel 2.30
 Wasserstein Hall, Harvard Law School
-

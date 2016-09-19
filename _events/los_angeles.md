@@ -1,8 +1,9 @@
 ---
 title: loyola Marymount University
 start_at: 2008-04-24T05:22:00-05:00
-venue: Loyola Marymount University, Los Angeles, CA
-venue_link:
+venue:
+  name: Loyola Marymount University, Los Angeles, CA
+  link:
 _slug: los_angeles
 ---
 
@@ -16,4 +17,3 @@ Loyola Marymount University
 University Hall 1000
 
 THIS EVENT IS OPEN TO THE PUBLIC
-

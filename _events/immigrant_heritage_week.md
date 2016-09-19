@@ -1,8 +1,9 @@
 ---
 title: IMMIGRANT HERITAGE WEEK
 start_at: 2008-04-15T08:00:00-05:00
-venue: INTERNATIONAL IMMIGRANTS FOUNDATION
-venue_link:
+venue:
+  name: INTERNATIONAL IMMIGRANTS FOUNDATION
+  link:
 _slug: immigrant_heritage_week
 ---
 
@@ -19,4 +20,3 @@ THIS EVENT IS OPEN TO THE PUBLIC
 
 For more information, please contact: Ms. Susana Galli
 212-302-2222 ext. 708
-

@@ -1,8 +1,9 @@
 ---
 title: SEOUL INTERNATIONAL WRITERS’ CONFERENCE 2010
 start_at: 2010-05-11T23:49:00-05:00
-venue: SEOUL INTERNATIONAL WRITERS' CONFERENCE 2010
-venue_link: www.sywf.org
+venue:
+  name: SEOUL INTERNATIONAL WRITERS' CONFERENCE 2010
+  link: www.sywf.org
 _slug: seoul_writers_conference_2010
 ---
 
@@ -24,4 +25,3 @@ Bae Suah
 Min Jin Lee
 Pyun Hye-young
 Andrey Kurkov
-

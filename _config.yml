@@ -49,10 +49,22 @@ compress_html:
   profile: false
 gems:
   - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-archives
 plugins_dir:  ./_app/_plugins
 layouts_dir:  ./_app/_layouts
 includes_dir: ./_app/_includes
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: 'listing-posts'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/category/:name/'
+    category: '/category/:name/'
 
 permalink: pretty
 
@@ -80,6 +92,12 @@ collections:
   events:
     output: true
     permalink: '/:collection/:path/'
+  writings:
+    output: true
+    permalink: '/:collection/:path/'
+  writing_categories:
+    output: true
+    permalink: '/writing/category/:path/'
 
 defaults:
   - scope:
@@ -126,6 +144,8 @@ button-classes: ' btn btn-outline col-12 sm-col-auto md-col-auto lg-col-auto mb2
 base-layout-classes: ' mx3 sm-mx3 md-mx-auto lg-mx-auto lg-col-6 py2 lg-p3'
 base-layout-classes-wide: ' clearfix mx3 sm-mx3 md-mx-auto lg-mx-auto lg-col-9 py2 lg-p3'
 base-layout-classes-full: ' col-12 px3'
+posting_classes: 'col-12 border-bottom border-divider-color p3 text-decoration-none block py2 secondary-text-color hover-white hover-bg-primary-color transition'
+sidebar_item_classes: 'right-align text-decoration-none block px4 py1 primary-text-color hover-white hover-bg-primary-color transition{% if page.url contains category_slug %} bg-primary-color{% endif %}'
 
 
 fonts_loaded: "'Vesper+Libre:400,500,900'"
@@ -149,7 +169,7 @@ primary-color-dark:   "#111"
 primary-color:        "#607D8B"
 primary-color-light:  "#CFD8DC"
 primary-color-text:   "#FFFFFF"
-accent-color:  "#D32F2F" #       "#455A64"
+accent-color: "#000" # "#455A64" #  "#D32F2F" #       "#455A64"
 primary-text-color:   "#212121"
 secondary-text-color: "#757575"
 divider-color:        "#BDBDBD"

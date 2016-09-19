@@ -1,8 +1,9 @@
 ---
 title: EWHA UNIVERSITY
 start_at: 2009-06-12T03:16:00-05:00
-venue: EWHA WOMANS UNIVERSITY, SEOUL, SOUTH KOREA
-venue_link: www.fsel.org
+venue:
+  name: EWHA WOMANS UNIVERSITY, SEOUL, SOUTH KOREA
+  link: www.fsel.org
 _slug: ewha_university
 ---
 
@@ -23,4 +24,3 @@ Discussant: Me-K Ahn (Ewha Womans University)
 
 Myung Mi Kim (Poet) (SUNY Buffalo): “Diaspora, Gender and the Translingual Condition”
 Min Jin Lee (Novelist): “Reticence and Field Work: On Writing the Sexual Lives of Asian Women; or How I Learned to Tell the Truth Through Fiction”
-

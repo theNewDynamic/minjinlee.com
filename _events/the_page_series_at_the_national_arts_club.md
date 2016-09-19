@@ -1,8 +1,9 @@
 ---
 title: The PAGE Series at The National Arts Club
 start_at: 2007-06-14T20:00:00-05:00
-venue: National Arts Club
-venue_link: www.nationalartsclub.org
+venue:
+  name: National Arts Club
+  link: www.nationalartsclub.org
 _slug: the_page_series_at_the_national_arts_club
 ---
 
@@ -11,4 +12,3 @@ The PAGE Series at The National Arts Club
 Helena Maria Viramontes, Manuel Munoz and Min Jin Lee
 
 *Please note that THIS EVENT IS AT 7PM* and not at 7.30 as previously posted. Apols.
-

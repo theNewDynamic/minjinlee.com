@@ -1,8 +1,9 @@
 ---
 title: SF DINNER
 start_at: 2008-04-30T05:26:00-05:00
-venue: SAN FRANCISCO, CA
-venue_link:
+venue:
+  name: SAN FRANCISCO, CA
+  link:
 _slug: sf_dinner
 ---
 
@@ -24,4 +25,3 @@ AIWF & Asia Society members receive a discounted rate of $90 per person or $170 
 For tickets:
 call BOOK PASSAGE: 415-927-0960 x 1
 or naomi@observationdeck.com
-

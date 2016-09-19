@@ -1,8 +1,9 @@
 ---
 title: Asia Society of Northern California and Green Apple Books
 start_at: 2007-06-21T05:30:00-05:00
-venue: Asia Society of Northern California and Green Apple Books
-venue_link: www.asiasociety.org
+venue: 
+  name: Asia Society of Northern California and Green Apple Books
+  link: www.asiasociety.org
 _slug: asia_society_of_northern_california_and_green_apple_books
 ---
 
@@ -19,4 +20,3 @@ For information: Please contact Robert Bullock, Assistant Director for Programs 
 Books will be made available for sale by co-sponsor GREEN APPLE BOOKS
 www.asiasociety.org/northerncalifornia
 www.greenapplebooks.com
-

@@ -1,0 +1,25 @@
+{% assign past_events = "" | split: "|" %}
+{% assign current_date = site.time | date: "%Y%m%d"  %}
+{% for item in site.events %}
+  {% assign postdate = item.start_at | date: "%Y%m%d"  %}
+  {% if postdate < current_date %}
+    {% assign past_events = past_events | push: item %}
+  {% endif %}
+{% endfor %}
+
+
+{% for object in past_events limit: 5 %}
+  {% assign date = object.date %}
+
+
+  <li class="col-12">
+
+    <a href="{{ object.url }}" class="{{ site.sidebar_item_classes }}">
+      <small class="block muted">
+        {% include components/date.html show_time=false %}
+      </small>
+      {{ object.title }}
+    </a>
+  </li>
+
+{% endfor %}

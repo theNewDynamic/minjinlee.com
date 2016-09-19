@@ -1,8 +1,9 @@
 ---
 title: U.S. Embassy—TOKYO AMERICAN CENTER
 start_at: 2009-05-28T05:37:00-05:00
-venue: U.S. Embassy—TOKYO AMERICAN CENTER
-venue_link: tokyo.usembassy.gov/j/amc/tamcj-map.html
+venue:
+  name: U.S. Embassy—TOKYO AMERICAN CENTER
+  link: tokyo.usembassy.gov/j/amc/tamcj-map.html
 _slug: us_embassytokyo_american_center
 ---
 
@@ -22,4 +23,3 @@ This event is open to the public, but please RSVP at:
 TACProgram@state.gov (Please leave your name and contact phone number)
 or
 FAX your RSVP to 03-3224-7977
-

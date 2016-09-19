@@ -1,8 +1,9 @@
 ---
 title: "Columbia University: Institute for Research on Women & Gender"
 start_at: 2008-03-28T07:09:00-05:00
-venue: "Columbia University: Institute for Research on Women & Gender"
-venue_link: www.columbia.edu/cu/irwag/events/maain/jong/
+venue:
+  name: "Columbia University: Institute for Research on Women & Gender"
+  link: www.columbia.edu/cu/irwag/events/maain/jong/
 _slug: columbia_university
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: AAJA
 start_at: 2008-05-04T05:29:00-05:00
-venue: Asian American Heritage Festival, New York City [CANCELED]
-venue_link: www.aaja.org
+venue:
+  name: Asian American Heritage Festival, New York City [CANCELED]
+  link: www.aaja.org
 _slug: asian_pacific_american_heritage_festival
 ---
 
@@ -10,4 +11,3 @@ _slug: asian_pacific_american_heritage_festival
 Book signing at the Asian American Journalists Association (AAJA) Booth
 12PM-6PM
 Union Square Park
-

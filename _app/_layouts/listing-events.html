@@ -1,14 +1,40 @@
 ---
-layout: page-listing
+layout: listing-base
+sidebar: events/list-past-events.html
+sidebar_title: Recent Events
 ---
-<div class="md-col lg-col col-12 md-col-10 lg-col-9" id="filter">
-
-  {% if page.title %}
-    <h1 class="p3">
-      {{ page.title }}
-    </h1>
+{% assign events = "" | split: "|" %}
+{% assign current_date = site.time | date: "%Y%m%d"  %}
+{% for item in site.events %}
+  {% assign postdate = item.start_at | date: "%Y%m%d"  %}
+  {% if postdate > current_date %}
+    {% assign events = events | push: item %}
   {% endif %}
+{% endfor %}
 
-  {% include events/events-listing.html %}
+{% assign data = events | sort: 'date', 'last'  %}
 
-</div>
+{% if data %}
+  {% for object in data  %}
+    {% assign date = object.start_at %}
+    {% include posts.html %}
+  {% endfor %}
+{% else %}
+  No Upcoming Events
+
+{% endif %}
+
+
+
+
+
+
+{% comment %}
+  <!--
+    {% assign todays_date = site.time | date: "%Y%m%d"  %}
+    {% assign events_upcoming = site.events | where_exp: 'item', 'item.start_at > todays_date' %}
+    {% assign events_upcoming = events_upcoming | sort: 'start_at', 'last' %}
+    {% assign events_past = site.events | where_exp: 'item', 'item.start_at < todays_date' %}
+    {% assign events_past = events_upcoming | sort: 'start_at', 'last' | reverse %}
+  -->
+{% endcomment %}

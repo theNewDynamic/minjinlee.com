@@ -1,0 +1,7 @@
+{% for object in site.writing_categories %}
+  <li class="col-12">
+    <a href="{{ object.url }}" class="{{ site.sidebar_item_classes }}">
+      {{ object.title  }}
+    </a>
+  </li>
+{% endfor %}

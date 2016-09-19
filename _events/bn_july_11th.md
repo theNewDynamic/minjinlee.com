@@ -1,10 +1,10 @@
 ---
 title: Barnes & Noble, July 11th
 start_at: 2007-07-11T20:30:00-05:00
-venue: Barnes & Noble at Lincoln Center
-venue_link: www.bn.com
+venue:
+  name: Barnes & Noble at Lincoln Center
+  link: www.bn.com
 _slug: bn_july_11th
 ---
 
 Conversation with David Henry Hwang, the Tony-award winning playwright of M. BUTTERFLY and the OBIE-award winner for GOLDEN CHILD.
-
