@@ -6,10 +6,10 @@
   {% assign book_title = page.title  %}
 {% endif %}
 
-
+{% assign limit = include.limit %}
 {% if reviews %}<h2 style="margin-top:2em;">Praise for <em>{{ book_title }}</em></h2>{% endif %}
 
-{% for review in reviews limit: 20 %}
+{% for review in reviews limit:limit %}
   <blockquote class="mb4 h2">
     {% if review.copy_markdown  %}
       {{ review.copy_markdown | markdownify }}

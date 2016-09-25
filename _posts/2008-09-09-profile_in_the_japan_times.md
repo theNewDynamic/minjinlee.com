@@ -3,7 +3,7 @@ title: "Profile in The Japan Times"
 date: 2008-09-09T22:24:00-05:00
 category: Media
 tags:
-  - Profiles
+  - News
 attribution: "The Japan Times"
 link_to_original: "http://www.japantimes.co.jp/cgi-bin/fl20080909zg.html"
 description: ""

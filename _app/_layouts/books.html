@@ -14,7 +14,12 @@ layout: default
     {% assign editions = object.editions %}
     {% assign pubdate = object.publication_date | date: "%Y%m%d" %}
     {% assign editions = object.editions %}
-    <article class="hentry{% if page.class %} {{page.class}}{% endif %}{{ site.base-layout-classes-wide }} clearfix mb4">
+    <article class="hentry{% if page.class %} {{page.class}}{% endif %}{{ site.base-layout-classes-wide }} clearfix">
       {% include books/layout.html %}
     </article>
+    <div class="{{ site.base-layout-classes-wide }} mb3">
+        {% include books/related-reviews.html limit=1 %}
+        <a href="{{ object.url}}/#reviews" class="btn btn-outline right">More</a>
+    </div>
+
   {% endfor %}

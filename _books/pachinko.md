@@ -3,17 +3,20 @@ title: Pachinko
 date: 2016-08-04T03:12:00.000Z
 publication_date: 2017-02-07T12:00:00.000Z
 category: Fiction
-description_markdown: "A new tour de force from the bestselling author of _Free Food for Millionaires_, for readers of _The Kite Runner_ and _Cutting for Stone_."
+description_markdown: "“Luminous…a powerful mediation on what immigrants sacrifice to achieve a home in the world. This story confirms Lee’s place among our finest novelists”  
+<br /><small>— **Junot Diaz, Pulitzer Prize-Winning author of _The Brief Wondrous Life of Oscar Wao_ and _This is How You Lose Her_**</small>
+
+"
 editions:
   - binding: hardcover
     isbn: '9781455563937'
   - binding: ebook
     isbn: '9781455563913'
 reviews:
-  - attribution: "Junot Diaz, Pulitzer Prize-Winning author of _The Brief Wondrous Life of Oscar Wao_ and _This is How You Lose Her_"
-    copy_markdown: "Luminous…a powerful mediation on what immigrants sacrifice to achieve a home in the world. This story confirms Lee’s place among our finest novelists"
   - attribution: David Mitchell, New York Times bestselling author of *The Bone Clocks*, *Cloud Atlas*, and *Black Swan Green*
     copy_markdown: “A deep, broad, addictive history of a Korean family in Japan enduring and prospering through the 20th century.”
+  - attribution: "Junot Diaz, Pulitzer Prize-Winning author of _The Brief Wondrous Life of Oscar Wao_ and _This is How You Lose Her_"
+    copy_markdown: "Luminous…a powerful mediation on what immigrants sacrifice to achieve a home in the world. This story confirms Lee’s place among our finest novelists"
   - attribution: Gary Shteyngart, New York Times bestselling author of *Little Failure* and *Super Sad True Love Story*
     copy_markdown: “Astounding. The sweep of Dickens and Tolstoy applied to a 20th century Korean family in Japan. Min Jin Lee's *Pachinko* tackles all the stuff most good novels do—family, love, cabbage—but it also asks questions that have never been more timely. What does it mean to be part of a nation? And what can one do to escape its tight, painful, familiar bonds?”
   - attribution: Erica Wagner, author of *Ariel's Gift* and *Seizure*

@@ -3,7 +3,7 @@ title: "Profile in J-Select"
 date: 2008-09-09T22:27:00-05:00
 category: Media
 tags:
-  - Profiles
+  - News
 attribution: "J-Select"
 link_to_original: "http://www.jselect.net"
 description: ""
