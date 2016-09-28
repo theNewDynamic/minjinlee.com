@@ -45,10 +45,6 @@ reviews:
     copy_markdown: "Critic’s pick: Free Food for Millionaires, by Min Jin Lee (Grand Central, $13.99). USA TODAY’s Carol Memmott says this “vastly ambitious” and “stirring” ..."
   - attribution: Bookreporter.com
     copy_markdown: "Min Jin Lee gets into the heads of a dry cleaner operator and a Julliard alumnus, an aging bookstore owner and a stockbroker on Wall Street. ..."
-  - attribution: Narrativemagazine.com
-    copy_markdown: "Free Food for Millionaires was Reviewed by Lacy Crawford in Narrative Magazine in the First and Second Looks section (requires registration). ..."
-  - attribution: Notebookmagazine.com
-    copy_markdown: "Min Jin Lee. Hutchinson. New Yorker Casey Han is fresh out of university and ... This is Min Jin Lee‚Äôs first novel and it is an engrossing read about love ..."
   - attribution: Historywire.com
     copy_markdown: "As the face of America becomes stunningly diverse, the need for competent cultural translators grows apace…Now, in her first novel, Korean-American writer Min Jin Lee helps us understand Koreans as they grapple to grab the first rung of the economic ladder."
   - attribution: Politics-Prose.com
@@ -58,7 +54,7 @@ reviews:
   - attribution: Brijit.com
     copy_markdown: "Brijit provides original min-jin-lee abstracts for busy, smart readers."
   - attribution: latestbooks.org
-    copy_markdown: "Free Food for Millionaires by Min Jin Lee gives us an insight into the lives ... Min Jin Lee has received the 2004 Narrative prize for her short story ‚ÄúAxis ..."
+    copy_markdown: "Free Food for Millionaires by Min Jin Lee gives us an insight into the lives ... Min Jin Lee has received the 2004 Narrative prize for her short story ‚Axis ..."
   - attribution: Angry Asian Man
     copy_markdown: "Here’s an interview with Min Jin Lee from Newsweek: Forget the Comparisons. ... And here’s Min Jin Lee on NPR’s Tell Me More: Author Min Jin Lee: ‘Free Food ..."
   - attribution: Entertainment Weekly
@@ -68,7 +64,7 @@ reviews:
   - attribution: San Francisco Chronicle
     copy_markdown: "The Five-Forty-Five to Cannes (Crown) by Tess Uriza Holthe; Free Food for Millionaires (Warner) by Min Jin Lee; The Gathering (Black Cat/Grove) by Anne ..."
   - attribution: New York Times
-    copy_markdown: "“This accomplished first novel, the coming-of-age story of a Princeton-educated Korean-American woman making her way in New York City in the 1990s, recalls the Victorian novels its heroine devours. Our reviewer, Liesl Schillinger, described it as ‘packed with tales of flouted parental expectations, fluctuating female friendships and rivalries, ... romantic hopes and losses, and high-stakes career gambles.’”"
+    copy_markdown: "This accomplished first novel, the coming-of-age story of a Princeton-educated Korean-American woman making her way in New York City in the 1990s, recalls the Victorian novels its heroine devours. Our reviewer, Liesl Schillinger, described it as ‘packed with tales of flouted parental expectations, fluctuating female friendships and rivalries, ... romantic hopes and losses, and high-stakes career gambles.’"
 cover_image_path: /uploads/cover_fffm.jpg
 ---
 

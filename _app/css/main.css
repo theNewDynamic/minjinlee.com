@@ -13,6 +13,7 @@
 @import 'modules/_styles';
 @import 'modules/_transitions';
 @import 'modules/_shadows';
+@import 'modules/_blockquotes';
 
 /* OVERRIDES */
 /*@import 'modules/_colors';*/
