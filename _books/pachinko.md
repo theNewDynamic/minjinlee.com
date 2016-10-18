@@ -13,8 +13,10 @@ editions:
   - binding: ebook
     isbn: '9781455563913'
 reviews:
-  - attribution: "*Kirkus* (Starred Review)"
-    copy_markdown: "Deeply compelling story. An old-fashioned epic whose simple, captivating storytelling delivers both wisdom and truth."
+  #- attribution: "*Kirkus* (Starred Review)"
+  #  copy_markdown: "Deeply compelling story. An old-fashioned epic whose simple, captivating storytelling delivers both wisdom and truth."
+  - attribution: "Kate Christensen, Pen/Faulkner-winning author of *The Great Man* and *Blue Plate Special*"
+    copy_markdown: "*Pachinko* is elegant and soulful, both intimate and sweeping. This story of several generations of one Korean family in Japan is the story of every family whose parents sacrificed for their children, every family whose children were unable to recognize the cost, but it's also the story of a specific cultural struggle in a riveting time and place. Min Jin Lee has written a big, beautiful book filled with characters I rooted for and cared about and remembered after I'd read the final page."
   - attribution: David Mitchell, New York Times bestselling author of *The Bone Clocks*, *Cloud Atlas*, and *Black Swan Green*
     copy_markdown: "A deep, broad, addictive history of a Korean family in Japan enduring and prospering through the 20th century."
   - attribution: "Junot Diaz, Pulitzer Prize-Winning author of _The Brief Wondrous Life of Oscar Wao_ and _This is How You Lose Her_"
