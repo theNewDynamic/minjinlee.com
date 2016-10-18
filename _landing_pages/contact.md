@@ -1,29 +1,24 @@
 ---
 title: Contact
-#include: components/forms-contact.html
 ---
+
+
 #### To contact Min Jin Lee
 
-<FFFM.MJL@gmail.com>
+[FFFM.MJL@gmail.com](mailto:FFFM.MJL@gmail.com)
 
 ---
 
-#### For literary rights/Inquiries, please contact:  
+#### For literary rights/Inquiries, please contact:
 
-**Suzanne Gluck**  
-The William Morris Endeavor Entertainment Agency  
-(212) 586-5100  
+**Suzanne Gluck** The William Morris Endeavor Entertainment Agency (212) 586-5100
 
-Suzanne Gluck Assistant:  
-<SGluck_asst@wmeentertainment.com>
- 
+Suzanne Gluck Assistant: &lt;SGluck_asst@wmeentertainment.com&gt;
+
 ---
 
 #### PUBLICITY/PUBLIC RELATIONS INQUIRIES, PLEASE CONTACT:
 
-**Andy Dodds**  
-Associate Director of Publicity  
-Grand Central Publishing/Hachette  
-212-364-1496  
+**Andy Dodds** Associate Director of Publicity Grand Central Publishing/Hachette 212-364-1496
 
-<Andy.Dodds@hgbusa.com>
+[Andy.Dodds@hgbusa.com](javascript:void(location.href='mailto:'+String.fromCharCode(97,110,100,121,46,100,111,100,100,115,64,104,98,103,117,115,97,46,99,111,109)))
