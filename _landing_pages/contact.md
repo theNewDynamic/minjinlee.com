@@ -21,4 +21,4 @@ Suzanne Gluck Assistant: [SGluck_asst@wmeentertainment.com](javascript:void(loca
 
 **Andy Dodds** Associate Director of Publicity Grand Central Publishing/Hachette 212-364-1496
 
-[Andy.Dodds@hgbusa.com](javascript:void(location.href='mailto:'+String.fromCharCode(97,110,100,121,46,100,111,100,100,115,64,104,98,103,117,115,97,46,99,111,109)))
+[Andy.Dodds@hbgusa.com](javascript:void(location.href='mailto:'+String.fromCharCode(65,110,100,121,46,68,111,100,100,115,64,104,98,103,117,115,97,46,99,111,109)))
