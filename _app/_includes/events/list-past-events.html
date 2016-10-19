@@ -6,7 +6,7 @@
     {% assign past_events = past_events | push: item %}
   {% endif %}
 {% endfor %}
-
+{% assign past_events = past_events | sort: 'start_at', 'last' | reverse %}
 
 {% for object in past_events limit: 5 %}
   {% assign date = object.date %}
