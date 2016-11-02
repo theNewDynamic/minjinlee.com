@@ -12,8 +12,8 @@ description_markdown: >-
 
 
 
-  Junot D&iacute;az, Pulitzer Prize-Winning author of *The Brief Wondrous Life of
-  Oscar Wao*&nbsp;and *This is How You Lose Her*
+  **Junot D&iacute;az, Pulitzer Prize-Winning author of *The Brief Wondrous Life
+  of Oscar Wao*&nbsp;and *This is How You Lose Her***
 editions:
   - binding: hardcover
     isbn: '9781455563937'
@@ -36,6 +36,18 @@ reviews:
     copy_markdown: >-
       Deeply compelling story. An old-fashioned epic whose simple, captivating
       storytelling delivers both wisdom and truth.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
