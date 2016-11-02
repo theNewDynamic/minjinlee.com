@@ -22,6 +22,8 @@ editions:
   - binding: ebook
     isbn: '9780446504386'
 reviews:
+  - attribution: USA Today
+    copy_markdown: 'Critic’s pick: Free Food for Millionaires, by Min Jin Lee (Grand Central, $13.99). USA TODAY’s Carol Memmott says this “vastly ambitious” and “stirring” …'
   - attribution: 'Elisabeth Egan, _Self_, Contributing Books Editor'
     copy_markdown: '*Free Food for Millionaires* is the best novel I’ve read in a long time. I’m sad to be finished and I desperately miss Casey Han - a perfectly imperfect character whose loyalty, chutzpah and great hats make her someone I wish I knew in real life.'
   - attribution: St. Louis Dispatch
@@ -50,8 +52,6 @@ reviews:
     copy_markdown: 'The life and times of a Korean American girl from Queens who goes to Princeton, …'
   - attribution: Eugeneweekly.com
     copy_markdown: 'Casey, the fictional character at the heart of Min Jin Lee’s Free Food for Millionaires, can’t quite figure out how to fit her upper-class tastes into the world of her parents, Korean immigrants who work for a dry cleaning chain.'
-  - attribution: USA Today
-    copy_markdown: 'Critic’s pick: Free Food for Millionaires, by Min Jin Lee (Grand Central, $13.99). USA TODAY’s Carol Memmott says this “vastly ambitious” and “stirring” …'
   - attribution: Bookreporter.com
     copy_markdown: 'Min Jin Lee gets into the heads of a dry cleaner operator and a Julliard alumnus, an aging bookstore owner and a stockbroker on Wall Street. …'
   - attribution: Historywire.com
