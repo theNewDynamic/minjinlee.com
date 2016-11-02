@@ -1,12 +1,14 @@
 ---
-title: ALA Midwinter
-start_at: 2016-08-01 12:00:00
+title: 'American Library Association Midwinter Conference: Author Book Talk Luncheon'
+start_at: 2017-01-21 13:00:00
 show_time: true
 venue:
-  name:
+  name: Atlanta Convention Center
   address:
-  city:
-  state:
+  city: Atlanta
+  state: GA
   zip:
   link:
 ---
+
+
