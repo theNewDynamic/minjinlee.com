@@ -1,12 +1,14 @@
 ---
 title: 'The Booksmith, San Francisco'
-start_at: 2016-08-01 12:00:00
+start_at: 2017-02-15 19:30:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-  link:
+  name: The Booksmith
+  address: 1644 Haight Street
+  city: San Francisco
+  state: CA
+  zip: '94117'
+  link: 'http://www.booksmith.com'
 ---
+
+
