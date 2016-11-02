@@ -5,22 +5,15 @@ publication_date: 2017-02-07 00:00:00
 category:
   - Fiction
 description_markdown: >-
-  “Deeply compelling story. An old-fashioned epic whose simple, captivating
-  storytelling delivers both wisdom and truth.”
-
-  <br><small>&mdash; <strong><em>Kirkus</em> (Starred Review)</strong></small>
+  “Luminous…a powerful mediation on what immigrants sacrifice to achieve a home
+  in the world. This story confirms Lee’s place among our finest novelists.”
 
 
 
 
 
-  &nbsp;
-
-
-
-
-
-  &nbsp;
+  Junot D&iacute;az, Pulitzer Prize-Winning author of *The Brief Wondrous Life of
+  Oscar Wao*&nbsp;and *This is How You Lose Her*
 editions:
   - binding: hardcover
     isbn: '9781455563937'
@@ -31,8 +24,6 @@ reviews:
     copy_markdown: "*Pachinko* is elegant and soulful, both intimate and sweeping. This story of several generations of one Korean family in Japan is the story of every family whose parents sacrificed for their children, every family whose children were unable to recognize the cost, but it's also the story of a specific cultural struggle in a riveting time and place. Min Jin Lee has written a big, beautiful book filled with characters I rooted for and cared about and remembered after I'd read the final page."
   - attribution: 'David Mitchell, New York Times bestselling author of *The Bone Clocks*, *Cloud Atlas*, and *Black Swan Green*'
     copy_markdown: 'A deep, broad, addictive history of a Korean family in Japan enduring and prospering through the 20th century.'
-  - attribution: 'Junot Diaz, Pulitzer Prize-Winning author of _The Brief Wondrous Life of Oscar Wao_ and _This is How You Lose Her_'
-    copy_markdown: Luminous…a powerful mediation on what immigrants sacrifice to achieve a home in the world. This story confirms Lee’s place among our finest novelists
   - attribution: 'Gary Shteyngart, New York Times bestselling author of *Little Failure* and *Super Sad True Love Story*'
     copy_markdown: "Astounding. The sweep of Dickens and Tolstoy applied to a 20th century Korean family in Japan. Min Jin Lee's *Pachinko* tackles all the stuff most good novels do—family, love, cabbage—but it also asks questions that have never been more timely. What does it mean to be part of a nation? And what can one do to escape its tight, painful, familiar bonds?"
   - attribution: "Erica Wagner, author of *Ariel's Gift* and *Seizure*"
@@ -43,6 +34,16 @@ reviews:
     copy_markdown: 'A beautifully crafted story of love, loss, determination, luck, and perseverance.'
   - attribution: 'Darin Strauss, National Book Critics Circle Award-winning author of *Half a Life* and *Chang & Eng*'
     copy_markdown: 'Pachinko by Min Jin Lee is a great book, a passionate story, a novel of magisterial sweep. It’s also fiendishly readable—the real deal. An instant classic, a quick page-turner, and probably the best book of the year.'
+  - attribution: _Kirkus_ (Starred Review)
+    copy_markdown: >-
+      Deeply compelling story. An old-fashioned epic whose simple, captivating
+      storytelling delivers both wisdom and truth.
+
+
+
+
+
+      &nbsp;
 cover_image_path: /uploads/cover-pachinko.jpg
 ---
 
