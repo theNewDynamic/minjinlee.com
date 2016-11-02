@@ -1,12 +1,14 @@
 ---
-title: Brooklyn Launch
-start_at: 2016-08-01 12:00:00
+title: Brooklyn Launch at Greenlight Bookstore
+start_at: 2017-02-08 19:30:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-  link:
+  name: Greenlight Bookstore
+  address: 686 Fulton Street
+  city: Brooklyn
+  state: NY
+  zip: '11217'
+  link: 'http://www.greenlightbookstore.com'
 ---
+
+
