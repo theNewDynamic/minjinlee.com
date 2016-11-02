@@ -39,10 +39,10 @@ reviews:
     copy_markdown: "If proof were needed that one family's story can be the story of the whole world, then *Pachinko* offers that proof. Min Jin Lee's novel is gripping from start to finish, crossing cultures and generations with breathtaking power. *Pachinko* is a stunning achievement, full of heart, full of grace, full of truth."
   - attribution: 'Simon Winchester, New York Times bestselling author of *The Professor and the Madman* and *Korea: A Walk through the Land of Miracles*'
     copy_markdown: 'Both for those who love Korea, as well as for those who know no more than Hyundai, Samsung and kimchi, this extraordinary book will prove a revelation of joy and heartbreak. I could not stop turning the pages, and wished this most poignant of sagas would never end. Min Jin Lee displays a tenderness and wisdom ideally matched to an unforgettable tale that she relates just perfectly.'
+  - attribution: _Library Journal_ (Starred Review)
+    copy_markdown: 'A beautifully crafted story of love, loss, determination, luck, and perseverance.'
   - attribution: 'Darin Strauss, National Book Critics Circle Award-winning author of *Half a Life* and *Chang & Eng*'
     copy_markdown: 'Pachinko by Min Jin Lee is a great book, a passionate story, a novel of magisterial sweep. It’s also fiendishly readable—the real deal. An instant classic, a quick page-turner, and probably the best book of the year.'
-  - attribution: _Library Journal_ (Starred Review)
-    copy_markdown: '"...a beautifully crafted story of love, loss, determination, luck, and perseverance."'
 cover_image_path: /uploads/cover-pachinko.jpg
 ---
 
