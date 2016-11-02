@@ -10,23 +10,7 @@ sidebar_title: Recent Events
     {% include posts.html %}
   {% endfor %}
 {% else %}
-<div class="h3 p3">
+  <div class="h3 p3">
     No Upcoming Events
-</div>
-
+  </div>
 {% endif %}
-
-
-
-
-
-
-{% comment %}
-  <!--
-    {% assign todays_date = site.time | date: "%Y%m%d"  %}
-    {% assign events_upcoming = site.events | where_exp: 'item', 'item.start_at > todays_date' %}
-    {% assign events_upcoming = events_upcoming | sort: 'start_at', 'last' %}
-    {% assign events_past = site.events | where_exp: 'item', 'item.start_at < todays_date' %}
-    {% assign events_past = events_upcoming | sort: 'start_at', 'last' | reverse %}
-  -->
-{% endcomment %}

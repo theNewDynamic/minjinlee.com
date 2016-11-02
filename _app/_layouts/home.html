@@ -3,9 +3,6 @@ layout: default
 ---
 {% assign books = site.books | sort: 'date' | reverse %}
 
-
-
-
   <div class="h2 sm-h1 md-h1 lg-h1 font-heading line-height-4 clearfix mx3 sm-mx3 md-mx-auto lg-mx-auto lg-col-10 py2 lg-p3 mt2 lg-mt4 pb1 text-decoration-none black" style="display:none;">
     {{ site.data.snippets.short_bio_for_home_page | markdownify | remove: '<p>' | remove: '</p>' }}
   </div>

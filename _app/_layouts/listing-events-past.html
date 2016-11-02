@@ -1,0 +1,13 @@
+---
+layout: listing-base
+sidebar: events/list-upcoming-events.html
+sidebar_title: Upcoming Events
+---
+{% include events/filter-events-past.html %}
+
+{% if events_past.size > 0 %}
+  {% for object in events_past  %}
+    {% assign date = object.start_at %}
+    {% include posts.html %}
+  {% endfor %}
+{% endif %}
