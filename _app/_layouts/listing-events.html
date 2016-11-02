@@ -3,24 +3,16 @@ layout: listing-base
 sidebar: events/list-past-events.html
 sidebar_title: Recent Events
 ---
-{% assign events = "" | split: "|" %}
-{% assign current_date = site.time | date: "%Y%m%d"  %}
-{% for item in site.events %}
-  {% assign postdate = item.start_at | date: "%Y%m%d"  %}
-  {% if postdate > current_date %}
-    {% assign events = events | push: item %}
-  {% endif %}
-{% endfor %}
-
-{% assign data = events | sort: 'date', 'last'  %}
-
-{% if data %}
-  {% for object in data  %}
+{% include events/filter-events-upcoming.html %}
+{% if events_upcoming.size > 0 %}
+  {% for object in events_upcoming  %}
     {% assign date = object.start_at %}
     {% include posts.html %}
   {% endfor %}
 {% else %}
-  No Upcoming Events
+<div class="h3 p3">
+    No Upcoming Events
+</div>
 
 {% endif %}
 
