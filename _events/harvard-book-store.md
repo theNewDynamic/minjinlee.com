@@ -1,12 +1,14 @@
 ---
 title: Harvard Book Store
-start_at: 2016-08-01 12:00:00
+start_at: 2017-02-10 18:45:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-  link:
+  name: Harvard Book Store
+  address: 1256 Massachusetts Avenue
+  city: Cambridge
+  state: MA
+  zip: 02138
+  link: 'http://www.harvard.com'
 ---
+
+
