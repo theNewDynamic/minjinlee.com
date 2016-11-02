@@ -1,12 +1,14 @@
 ---
 title: Odyssey Bookshop
-start_at: 2016-08-01 12:00:00
+start_at: 2017-02-11 16:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-  link:
+  name: Odyssey Bookshop
+  address: 9 College Street
+  city: South Hadley
+  state: MA
+  zip: '01075'
+  link: 'http://odysseybks.com'
 ---
+
+
