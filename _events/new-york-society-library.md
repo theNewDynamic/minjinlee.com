@@ -13,3 +13,5 @@ venue:
 
 
 In Conversation with Jeannette Watson Sanger, former proprietor of Books & Co and Lenox Hill Bookstore; Trustee of the New York Society Library and a Director of the New York Open Center; and Level 4 practitioner of Healing Touch and certified Laughter Leader.&nbsp;
+
+Booksellers provided by The Corner Bookstore www.cornerbookstorenyc.com
