@@ -13,3 +13,5 @@ venue:
 
 
 Conversation with Adam Lerner, Chief Animator of Museum of Contemporary Art Denver
+
+*Pachinko* is Tattered Cover's February Autographed Book Club Selection.
