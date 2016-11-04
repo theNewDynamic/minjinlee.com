@@ -1,5 +1,5 @@
 ---
-title: Tenement Museum of New York
+title: 'Tenement Museum,  New York City'
 start_at: 2017-03-15 18:30:00
 show_time: true
 venue:
