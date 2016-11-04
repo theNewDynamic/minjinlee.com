@@ -1,12 +1,14 @@
 ---
 title: The Cosmopolitan Club
-start_at: 2016-08-01 12:00:00
+start_at: 2017-05-16 18:30:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-  link:
+  name: The Cosmopolitan Club
+  address: 122 East 66th Street
+  city: New York
+  state: NY
+  zip: '10065'
+  link: 'https://www.cosclub.com'
 ---
+
+
