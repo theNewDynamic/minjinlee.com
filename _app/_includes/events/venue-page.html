@@ -13,6 +13,15 @@
 {% if page.venue.zip %}
   {{ page.venue.zip }}
 {% endif %}
+
+{% if page.venue.link %}
+  <h5>
+    <a href="{{ page.venue.link }}" class="text-decoration-none hover-accent-color h4">
+      {{ page.venue.link | remove: 'http://' | remove: 'https://' }}
+    </a>
+  </h5>
+{% endif %}
+
 {% comment %}
   {% if object.venue.address and object.venue.city and object.venue.state and object.venue.zip %}
   <br />
