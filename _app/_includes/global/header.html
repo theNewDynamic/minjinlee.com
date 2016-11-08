@@ -1,4 +1,4 @@
-<nav class="clearfix px3 lg-flex lg-fixed lg-top-0 lg-right-0 lg-left-0 z4 bg-white bg-primary-colorTK primary-color-dark">
+<nav class="clearfix px3 lg-flex lg-fixed lg-top-0 lg-right-0 lg-left-0 z4 bg-white primary-color-dark">
 
   <div class="py2 md-py1 lg-py2 lg-mr3 col-12 lg-col-2">
     <a href="/" class="h1 lg-h1 font-heading font-weight-heavy inline-block text-decoration-none primary-color hover-accent-color">
@@ -11,4 +11,8 @@
       {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}
      </a>
     {% endfor %}
+     <div class="flex-auto"><!--  space  --></div>
+     <div class="right-align pt2">
+       {% include icons-social.html %}
+     </div>
 </nav>

@@ -4,16 +4,28 @@ description: "Official Author site for Min Jin Lee, author of Free Food for Mill
 url: "http://www.minjinlee.com" # the base hostname & protocol for your site
 author: []
 twitter:
-  username: minjinlee
+  username: minjinlee11
 facebook:
   app_id:
   publisher:
   admins:
+  link: https://www.facebook.com/minjinleebooks
 logo: /uploads/cover-pachinko.jpg
 google_site_verification:
 github:
   username: budparr
 owner: Min Jin Lee
+
+social:
+  name: Min Jin Lee
+  links:
+    - https://www.facebook.com/minjinleebooks/
+    - https://www.instagram.com/lee_minjin/
+    - https://twitter.com/minjinlee11/
+
+
+
+
 # manifest
 short_name: Min Jin Lee
 display: fullscreen

@@ -1,0 +1,4 @@
+{% for object in site.data.social-links  %}
+<a href="{{ object.link }}"><svg class="icon transition icon-{{ object.network_name }}"><use xlink:href="#icon-{{ object.network_name }}" /></svg></a>
+{% endfor %}
+{% include social.svg %}
