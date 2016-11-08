@@ -8,8 +8,12 @@ description_markdown: >-
   “Luminous…a powerful mediation on what immigrants sacrifice to achieve a home
   in the world. This story confirms Lee’s place among our finest novelists.”
 
-  <br>**–Junot D&iacute;az, Pulitzer Prize-Winning author of *The Brief Wondrous
-  Life of Oscar Wao*&nbsp;and *This is How You Lose Her***
+
+
+
+
+  ###### **–Junot D&iacute;az, Pulitzer Prize-Winning author of *The Brief
+  Wondrous Life of Oscar Wao*&nbsp;and *This is How You Lose Her***
 editions:
   - binding: hardcover
     isbn: '9781455563937'
