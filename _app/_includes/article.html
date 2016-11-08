@@ -9,6 +9,9 @@
     {% if page.start_at %}
       <time datetime="{{ page.start_at | date_to_xmlschema }}" itemprop="datePublished" class="accent-color">
         Event: {{ page.start_at | date: "%b %-d, %Y" }}
+        {% unless page.show_time == false or include.show_time == false %}
+            – {{ page.start_at | date: "%l:%M %p" }}
+        {% endunless %}
       </time>
     {% endif %}
     <h1 class="p-name" itemprop="name headline">

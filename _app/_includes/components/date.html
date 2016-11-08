@@ -2,6 +2,6 @@
   {{ date | date: "%B %-d, %Y" }}
 
   {% unless object.show_time == false or include.show_time == false %}
-    {{ date | date: "%I:%M %p" }}
+    – {{ date | date: "%l:%M %p" }}
   {% endunless %}
 </time>

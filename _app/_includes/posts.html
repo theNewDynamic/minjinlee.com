@@ -6,7 +6,7 @@
     </h6>
   {% endif %}
   <div class="block">
-    {% include components/date.html show_time=false %}
+    {% include components/date.html show_time=true %}
   </div>
   <span class="h1 primary-text-color">
     {{ object.title | markdownify | remove: '<p>' | remove: '</p>' }}<br />
