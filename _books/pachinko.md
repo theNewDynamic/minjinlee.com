@@ -12,7 +12,7 @@ description_markdown: >-
 
 
 
-  ###### **–Junot D&iacute;az, Pulitzer Prize-Winning author of *The Brief
+  ##### **–Junot D&iacute;az, Pulitzer Prize-Winning author of *The Brief
   Wondrous Life of Oscar Wao*&nbsp;and *This is How You Lose Her***
 editions:
   - binding: hardcover
