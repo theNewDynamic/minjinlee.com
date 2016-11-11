@@ -13,4 +13,4 @@ venue:
 
 NEIBA Author Breakfast
 
-With authors Francine Prose, Mark Slouka, and Sabaa Tahir.
+With authors Francine Prose, Mark Slouka, Sabaa Tahir and Min Jin Lee
