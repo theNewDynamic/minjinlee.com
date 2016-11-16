@@ -12,3 +12,4 @@ venue:
 ---
 
 
+In Conversation with Meg Wolitzer, author of *The Interestings*, *The Wife*, *The Ten-Year Nap* and *The Uncoupling*.
