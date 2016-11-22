@@ -12,3 +12,4 @@ venue:
 ---
 
 
+In Conversation with Jeannie Suk Gersen, John H. Watson Professor of Law at Harvard Law School and author of *At Home in the Law*, &nbsp;*A Light Inside*, and *Postcolonial Paradoxes in French Caribbean Writing*. She is a Contributing Writer &nbsp;for *The New Yorker*.
