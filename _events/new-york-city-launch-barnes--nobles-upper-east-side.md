@@ -1,5 +1,5 @@
 ---
-title: 'New York City Launch: Barnes & Nobles Upper East Side'
+title: 'New York City Launch: Barnes & Noble Upper East Side'
 start_at: 2017-02-07 19:00:00
 show_time: true
 venue:
