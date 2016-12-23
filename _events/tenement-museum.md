@@ -12,3 +12,4 @@ venue:
 ---
 
 
+In Conversation with Ken Chen, the Executive Director of the Asian American Writers' Workshop. Ken Chen is the recipient of the Yale Younger Poets Prize for his poetry collection *Juvenilia*.&nbsp;
