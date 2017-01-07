@@ -12,4 +12,4 @@ venue:
 ---
 
 
-In Conversation with Oscar Villalon, the Managing Editor of *Zyzzyva* and Contributing Editor of *LitHub*. Oscar Villalon is the former book editor of the *San Francisco Chronicle*, member of the board of directors of the National Book Critics Circle. His writings have appeared in the *Virginia Quarterly Review*, *The Believer* and his reviews have aired on KQED's *The California Report*.
+In Conversation with Oscar Villalon, the Managing Editor of *Zyzzyva* and Contributing Editor of *LitHub*. Oscar Villalon is the former book editor of the *San Francisco Chronicle and*&nbsp;member of the board of directors of the National Book Critics Circle. His writings have appeared in the *Virginia Quarterly Review*, *The Believer* and his reviews have aired on KQED's *The California Report*.
