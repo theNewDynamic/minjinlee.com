@@ -12,6 +12,4 @@ venue:
 ---
 
 
-Lit Night Series: In Conversation with Calvin Crosby&nbsp;
-
-Calvin Crosby is the Executive Director of Northern California Independent Booksellers Association (NCIBA). Calvin served as the president of the board of NCIBA and worked for over two decades at both Book Passage and Books Inc. Most recently, he served as the sales and marketing director of McSweeney's.&nbsp;
+Lit Night Series: In Conversation with Calvin Crosby, the Executive Director of Northern California Independent Booksellers Association (NCIBA). Calvin served as the president of the board of NCIBA and worked for over two decades at both Book Passage and Books Inc. Most recently, he served as the sales and marketing director of McSweeney's.&nbsp;
