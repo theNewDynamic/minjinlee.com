@@ -12,3 +12,6 @@ venue:
 ---
 
 
+A Conversation with Leena Kim
+
+Leena Kim is an Assistant Editor at Town & Country, the oldest continually published magazine in America, where she covers the arts, culture, travel, weddings, and real estate.
