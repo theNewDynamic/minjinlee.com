@@ -41,6 +41,10 @@ reviews:
     copy_markdown: 'Lee makes it impossible not to develop tender feelings towards her characters—all of them, even the most morally compromised. Their multifaceted engagements with identity, family, vocation, racism, and class are guaranteed to provide your most affecting sobfest of the year. (Maria Cristina Garcia Lynch)'
   - attribution: Buzzfeed.com
     copy_markdown: Most Exciting Books Coming in 2017
+  - attribution: BookBub.com
+    copy_markdown: Most Anticipated Book Club Reads of 2017 and Biggest Historical Fiction Release of 2017
+  - attribution: South China Morning Post by Bron Sibree
+    copy_markdown: "PACHINKO is about paying due to a forgotten history; to the complex and fraught Japan-Korea relationship that endured well into the 90s and lingers to this day. But it doesn't wear its heart—or historical truths—on its sleeve. What drives this novel is the magisterial force of Lee's characterization; her ability to ground the narrative deeply and intimately in the details of daily life. Also threaded through it are questions of home, identity, nationhood and tradition—including the belief of its female protagonists that 'a woman's lot is to suffer.'"
 cover_image_path: /uploads/cover-pachinko.jpg
 ---
 
