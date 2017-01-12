@@ -37,6 +37,8 @@ reviews:
     copy_markdown: 'A beautifully crafted story of love, loss, determination, luck, and perseverance.'
   - attribution: BBC.com (Culture) Jane Ciabattari
     copy_markdown: Ten Books to Read in 2017
+  - attribution: 'Book Riot: Most Anticipated Books 2017'
+    copy_markdown: 'Lee makes it impossible not to develop tender feelings towards her characters—all of them, even the most morally compromised. Their multifaceted engagements with identity, family, vocation, racism, and class are guaranteed to provide your most affecting sobfest of the year. (Maria Cristina Garcia Lynch)'
 cover_image_path: /uploads/cover-pachinko.jpg
 ---
 
