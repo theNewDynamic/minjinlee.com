@@ -50,11 +50,11 @@
       {% include {{ page.include }} %}
     {% endif %}
 
-    {% if page.where_published %}
+    {% if page.attribution %}
       published:
-      {% if page.link_to_original %}
+      {% if page.attribution %}
           <a href="{{ page.link_to_original }}">
-            {{ page.where_published }}
+            {{ page.attribution }}
           </a>
       {% elsif page.link_to_pdf %}
         <a href="{{ page.link_to_pdf }}">

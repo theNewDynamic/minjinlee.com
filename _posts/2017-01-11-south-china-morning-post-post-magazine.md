@@ -17,4 +17,4 @@ It is only as the reader approaches the end of the novel that the momentous hist
 
 Not that the page-turning quality of Lee’s unadorned prose should come as a surprise. She’s renowned for her award-winning short stories, and her debut novel, Free Food for Millionaires, was declared one of the top 10 novels of 2007 by The Timesof London and was a New York Times Editor’s Choice
 
-[FOR THE FULL REVIEW PLEASE GO TO THE LINK]
+[For the full review, click here](http://www.scmp.com/magazines/post-magazine/books/article/2060927/min-jin-lees-epic-pachinko-takes-complex-and-fraught)
