@@ -5,7 +5,7 @@ category: News
 tags:
   - Essays
   - News
-attribution:
+attribution: by Min Jin lee
 link_to_original: 'http://dev.lithub.com/on-selling-your-first-novel-after-11-years/'
 description: Published on the Ten Anniversary Re-issue of FREE FOOD FOR MILLIONAIRES
 ---
