@@ -45,6 +45,12 @@ reviews:
     copy_markdown: Most Anticipated Book Club Reads of 2017 and Biggest Historical Fiction Release of 2017
   - attribution: South China Morning Post by Bron Sibree
     copy_markdown: "PACHINKO is about paying due to a forgotten history; to the complex and fraught Japan-Korea relationship that endured well into the 90s and lingers to this day. But it doesn't wear its heart—or historical truths—on its sleeve. What drives this novel is the magisterial force of Lee's characterization; her ability to ground the narrative deeply and intimately in the details of daily life. Also threaded through it are questions of home, identity, nationhood and tradition—including the belief of its female protagonists that 'a woman's lot is to suffer.'"
+  - attribution: NYLON
+    copy_markdown: 50 Most Anticipated Books of 2017
+  - attribution: 'American Booksellers Association: INDIE NEXT Great Reads Feb 2017 (Jennifer Steele, Boswell Book Company)'
+    copy_markdown: "Through it all is a message about love, faith, and the deep-rooted bonds of family. Min Jin Lee gives us a phenomenal story about one family's struggle that resonates with us today. It will take hold of you and not let go!"
+  - attribution: Toronto Star
+    copy_markdown: "Top 10 Books of February of the Canadian Library Association's Loan Stars Program"
 cover_image_path: /uploads/cover-pachinko.jpg
 ---
 
