@@ -2,8 +2,7 @@
 title: Pachinko
 date: 2016-08-04 03:12:00
 publication_date: 2017-02-07 00:00:00
-category:
-  - Fiction
+category: Fiction
 description_markdown: >-
   “Luminous…a powerful mediation on what immigrants sacrifice to achieve a home
   in the world. This story confirms Lee’s place among our finest novelists.”
@@ -36,6 +35,8 @@ reviews:
     copy_markdown: 'Deeply compelling story. An old-fashioned epic whose simple, captivating storytelling delivers both wisdom and truth.'
   - attribution: _Library Journal_ (Starred Review)
     copy_markdown: 'A beautifully crafted story of love, loss, determination, luck, and perseverance.'
+  - attribution: BBC.com (Culture) Jane Ciabattari
+    copy_markdown: '"Ten Books to Read in 2017"'
 cover_image_path: /uploads/cover-pachinko.jpg
 ---
 
