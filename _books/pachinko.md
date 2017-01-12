@@ -36,7 +36,7 @@ reviews:
   - attribution: _Library Journal_ (Starred Review)
     copy_markdown: 'A beautifully crafted story of love, loss, determination, luck, and perseverance.'
   - attribution: BBC.com (Culture) Jane Ciabattari
-    copy_markdown: '"Ten Books to Read in 2017"'
+    copy_markdown: Ten Books to Read in 2017
 cover_image_path: /uploads/cover-pachinko.jpg
 ---
 
