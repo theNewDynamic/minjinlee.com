@@ -10,4 +10,4 @@ description:
 ---
 
 
-Pachinko by Min Jin Lee: A sweeping look at four generations of a Korean family who immigrates to Japan after Japan’s 1910 annexation of Korea, from the author of Free Food for Millionaires. Junot D&iacute;az says “Pachinko confirms Lee’s place among our finest novelists.” (Lydia)
+Pachinko by Min Jin Lee: A sweeping look at four generations of a Korean family who immigrates to Japan after Japan’s 1910 annexation of Korea, from the author of Free Food for Millionaires. Junot Díaz says “Pachinko confirms Lee’s place among our finest novelists.” (Lydia)
