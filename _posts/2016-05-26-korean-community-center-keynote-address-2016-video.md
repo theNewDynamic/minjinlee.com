@@ -1,5 +1,5 @@
 ---
-title: Korean Community Center Keynote Address 2016
+title: Korean Community Center Keynote Address 2016 (VIDEO)
 date: 2016-05-26 12:00:00
 category: Media
 tags:
