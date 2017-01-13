@@ -4,7 +4,7 @@ date: 2016-08-04 03:12:00
 publication_date: 2017-02-07 00:00:00
 category: Fiction
 description_markdown: >-
-  “Luminous…a powerful mediation on what immigrants sacrifice to achieve a home
+  “Luminous…a powerful meditation on what immigrants sacrifice to achieve a home
   in the world. This story confirms Lee’s place among our finest novelists.”
 
 
