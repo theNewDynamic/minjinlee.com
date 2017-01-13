@@ -1,5 +1,5 @@
 ---
-title: Book The Writer
+title: Book the Writer
 start_at: 2017-05-04 19:30:00
 show_time: true
 venue:
