@@ -74,7 +74,7 @@ Lover by Anna Raverat (Mar. 7, hardcover, $26, ISBN 978-0-374-19365-2). Kate, a 
 
 Grand Central
 
-Pachinko by Min Jin Lee (Feb. 7, hardcover, $27, ISBN 978-1-4555-6393-7) follows one Korean family through the generations, beginning in early 1900s Korea with Sunja, the prized daughter of a poor yet proud family, whose unplanned pregnancy threatens to shame them all.&nbsp;
+Pachinko by Min Jin Lee (Feb. 7, hardcover, $27, ISBN 978-1-4555-6393-7) follows one Korean family through the generations, beginning in early 1900s Korea with Sunja, the prized daughter of a poor yet proud family, whose unplanned pregnancy threatens to shame them all.
 
 Graywolf
 
@@ -88,7 +88,7 @@ The Refugees by Viet Thanh Nguyen (Feb. 7, hardcover, $25, ISBN 978-0-8021-2639-
 
 Hachette/Twelve
 
-Often I Am Happy by Jens Christian Gr&oslash;ndahl (Apr. 11, hardcover, $23, ISBN 978-1-4555-7007-2). Ellinor is 70. Her husband, Georg, has just died, and Ellinor is struck with the need to confide in someone, picking Anna, her long-dead best friend, who was also Georg’s first wife. Ellinor divulges long-held secrets and burdens of her past. 30,000-copy announced first printing.
+Often I Am Happy by Jens Christian Grøndahl (Apr. 11, hardcover, $23, ISBN 978-1-4555-7007-2). Ellinor is 70. Her husband, Georg, has just died, and Ellinor is struck with the need to confide in someone, picking Anna, her long-dead best friend, who was also Georg’s first wife. Ellinor divulges long-held secrets and burdens of her past. 30,000-copy announced first printing.
 
 Harper
 
@@ -108,7 +108,7 @@ Mother Land by Paul Theroux (May 9, hardcover, $28, ISBN 978-0-618-83932-2). To 
 
 Kensington
 
-Miramar Bay by Davis Bunn (Mar. 28, hardcover, $19.95, ISBN 978-1-4967-0829-8). When Connor Larkin boards a late night bus in downtown L.A., he’s not sure where he’s going. Putting his acting career—and his fianc&eacute;e—on hold, he finds himself stepping into the sleepy seaside town of Miramar Bay—where one woman inspires him to rethink all of his choices.
+Miramar Bay by Davis Bunn (Mar. 28, hardcover, $19.95, ISBN 978-1-4967-0829-8). When Connor Larkin boards a late night bus in downtown L.A., he’s not sure where he’s going. Putting his acting career—and his fiancée—on hold, he finds himself stepping into the sleepy seaside town of Miramar Bay—where one woman inspires him to rethink all of his choices.
 
 Knopf
 
@@ -120,7 +120,7 @@ Little, Brown
 
 The Reminders by Val Emmich (May 30, hardcover, $26, ISBN 978-0-316-31699-6). The Rosie Project meets Tell the Wolves I’m Home in this debut novel about what happens when a little girl who can’t forget befriends a man who’s desperate to remember. 50,000-copy announced first printing.
 
-Spaceman of Bohemia by Jaroslav Kalfar (Mar. 7, hardcover, $26, ISBN 978-0-316-27343-5). Jakub Proch&aacute;zka has risen from smalltime scientist to become the country’s first astronaut. When a dangerous solo mission to Venus offers him both the chance at heroism he’s dreamt of, and a way to atone for his father’s sins as a Communist informer, he ventures into the vast unknown.
+Spaceman of Bohemia by Jaroslav Kalfar (Mar. 7, hardcover, $26, ISBN 978-0-316-27343-5). Jakub Procházka has risen from smalltime scientist to become the country’s first astronaut. When a dangerous solo mission to Venus offers him both the chance at heroism he’s dreamt of, and a way to atone for his father’s sins as a Communist informer, he ventures into the vast unknown.
 
 McSweeney’s
 
@@ -148,7 +148,7 @@ Notes of a Crocodile by Qiu Miaojin, trans. by Bonnie Huie (May 2, trade paper, 
 
 Open Letter
 
-The Invented Part by Rodrigo Fres&aacute;n, trans. by Will Vanderhyden (May 16, trade paper, $18.95, ISBN 978-1-940953-56-4). An aging writer, disillusioned with the state of literary culture, attempts to disappear in the most cosmically dramatic manner: traveling to the Large Hadron Collider, merging with the God particle, and transforming into an omnipresent deity—a meta-writer—capable of rewriting reality.
+The Invented Part by Rodrigo Fresán, trans. by Will Vanderhyden (May 16, trade paper, $18.95, ISBN 978-1-940953-56-4). An aging writer, disillusioned with the state of literary culture, attempts to disappear in the most cosmically dramatic manner: traveling to the Large Hadron Collider, merging with the God particle, and transforming into an omnipresent deity—a meta-writer—capable of rewriting reality.
 
 Pantheon
 
@@ -196,7 +196,7 @@ Exit West by Mohsin Hamid (Mar. 7, hardcover, $26, ISBN 978-0-7352-1217-6). In a
 
 Scribner
 
-House of Names by Colm T&oacute;ib&iacute;n (May 9, hardcover, $26, ISBN 978-1-5011-4021-1). “I have been acquainted with the smell of death.” So begins T&oacute;ib&iacute;n’s retelling of Clytemnestra’s tale. Clytemnestra rules Mycenae now, along with her new lover Aegisthus, and together they plot the bloody murder of Agamemnon on the day of his return after nine years at war.
+House of Names by Colm Tóibín (May 9, hardcover, $26, ISBN 978-1-5011-4021-1). “I have been acquainted with the smell of death.” So begins Tóibín’s retelling of Clytemnestra’s tale. Clytemnestra rules Mycenae now, along with her new lover Aegisthus, and together they plot the bloody murder of Agamemnon on the day of his return after nine years at war.
 
 Live from Cairo by Ian Bassingthwaighte (July 11, hardcover, $26, ISBN 978-1-5011-4687-9) is a debut novel about an impulsive American attorney, a methodical Egyptian translator, and a disillusioned Iraqi-American resettlement officer trying to protect a refugee who finds herself trapped in Cairo during the turbulent aftermath of the revolution.
 
