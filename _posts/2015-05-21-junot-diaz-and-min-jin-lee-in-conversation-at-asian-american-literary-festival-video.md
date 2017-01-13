@@ -1,5 +1,5 @@
 ---
-title: Junot Diaz and Min Jin Lee in Conversation at Asian American Literary Festival
+title: Junot Diaz and Min Jin Lee in Conversation at Asian American Literary Festival (VIDEO)
 date: 2015-05-21 12:00:00
 category: Media
 tags:
