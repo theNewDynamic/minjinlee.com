@@ -1,5 +1,5 @@
 ---
-title: "Asian American Writers' Workshop: The Story of Hong Gil Dong (Penguin Classics) Translated by Minsoo Kang (VIDEO)"
+title: The Story of Hong Gil Dong (Penguin Classics) Translated by Minsoo Kang (VIDEO)
 date: 2016-08-25 19:00:00
 category: Media
 tags:
