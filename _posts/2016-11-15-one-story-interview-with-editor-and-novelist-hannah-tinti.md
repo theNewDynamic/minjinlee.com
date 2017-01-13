@@ -10,8 +10,6 @@ description:
 ---
 
 
-&nbsp;
-
 HT: What was the seed of this story? What was the first thing you wrote?
 
 MJL: I lived in Japan from 2007-2011, where I had the chance to interview many Korean-Japanese. My interview subjects would talk about childhood, employment history, gender roles, education, and family background. Often, I heard stories of lost loves. I was struck by how frequently a love story from the interviewee’s teen years would change the course of his or her life. Among other things, this story investigates love and intersectionality.
@@ -32,7 +30,7 @@ HT: Hansu’s father seems to have set him on a criminal path, while Sunja remem
 
 MJL: One of the metaphysical questions I wanted to understand is what makes a man. Sunja’s two sons must learn how to be men in a world where they are disempowered politically, socially, and financially because of their ethnic background. The role of fathers becomes extraordinarily important to both daughters and sons in this work. In connection with what makes a man, I am investigating what constitutes masculinity for men of oppressed classes. I wanted very much to understand what makes a man a father. The plot lines of the central characters are affected significantly by his or her relationship with a father, or in cases, the absence of a father.
 
-HT: Sunja has a prophetic conversation with the ajumma at the market at the beginning of this story, when the older woman tells her, “The man you marry will determine the quality of your life...but no matter what, always expect suffering, and just keep working hard.” Later in the book, Sunja becomes an ajumma herself, selling kimchi and sweets. It almost seems like she is visiting herself from the future, and giving herself this advice. Was this your intention? And do you think time and history factors into your writing—weaving together the past, present and future?
+HT: Sunja has a prophetic conversation with the ajumma at the market at the beginning of this story, when the older woman tells her, “The man you marry will determine the quality of your life…but no matter what, always expect suffering, and just keep working hard.” Later in the book, Sunja becomes an ajumma herself, selling kimchi and sweets. It almost seems like she is visiting herself from the future, and giving herself this advice. Was this your intention? And do you think time and history factors into your writing—weaving together the past, present and future?
 
 MJL: Yes! You’re an excellent reader. It was my intention to explore this notion so widely-held by a specific generation of Koreans—that women suffer and that suffering is to be expected. Of course, men suffer, too, but as a woman, I found it disturbing to hear so many women from older generations repeat this sentiment so frequently. Also, when I heard older women say that a woman’s life is determined by her husband, it went without saying that romantic love must not be everything; in fact, perhaps romantic love was perilous. I wanted to question this ajumma’s prophecy, because the quality of Sunja’s life was certainly informed by her choice to love Hansu at this point in time, but I wanted to see how she can determine the quality of her life through her daily choices, too.
 
