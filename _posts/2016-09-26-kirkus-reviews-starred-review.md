@@ -1,8 +1,7 @@
 ---
-title: 'Kirkus Reviews: PACHINKO'
+title: 'Kirkus Reviews: Starred Review'
 date: 2016-09-26 21:17:00
-category:
-  - News
+category: News
 tags:
   - Reviews
 attribution: The New Yorker
