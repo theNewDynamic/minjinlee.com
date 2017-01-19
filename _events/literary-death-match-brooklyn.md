@@ -1,6 +1,6 @@
 ---
 title: 'Literary Death Match: Brooklyn'
-start_at: 2016-08-01 12:00:00
+start_at: 2017-01-24 20:00:00
 show_time: true
 venue:
   name: The Bell House
@@ -23,3 +23,5 @@ Readers:
 Round 1: Porochista Khakpour and Ashley C. Ford
 
 Round 2: Min Jin Lee and Daniel Alarcon
+
+Cost: $12 preorder; $15 at the door
