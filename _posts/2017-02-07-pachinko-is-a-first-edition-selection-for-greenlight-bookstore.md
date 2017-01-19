@@ -10,6 +10,4 @@ description:
 ---
 
 
-The Greenlight Bookstore First Editions Club offers great new literature each month, for building a library or keeping up with what’s new.&nbsp;
-
-&nbsp;
+The Greenlight Bookstore First Editions Club offers great new literature each month, for building a library or keeping up with what’s new.
