@@ -12,3 +12,6 @@ venue:
 ---
 
 
+Featuring authors Anita Shreve, Karen Dionne, Elizabeth Kostova, Joshilyn Jackson, and Min Jin Lee
+
+Sponsored by United for Libraries
