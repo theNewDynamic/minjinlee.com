@@ -12,4 +12,4 @@ venue:
 ---
 
 
-Min Jin Lee will be a bookseller for a day at Papercuts JP to celebrate Independent Bookstore Day 2017. Join us at Papercuts JP for the launch of THE PAPERCUTS ANTHOLOGY VOLUME. Drink champagne, snag swag and hang out with Kate, Katie and Min (who will also go by as Kat that day so she can feel right at home).&nbsp;
+Min Jin Lee will be a bookseller for a day at Papercuts JP to celebrate Independent Bookstore Day 2017. Join us at Papercuts JP for the launch of THE PAPERCUTS ANTHOLOGY VOLUME. Drink champagne, snag swag and hang out with Kate, Katie and Min (who will also go by the name Kat that day so she can feel right at home).&nbsp;
