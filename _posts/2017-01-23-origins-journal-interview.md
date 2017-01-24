@@ -14,8 +14,6 @@ Min Jin Lee: Identity, Love, and Exile
 
 An Interview by Dini Karasik
 
-Photo credit: Elena Seibert
-
 Min Jin Lee is no stranger to success. She has won several awards for her essays and short fiction, and her 2007 debut novel, Free Food for Millionaires, was a national bestseller recognized by the New York Times, Wall Street Journal, The Times of London, and NPR's Fresh Air, among others. Her new novel, Pachinko, forthcoming in February, is a gripping saga about a family whose origins begin in 1900s Korea. A series of events leads the family to Japan just prior to WWII where they live in exile for the next several decades, "bound together by deep roots as they face enduring questions of faith, family, and identity."
 
 Critics are hailing Pachinko as one of the most anticipated books of 2017.
@@ -100,7 +98,7 @@ Religion, Christianity in particular, is a backdrop to this book. Can you talk a
 
 LEE
 
-Korean history can’t really be understood from the late 19th century to present day without understanding the significant role of Christianity in politics and education. Christians were very important to organizing political uprisings in early 20th century in Korea, and Christians of many stripes continue to play a significant role in the governance of South Korea today. Koreans around the world have strong feelings about Christianity, either for or against, and I wanted very much to express this in the lives of my characters. I find that religion occupies a very central space in the lives of believers, and I often find that intellectuals dismiss religion casually, and this is, I think, a missed opportunity in understanding how people behave.  Also, this book, like my first, is written in a 19th century style of omniscient narration, and in my own fiction, I prefer the idea and believe in the assertions of an omniscient narrator written in the past tense.
+Korean history can’t really be understood from the late 19th century to present day without understanding the significant role of Christianity in politics and education. Christians were very important to organizing political uprisings in early 20th century in Korea, and Christians of many stripes continue to play a significant role in the governance of South Korea today. Koreans around the world have strong feelings about Christianity, either for or against, and I wanted very much to express this in the lives of my characters. I find that religion occupies a very central space in the lives of believers, and I often find that intellectuals dismiss religion casually, and this is, I think, a missed opportunity in understanding how people behave.&nbsp; Also, this book, like my first, is written in a 19th century style of omniscient narration, and in my own fiction, I prefer the idea and believe in the assertions of an omniscient narrator written in the past tense.
 
 ORIGINS
 
