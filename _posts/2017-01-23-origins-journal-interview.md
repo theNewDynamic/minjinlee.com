@@ -10,19 +10,19 @@ description:
 ---
 
 
-Min Jin Lee: Identity, Love, and Exile&nbsp;
+Min Jin Lee: Identity, Love, and Exile
 
 An Interview by Dini Karasik
 
 Photo credit: Elena Seibert
 
-Min Jin Lee is no stranger to success. She has won several awards for her essays and short fiction, and her 2007 debut novel, Free Food for Millionaires, was a national bestseller recognized by the New York Times, Wall Street Journal, The Times of London, and NPR's Fresh Air, among others. Her new novel, Pachinko, forthcoming in February, is a gripping saga about a family whose origins begin in 1900s Korea. A series of events leads the family to Japan just prior to WWII where they live in exile for the next several decades, "bound together by deep roots as they face enduring questions of faith, family, and identity."&nbsp;
+Min Jin Lee is no stranger to success. She has won several awards for her essays and short fiction, and her 2007 debut novel, Free Food for Millionaires, was a national bestseller recognized by the New York Times, Wall Street Journal, The Times of London, and NPR's Fresh Air, among others. Her new novel, Pachinko, forthcoming in February, is a gripping saga about a family whose origins begin in 1900s Korea. A series of events leads the family to Japan just prior to WWII where they live in exile for the next several decades, "bound together by deep roots as they face enduring questions of faith, family, and identity."
 
 Critics are hailing Pachinko as one of the most anticipated books of 2017.
 
 ORIGINS
 
-Talk about your trajectory as a writer. I’m very interested in your decision to write versus practice law. I’m curious about the ways in which you’ve navigated or continue to manage these two identities: lawyer & writer.&nbsp;
+Talk about your trajectory as a writer. I’m very interested in your decision to write versus practice law. I’m curious about the ways in which you’ve navigated or continue to manage these two identities: lawyer & writer.
 
 LEE
 
@@ -52,7 +52,7 @@ Origins matter to Sunja, the main character, and many of the other characters wh
 
 LEE
 
-Your question is highly relevant to Americans and to all who identify as global citizens, especially because all of us are becoming increasingly transnational in our identities. Technology has broken down so many boundaries, and images and data are constantly exchanged, forging new hybrid identities, which are distinct from the values transmitted from our respective original communities. I think Sunja and women like her upheld values they didn’t necessarily create because their identities of origin compelled them to do so in a new, unwelcoming land. What I witnessed and learned from my research was that migrant and immigrant people held onto the values of their original communities because their adopted spaces were so often hostile to them. When communities welcome strangers and give them great latitude and tolerance, more strangers tend to assimilate faster because they feel safe and wish to increase their stakes.&nbsp;
+Your question is highly relevant to Americans and to all who identify as global citizens, especially because all of us are becoming increasingly transnational in our identities. Technology has broken down so many boundaries, and images and data are constantly exchanged, forging new hybrid identities, which are distinct from the values transmitted from our respective original communities. I think Sunja and women like her upheld values they didn’t necessarily create because their identities of origin compelled them to do so in a new, unwelcoming land. What I witnessed and learned from my research was that migrant and immigrant people held onto the values of their original communities because their adopted spaces were so often hostile to them. When communities welcome strangers and give them great latitude and tolerance, more strangers tend to assimilate faster because they feel safe and wish to increase their stakes.
 
 ORIGINS
 
@@ -76,7 +76,7 @@ Trauma and shame are threads that run through each character’s life in this bo
 
 LEE
 
-I believe that trauma and shame are inherited, reinforced and reenacted in our respective families. Also, I believe that nations and cultures are larger families that replicate these dynamics. I am interested in exploring these painful legacies and also how they are healed actively and gradually. I believe history is a record of these psychological injuries and art can serve to repair, respond and heal.&nbsp;
+I believe that trauma and shame are inherited, reinforced and reenacted in our respective families. Also, I believe that nations and cultures are larger families that replicate these dynamics. I am interested in exploring these painful legacies and also how they are healed actively and gradually. I believe history is a record of these psychological injuries and art can serve to repair, respond and heal.
 
 ORIGINS
 
@@ -84,7 +84,7 @@ I thought your exploration of the immigrant experience was expert. Talk about th
 
 LEE
 
-Thank you. I am profoundly interested in the diaspora and what it means to be a Korean in the world. I have met and interviewed immigrants from all continents, and I am continually affected by how those who leave feel about those who stay and vice-a-versa. In South Korea, I have been looked upon as a curiosity because I am interested in the history that many South Koreans no longer care about, and I don’t mind this at all. I think it makes sense that since I am continually told that I am different and I am “something,” naturally, I want to know more about this something. When a person is a member of a dominant and mostly homogenous group, I think she or he does not have the same compulsion of discovery. All the characters you mention are outside their communities of origin either through physical movement or through a generational progression, and these evolutions and migrations affect them personally and interpersonally. I had the chance to interview Koreans from Brazil and Japanese from Colombia, and they were culturally Brazilian and Colombian, respectively, but they were so different from the majority, too. Lastly, I want to say that you noticed something really important to me: the different iterations of assimilation that you mention carved strong markers in the characters’ personalities and behaviors.&nbsp;
+Thank you. I am profoundly interested in the diaspora and what it means to be a Korean in the world. I have met and interviewed immigrants from all continents, and I am continually affected by how those who leave feel about those who stay and vice-a-versa. In South Korea, I have been looked upon as a curiosity because I am interested in the history that many South Koreans no longer care about, and I don’t mind this at all. I think it makes sense that since I am continually told that I am different and I am “something,” naturally, I want to know more about this something. When a person is a member of a dominant and mostly homogenous group, I think she or he does not have the same compulsion of discovery. All the characters you mention are outside their communities of origin either through physical movement or through a generational progression, and these evolutions and migrations affect them personally and interpersonally. I had the chance to interview Koreans from Brazil and Japanese from Colombia, and they were culturally Brazilian and Colombian, respectively, but they were so different from the majority, too. Lastly, I want to say that you noticed something really important to me: the different iterations of assimilation that you mention carved strong markers in the characters’ personalities and behaviors.
 
 ORIGINS
 
@@ -100,11 +100,11 @@ Religion, Christianity in particular, is a backdrop to this book. Can you talk a
 
 LEE
 
-Korean history can’t really be understood from the late 19th century to present day without understanding the significant role of Christianity in politics and education. Christians were very important to organizing political uprisings in early 20th century in Korea, and Christians of many stripes continue to play a significant role in the governance of South Korea today. Koreans around the world have strong feelings about Christianity, either for or against, and I wanted very much to express this in the lives of my characters. I find that religion occupies a very central space in the lives of believers, and I often find that intellectuals dismiss religion casually, and this is, I think, a missed opportunity in understanding how people behave.&nbsp; Also, this book, like my first, is written in a 19th century style of omniscient narration, and in my own fiction, I prefer the idea and believe in the assertions of an omniscient narrator written in the past tense.
+Korean history can’t really be understood from the late 19th century to present day without understanding the significant role of Christianity in politics and education. Christians were very important to organizing political uprisings in early 20th century in Korea, and Christians of many stripes continue to play a significant role in the governance of South Korea today. Koreans around the world have strong feelings about Christianity, either for or against, and I wanted very much to express this in the lives of my characters. I find that religion occupies a very central space in the lives of believers, and I often find that intellectuals dismiss religion casually, and this is, I think, a missed opportunity in understanding how people behave.  Also, this book, like my first, is written in a 19th century style of omniscient narration, and in my own fiction, I prefer the idea and believe in the assertions of an omniscient narrator written in the past tense.
 
 ORIGINS
 
-Throughout the book, we learn that women are born to suffer. They must endure. They must subjugate their own desires or be undone by them. I’m thinking of Hana and Etsuko—both of whom suffer mightily after acting on their sexual desires. Conversely, Kyunghee does not act on her desire to be with Kim Changho and she suffers his loss. She sacrifices love. And now that I think of it, love between men and women feels elusive in this novel. It is strongest and always prevails in the context of family. Is that fair to say?&nbsp;
+Throughout the book, we learn that women are born to suffer. They must endure. They must subjugate their own desires or be undone by them. I’m thinking of Hana and Etsuko—both of whom suffer mightily after acting on their sexual desires. Conversely, Kyunghee does not act on her desire to be with Kim Changho and she suffers his loss. She sacrifices love. And now that I think of it, love between men and women feels elusive in this novel. It is strongest and always prevails in the context of family. Is that fair to say?
 
 LEE
 
@@ -117,5 +117,3 @@ What surprised you about what you had written once you were done with Pachinko?
 LEE
 
 Gosh, I was very surprised that it took such a long time from the moment of inspiration (1989) to the final moment of publication (2017), and that I felt stubbornly compelled to carry this book with me for nearly three decades. Also, I have been surprised by the way this book has grown and taken a life outside of my vision. I am surprised by the interest this book has garnered.
-
-&nbsp;
