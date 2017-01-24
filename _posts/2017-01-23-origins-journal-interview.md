@@ -4,6 +4,7 @@ date: 2017-01-23 12:00:00
 category: News
 tags:
   - Interviews
+  - News
 attribution: Origins Journal Interview with Editor-in-Chief Dini Karasik
 link_to_original: 'http://www.originsjournal.com/more-interviews/2016/12/15/min-jin-lee-identity-love-and-exile'
 description:
