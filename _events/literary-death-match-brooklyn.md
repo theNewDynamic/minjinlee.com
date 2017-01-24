@@ -16,7 +16,7 @@ Part Literary event, part comedy show, part game show, Literary Death Match brin
 
 &nbsp;
 
-Judges: Heben Nigatu, writer of The Late Show with Stephen Colbert; co-host Another Round podcast; Akilah Hughes, comedian, improviser writer and masterful Youtuber
+Judges: Heben Nigatu, writer of The Late Show with Stephen Colbert; co-host Another Round podcast; Akilah Hughes, comedian, improviser writer and masterful Youtuber; Roy Wood, Jr., comedian and correspondent on the The Daily Show; and Carson Kressley, designer, actor and fashion expert.&nbsp;
 
 Readers:
 
