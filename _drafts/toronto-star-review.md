@@ -1,10 +1,10 @@
 ---
-title: Toronto Star Review
+title: 'Toronto Star: "Sweeping and Powerful"'
 date: 2017-01-22 12:00:00
 category: News
 tags:
   - Reviews
-attribution: The Toronto Star By Marissa Stapley
+attribution: Toronto Star By Marissa Stapley
 link_to_original: 'https://www.thestar.com/entertainment/books/2017/01/22/historical-fiction-to-sweep-you-to-another-time-from-the-1930s-to-the-1980s.html'
 description:
 ---
