@@ -11,8 +11,6 @@ description:
 ---
 
 
-&nbsp;
-
 THE PEN TEN WITH MIN JIN LEE
 
 By: Lauren Cerand January 24, 2017
