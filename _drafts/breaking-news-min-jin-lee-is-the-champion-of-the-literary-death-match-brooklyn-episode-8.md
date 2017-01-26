@@ -10,4 +10,4 @@ description:
 ---
 
 
-On January 24, 2017, Min Jin won the Literary Death Match, hosted by Adrian Todd Zuniga. She may have to wear her medal every day because she has never gotten one before. She was judged by Akilah Hughes, Roy Wood, Jr., Carson Kressley and Heben Nigatu. She was joined by super genius authors Daniel Alarcon, Ashley C. Ford, and Porochista Khakpour—who were beyond attractive, amazing and fun.&nbsp;
+On January 24, 2017, Min Jin won the Literary Death Match, hosted by the brilliant Adrian Todd Zuniga. She may have to wear her medal every day because she has never gotten one before. She was judged by Akilah Hughes, Roy Wood, Jr., Carson Kressley and Heben Nigatu. She was joined by super genius authors Daniel Alarcon, Ashley C. Ford, and Porochista Khakpour—who were beyond attractive, amazing and fun.&nbsp;
