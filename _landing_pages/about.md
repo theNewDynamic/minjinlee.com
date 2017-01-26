@@ -10,4 +10,6 @@ Min Jin went to Yale College where she was awarded both the Henry Wright Prize f
 
 From 2007 to 2011, Min Jin lived in Tokyo, Japan where she wrote *Pachinko* (February 2017). She lives in New York City with her family.
 
+On January 24, 2017, Min Jin became the Champion of the Literary Death Match (Brooklyn—Episode 8), and she just may have to wear her medal every day. It was the most fun she ever had being scared to death.
+
 *photo copyright 2016 Elena Seibert*
