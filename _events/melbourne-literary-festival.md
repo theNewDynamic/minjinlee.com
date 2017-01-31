@@ -1,6 +1,6 @@
 ---
-title: Melbourne Literary Festival
-start_at: 2016-08-01 12:00:00
+title: 2017 Melbourne Writers Festival
+start_at: 2017-08-25 12:00:00
 show_time: true
 venue:
   name:
@@ -8,5 +8,8 @@ venue:
   city:
   state:
   zip:
-  link:
+  link: mwf.com.au
 ---
+
+
+25 August — 3 September 2017
