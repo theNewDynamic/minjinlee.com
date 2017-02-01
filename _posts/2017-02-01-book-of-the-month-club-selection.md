@@ -10,7 +10,7 @@ description:
 ---
 
 
-Pachinko is the February Selection of the historic Book of the Month Club founded in 1926 . Serving as judge, author of *Queen of the Night* and *Edinburgh*, Alexander Chee writes:&nbsp;
+Pachinko is the February Selection of the historic Book of the Month Club founded in 1926 . Serving as judge, author of *Queen of the Night* and *Edinburgh*, Alexander Chee writes:
 
 Reading Pachinko was, in many ways, personal to me, at first. My own family is from one of these small fishing islands off the coast of Korea, and this novel’s beginning was like getting to spy on my grandparents’ early lives. It introduced me to their struggles in ways they would never have—and yet, let me be clear, this novel does much more than to break an intergenerational silence. It also makes their era’s history accessible to American readers in new and marvelous ways.
 
