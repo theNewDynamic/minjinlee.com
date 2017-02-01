@@ -1,6 +1,6 @@
 ---
 title: Pachinko is a First Edition Selection for Greenlight Bookstore
-date: 2017-02-07 12:00:00
+date: 2017-01-31 12:00:00
 category: News
 tags:
   - Reviews
