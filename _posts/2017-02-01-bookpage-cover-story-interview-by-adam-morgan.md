@@ -36,7 +36,7 @@ The word Zainichi is Japanese for “staying in Japan temporarily,” which is m
 
 “The Zainichi are by definition considered foreign, transient and ‘other’ by many Japanese people,” Lee says. “Moreover, some Korean Japanese, especially children who are traumatically bullied, are seen as other to themselves. I was profoundly disturbed by this idea of being seen as permanently ‘other’ at key stages of one’s psychological development.”
 
-In 2007, just after the release of Free Food for Millionaires, Lee and her husband moved from New York to Tokyo.&nbsp;
+In 2007, just after the release of Free Food for Millionaires, Lee and her husband moved from New York to Tokyo.
 
 “The move to Japan was a lucky coincidence for the book, but when I had to let go of the initial draft and start again—buddy, I was not a happy camper,” Lee says. “The field research forced me to throw out the initial manuscript and write a historical novel based primarily on one family.”
 
@@ -52,7 +52,7 @@ If you’ve ever watched “The Price Is Right,” you’re already familiar wit
 
 Like a pachinko ball, Sunja careens through the 20th century as a daughter, a wife, a mother and finally a grandmother. “It took so much of my life to write this novel, and even though the work and the waiting was its own trial, I have to acknowledge that it was helpful to age along with the book because I had the opportunity to encounter and learn as many different perspectives as possible,” Lee says.
 
-And while Pachinko takes place on the other side of the globe, it should be required reading for Americans in 2017.&nbsp;
+And while Pachinko takes place on the other side of the globe, it should be required reading for Americans in 2017.
 
 “The recent presidential election has demonstrated a deeply divided nation, but what is even more troubling to me is how all the different groups cannot seem to comprehend the views of the others,” Lee says. “In an increasingly polarized world with great economic, educational and socio-cultural disparities, I want to believe that we can turn to narratives to empathize with all the parties who participate in both inclusion and exclusion.”
 
