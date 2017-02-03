@@ -10,4 +10,6 @@ description:
 ---
 
 
-Event's List of the Must See Films, TV Shows and Essential Books of the New Year: PACHINKO made the Top 10 List of Anticipated Books of 2017
+100 Reasons It's Going to Be a Wonderful 2017: Daily Mail UK Event's List of the Must See Films, TV Shows and Essential Books of the New Year:
+
+PACHINKO made the Top 10 List of Anticipated Books of 2017
