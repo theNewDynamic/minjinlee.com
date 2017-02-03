@@ -19,8 +19,6 @@ BY ANGELA CARONE
 
 Published: 2017.01.27 03:50 PM
 
-&nbsp;
-
 Min Jin Lee’s successor to her critical hit Free Food for Millionaires is a story of a Korean family in Japan. Pachinko follows a woman shunned by her family when she becomes pregnant, forcing her into a marriage and exile.
 
 George Saunders’s Lincoln in the Bardo unfolds over a single night after the death of President Lincoln’s son Willie. The young Lincoln enters a purgatory and meets characters who allow Saunders to explore philosophical questions.
