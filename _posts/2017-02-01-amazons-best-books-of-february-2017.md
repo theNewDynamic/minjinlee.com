@@ -13,4 +13,4 @@ description:
 
 "Pachinko"
 
-This epic and emotional novel follows several generations of one Korean family, and their fraught life in exile. But there is also much joy to be found in the ways in which this family overcomes obstacles in their adopted home.&nbsp;
+This epic and emotional novel follows several generations of one Korean family, and their fraught life in exile. But there is also much joy to be found in the ways in which this family overcomes obstacles in their adopted home.
