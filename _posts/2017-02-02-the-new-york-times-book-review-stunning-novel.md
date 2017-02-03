@@ -35,4 +35,4 @@ Dozens more characters amplify the vortex of points of views: a hostess bar girl
 
 Krys Lee is the author of the novels “Drifting House” and “How I Became a North Korean.”
 
-A version of this review appears in print on February 5, 2017, on Page BR18 of the Sunday Book Review with the headline: Home but Not Home. Today's Paper|Subscribe
+| A version of this review appears in print on February 5, 2017, on Page BR18 of the Sunday Book Review with the headline: Home but Not Home. Today's Paper       | Subscribe |
