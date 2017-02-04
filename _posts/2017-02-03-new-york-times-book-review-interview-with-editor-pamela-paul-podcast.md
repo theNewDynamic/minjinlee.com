@@ -12,4 +12,4 @@ description:
 ---
 
 
-The Pachinko Interview segment follows the interviews Editor Pamela Paul has with Daphne Merkin and a report with Alexandra Alter.&nbsp;
+The Pachinko Interview segment follows the interviews Editor Pamela Paul has with Daphne Merkin and a report with Alexandra Alter.
