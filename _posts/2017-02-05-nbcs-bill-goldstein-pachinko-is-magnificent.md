@@ -10,4 +10,4 @@ description:
 ---
 
 
-Literary Critic Bill Goldstein selects PACHINKO for Bill's Books on NBC New York's Weekend Today in New York&nbsp;
+Literary Critic Bill Goldstein selects PACHINKO for Bill's Books on NBC New York's Weekend Today in New York
