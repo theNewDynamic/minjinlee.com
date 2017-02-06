@@ -12,11 +12,7 @@ description:
 ---
 
 
-&nbsp;
-
-PACHINKO Is A Family Saga of Exile, Discrimination...And Japanese Pinball
-
-&nbsp;
+PACHINKO Is A Family Saga of Exile, Discrimination…And Japanese Pinball
 
 Pinball is big business in Japan. Known as pachinko, the multibillion-dollar industry is dominated by Korean Japanese, an immigrant community that has been unwelcome and ill-treated for generations.
 
@@ -24,11 +20,11 @@ Min Jin Lee's new novel Pachinko is about much more than the game. It's about th
 
 Lee got the idea for her book when she was still a college student. It was 1989 and she went to a lecture by an American missionary who had been working with the Korean Japanese in Japan. He told a story about a 13-year-old boy who committed suicide. After his death the boy's parents found his school yearbook.
 
-"And in this yearbook several of his classmates had written things like: Go back to your country," Lee says. "They had written the words: die, die, die. The parents were born in Japan, the boy was born in Japan. ... That story just really could not be more fixed in my brain."
+"And in this yearbook several of his classmates had written things like: Go back to your country," Lee says. "They had written the words: die, die, die. The parents were born in Japan, the boy was born in Japan. … That story just really could not be more fixed in my brain."
 
 Lee, a Korean-American, was determined to tell the history of Koreans in Japan. She lived there for a while and interviewed many Korean Japanese to get a sense of what life was like for them. She decided to tell their history through a multigenerational family story.
 
-"I was very interested in history but I also thought, you know, history is not that interesting sometimes and it can feel a bit medicinal," she says. "I wanted ... to give these people flesh and blood in the same way that people that I know have contradictions and betrayals and deaths and marriages and the kind of texture of life."
+"I was very interested in history but I also thought, you know, history is not that interesting sometimes and it can feel a bit medicinal," she says. "I wanted … to give these people flesh and blood in the same way that people that I know have contradictions and betrayals and deaths and marriages and the kind of texture of life."
 
 The story begins in the early 20th century when Korea is already under Japanese rule. A young girl named Sunja is growing up in a small fishing village on a tiny Korean Island. She falls in love with a good looking, older man from the mainland.
 
@@ -48,7 +44,7 @@ With the war and partition of Korea, it becomes almost impossible for Sunja to r
 
 After the war the pachinko parlors start popping up all over in Japan. Both of Sunja's sons find work in the noisy pin ball dens which are often run by Korean Japanese.
 
-"The Korean Japanese could not find legal employment for ... seven or eight decades," Lee explains. "Even now they have great difficulty finding jobs in certain sectors. So, in pachinko they were able to find a kind of employment haven."
+"The Korean Japanese could not find legal employment for … seven or eight decades," Lee explains. "Even now they have great difficulty finding jobs in certain sectors. So, in pachinko they were able to find a kind of employment haven."
 
 Though they may have found employment, and in many cases, financial success, that didn't necessarily translate into respect. Despite its popularity, the Japanese look down on pachinko parlors as gambling dens with connections to criminals. Even so, one of Sunja's sons thrives in the business. But her firstborn, Noa, never comes to terms with the circumstances of his life.
 
