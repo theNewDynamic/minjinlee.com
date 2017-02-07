@@ -11,8 +11,6 @@ description:
 ---
 
 
-&nbsp;
-
 February 7, 20177:00 AM ET
 
 JEAN ZIMMERMAN
