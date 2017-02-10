@@ -11,4 +11,4 @@ description:
 ---
 
 
-I recommend CLAY WALLS by Ronyoung Kim wholeheartedly as a seminal work by an important immigrant author.&nbsp;
+I recommend CLAY WALLS by Ronyoung Kim wholeheartedly as a seminal work by an important immigrant author.
