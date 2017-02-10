@@ -34,7 +34,7 @@ PANKAJ MISHRA, AGE OF ANGER: A HISTORY OF THE PRESENT
 
 Why you should read it:
 
-At a time when alternative truths are distorting our political discourse, Indian essayist and novelist Pankaj Mishra offers up a welcome tonic: a detailed, historic view that connects the rise of white nationalism, ISIS, and other fundamentalist movements. Age of Anger, out in the U.S. today, offers a clear-eyed analysis of and context for these movements. Mishra’s book dispels various myths—that ISIS’s appeal is grounded in Islam or economic despair, for example—and traces the forgotten Western roots of today’s extremist groups. (Spoiler alert: We’ve been here before.) He recently covered some of these themes in an essay for The Guardian.&nbsp;
+At a time when alternative truths are distorting our political discourse, Indian essayist and novelist Pankaj Mishra offers up a welcome tonic: a detailed, historic view that connects the rise of white nationalism, ISIS, and other fundamentalist movements. Age of Anger, out in the U.S. today, offers a clear-eyed analysis of and context for these movements. Mishra’s book dispels various myths—that ISIS’s appeal is grounded in Islam or economic despair, for example—and traces the forgotten Western roots of today’s extremist groups. (Spoiler alert: We’ve been here before.) He recently covered some of these themes in an essay for The Guardian.
 
 Quotables:
 
