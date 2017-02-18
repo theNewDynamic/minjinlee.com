@@ -12,6 +12,4 @@ venue:
 ---
 
 
-Min Jin Lee discusses PACHINKO
-
-9am
+Min Jin Lee discusses PACHINKO at 9AM.
