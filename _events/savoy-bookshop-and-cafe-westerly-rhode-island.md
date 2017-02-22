@@ -1,12 +1,17 @@
 ---
 title: 'Savoy Bookshop and Cafe: Westerly, Rhode Island'
-start_at: 2016-08-01 12:00:00
+start_at: 2017-03-27 18:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-  link:
+  name: Savoy Bookshop and Cafe
+  address: 10 Canal Street
+  city: Westerly
+  state: RI
+  zip: 02891
+  link: 'http://www.banksquarebooks.com/westerly-store'
 ---
+
+
+In Conversation with Nancy Burns-Fusaro of the Westerly Sun
+
+(This event is the new rescheduled date after the Feb date was canceled due to a snow storm.)
