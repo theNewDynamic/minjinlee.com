@@ -13,8 +13,6 @@ description:
 ---
 
 
-&nbsp;
-
 Published by
 
 The Leonard Lopate Show
