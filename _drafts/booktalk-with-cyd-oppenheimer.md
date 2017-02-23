@@ -1,11 +1,17 @@
 ---
-title: BookTalk with Cyd Oppenheimer
-date: 2016-11-01 12:00:00
-category:
-  - News
+title: BookTalk with Cyd Oppenheimer (AUDIO)
+date: 2017-02-28 12:00:00
+category: Media
 tags:
   - Reviews
-attribution:
-link_to_original:
+  - Interviews
+  - Audio
+attribution: BookTalk with Cyd Oppenheimer
+link_to_original: 'http://www.booktalkradio.net/all-episodes/2016/10/31/episode-33-pachinko-by-min-jin-lee'
 description:
 ---
+
+
+Episode 34&nbsp;
+
+Hosted by Cyd Oppenheimer and guest readers: Kate Kincaid and Sophfronia Scott
