@@ -12,6 +12,6 @@ description:
 ---
 
 
-Episode 34&nbsp;
+Episode 34
 
 Hosted by Cyd Oppenheimer and guest readers: Kate Kincaid and Sophfronia Scott
