@@ -1,6 +1,6 @@
 ---
 title: Morristown Festival of Books
-start_at: 2016-08-01 12:00:00
+start_at: 2017-10-14 12:00:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,6 @@ venue:
   zip:
   link:
 ---
+
+
+In conversation with Carol Fitzgerald, co-founder and president of Bookreporter.com and The Book Report Network
