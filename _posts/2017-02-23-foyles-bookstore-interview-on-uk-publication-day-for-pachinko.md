@@ -11,7 +11,7 @@ description:
 ---
 
 
-Where did you get the idea for the story?&nbsp;
+Where did you get the idea for the story?
 
 In 1989, I was at university, and I read History. One day, I skipped class and attended a lecture featuring an American missionary who worked with the Korean-Japanese population in Japan. The missionary discussed the very troubled history of Koreans in Japan, which I’d known nothing about. He said that in the community that he served, there was a 13 year-old Korean-Japanese boy who had been bullied relentlessly because of his ethnic status. He climbed up to his apartment building roof and jumped to his death. The boy and his parents were born in Japan. I never forgot this story.
 
@@ -31,9 +31,9 @@ Did you identify more with any one character and if so, why?
 
 Of all my characters, I found Hansu compelling in a way that surprised me. He is a gangster and a violent criminal, but he is also a philosopher who is determined to survive and win a very unfair game, and I found his behaviour and outlook fascinating. Hansu’s love and need for Sunja is foundational to this book. He loves her and needs her because he longs for home and for the person he once was. Love, stripped down to its essence, is like that, I think.
 
-The Koreans’ sense of displacement extends for many generations. Would it have made a difference had they been more welcome in Japan?&nbsp;
+The Koreans’ sense of displacement extends for many generations. Would it have made a difference had they been more welcome in Japan?
 
-Welcoming strangers and successful integration can make an extraordinary difference in the lives of &nbsp;individuals and communities. I doubt there’s a sociologist, anthropologist or psychologist who would disagree. Segregation, legal and social discrimination and economic disparity can impair normal human development. Factors like poverty, early childhood suffering, family breakdown and war can devastate anyone and any nation. That said, I was astonished by the people, who survived such conditions, and how they fared in the face of their persistent rejection. Above all, I was impressed by the quality of their love for their families, communities and the nation where they lived.
+Welcoming strangers and successful integration can make an extraordinary difference in the lives of  individuals and communities. I doubt there’s a sociologist, anthropologist or psychologist who would disagree. Segregation, legal and social discrimination and economic disparity can impair normal human development. Factors like poverty, early childhood suffering, family breakdown and war can devastate anyone and any nation. That said, I was astonished by the people, who survived such conditions, and how they fared in the face of their persistent rejection. Above all, I was impressed by the quality of their love for their families, communities and the nation where they lived.
 
 Your own family moved from South Korea to the US in 1976. Does it, will it ever, feel like home to you?
 
