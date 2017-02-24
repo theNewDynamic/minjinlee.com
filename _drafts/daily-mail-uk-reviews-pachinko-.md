@@ -1,5 +1,5 @@
 ---
-title: 'Daily Mail UK Reviews PACHINKO: "a sheer delight"'
+title: 'Daily Mail UK Reviews PACHINKO: "A sheer delight"'
 date: 2017-02-23 12:00:00
 category: News
 tags:
@@ -21,5 +21,5 @@ Each new generation is determined to better itself, yet each is snagged anew by 
 
 Combining the detail of a documentary with the empathy of the best fiction, it’s a sheer delight.
 
-<br>Read more: http://www.dailymail.co.uk/home/books/article-4253782/LITERARY-FICTION.html#ixzz4ZdvKZufk&nbsp;
-<br>Follow us: @MailOnline on Twitter |&nbsp;DailyMail on Facebook
+<br>Read more: http://www.dailymail.co.uk/home/books/article-4253782/LITERARY-FICTION.html#ixzz4ZdvKZufk
+<br>Follow us: @MailOnline on Twitter | DailyMail on Facebook
