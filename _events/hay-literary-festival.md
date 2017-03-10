@@ -1,6 +1,6 @@
 ---
-title: Hay Literary Festival
-start_at: 2016-08-01 12:00:00
+title: Hay Festival
+start_at: 2017-05-25 12:00:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,8 @@ venue:
   zip:
   link:
 ---
+
+
+May 25-June 4, 2017
+
+Hay-On-Wye, Wales
