@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: mwf.com.au
+  link:
 ---
 
 
