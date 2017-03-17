@@ -29,4 +29,4 @@ Although Noa and Hansu offer some of the most poignant emotional conflicts in th
 
 Much of the novel’s authority is derived from its weight of research, which brings to life everything from the fishing village on the coast of the East Sea in early 20th-century Korea to the sights and smells of the shabby Korean township of Ikaino in Osaka – the intimate, humanising details of a people striving to carve out a place for themselves in the world. Vivid and immersive, Pachinko is a rich tribute to a people that history seems intent on erasing.
 
-•Tash Aw’s Five Star Billionaire is published by 4th Estate. Pachinko by Min Jin Lee is published by Head of Zeus. To order a copy for &pound;16.14 (RRP &pound;18.99) go to bookshop.theguardian.com or call 0330 333 6846. Free UK p&p over &pound;10, online orders only. Phone orders min p&p of &pound;1.99.
+•Tash Aw’s Five Star Billionaire is published by 4th Estate. Pachinko by Min Jin Lee is published by Head of Zeus. To order a copy for £16.14 (RRP £18.99) go to bookshop.theguardian.com or call 0330 333 6846. Free UK p&p over £10, online orders only. Phone orders min p&p of £1.99.
