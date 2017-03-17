@@ -1,7 +1,7 @@
 ---
-title: 2017 Melbourne Writers Festival
-start_at: 2017-08-25 12:00:00
-show_time: true
+title:
+start_at:
+show_time: false
 venue:
   name:
   address:
@@ -12,4 +12,3 @@ venue:
 ---
 
 
-25 August — 3 September 2017
