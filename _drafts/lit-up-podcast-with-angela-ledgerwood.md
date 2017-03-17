@@ -12,7 +12,7 @@ description:
 ---
 
 
-I had the opportunity to talk with Angela Ledgerwood, the host of the brilliant podcast, Lit Up.&nbsp;
+I had the opportunity to talk with Angela Ledgerwood, the host of the brilliant podcast, Lit Up. Angela is smart, funny and gorgeous. Oh, and she's also kindhearted.&nbsp;
 
 Episode Chapter 93. It was aired on March 7, the International Women's Day.&nbsp;
 
