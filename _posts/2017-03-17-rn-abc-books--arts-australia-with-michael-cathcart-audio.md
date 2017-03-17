@@ -22,4 +22,4 @@ Min Jin Lee received international acclaim for her debut, Free Food for Milliona
 
 And in her sophomore novel, Pachinko, Lee tells the story of a Korean family's search for identity, across four generations and almost a century.
 
-To listen, please click the link.&nbsp;
+To listen, please click the link.
