@@ -1,5 +1,5 @@
 ---
-title: 'New York Public Library: Immigration and Writing'
+title: 'New York Public Library: Immigrant Stories'
 start_at: 2017-04-18 18:30:00
 show_time: true
 venue:
@@ -8,8 +8,12 @@ venue:
   city: New York
   state: NY
   zip: '10018'
-  link:
+  link: 'https://www.showclix.com/event/immigrantstories/listing/tag/guest'
 ---
 
 
-A literary event with Simon Winchester, Sana Amanat and Min Jin Lee as they discuss immigration and writing.&nbsp;
+A discussion featuring Min Jin Lee, the author of *Pachinko*&nbsp;and Simon Winchester that examines how writers are humanizing the experience of immigration.&nbsp;
+
+This is a #OneBookNY Event at NYPL. This is a free event, but please register: https://www.showclix.com/event/immigrantstories/listing/tag/guest
+
+&nbsp;
