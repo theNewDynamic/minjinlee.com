@@ -14,6 +14,6 @@ venue:
 
 A discussion featuring Min Jin Lee, the author of *Pachinko*&nbsp;and Simon Winchester that examines how writers are humanizing the experience of immigration.&nbsp;
 
-This is a #OneBookNY Event at NYPL. This is a free event, but please register: https://www.showclix.com/event/immigrantstories/listing/tag/guest
+This is a #OneBookNY Event at NYPL. This is a free event, but please register:&nbsp;
 
 &nbsp;
