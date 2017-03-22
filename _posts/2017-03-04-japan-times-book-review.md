@@ -18,8 +18,6 @@ SPECIAL TO THE JAPAN TIMES
 
 MAR 4, 2017
 
-&nbsp;
-
 Min Jin Lee’s second novel, “Pachinko,” charts the fortunes and misfortunes of four generations of a Korean family.
 
 Pachinko, by Min Jin Lee.
