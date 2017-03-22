@@ -1,5 +1,5 @@
 ---
-title: 'New York Public Library: Immigrant Stories'
+title: 'The New York Public Library: Immigrant Stories'
 start_at: 2017-04-18 18:30:00
 show_time: true
 venue:
