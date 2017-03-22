@@ -15,8 +15,6 @@ On History, Survival & Intimacy
 
 by Terry Hong
 
-&nbsp;
-
 Becoming a bestselling author took Min Jin Lee 11 years – and so much more of her life.
 
 She quit lawyering, but without that income, tuition for an MFA proved impossible. So she found every bargain opportunity in New York City to learn her craft, including readings, workshops, and $200 classes at the 92nd Street Y. Then money became even more scarce when she became responsible for family members facing financial ruin. At home, she had to figure out how to balance new motherhood after a difficult pregnancy; she couldn’t fund childcare to write, but she would weep over missing her young son on the rare occasion she was alone to write. Most importantly, she had to reclaim her health, fighting a serious liver condition she’d had since her teens; her “one in a million” full recovery took decades, but she was finally disease-free by the time she signed her debut contract.
