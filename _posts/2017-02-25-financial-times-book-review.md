@@ -1,5 +1,5 @@
 ---
-title: 'Financial Times Reviews Pachinko: "We never feel history being spoon-fed to us: it is wholly absorbed into character and story, which is no mean feat for a novel covering almost a century of history."'
+title: Financial Times (Book Review)
 date: 2017-02-25 12:00:00
 category: News
 tags:
