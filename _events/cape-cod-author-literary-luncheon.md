@@ -1,12 +1,15 @@
 ---
-title: 'Cape Cod: Author Literary Luncheon'
-start_at: 2016-08-01 12:00:00
+title: 'Cape Cod: Literary Luncheon'
+start_at: 2017-08-03 12:00:00
 show_time: true
 venue:
-  name:
+  name: Author Literary Luncheon Series in Cape Cod
   address:
   city:
   state:
   zip:
-  link:
+  link: 'http://www.booksonthecape.com/author-literary-luncheon-series/'
 ---
+
+
+Hosted at The Wequassett Resort and the independent bookseller Where the Sidewalk Ends Bookstore & Children's Annex. &nbsp;
