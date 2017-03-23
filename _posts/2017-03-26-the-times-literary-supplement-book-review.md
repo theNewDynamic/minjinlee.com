@@ -31,4 +31,4 @@ Pachinko, often described as vertical pinball, is a way of getting around the ga
 
 The Korean characters in this novel are especially conscious of the rigged system they are set up against. Sunja’s attempts to ensure a better life for Noa backfire because he internalizes the stigma of his birth; Mozasu’s marriage prospects are marred by his “dirty” business. Even “lucky” Solomon, his son, whom he sends to college in New York, later encounters job discrimination in 1980s Japan. Yet these depredations bring the community together. Min Jin Lee has produced a beautifully realized saga of an immigrant family in a largely hostile land, trying to establish its own way of belonging.
 
-Please consider a digital subscription to The Times Literary Supplement.&nbsp;
+Please consider a digital subscription to The Times Literary Supplement.
