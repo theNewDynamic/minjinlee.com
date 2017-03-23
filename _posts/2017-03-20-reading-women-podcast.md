@@ -12,6 +12,4 @@ description:
 ---
 
 
-I got to talk with the wonderful hosts Kendra D. Winchester and Autumn Privett of Reading Women. Thank you, Kendra and Autumn.&nbsp;
-
-&nbsp;
+I got to talk with the wonderful hosts Kendra D. Winchester and Autumn Privett of Reading Women. Thank you, Kendra and Autumn.
