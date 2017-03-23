@@ -1,5 +1,5 @@
 ---
-title: The Times Literary Supplement
+title: 'The Times Literary Supplement: Book Review'
 date: 2017-03-24 12:00:00
 category: News
 tags:
@@ -10,9 +10,14 @@ description:
 ---
 
 
-<br>
-<br>PACHINKO
-<br>490pp. Apollo. £18.99.
+<br>&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+PACHINKO
+<br>490pp. Apollo. &pound;18.99.
 <br>978 1 78669 135 4
 <br>Min Jin Lee’s moving saga of a Korean family in Japan
 <br>
