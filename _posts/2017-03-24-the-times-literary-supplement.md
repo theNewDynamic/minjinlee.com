@@ -11,12 +11,8 @@ description:
 ---
 
 
-&nbsp;
-
-&nbsp;
-
 PACHINKO
-<br>490pp. Apollo. &pound;18.99.
+<br>490pp. Apollo. £18.99.
 <br>978 1 78669 135 4
 <br>Min Jin Lee’s moving saga of a Korean family in Japan
 <br>
