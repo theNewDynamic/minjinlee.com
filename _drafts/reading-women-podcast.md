@@ -1,11 +1,17 @@
 ---
 title: Reading Women (Podcast)
-date: 2016-11-01 12:00:00
-category:
-  - News
+date: 2017-03-20 12:00:00
+category: News
 tags:
   - Reviews
-attribution:
-link_to_original:
+  - Interviews
+  - Audio
+attribution: Reading Women Podcast
+link_to_original: 'https://www.blubrry.com/reading_women/21970581/interview-with-min-jin-lee/'
 description:
 ---
+
+
+I got to talk with the wonderful hosts Kendra D. Winchester and Autumn Privett of Reading Women. Thank you, Kendra and Autumn.&nbsp;
+
+&nbsp;
