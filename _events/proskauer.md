@@ -13,3 +13,5 @@ venue:
 
 
 In conversation with Sang J. Lee, CEO of SJL Shannon, LLC
+
+Private Event
