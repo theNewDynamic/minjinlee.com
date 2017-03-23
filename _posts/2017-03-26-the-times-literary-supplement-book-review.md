@@ -6,7 +6,7 @@ tags:
   - Reviews
   - News
 attribution: The Times Literary Supplement
-link_to_original:
+link_to_original: 'http://www.the-tls.co.uk/articles/private/shadow-of-the-stain/'
 description:
 ---
 
