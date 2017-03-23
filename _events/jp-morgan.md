@@ -1,6 +1,6 @@
 ---
 title: JP Morgan
-start_at: 2016-08-01 12:00:00
+start_at: 2017-05-02 12:00:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,12 @@ venue:
   zip:
   link:
 ---
+
+
+A Celebration of Asian Pacific American History Month:
+
+A Conversation with Carlos Monteagudo, Executive Director and Recruiting Manager of JP Morgan.&nbsp;
+
+Sponsored by the ASPIRE Business Resource Group
+
+&nbsp;
