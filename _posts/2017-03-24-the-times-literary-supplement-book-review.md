@@ -1,6 +1,6 @@
 ---
 title: 'The Times Literary Supplement: Book Review'
-date: 2017-03-26 12:00:00
+date: 2017-03-24 12:00:00
 category: News
 tags:
   - Reviews
