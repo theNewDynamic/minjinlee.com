@@ -14,7 +14,7 @@ description:
 Koreans in Japan search for success in Lee's sumptuous sophomore novel
 
 Reviewed by: Julienne Isaacs
-<br>Posted: 03/25/2017 4:00 AM | Comments: 0
+<br>Posted: 03/25/2017&nbsp;
 
 Min Jin Lee’s Pachinko could be called a sweeping family drama. It effortlessly carries the reader through generations, outlining its changing historical context without sacrificing the juicy details.
 
