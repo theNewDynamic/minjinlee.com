@@ -16,7 +16,7 @@ Vanessa Wong
 
 Daily Arts Writer
 
-Sunday, March 26, 2017&nbsp;
+Sunday, March 26, 2017
 
 Min Jin Lee’s second novel is a sprawling saga about a Korean family during the Japanese occupation of Korea. Spanning four generations, “Pachinko” explores questions of immigration, discrimination, political unrest and national identity. The family’s mindset is introduced in the opening line: “History has failed us, but no matter.” Their resilience is woven through the rest of the novel, a tale of an ordinary family that tumbles and endures.
 
