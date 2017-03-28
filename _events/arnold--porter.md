@@ -1,5 +1,5 @@
 ---
-title: 'Arnold & Porter Kaye Scholer LLP'
+title: 'Arnold & Porter Kaye Scholer'
 start_at: 2017-05-30 12:00:00
 show_time: true
 venue:
