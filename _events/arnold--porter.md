@@ -1,6 +1,6 @@
 ---
-title: 'Arnold & Porter'
-start_at: 2016-08-01 12:00:00
+title: 'Arnold & Porter Kaye Scholer LLP'
+start_at: 2017-05-30 12:00:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,8 @@ venue:
   zip:
   link:
 ---
+
+
+A Celebration of Asian Pacific American History Month
+
+Private Event
