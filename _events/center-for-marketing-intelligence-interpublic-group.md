@@ -1,6 +1,6 @@
 ---
 title: 'Center for Marketing Intelligence: Interpublic Group'
-start_at: 2016-08-01 12:00:00
+start_at: 2017-05-15 12:00:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,8 @@ venue:
   zip:
   link:
 ---
+
+
+Asian Pacific American History Month
+
+Private Event
