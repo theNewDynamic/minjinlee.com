@@ -1,6 +1,6 @@
 ---
 title: 'Papercuts JP: Independent Bookstore Day (Parts 1 & 2)'
-start_at: 2017-04-29 18:00:00
+start_at: 2017-04-29 19:00:00
 show_time: true
 venue:
   name: Papercuts JP
@@ -14,7 +14,7 @@ venue:
 
 Part 1:
 
-Min Jin Lee will be a bookseller for a day at Papercuts JP to celebrate Independent Bookstore Day 2017. Drink, snag swag and hang out with Kate, Katie and Min (who may go by the name Kat that day so she can feel right at home). &nbsp;(From 10am-6pm)
+Min Jin Lee will be a bookseller for a day at Papercuts JP to celebrate Independent Bookstore Day 2017. Drink, snag swag and hang out with Kate, Katie and Min (who may go by the name Kat that day so she can feel right at home).  (From 10am-6pm)
 
 Part 2:
 
