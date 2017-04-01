@@ -13,8 +13,6 @@ description:
 
 By Angela Ledgerwood
 
-&nbsp;
-
 Pachinko by Min Jin Lee
 
 Thirty years in the making, Lee's sweeping, multi-generational novel is set in 1900s Asia and is informed by stories she heard about legal and social discrimination against Koreans in Japan, a history largely denied and erased. This story kicks off with an unplanned pregnancy and the promise of a less shameful life in Japan and evolves into addictive family saga packed with forbidden love, the search for belonging, and triumph against the odds.
