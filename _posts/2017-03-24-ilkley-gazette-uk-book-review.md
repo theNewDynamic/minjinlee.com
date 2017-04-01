@@ -10,7 +10,7 @@ description:
 ---
 
 
-Book Review by Annie Clay of The Grove Bookshop: Pachinko by Min Jin Lee, published in hardback by Apollo at &pound;18.99
+Book Review by Annie Clay of The Grove Bookshop: Pachinko by Min Jin Lee, published in hardback by Apollo at £18.99
 
 PACHINKO, the new novel by South Korean-American author Min Jin Lee, follows several generations of a Korean family during the course of the twentieth century - through all the happiness and hardships that come with life, and the struggles of being a Korean immigrant in Imperial Japan. Opening in 1910 with events that lead to the birth of Sunja, the leading protagonist, it takes us all the way through to the late 1980s, with Sunja's family having been through trials that no family should have to go through - and yet, that families everywhere do.
 
