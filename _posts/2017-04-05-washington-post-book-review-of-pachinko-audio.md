@@ -14,7 +14,7 @@ description:
 
 PACHINKO
 
-By Min Jin Lee&nbsp;
+By Min Jin Lee
 
 Hachette Audio. Unabridged, 18 ¼ hours
 
