@@ -1,5 +1,5 @@
 ---
-title: East City Bookshop
+title: 'Washington, D.C.: East City Bookshop'
 start_at: 2017-06-22 00:00:00
 show_time: true
 venue:
