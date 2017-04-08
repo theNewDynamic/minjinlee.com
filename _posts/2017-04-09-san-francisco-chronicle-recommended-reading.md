@@ -1,5 +1,5 @@
 ---
-title: 'San Francisco Chronicle: RECOMMENDED READING'
+title: 'San Francisco Chronicle: Recommended Reading'
 date: 2017-04-09 12:00:00
 category: News
 tags:
