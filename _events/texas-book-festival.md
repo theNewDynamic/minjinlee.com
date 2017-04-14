@@ -1,6 +1,6 @@
 ---
-title: Texas Book Festival
-start_at: 2016-08-01 12:00:00
+title: Texas Book Festival 2017
+start_at: 2017-11-04 12:00:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,12 @@ venue:
   zip:
   link:
 ---
+
+
+Saturday & Sunday, November 4-5, 2017
+
+Austin, Texas
+
+Lit Crawl: Saturday
+
+Panel: Sunday
