@@ -16,10 +16,6 @@ By John W. W. Zeiser
 
 The burdens of immigrant life in Japan provide the meat of Min Jin Lee’s new novel Pachinko. Spanning five generations, Pachinko is the arresting tale of a Korean family which emigrated to Japan and is a welcome and timely publication dealing with the fraughtness of colonial and immigrant experiences. Although such scope might make one think of a sprawling, Tolstoyean narrative, Lee maintains a taut, narrow focus, unraveling the uniqueness of her characters while providing a deeply satisfying attention to detail.
 
-A rich, well-crafted book as well as a page turner.
-
-Pachinko, Min Jin Lee (Grand Central Publishing, February 2017; Apollo, February 2017)
-
 Pachinko begins in 1910, the year Japan annexed the peninsula. Korea had been at the center of Japan’s quest to challenge Western hegemony in East Asia. Throughout, Lee elides much discussion of historical contexts, which reflects in many ways her characters’ own predicaments, poor, often illiterate and at the whim of social forces over which they have little control.
 
 The first chapter is an evocative vignette that compresses the span from 1910 to 1932 and it instantly draws the reader in. We first meet Hoonie, the only surviving son of a fisherman and his wife, &nbsp;who run a lodging house in Yeongdo, an island village a ferry ride from the port town of Busan:
