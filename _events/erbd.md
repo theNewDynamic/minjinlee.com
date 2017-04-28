@@ -1,6 +1,6 @@
 ---
-title: ERBD
-start_at: 2016-08-01 12:00:00
+title: 'European Bank for Reconstruction & Development'
+start_at: 2017-05-24 17:00:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,6 @@ venue:
   zip:
   link:
 ---
+
+
+A Conversation &nbsp;with Larry Sherwin, Director of Communications of EBRD
