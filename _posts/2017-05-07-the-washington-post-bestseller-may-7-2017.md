@@ -1,5 +1,5 @@
 ---
-title: 'Washington Post Bestseller: May 7, 2017'
+title: 'The Washington Post Bestseller: May 7, 2017'
 date: 2017-05-07 12:00:00
 category: News
 tags:
