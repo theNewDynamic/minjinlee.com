@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+  link: www.yalewomen.org
 ---
 
 
