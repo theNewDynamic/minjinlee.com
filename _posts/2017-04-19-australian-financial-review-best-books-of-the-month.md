@@ -11,7 +11,7 @@ description:
 ---
 
 
-This month's 3 best books: Reviews of A Writing Life, House of Names, Pachinko&nbsp;
+This month's 3 best books: Reviews of A Writing Life, House of Names, Pachinko
 
 Helen Garner's work is put under the microscope, Agamemnon's tale retold by renowned Irish author Colm Toibin and a family drama by Min Jin Lee set in Japan are our picks for the best books this month.
 
@@ -57,4 +57,4 @@ The story opens in Korea in 1911, when a match is made between disabled Hoonie a
 
 Pachinko is ostensibly about the plight of Koreans living in Japan but it also tells the story of immigrants everywhere – their battle to assimilate and to survive in the face of hardship, whilst retaining their cultural identities. More than that, it's a profoundly moving family saga, touching on universal themes of love and courage, suffering and endurance, dislocation and resilience. It will stay with you.
 
-<br>Follow us: @FinancialReview on Twitter |&nbsp;financialreview on Facebook
+| <br>Follow us: @FinancialReview on Twitter       | financialreview on Facebook |
