@@ -1,5 +1,5 @@
 ---
-title: 'Minnesota Public Radio: The THREAD (Book of the Week)'
+title: "Minnesota Public Radio: The Thread's Book of the Week"
 date: 2017-05-06 12:00:00
 category: News
 tags:
@@ -16,9 +16,9 @@ A novel that asks: How do we forgive the ones we love?
 
 The THREAD
 
-By Tracy Mumford &middot; May 6, 2017
+By Tracy Mumford · May 6, 2017
 
-LISTEN&nbsp;
+LISTEN
 
 Ask a bookseller: Zandbroz Variety in Fargo, N.D.
 
@@ -34,7 +34,7 @@ Lately, she's been recommending "Pachinko," a new novel by Min Jin Lee.
 
 It's a sweeping family saga set in Korea and Japan. The story spans nearly the entire 20th century, following four generations through colonial rule, war and dislocation. For Danz, who has read a lot of historical fiction, it offered a different perspective on events like World War II and the Korean War. Much of the fiction on the market tells those stories from a Western perspective.
 
-It all begins with Sunja, a young girl in a Korean fishing village who falls in love with an older man. When she becomes pregnant, she learns he is already married.&nbsp;
+It all begins with Sunja, a young girl in a Korean fishing village who falls in love with an older man. When she becomes pregnant, she learns he is already married.
 
 To spare her from social disgrace, a visiting minister agrees to marry Sunja himself. Together, they move to Japan.
 
