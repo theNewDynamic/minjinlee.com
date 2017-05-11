@@ -13,3 +13,5 @@ venue:
 
 
 Private Event
+
+In Conversation with Melanie Priddy, Senior Director of Diversity & Professional Development
