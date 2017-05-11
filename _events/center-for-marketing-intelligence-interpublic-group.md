@@ -14,4 +14,6 @@ venue:
 
 Asian Pacific American History Month
 
+In Conversation with Theresa Thanjan, Co-Program Lead, Asian Heritage Group Advisory Board and Account Services Manager of IPG, Center for Marketing Intelligence
+
 Private Event
