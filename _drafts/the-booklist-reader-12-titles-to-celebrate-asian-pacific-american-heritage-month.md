@@ -11,10 +11,8 @@ description:
 ---
 
 
-&nbsp;
-
 By Terry Hong
 
-While Columbus is credited with discovering the Americas, notable scholars and historians have argued that Chinese explorers traveled around the world in the early 15th century and created a surviving map that shows America on its route. Imagine if those ancient explorers had stayed.
+&nbsp;Pachinko, by Min Jin Lee
 
-The history of Asians who did stay in the Americas dates back to the late 16th century, when Filipino sailors landed in California. Other Asians arrived in small numbers through the intervening years, the first large-scale influx happening in the mid-1800s, when Chinese migrants were drawn to the West Coast because of the potential for G
+Lee’s (Free Food for Millionaires) exquisite, haunting epic crosses almost a century, four generations, and three countries, depicting an ethnic Korean family that cannot even claim a single shared name because, as the opening line attests: “History has failed us.” In 1910, Japan annexes Korea, usurping the country and controlling identity. Amid the tragedies that follow, a fisherman and his wife survive through sheer tenacity. Their beloved daughter, married to a gentle minister while pregnant with another man’s child, initiates the migration to Japan to join her husband’s older brother and wife. Their extended family will always live as second-class immigrants and no level of achievement, integrity, or grit can change their status as reviled foreigners. Two Japanese-born sons choose diverging paths; one grandson hazards a further immigration to the other side of the world. Incisively titled (pachinko resemble slot machines with pinball characteristics), Lee’s profound novel of losses and gains explored through the social and cultural implications of pachinko-parlor owners and users is shaped by impeccable research, meticulous plotting, and empathic perception.
