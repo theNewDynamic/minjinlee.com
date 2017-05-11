@@ -1,6 +1,6 @@
 ---
 title: Proskauer
-start_at: 2017-05-31 12:00:00
+start_at: 2017-05-31 18:00:00
 show_time: true
 venue:
   name: Proskauer
@@ -11,7 +11,5 @@ venue:
   link:
 ---
 
-
-In conversation with Sang J. Lee, CEO of SJL Shannon, LLC
 
 Private Event
