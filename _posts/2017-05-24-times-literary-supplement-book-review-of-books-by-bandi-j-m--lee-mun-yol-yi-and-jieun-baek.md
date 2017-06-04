@@ -10,8 +10,6 @@ description:
 ---
 
 
-&nbsp;
-
 Fictions of North Korea
 
 By MIN JIN LEE
