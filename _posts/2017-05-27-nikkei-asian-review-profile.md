@@ -18,7 +18,7 @@ Acclaimed author of 'Pachinko' tracks a Korean family over generations and conti
 
 FRAN KUZUI, Contributing writer
 
-NEW YORK -- It seemed fitting that Min Jin Lee, the South Korea born, Ivy League educated author of the recently published novel "Pachinko," would choose the curious tastes of Cuban-Chinese food for a chat over lunch in Manhattan. She knew exactly what she wanted from the menu, mixing aromatic Chinese dishes with Cuban fried plantain bananas.
+NEW YORK – It seemed fitting that Min Jin Lee, the South Korea born, Ivy League educated author of the recently published novel "Pachinko," would choose the curious tastes of Cuban-Chinese food for a chat over lunch in Manhattan. She knew exactly what she wanted from the menu, mixing aromatic Chinese dishes with Cuban fried plantain bananas.
 
 Born in South Korea and now based in New York, Korean-American writer MJL, pictured here in central Tokyo, is equally at home in Asia and the West. (Photo by Kerry Raftis for KEYSHOTS.COM)
 
@@ -74,4 +74,4 @@ When asked by a woman in the public library audience which character in her nove
 
 "Free Food for Millionaires," about Koreans in the U.S., and "Pachinko," about Koreans in Japan, will eventually form part of a trilogy. Lee's next book concerns the overvaluation of education among Korean communities around the world.
 
-Underpinning her view of the vast Korean diaspora, meanwhile, are deep-seated concerns about migration and refugee flows."I hope that we can all respond compassionately to welcome refugees and to help their assimilation and integration into our respective economies. I think our hearts have to be open to those who seem different than we are, and perhaps open to those we may even fear. For this purpose -- this purpose of opening hearts -- I think art and drama are in a unique position and may help in a different way," she said.
+Underpinning her view of the vast Korean diaspora, meanwhile, are deep-seated concerns about migration and refugee flows."I hope that we can all respond compassionately to welcome refugees and to help their assimilation and integration into our respective economies. I think our hearts have to be open to those who seem different than we are, and perhaps open to those we may even fear. For this purpose – this purpose of opening hearts – I think art and drama are in a unique position and may help in a different way," she said.
