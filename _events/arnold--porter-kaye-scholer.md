@@ -12,4 +12,4 @@ venue:
 ---
 
 
-Private Event
+Private Event: New York City
