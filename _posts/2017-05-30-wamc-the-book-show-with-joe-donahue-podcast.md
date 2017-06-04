@@ -11,14 +11,10 @@ description:
 ---
 
 
-&nbsp;
-
 Episode 1506
 
 Min Jin Lee’s historical novel, Pachinko, spans the entire 20th century through four generations, three wars and two countries with a troubled past.
 
-The novel is a moving and powerful account of one of the world’s most persecuted immigrant communities—Koreans living in Japan.&nbsp;
+The novel is a moving and powerful account of one of the world’s most persecuted immigrant communities—Koreans living in Japan.
 
 To listen to the podcast, please click on the link below.
-
-&nbsp;
