@@ -1,11 +1,18 @@
 ---
-title: 'Radio Gorgeous Podcast:'
-date: 2016-11-01 12:00:00
-category:
-  - News
+title: Radio Gorgeous UK (Podcast with Donna Freed)
+date: 2017-05-29 12:00:00
+category: Media
 tags:
   - Reviews
-attribution:
-link_to_original:
+  - News
+  - Audio
+  - Interviews
+attribution: Radio Gorgeous UK
+link_to_original: 'http://radiogorgeous.com/podcasts/min-jin-lee-pachinko/'
 description:
 ---
+
+
+I had a terrific time speaking with Donna Freed on RADIO GORGEOUS. To listen to the podcast, please click on the link below.&nbsp;
+
+&nbsp;
