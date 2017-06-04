@@ -1,11 +1,30 @@
 ---
-title: Hay Festival  Blog
-date: 2016-11-01 12:00:00
-category:
-  - News
+title: Hay Festival  2017
+date: 2017-05-28 12:00:00
+category: News
 tags:
-  - Reviews
-attribution:
-link_to_original:
+  - Essays
+  - News
+attribution: Hay Festival
+link_to_original: 'http://blog.hayfestival.org/index.php/2017/05/a-special-kind-of-star-gazing-min-jin-lee/'
 description:
 ---
+
+
+&nbsp;
+
+I spoke at the Hay Festival on May 27, 2017, and the organizers asked me to record my impressions of my first time there.
+
+&nbsp;
+
+By Min Jin Lee
+
+Authors are vulnerable to star-gazing.
+
+I’d gotten tickets for the David Mitchell event, but because of horrid train delays, I’d missed it. I was heartbroken, because I’d wanted very much to hear him speak. As soon as I got out of the train station in Hereford, I turned to my right and spotted Hari Kunzru, the author of White Tears. I’d just done an event in Brooklyn with his talented wife Katie Kitamura, but I’d never met Hari before. So I ended up meeting a New York resident in Wales.
+
+Then I got in the Hay van with other writers, and naturally, we asked each other about our respective books. Seated behind the van driver was the gracious Ed Luce, the brilliant columnist of the FT, who has written an important book called The Retreat of Western Liberalism. On the ride to our accommodations, we talked about the upcoming elections in June, and I must confess that talking in a crowded van across seats with someone who knows politics so well is a bit intimidating, but in such situations, I try to listen very carefully and take in the light.
+
+When I finally registered at the Festival offices, I saw live screens of the different stages and caught the genius Simon Schama. In the Green Room, I spotted Tom Daley, the Olympic medallist, Charlotte Rampling, the actor, and Madeleine Thien, the Canadian author of Do Not Say We Have Nothing.
+
+By the time it was time to do my event with Julianne Pachico, the author of The Lucky Ones, chaired by the brilliant Lena de Casparis, the Culture Editor of Elle UK, I felt a little like the moon, almost luminous, having reflected so many suns.
