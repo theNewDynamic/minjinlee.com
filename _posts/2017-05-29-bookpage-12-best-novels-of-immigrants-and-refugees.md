@@ -11,11 +11,7 @@ description:
 ---
 
 
-&nbsp;
-
 By Cat, the Deputy Editor of BookPage
-
-&nbsp;
 
 In recent years, we’ve seen an uptick in stellar novels of the immigrant experience—from Behold the Dreamers to Americanah, from The Book of Unknown Americans to The Buddha in the Attic—and 2017 continues that trend, with an even greater emphasis on refugees’ tales. It seems every month so far this year has offered a handful of stories that give a voice to the displaced, the fishes out of water, the strangers in strange lands. These are 12 of our favorites.
 
