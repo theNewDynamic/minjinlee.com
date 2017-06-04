@@ -12,11 +12,13 @@ description:
 ---
 
 
+By Fran Kuzui, Contributing Writer
+
+&nbsp;
+
 Giving a voice to America's 'ignored' Asian immigrants
 
 Acclaimed author of 'Pachinko' tracks a Korean family over generations and continents
-
-FRAN KUZUI, Contributing writer
 
 NEW YORK – It seemed fitting that Min Jin Lee, the South Korea born, Ivy League educated author of the recently published novel "Pachinko," would choose the curious tastes of Cuban-Chinese food for a chat over lunch in Manhattan. She knew exactly what she wanted from the menu, mixing aromatic Chinese dishes with Cuban fried plantain bananas.
 
