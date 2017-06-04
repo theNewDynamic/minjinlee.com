@@ -13,6 +13,4 @@ description:
 ---
 
 
-I had a terrific time speaking with Donna Freed on RADIO GORGEOUS. To listen to the podcast, please click on the link below.&nbsp;
-
-&nbsp;
+I had a terrific time speaking with Donna Freed on RADIO GORGEOUS. To listen to the podcast, please click on the link below.
