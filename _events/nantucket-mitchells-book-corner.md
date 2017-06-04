@@ -1,12 +1,15 @@
 ---
 title: "Nantucket: Mitchell's Book Corner"
-start_at: 2016-08-01 12:00:00
+start_at: 2017-08-08 10:30:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-  link:
+  name: "Mitchell's Book Corner"
+  address: 54 Main Street
+  city: Nantucket
+  state: MA
+  zip: '02554'
+  link: 'http://www.mitchellsbookcorner.com'
 ---
+
+
+Reading & Book Signing
