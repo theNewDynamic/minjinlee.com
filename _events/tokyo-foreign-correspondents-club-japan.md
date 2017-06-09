@@ -14,6 +14,8 @@ venue:
 
 Book Break: Pachinko by Min Jin Lee
 
+A Conversation and Dinner
+
 For Book Break tickets, please go to: www.fccj.or.jp
 
 Tel. +81-3-3211-3161
