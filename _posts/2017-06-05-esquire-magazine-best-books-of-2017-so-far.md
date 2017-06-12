@@ -10,10 +10,6 @@ description:
 ---
 
 
-&nbsp;
-
 Pachinko made the list, edited by Angela Ledgerwood.
 
-For the full review, please click on the link below.&nbsp;
-
-&nbsp;
+For the full review, please click on the link below.
