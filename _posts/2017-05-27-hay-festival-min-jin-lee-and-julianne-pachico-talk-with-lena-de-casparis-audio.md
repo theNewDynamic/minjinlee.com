@@ -15,10 +15,10 @@ Min Jin Lee and Julianne Pachico talk to Lena de Casparis
 
 FICTIONS: SCALE
 
-Hay Festival 2017, &nbsp;Saturday 27 May 2017
+Hay Festival 2017,  Saturday 27 May 2017
 
 Min Jin Lee’s novel Pachinko is an epic tale of identity and survival and love, set across four generations of a Korean family in Japan. Julianne Pachico’s stories collected as The Lucky Ones explore the riveting lives and stories of a huge range of people caught up in the violence of Colombia’s guerrilla insurgencies. They talk to Lena de Casparis of Elle magazine.
 
 This event is available to listen. Please pay to download or stream.
 
-Price: &pound;1.00
+Price: £1.00
