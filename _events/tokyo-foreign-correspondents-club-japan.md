@@ -12,10 +12,12 @@ venue:
 ---
 
 
-Book Break: Pachinko by Min Jin Lee
+Book Break: PACHINKO
 
-A Conversation and Dinner
+In Conversation with Motoko Rich, the Tokyo Bureau Chief of The New York Times.&nbsp;
 
-For Book Break tickets, please go to: www.fccj.or.jp
+&nbsp;
+
+For Book Break tickets (Conversation & Dinner), please go to: www.fccj.or.jp
 
 Tel. +81-3-3211-3161
