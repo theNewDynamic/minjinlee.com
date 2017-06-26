@@ -13,4 +13,4 @@ description:
 
 Pachinko makes the Amazon list of BEST BOOKS OF THE YEAR SO FAR 2017 in the category of LITERATURE & FICTION.
 
-For the complete list, please click the link below.&nbsp;
+For the complete list, please click the link below.
