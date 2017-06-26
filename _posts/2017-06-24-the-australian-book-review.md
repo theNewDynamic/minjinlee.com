@@ -10,8 +10,6 @@ description:
 ---
 
 
-&nbsp;
-
 By Alex Griffin
 
 In his 1970 book Empire of Signs Roland Barthes said of pachinko, the Japanese cousin of pinball, that the player’s fate is set in motion and sealed by the first, and only, movement: after perching the ball up, you’re helpless, and watch your destiny spelled out before you. With each machine, the odds change every day at the whims of the manager.
