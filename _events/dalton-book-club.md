@@ -1,6 +1,6 @@
 ---
 title: Dalton Book Club
-start_at: 2016-08-01 12:00:00
+start_at: 2017-10-05 11:30:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,6 @@ venue:
   zip:
   link:
 ---
+
+
+Private Event
