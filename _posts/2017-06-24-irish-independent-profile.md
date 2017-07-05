@@ -6,8 +6,8 @@ tags:
   - Reviews
   - Interviews
   - Essays
-attribution: 'http://bit.ly/2so7qQy'
-link_to_original: Irish independent Review
+attribution:
+link_to_original:
 description:
 ---
 
