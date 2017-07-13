@@ -16,6 +16,6 @@ PACHINKO
 <br>FICTION
 <br>Pachinko is an epic family saga that follows four generations of a Korean family from the early 1900s through the 1980s. The family immigrates to Japan early on in the story and Min Jin Lee simultaneously explores the changing family dynamics as well as the cultural tension and discrimination against Koreans living in Japan. The characters are complex, the story runs deep, and Min Jin Lee’s writing is descriptive without being overwritten. She pulls you into this family from page one and you never want to leave them.
 
-- Rincey Abraham
+* Rincey Abraham
 
-For the complete list, please click the link below. Thanks to the editors of Book Riot.&nbsp;
+For the complete list, please click the link below. Thanks to the editors of Book Riot.
