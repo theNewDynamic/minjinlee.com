@@ -1,5 +1,5 @@
 ---
-title: "Martha's Vineyard Book Festival (SATURDAY PANEL)"
+title: "Martha's Vineyard Book Festival (Saturday Fiction Panel)"
 start_at: 2017-08-05 15:00:00
 show_time: true
 venue:
