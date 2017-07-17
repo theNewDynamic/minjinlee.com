@@ -1,15 +1,19 @@
 ---
-title: "Martha's Vineyard Book Festival"
-start_at: 2017-08-05 12:00:00
+title: "Martha's Vineyard Book Festival (SATURDAY PANEL)"
+start_at: 2017-08-05 15:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
+  name: Harborview Hotel
+  address: 131 North Water Street
+  city: Edgartown
+  state: MA
   zip:
   link:
 ---
 
 
-August 5th & 6th, 2017
+SATURDAY, AUGUST 5, 2017: 3:00PM-3:55PM
+
+Panel Discussion: "Fitting In: Friendship and Identity"
+
+With authors Julie Buntin, Min Jin Lee, Danzy Senna, and Deborah Tannen
