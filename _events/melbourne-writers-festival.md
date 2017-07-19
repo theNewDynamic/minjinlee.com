@@ -1,5 +1,5 @@
 ---
-title: 'Melbourne Writers Festival 2017 (Sunday: PACHINKO)'
+title: 'AUSTRALIA: Melbourne Writers Festival 2017 (Sunday: PACHINKO)'
 start_at: 2017-09-03 13:00:00
 show_time: true
 venue:
@@ -12,6 +12,4 @@ venue:
 ---
 
 
-Min Jin Lee discusses her novel PACHINKO.&nbsp;
-
-&nbsp;
+Min Jin Lee discusses her novel PACHINKO.
