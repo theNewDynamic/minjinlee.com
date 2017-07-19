@@ -12,4 +12,6 @@ venue:
 ---
 
 
-Min Jin Lee: PACHINKO
+Min Jin Lee discusses her novel PACHINKO.&nbsp;
+
+&nbsp;
