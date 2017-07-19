@@ -1,5 +1,5 @@
 ---
-title: Melbourne Writers Festival
+title: 'Melbourne Writers Festival 2017 (Sunday: PACHINKO)'
 start_at: 2017-09-03 13:00:00
 show_time: true
 venue:
@@ -12,4 +12,4 @@ venue:
 ---
 
 
-Min Jin Lee: PACHINKO&nbsp;
+Min Jin Lee: PACHINKO
