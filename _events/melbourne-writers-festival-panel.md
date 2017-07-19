@@ -1,5 +1,5 @@
 ---
-title: Melbourne Writers Festival (Panel)
+title: 'Melbourne Writers Festival (Saturday: Panel)'
 start_at: 2017-09-02 13:00:00
 show_time: true
 venue:
