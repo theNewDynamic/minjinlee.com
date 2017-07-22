@@ -1,11 +1,13 @@
 ---
-title: "Tenement Museum: Conversation with AAWW's Ken Chen and Min Jin Lee (Video)"
-date: 2016-11-01 12:00:00
-category:
-  - News
+title: "Live at the Tenement Museum: Pachinko with AAWW's Ken Chen and Min Jin Lee (Video)"
+date: 2017-07-21 12:00:00
+category: Media
 tags:
   - Reviews
-attribution:
-link_to_original:
+  - Interviews
+attribution: AAWWTV
+link_to_original: 'https://youtu.be/IuzT1tdCRZM'
 description:
 ---
+
+
