@@ -1,12 +1,15 @@
 ---
 title: Irish Arts Center Book Club
-start_at: 2016-08-01 12:00:00
+start_at: 2017-11-14 18:30:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
+  name: Irish Arts Center
+  address: 553 West 51st Street
+  city: New York
+  state: NY
   zip:
-  link:
+  link: 'http://irishartscenter.org'
 ---
+
+
+IAC discusses PACHINKO with author Min Jin Lee.
