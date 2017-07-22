@@ -11,9 +11,9 @@ description:
 ---
 
 
-By Amanda Nelson&nbsp;
+By Amanda Nelson
 
-Join your fellow book nerds at Book Riot Insiders and get a sweet store deal, exclusive content, the magical New Releases Index, and more!&nbsp;
+Join your fellow book nerds at Book Riot Insiders and get a sweet store deal, exclusive content, the magical New Releases Index, and more!
 
 2017 has been a great year for book lovers so far. From new releases by our favorite writers to wonderful breakout books and genre-bending novels, the list of popular books in 2017 keeps growing. We’ve compiled a list of books getting the most buzz so far this year, along with their publishers’ descriptions.
 
