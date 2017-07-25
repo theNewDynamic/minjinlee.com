@@ -12,7 +12,11 @@ venue:
 ---
 
 
-11:30am-12:30pm PACHINKO with Min Jin Lee
+Introduced by Ambassador Caroline Kennedy
+
+11:45am-12:30pm PACHINKO with Min Jin Lee.
+
+Chilmark Community Center Campus, Stonewall Tent&nbsp;
 
 12:30-1:00pm Book Signing&nbsp;
 
