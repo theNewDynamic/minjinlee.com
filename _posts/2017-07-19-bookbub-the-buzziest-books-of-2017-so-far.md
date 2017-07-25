@@ -21,6 +21,4 @@ Profoundly moving and gracefully told, Pachinko follows one Korean family throug
 
 So begins a sweeping saga of exceptional people in exile from a homeland they never knew and caught in the indifferent arc of history. In Japan, Sunja’s family members endure harsh discrimination, catastrophes, and poverty, yet they also encounter great joy as they pursue their passions and rise to meet the challenges this new home presents. Through desperate struggles and hard-won triumphs, they are bound together by deep roots as their family faces enduring questions of faith, family, and identity.
 
-&nbsp;
-
-For the complete list, please click the link below.&nbsp;
+For the complete list, please click the link below.
