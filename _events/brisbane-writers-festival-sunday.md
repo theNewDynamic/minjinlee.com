@@ -8,8 +8,8 @@ venue:
   city:
   state:
   zip:
-  link:
+  link: 'http://uplit.com.au/festival/brisbane-writers-festival-2017/program/from-across-the-sea'
 ---
 
 
-From Across the Sea: Min Jin Lee, Peter Polites and Melanie Cheng explore the experience of immigration across generations.&nbsp;
+From Across the Sea: Min Jin Lee, Peter Polites and Melanie Cheng explore the experience of immigration across generations.
