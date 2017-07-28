@@ -1,12 +1,14 @@
 ---
-title: 'Brisbane Writers Festival: PACHINKO with Min Jin Lee'
-start_at: 2016-08-01 12:00:00
+title: 'Brisbane Writers Festival: Saturday PACHINKO with Min Jin Lee'
+start_at: 2017-09-09 13:00:00
 show_time: true
 venue:
-  name:
+  name: Auditorium 1
   address:
   city:
   state:
   zip:
   link:
 ---
+
+
