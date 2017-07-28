@@ -1,5 +1,5 @@
 ---
-title: 'Brisbane Writers Festival: Saturday PACHINKO with Min Jin Lee'
+title: 'Brisbane Writers Festival: Saturday PACHINKO with author Min Jin Lee'
 start_at: 2017-09-09 13:00:00
 show_time: true
 venue:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+  link: 'http://uplit.com.au/festival/brisbane-writers-festival-2017/program/pachinko'
 ---
 
 
