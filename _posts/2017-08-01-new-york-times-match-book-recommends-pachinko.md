@@ -22,13 +22,13 @@ Do you have any suggestions for both divinely engrossing and beautifully written
 SARAH CARTER
 <br>BOSTON
 
-...
+…
 
 Finally I suggest an urgent, satisfying saga from 2017 to add to your vacation reading stack: “Pachinko” by Min Jin Lee. The careful, unadorned language of Lee’s second novel, the story of four generations of a Korean family living under Japanese forced occupation, is revealing and stealthily seductive. The story begins in earnest in 1932 with Sunja, a 16-year-old girl from a small village whose unexpected pregnancy changes the course of her life. Layers of history and politics build as the scope and sweep of the narrative widen. Yet even as the story stretches more than 50 years, Lee’s portraits of her characters — proud and tender — remain intimate.
 
-Yours truly,&nbsp;
+Yours truly,
 <br>Match Book
 
-For the complete article, please click the link:&nbsp;
+For the complete article, please click the link:
 
 Do you need book recommendations? Write to matchbook@nytimes.com.
