@@ -15,7 +15,7 @@ When the Odds Favor the House, It's Still Important to Feel Lucky
 
 By Vivian Ewing
 
-Sunday, July 30, 2017&nbsp;
+Sunday, July 30, 2017
 
 Author Min Jin Lee says she loves Martha’s Vine yard, and that she should be easy to spot at her favorite place, Morning Glory Farm. “If you can recognize a really tall Korean-American person eating a lot of pie, like even before she paid for it, that would be me,” she said.
 
