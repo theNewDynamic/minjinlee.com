@@ -11,13 +11,9 @@ description:
 ---
 
 
-&nbsp;
+"A MASTERPIECE OF EMPATHY, INTEGRITY AND FAMILY LOYALTY" : Min Jin Lee tells an endearing tale of hardship and inhumanity suffered by Koreans
 
-"A MASTERPIECE OF EMPATHY, INTEGRITY AND FAMILY LOYALTY" :&nbsp;Min Jin Lee tells an endearing tale of hardship and inhumanity suffered by Koreans
-
-Min Jin Lee: a writer in complete control of her characters and her story and with an intense awareness of the importance of her heritage.&nbsp;
-
-&nbsp;
+Min Jin Lee: a writer in complete control of her characters and her story and with an intense awareness of the importance of her heritage.
 
 By John Boyne
 
@@ -39,7 +35,7 @@ Pachinko itself is a Japanese version of pinball and while pachinko parlours bec
 
 Generational sweep
 
-While Pachinko is only Min Jin Lee’s second novel – her first, Free Food for Millionaires, will be reissued later this summer – it is the work of a writer in complete control of her characters and her story and with an intense awareness of the importance of her heritage. In its generational sweep, it recalls John Galsworthy’s The Forsyth Saga, replicating some of that classic novel’s focus on status, money, infidelity and cruelty as it explores the effect of parental decisions on children, and the children of children. As Faulkner put it, “the past isn’t dead. It isn’t even past.”&nbsp;
+While Pachinko is only Min Jin Lee’s second novel – her first, Free Food for Millionaires, will be reissued later this summer – it is the work of a writer in complete control of her characters and her story and with an intense awareness of the importance of her heritage. In its generational sweep, it recalls John Galsworthy’s The Forsyth Saga, replicating some of that classic novel’s focus on status, money, infidelity and cruelty as it explores the effect of parental decisions on children, and the children of children. As Faulkner put it, “the past isn’t dead. It isn’t even past.”
 
 This is a long book but is told with such flair and linguistic dexterity that I found myself unable to put it down. Every year, there are a few standout novels that survive long past the hype has died down and the hyperbolic compliments from friends scattered across the dust jacket have been forgotten. Pachinko, a masterpiece of empathy, integrity and familial loyalty, will be one of those novels.
 
