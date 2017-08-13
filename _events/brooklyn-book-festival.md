@@ -3,7 +3,7 @@ title: Brooklyn Book Festival
 start_at: 2017-09-17 11:00:00
 show_time: true
 venue:
-  name: Brooklyn Historical Library
+  name: Brooklyn Historical Society
   address: 128 Pierrepont Street
   city: Brooklyn
   state: NY
