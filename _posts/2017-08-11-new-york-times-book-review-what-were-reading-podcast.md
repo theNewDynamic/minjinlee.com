@@ -23,4 +23,4 @@ Here are the books mentioned in this week’s “What We’re Reading”:
 
 “Pachinko” by Min Jin Lee
 
-To listen to the podcast, please click the link below. The "What We're Reading Segment" is at the last ten minutes of this week's episode. Thank you.&nbsp;
+To listen to the podcast, please click the link below. The "What We're Reading Segment" is at the last ten minutes of this week's episode. Thank you.
