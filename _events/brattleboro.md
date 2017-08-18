@@ -12,3 +12,6 @@ venue:
 ---
 
 
+&nbsp;
+
+Bill Goldstein, the author of THE WORLD BROKEN IN TWO: Virginia Woolf, T.S. Eliot, D.H. Lawrence, E.M. Forster, and the Year That Changed Literature, in conversation with Min Jin Lee, author of PACHINKO.&nbsp;
