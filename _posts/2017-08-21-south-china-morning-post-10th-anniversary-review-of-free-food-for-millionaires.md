@@ -30,7 +30,7 @@ Casey learned what to wear, how to speak and who to date. Her ambitions are embo
 
 Despite learning valuable lessons in couture and deportment, Casey’s clamber up New York’s slippery pole was never likely to be frictionless: her cultural background and innate volatility ensure that. But two traumatic events sink her choppy progress, and start the tsunami that is Lee’s large, winding novel.
 
-Firstly, she is punched in the face by her father, who feels his suffering in Korea and America has been disrespected by his self-centred daughter, whose fundamental aimlessness he takes as a personal insult. Bruised, distraught and effectively disowned, Casey picks herself up, and heads for the sanctuary of Jay’s Manhattan apartment, only to walk in as he completes the erotic triangle of a m&eacute;nage &agrave; trois. Trauma number two.
+Firstly, she is punched in the face by her father, who feels his suffering in Korea and America has been disrespected by his self-centred daughter, whose fundamental aimlessness he takes as a personal insult. Bruised, distraught and effectively disowned, Casey picks herself up, and heads for the sanctuary of Jay’s Manhattan apartment, only to walk in as he completes the erotic triangle of a ménage à trois. Trauma number two.
 
 Lee follows cause to effect with an adroit precision that Victorian novelists such as Thomas Hardy would have admired. Casey’s occasionally exasperating contradictions are exposed when she immediately blows what little money she has on clothes that only she thinks she requires. Lee teases her signature pride and vulnerability to the surface when, frozen, hungry and desperate, Casey bumps into Ella, a prettier, quieter and richer version of herself who attended the same church in Queens.
 
