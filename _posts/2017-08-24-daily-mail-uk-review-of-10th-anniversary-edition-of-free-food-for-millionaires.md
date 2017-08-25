@@ -17,9 +17,9 @@ LITERARY FICTION
 
 By Stephanie Cross for the Daily Mail
 
-PUBLISHED: 17:21 EDT, 24 August 2017 |&nbsp;UPDATED: 17:21 EDT, 24 August 2017
+| PUBLISHED: 17:21 EDT, 24 August 2017       | UPDATED: 17:21 EDT, 24 August 2017 |
 
-FREE FOOD FOR MILLIONAIRES by Min Jin Lee (Apollo, &pound;14.99)
+FREE FOOD FOR MILLIONAIRES by Min Jin Lee (Apollo, £14.99)
 
 The heroine of this vivacious saga is Casey Han, an Ivy League Economics graduate seeking to make her way and find love in Nineties Manhattan.
 
@@ -29,6 +29,6 @@ Casey is, among other things, a fan of 19th-century novels, and at 550 pages, Fr
 
 Yet with its focus on mores and money, it’s Jane Austen that Min Jin Lee’s debut most often brings to mind. Indeed, there are two memorable episodes in which an exchange of gifts reveals a gulf in regard and understanding that could have been penned by Austen herself, so well are they judged.
 
-The sisters’ stories bowl absorbingly along, while their mother is also permitted a poignant starring role, receiving the same sympathetic treatment Min Jin Lee extends to almost all her characters.&nbsp;&nbsp;
+The sisters’ stories bowl absorbingly along, while their mother is also permitted a poignant starring role, receiving the same sympathetic treatment Min Jin Lee extends to almost all her characters.
 
-<br>&nbsp;
+<br>
