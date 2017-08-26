@@ -11,11 +11,9 @@ description:
 ---
 
 
-&nbsp;
-
 By Melissa Katsoulis July 28, 2017
 
-IF YOU DON’T KNOW YOUR kimbop from your bop, and have never tasted the delights of p&acirc;te &agrave; choux cream puffs with hong cha, you may never have considered the fact that although there are more than 2 million ethnic Koreans in America, their arrival on the mainstream cultural scene is long overdue. It is a good 40 years since the diaspora got going, so what – if not producing novels, films and music – have they been doing all this time?
+IF YOU DON’T KNOW YOUR kimbop from your bop, and have never tasted the delights of pâte à choux cream puffs with hong cha, you may never have considered the fact that although there are more than 2 million ethnic Koreans in America, their arrival on the mainstream cultural scene is long overdue. It is a good 40 years since the diaspora got going, so what – if not producing novels, films and music – have they been doing all this time?
 
 The short answer, according to the New York-based writer Min Jin Lee, is laundry. That’s the business of her fictional couple, Joseph and Leah Han who, like countless others in their community, have worked themselves to the bone to get Manhattan’s whites whiter, while saving every penny to give their two daughters a good education.
 
