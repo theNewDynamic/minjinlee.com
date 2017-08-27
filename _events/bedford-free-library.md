@@ -1,12 +1,15 @@
 ---
 title: Bedford Free Library
-start_at: 2016-08-01 12:00:00
+start_at: 2017-10-11 19:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
+  name: Bedford Free Library
+  address: 32 Village Green
+  city: Bedford
+  state: NY
   zip:
-  link:
+  link: 'http://bedfordfreelibrary.org'
 ---
+
+
+In Conversation with Tracy Fauver.
