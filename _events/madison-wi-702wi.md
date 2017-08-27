@@ -1,6 +1,6 @@
 ---
 title: 'Madison, WI: 702Wi'
-start_at: 2016-08-01 12:00:00
+start_at: 2017-09-27 19:00:00
 show_time: true
 venue:
   name:
@@ -8,5 +8,10 @@ venue:
   city:
   state:
   zip:
-  link:
+  link: 'http://www.702wi.com/events.html'
 ---
+
+
+Authors Karl Geary, Montpelier Parade, in conversation with Min Jin Lee, Pachinko.
+
+Tickets Available on link.&nbsp;
