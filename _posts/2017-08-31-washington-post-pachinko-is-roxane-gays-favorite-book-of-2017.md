@@ -11,8 +11,6 @@ description:
 ---
 
 
-&nbsp;
-
 By Angela Haupt
 
 The National Book Festival: the one day a year when a serious reader’s biggest problem isn’t that overflowing stack of books to get to. During the 10-hour event, more than 100 authors, illustrators and poets will give talks and sign their books. It’s a lot to take in, so we won’t judge if you’ve been busy finessing an Excel-sheet game plan (Elizabeth Strout or Don Winslow at 10 a.m.?). To help with your prep work, we chatted with seven of this year’s featured authors — including David Baldacci and the “Outlander” series’ Diana Gabaldon — about their talks and the books they’ve loved in 2017.
@@ -23,4 +21,4 @@ Roxane Gay
 <br>Favorite 2017 book: The novel “Pachinko” by Min Jin Lee, which follows four generations of a poor Korean immigrant family in Japan.
 
 For the complete article, please click the link.
-<br>&nbsp;
+<br>
