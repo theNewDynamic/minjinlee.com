@@ -1,12 +1,14 @@
 ---
-title: 'London, UK: Burley Fisher Bookstore'
-start_at: 2016-08-01 12:00:00
+title: 'London, UK: Burley Fisher Books'
+start_at: 2017-10-19 19:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
+  name: Burley Fisher
+  address: 400 Kingsland Road
+  city: London
   state:
-  zip:
-  link:
+  zip: E8 4AA
+  link: 'http://burleyfisherbooks.com'
 ---
+
+
