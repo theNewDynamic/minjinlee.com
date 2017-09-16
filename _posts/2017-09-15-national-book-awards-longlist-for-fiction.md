@@ -11,9 +11,7 @@ description:
 ---
 
 
-So profoundly honored and grateful for PACHINKO to make the National Book Awards Longlist for Fiction. Thank you.&nbsp;
-
-&nbsp;
+So profoundly honored and grateful for PACHINKO to make the National Book Awards Longlist for Fiction. Thank you.
 
 The 2017 Longlist for the National Book Award for Fiction
 
@@ -21,7 +19,7 @@ Elliot Ackerman, “Dark at the Crossing”
 
 Knopf / Penguin Random House
 
-Daniel Alarc&oacute;n, “The King Is Always Above the People: Stories”
+Daniel Alarcón, “The King Is Always Above the People: Stories”
 
 Riverhead Books / Penguin Random House
 
