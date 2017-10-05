@@ -13,8 +13,6 @@ description:
 
 By Colin Dwyer
 
-&nbsp;
-
 It began with more than 1,500 books.
 
 With all the works submitted by publishers, the judges for this year's National Book Awards have had their hands (and bookshelves) full the past few months. But that daunting number of contenders winnowed further Wednesday, as the National Book Foundation announced the finalists for its literary prize — just five works each in four categories: fiction, nonfiction, poetry and young people's literature.
@@ -39,4 +37,4 @@ Frank Bidart: Half-light: Collected Poems 1965-2016<br>Leslie Harrison: The Book
 
 Young People's Literature
 
-Elana K. Arnold: What Girls Are Made Of<br>Robin Benway: Far from the Tree<br>Erika L. S&aacute;nchez: I Am Not Your Perfect Mexican Daughter<br>Rita Williams-Garcia: Clayton Byrd Goes Underground<br>Ibi Zoboi: American Street
+Elana K. Arnold: What Girls Are Made Of<br>Robin Benway: Far from the Tree<br>Erika L. Sánchez: I Am Not Your Perfect Mexican Daughter<br>Rita Williams-Garcia: Clayton Byrd Goes Underground<br>Ibi Zoboi: American Street
