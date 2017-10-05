@@ -4,7 +4,7 @@ image_path: /uploads/minjinlee.jpg
 ---
 
 
-Min Jin Lee's *Pachinko*&nbsp;(Feb 2017) is a national bestseller, a *New York Times&nbsp;*Editor's Choice and an American Booksellers Association's Indie Next Great Reads. *Pachinko*is a National Book Awards Finalist for Fiction. Lee's debut novel&nbsp;*Free Food for Millionaires (May 2007) was a No. 1 Book Sense Pick, a New York Times* Editor’s Choice, a *Wall Street Journal* Juggle Book Club selection, and a national bestseller; it was a Top 10 Novels of the Year for *The Times* of London, NPR’s *Fresh Air* and *USA Today*.
+Min Jin Lee's *Pachinko*&nbsp;(Feb 2017) is a national bestseller, a *New York Times&nbsp;*Editor's Choice and an American Booksellers Association's Indie Next Great Reads. *Pachinko &nbsp;*is a Finalist for the National Book Awards Finalist. Lee's debut novel&nbsp;*Free Food for Millionaires (May 2007) was a No. 1 Book Sense Pick, a New York Times* Editor’s Choice, a *Wall Street Journal* Juggle Book Club selection, and a national bestseller; it was a Top 10 Novels of the Year for *The Times* of London, NPR’s *Fresh Air* and *USA Today*.
 
 Min Jin went to Yale College where she was awarded both the Henry Wright Prize for Nonfiction and the James Ashmun Veech Prize for Fiction. She attended law school at Georgetown University and worked as a lawyer for several years in New York prior to writing full time.
 
