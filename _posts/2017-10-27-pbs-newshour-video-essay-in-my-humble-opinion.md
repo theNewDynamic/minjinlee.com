@@ -15,4 +15,4 @@ description:
 ---
 
 
-To see the video essay about my family in North Korea, please click the link. Thank you.&nbsp;
+To see the video essay about my family in North Korea, please click the link. Thank you.
