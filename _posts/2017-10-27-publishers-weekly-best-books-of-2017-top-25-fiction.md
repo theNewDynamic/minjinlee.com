@@ -11,4 +11,4 @@ description:
 ---
 
 
-Pachinko is a Top 25 Fiction selection for PUBLISHERS WEEKLY's BEST BOOKS OF 2017. Thank you.&nbsp;
+Pachinko is a Top 25 Fiction selection for PUBLISHERS WEEKLY's BEST BOOKS OF 2017. Thank you.
