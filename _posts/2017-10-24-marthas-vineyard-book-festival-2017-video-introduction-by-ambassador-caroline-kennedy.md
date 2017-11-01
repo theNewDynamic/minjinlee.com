@@ -1,5 +1,7 @@
 ---
-title: 'Martha''s Vineyard Book Festival 2017: Video (With Ambassador Caroline Kennedy)'
+title: >-
+  Martha's Vineyard Book Festival 2017: Video (Introduction by Ambassador
+  Caroline Kennedy)
 date: 2017-10-24 12:00:00
 category: Media
 tags:
