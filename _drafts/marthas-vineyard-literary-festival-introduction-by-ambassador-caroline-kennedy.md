@@ -11,7 +11,7 @@ description:
 ---
 
 
-This past summer, I had the great honor of being introduced by Ambassador Caroline Kennedy, who is so very cool and fun, at the MV Book Festival. &nbsp;Thanks to Amb. Caroline Kennedy, the Martha's Vineyard Book Festival, its valiant founder Sullen Lazarus, the great volunteers of the festival, and of course, Bunches of Grapes, independent bookstore extraordinaire.
+This past summer, I had the great honor of being introduced by Ambassador Caroline Kennedy, who is so very cool and fun, at the MV Book Festival. &nbsp;Thanks to Amb. Caroline Kennedy, the Martha's Vineyard Book Festival, its valiant founder Sullen Lazarus, the great volunteers of the festival, and of course, Bunch of Grapes, independent bookstore extraordinaire.
 
 To see the video, please &nbsp;click the link.&nbsp;
 
