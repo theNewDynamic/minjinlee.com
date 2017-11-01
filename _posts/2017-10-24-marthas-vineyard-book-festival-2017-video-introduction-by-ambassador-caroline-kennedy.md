@@ -8,7 +8,7 @@ tags:
   - Reviews
   - Video
   - News
-attribution: Martha's Vineyard Book Festival
+attribution: Martha's Vineyard Book Festival & Martha's Vineyard Productions
 link_to_original: 'https://www.youtube.com/watch?v=kscMU-W7tKU'
 description:
 ---
