@@ -18,7 +18,7 @@ By JONATHAN SOBLE
 
 NOV. 6, 2017
 
-Working in pachinko parlors was one route to economic improvement for Koreans living in Japan during the mid-20th century. CreditMargaret Bourke-White/The LIFE Picture Collection, via Getty Images&nbsp;
+Working in pachinko parlors was one route to economic improvement for Koreans living in Japan during the mid-20th century. CreditMargaret Bourke-White/The LIFE Picture Collection, via Getty Images
 
 TOKYO — By Japanese standards, the Tokyo neighborhood of Shin-Okubo is a messy, polyglot place. A Korean enclave that has attracted newcomers from around the world in recent years, its profusion of barbecue joints, pan-Asian street markets and halal butcher shops distinguish it in a country with a reputation for cultural homogeneity.
 
@@ -56,7 +56,7 @@ In South Korea, her father had worked in marketing at a cosmetics company, but f
 
 “It was boring,” she said — big on social themes but short on fully realized human characters and relationships. “I didn’t talk to enough people.”
 
-While living in Tokyo, Min Jin Lee interviewed Koreans — business people, pachinko parlor owners, bar hostesses — as part of the research for her novel. CreditKerry Raftis&nbsp;
+While living in Tokyo, Min Jin Lee interviewed Koreans — business people, pachinko parlor owners, bar hostesses — as part of the research for her novel. CreditKerry Raftis
 
 The chance for a fresh start came in 2007, when her husband, a banker of Japanese descent, took a job in Tokyo. While there, she started looking for zainichi to interview — business people, pachinko parlor owners, bar hostesses.
 
@@ -79,5 +79,3 @@ Ms. Lee said she hoped that publishers would not be put off by an unsparing look
 “I do have love for Japan. At the same time, I have a complex relationship with Japan because I’m Korean,” she said. “But I think it shows the strength of a country when you can talk about the past transparently.”
 
 Follow Jonathan Soble on Twitter @jonathan_soble.
-
-&nbsp;
