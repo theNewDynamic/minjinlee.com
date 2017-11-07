@@ -18,7 +18,7 @@ By JONATHAN SOBLE
 
 NOV. 6, 2017
 
-Working in pachinko parlors was one route to economic improvement for Koreans living in Japan during the mid-20th century. CreditMargaret Bourke-White/The LIFE Picture Collection, via Getty Images
+&nbsp;
 
 TOKYO — By Japanese standards, the Tokyo neighborhood of Shin-Okubo is a messy, polyglot place. A Korean enclave that has attracted newcomers from around the world in recent years, its profusion of barbecue joints, pan-Asian street markets and halal butcher shops distinguish it in a country with a reputation for cultural homogeneity.
 
