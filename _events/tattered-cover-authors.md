@@ -8,10 +8,13 @@ venue:
   city:
   state:
   zip:
-  link:
+  link: >-
+    https://www.eventbrite.com/e/tattered-cover-literary-feast-writers-respond-to-readers-2018-tickets-39337345058
 ---
 
 
 Hari Kunzru, April Smith, Carrie La Seur, Thomas Mullen, and Min Jin Lee
 
 8.45am-5.30pm
+
+This is a ticketed event. Please click the link.&nbsp;
