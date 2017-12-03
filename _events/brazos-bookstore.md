@@ -1,12 +1,14 @@
 ---
 title: Brazos Bookstore
-start_at: 2016-08-01 12:00:00
+start_at: 2018-02-01 19:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-  link:
+  name: Brazos Bookstore
+  address: 2421 Bissonnet Street
+  city: Houston
+  state: TX
+  zip: '77005'
+  link: 'http://www.brazosbookstore.com/event/min-jin-lee-pachinko'
 ---
+
+
