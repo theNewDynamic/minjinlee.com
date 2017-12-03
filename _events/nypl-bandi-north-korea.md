@@ -1,12 +1,14 @@
 ---
-title: 'NYPL: Bandi North Korea'
-start_at: 2016-08-01 12:00:00
+title: 'NYPL: Author Talks—Bandi''s North Korea'
+start_at: 2018-01-16 18:30:00
 show_time: true
 venue:
-  name:
+  name: 'NYPL: Stephen A. Schwarzman Building'
   address:
   city:
   state:
   zip:
   link:
 ---
+
+
