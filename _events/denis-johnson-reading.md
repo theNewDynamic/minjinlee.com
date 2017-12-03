@@ -1,6 +1,6 @@
 ---
 title: Denis Johnson Reading
-start_at: 2016-08-01 12:00:00
+start_at: 2018-01-17 18:30:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,5 @@ venue:
   zip:
   link:
 ---
+
+
