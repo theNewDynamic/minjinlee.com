@@ -16,4 +16,4 @@ description:
 
 An Interview on THE GIST: A Daily News and Culture Podcast with Mike Pesca
 
-For the podcast and article, please click the link below.&nbsp;
+For the podcast and article, please click the link below.
