@@ -12,3 +12,4 @@ venue:
 ---
 
 
+The event is FREE but please register in the link below.&nbsp;
