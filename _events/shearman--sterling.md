@@ -1,6 +1,6 @@
 ---
-title: Shearman & Sterling
-start_at: 2016-08-01 12:00:00
+title: Shearman & Sterling LLP
+start_at: 2018-02-21 19:00:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,6 @@ venue:
   zip:
   link:
 ---
+
+
+private event
