@@ -1,6 +1,6 @@
 ---
 title: Irish American Center Book Club
-start_at: 2016-12-04 18:30:00
+start_at: 2017-12-04 18:30:00
 show_time: true
 venue:
   name: Irish Arts Center
@@ -12,4 +12,4 @@ venue:
 ---
 
 
-A discussion of PACHINKO with Min Jin Lee, led by Rachael Gilkey. The event is free, but please reserve with the IAC.&nbsp;&nbsp;
+A discussion of PACHINKO with Min Jin Lee, led by Rachael Gilkey. The event is free, but please reserve with the IAC.
