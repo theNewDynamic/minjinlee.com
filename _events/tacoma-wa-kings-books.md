@@ -1,12 +1,14 @@
 ---
 title: 'Tacoma, WA: King''s Books'
-start_at: 2016-08-01 12:00:00
+start_at: 2018-02-15 19:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-  link:
+  name: King's Books
+  address: 218 St. Helens Avenue
+  city: Tacoma
+  state: WA
+  zip: '98402'
+  link: 'http://www.kingsbookstore.com/directions'
 ---
+
+
