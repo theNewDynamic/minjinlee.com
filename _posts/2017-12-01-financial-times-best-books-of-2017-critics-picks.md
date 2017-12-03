@@ -10,12 +10,8 @@ description:
 ---
 
 
-&nbsp;
-
 Selected by Nilanjana Roy, FT Columnist:
 
 "History has failed us, but no matter." PACHINKO, Min Jin Lee's massive, richly wrought second novel, follows Sunja and her children across four generations, from a village in Busan to a ghetto for Korean immigrants in Japan. Sunja weds a pastor to cleanse the stain of her love affair with a charismatic married man. Her second son makes a fortune with pachinko parlours, but a character notes: 'Living everyday in the presence of those who refuse to acknowledge your humanity takes great courage.' One of 2017's most rewarding novels.
 
-&nbsp;
-
-For the complete list, please click the link.&nbsp;
+For the complete list, please click the link.
