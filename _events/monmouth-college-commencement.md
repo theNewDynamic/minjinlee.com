@@ -1,12 +1,15 @@
 ---
-title: Monmouth College Commencement
-start_at: 2016-08-01 12:00:00
+title: Monmouth College's 161st Commencement
+start_at: 2018-05-13 12:00:00
 show_time: true
 venue:
-  name:
+  name: Wallace Hall Plaza
   address:
   city:
   state:
   zip:
-  link:
+  link: >-
+    http://www.reviewatlas.com/news/20171124/national-book-award-finalist-min-jin-lee-to-give-monmouth-commencement-address
 ---
+
+
