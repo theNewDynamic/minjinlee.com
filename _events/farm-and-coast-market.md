@@ -10,3 +10,6 @@ venue:
   zip:
   link:
 ---
+
+
+In Conversation with author Erin McHugh and Min Jin Lee about PACHINKO
