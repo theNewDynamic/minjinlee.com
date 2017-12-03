@@ -1,6 +1,6 @@
 ---
 title: Nantucket Book Festival 2018
-start_at: 2018-06-15 12:00:00
+start_at: 2018-06-14 12:00:00
 show_time: true
 venue:
   name:
@@ -12,6 +12,6 @@ venue:
 ---
 
 
-June 15-17, 2018
+June 14-16, 2018
 
 &nbsp;
