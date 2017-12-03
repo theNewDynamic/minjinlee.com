@@ -1,6 +1,6 @@
 ---
 title: Lighthouse Writers Workshop
-start_at: 2016-08-01 12:00:00
+start_at: 2018-06-04 12:00:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,6 @@ venue:
   zip:
   link:
 ---
+
+
+June 4th-8th
