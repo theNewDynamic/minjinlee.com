@@ -1,6 +1,6 @@
 ---
-title: 'Lillian Vernon Creative Writers House: NYU MFA Program'
-start_at: 2016-08-01 12:00:00
+title: 'Lillian Vernon Creative Writers House: NYU'
+start_at: 2018-04-20 19:00:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,5 @@ venue:
   zip:
   link:
 ---
+
+
