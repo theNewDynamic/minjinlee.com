@@ -1,12 +1,15 @@
 ---
 title: Little City Books
-start_at: 2016-08-01 12:00:00
+start_at: 2018-03-14 19:00:00
 show_time: true
 venue:
   name:
-  address:
-  city:
-  state:
+  address: 100 Bloomfield Street
+  city: Hoboken
+  state: NJ
   zip:
-  link:
+  link: 'http://www.littlecitybooks.com'
 ---
+
+
+In Conversation with Ann Anderson Evans
