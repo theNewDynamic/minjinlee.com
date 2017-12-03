@@ -1,12 +1,14 @@
 ---
 title: RJ Julia
-start_at: 2016-08-01 12:00:00
+start_at: 2018-01-25 19:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-  link:
+  name: R.J. Julia Booksellers
+  address: 768 Boston Post Road
+  city: Madison
+  state: CT
+  zip: '06443'
+  link: 'http://www.rjjulia.com/event/min-jin-lee-pachinko'
 ---
+
+
