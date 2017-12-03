@@ -1,12 +1,15 @@
 ---
 title: LIC Reading Series
-start_at: 2016-08-01 12:00:00
+start_at: 2018-01-09 20:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
-  link:
+  name: LIC Bar
+  address: 45-58 Vernon Boulevard
+  city: Long Island City
+  state: NY
+  zip: '11101'
+  link: 'https://www.licreadingseries.com/events'
 ---
+
+
+Series curated by Catherine LaSota.&nbsp;
