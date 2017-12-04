@@ -13,4 +13,4 @@ description:
 
 Pachinko is one of the Top 25 Books of the Year in BookPage
 
-For the complete list, please click the link.&nbsp;
+For the complete list, please click the link.
