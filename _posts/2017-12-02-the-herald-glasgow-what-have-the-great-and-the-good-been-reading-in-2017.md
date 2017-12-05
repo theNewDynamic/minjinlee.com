@@ -21,4 +21,4 @@ I read Min Jin Lee’s Pachinko (Head of Zeus) this year while in Korea which br
 
 Ali Smith’s Autumn (Hamish Hamilton 16.99) is a luminous book and is my favourite type of writing, which is to say simultaneously a beautifully constructed fictional exploration and wisely observed social critique.
 
-For the complete article, please click the link.&nbsp;
+For the complete article, please click the link.
