@@ -1,5 +1,5 @@
 ---
-title: 'IRISH TIMES: The Best Books of the Year'
+title: 'Irish Times: The Best Books of the Year'
 date: 2017-12-02 12:00:00
 category: News
 tags:
