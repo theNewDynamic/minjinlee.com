@@ -1,6 +1,6 @@
 ---
 title: 'AWP: Kundiman— Sigrid Nunez & Harold Augenbraum'
-start_at: 2016-08-01 12:00:00
+start_at: 2018-03-10 13:30:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,6 @@ venue:
   zip:
   link:
 ---
+
+
+In conversation with author Sigrid Nunez and moderated by Yale Review Editor, Harold Augenbraum
