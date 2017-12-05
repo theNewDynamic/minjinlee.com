@@ -1,13 +1,13 @@
 ---
 title: Farm and Coast Market
-start_at: 2016-08-01 12:00:00
+start_at: 2018-03-15 19:00:00
 show_time: true
 venue:
-  name:
-  address:
-  city:
-  state:
-  zip:
+  name: Farm and Coast Market
+  address: 7 Bridge Street
+  city: Dartmouth
+  state: MA
+  zip: 02748
   link:
 ---
 
