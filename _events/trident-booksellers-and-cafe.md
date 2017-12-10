@@ -12,4 +12,6 @@ venue:
 ---
 
 
-Live Interview at Trident with Boston's own Writer's Bone Co-hosts, Daniel Ford and Sean Tuohy.&nbsp;
+Live Interview at Trident with Boston's own Writer's Bone Co-hosts, Daniel Ford and Sean Tuohy. Daniel is the author of SID SANFORD LIVES! and Sean is a screenwriter. For more about them and their amazing podcasts, please see www.writersbone.com&nbsp;
+
+&nbsp;
