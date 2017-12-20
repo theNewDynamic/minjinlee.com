@@ -14,4 +14,4 @@ description:
 
 "Pachinko" by Min Jin Lee is a novel which starts early in the 20th century. A pregnant out-of-wedlock young Korean woman with no husband in sight agrees to marry a sickly minister who will go to Japan. There she must settle in without language, culture or the comfort of being among her own people. The long, absorbing story follows to great acclaim.
 
-For the remainder of the article, please click the link.&nbsp;
+For the remainder of the article, please click the link.
