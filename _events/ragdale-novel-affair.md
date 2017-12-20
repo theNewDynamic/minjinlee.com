@@ -1,6 +1,6 @@
 ---
 title: 'Ragdale: Novel Affair'
-start_at: 2016-08-01 12:00:00
+start_at: 2018-04-27 12:00:00
 show_time: true
 venue:
   name:
@@ -10,3 +10,6 @@ venue:
   zip:
   link:
 ---
+
+
+April 27-28, 2017
