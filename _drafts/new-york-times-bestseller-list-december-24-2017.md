@@ -12,7 +12,7 @@ description:
 ---
 
 
-Pachinko debuts at no. 10 on the Paperback Trade Fiction.&nbsp;
+Pachinko debuts the list at no. 10 for Paperback Trade Fiction.&nbsp;
 
 Please click the link for the list. Thank you.
 
