@@ -12,4 +12,4 @@ venue:
 ---
 
 
-Deborah Treisman, Alexander Chee, and Min Jin Lee will read from Johnson's THE LARGESSE OF THE SEA MAIDEN (stories)
+Alexander Chee, Deborah Treisman, and Min Jin Lee will read from Johnson's THE LARGESSE OF THE SEA MAIDEN (stories)
