@@ -1,5 +1,5 @@
 ---
-title: 'Chicago Tribune: By Sara Clarkson'
+title: Chicago Tribune
 date: 2017-12-13 12:00:00
 category: News
 tags:
@@ -11,6 +11,12 @@ link_to_original: >-
 description:
 ---
 
+
+Books for Reading and Gifting
+
+By Sara Clarkson
+
+&nbsp;
 
 "Pachinko" by Min Jin Lee is a novel which starts early in the 20th century. A pregnant out-of-wedlock young Korean woman with no husband in sight agrees to marry a sickly minister who will go to Japan. There she must settle in without language, culture or the comfort of being among her own people. The long, absorbing story follows to great acclaim.
 
