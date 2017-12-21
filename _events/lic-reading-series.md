@@ -13,3 +13,5 @@ venue:
 
 
 Series curated by Catherine LaSota.&nbsp;
+
+Reading with Gabe Habash, Joan Silber, and Min Jin Lee.
