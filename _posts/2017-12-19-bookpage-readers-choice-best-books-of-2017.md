@@ -12,7 +12,7 @@ description:
 ---
 
 
-READERS’ CHOICE: BEST BOOKS OF 2017
+&nbsp;
 
 Posted by Stephanie, Editor
 
