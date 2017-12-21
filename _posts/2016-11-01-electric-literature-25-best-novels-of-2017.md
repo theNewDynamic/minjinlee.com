@@ -17,8 +17,4 @@ Pachinko, Min Jin Lee
 
 National Book Award finalist Pachinko is a family epic about Koreans in imperialist Japan. It’s a deeply-researched piece of historical fiction that still feels urgent, relevant, and full of human emotion.
 
-&nbsp;
-
-&nbsp;
-
-For the complete list, please click the link.&nbsp;
+For the complete list, please click the link.
