@@ -1,12 +1,17 @@
 ---
 title: 'The Wing: Bookclub'
-start_at: 2016-08-01 12:00:00
+start_at: 2018-04-30 19:00:00
 show_time: true
 venue:
-  name:
+  name: The Wing
   address:
   city:
   state:
   zip:
   link:
 ---
+
+
+Curated by Porochista Khakpour&nbsp;
+
+&nbsp;
