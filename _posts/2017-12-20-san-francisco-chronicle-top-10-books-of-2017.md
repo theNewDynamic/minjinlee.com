@@ -13,14 +13,8 @@ description:
 
 Pachinko is one of the 5 fiction titles selected in Top 10 Books of 2017.
 
-&nbsp;
-
 Pachinko, by Min Jin Lee (Grand Central; 490 pages; $27). Lee’s sweeping four-generation saga of a Korean family is an extraordinary epic, both sturdily constructed and beautiful.
 
 — Anita Felicelli
 
-&nbsp;
-
 For the complete list, please click the link. Thank you.
-
-&nbsp;
