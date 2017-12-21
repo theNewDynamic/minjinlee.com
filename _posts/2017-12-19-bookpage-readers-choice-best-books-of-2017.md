@@ -14,7 +14,7 @@ description:
 
 READERS’ CHOICE: BEST BOOKS OF 2017
 
-Posted by Stephanie, Editor&nbsp;
+Posted by Stephanie, Editor
 
 Little Fires Everywhere is your favorite book of 2017!
 
@@ -42,4 +42,4 @@ Sleeping Beauties by Stephen King and Owen King
 
 You Don’t Have to Say You Love Me by Sherman Alexie
 
-For the complete article, please click the link. Thank you.&nbsp;
+For the complete article, please click the link. Thank you.
