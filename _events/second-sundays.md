@@ -1,5 +1,5 @@
 ---
-title: Second Saturdays
+title: Second Saturdays Reading Series
 start_at: 2018-01-13 19:00:00
 show_time: true
 venue:
@@ -14,12 +14,8 @@ venue:
 
 Curated by Jee Koh
 
-This event will be held at a private home with an open reading, potluck dinner, and the featured author.&nbsp;
+This event will be held at a private home with an open reading, potluck dinner, and the featured author.
 
-Copies of PACHINKO will be available for sale from the independent bookseller REVOLUTION BOOKS.&nbsp;
+Copies of PACHINKO will be available for sale from the independent bookseller REVOLUTION BOOKS.
 
 Please RSVP to jkoh@singaporeunbound.org
-
-&nbsp;
-
-&nbsp;
