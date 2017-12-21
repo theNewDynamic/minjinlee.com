@@ -11,14 +11,8 @@ description:
 ---
 
 
-&nbsp;
-
 By CBC Books
 
-&nbsp;
-
-Min Jin Lee's PACHINKO is a thoughtful look at the experience of Koreans in Japan, most of whom were born and grew up there, but are still classified as "resident aliens." In examining the complex relationship between Japan and Korea, Lee has crafted a tale that is passionate, dramatic and moving.&nbsp;
-
-&nbsp;
+Min Jin Lee's PACHINKO is a thoughtful look at the experience of Koreans in Japan, most of whom were born and grew up there, but are still classified as "resident aliens." In examining the complex relationship between Japan and Korea, Lee has crafted a tale that is passionate, dramatic and moving.
 
 For the complete list, please click the link. Thank you.
