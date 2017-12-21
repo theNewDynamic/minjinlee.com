@@ -31,7 +31,7 @@ THE ILIAC CREST, by Cristina Rivera Garza
 
 THE EPIPHANY MACHINE: A Novel, by David Burr Gerrard
 
-&nbsp;THE GARGOYLE HUNTERS, by John Freeman Gill
+ THE GARGOYLE HUNTERS, by John Freeman Gill
 
 BAD DREAMS AND OTHER STORIES, by Tessa Hadley
 
@@ -65,6 +65,4 @@ WAIT TILL YOU SEE ME DANCE, by Deb Olin Unferth
 
 SOUR HEART: Stories, by Jenny Zhang
 
-&nbsp;
-
-For the complete list, please click the link. Thank you.&nbsp;
+For the complete list, please click the link. Thank you.
