@@ -1,6 +1,6 @@
 ---
 title: 'Electric Literature: 25 Best Novels of 2017'
-date: 2016-11-01 12:00:00
+date: 2017-12-20 12:00:00
 category: News
 tags:
   - Reviews
