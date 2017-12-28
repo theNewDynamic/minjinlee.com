@@ -1,5 +1,5 @@
 ---
-title: 'The Atlantic: Interview'
+title: 'The Atlantic: "By Heart" interview with Joe Fassler'
 date: 2017-12-20 12:00:00
 category: News
 tags:
@@ -14,15 +14,9 @@ description:
 ---
 
 
-&nbsp;
-
 By Joe Fassler
 
-&nbsp;
-
 **By Heart is a series in which authors share and discuss their all-time favorite passages in literature. See entries from Colum McCann, George Saunders, Emma Donoghue, Michael Chabon, and more.**
-
-&nbsp;
 
 For Min Jin Lee, the author of Pachinko, writing a novel is a nearly god-like act of creation, a way to preside over a small universe that authors fashion in the image of their beliefs. In a conversation for this series, she explained why her commitment to third-person “omniscient” narration is not just an aesthetic choice, but also an ethical one: That mode’s flexibility lets her build a functioning, self-contained world, one that’s governed by an overarching moral physics.
 
@@ -56,7 +50,7 @@ As I wrote Pachinko, I interviewed many Korean Japanese, individuals who suffere
 
 I did not invent their optimism, and I did not expect it. They gave it to me like a present. And I realized that I was more upset about what had happened to them, in many ways, more than they were. I think I was more upset because, as an American, I feel a sense of indignation at injustice, and I also feel like I can have redress. As a lawyer, I know that I can seek justice in a very specific formal way. Not that these efforts have always had a good outcome in our legal history, and they can require people to take continuous action for a very long time. But in America there have been some wonderful overturning of inequitable things, even if it’s taken 20 years or 50 years or 100 years. As Americans, we know it’s possible. But this was a reminder that, in other parts of the world, there is often no redress for suffering or inequity. I think that’s the reason why my interviewees looked at me and said, “Wow, Min, you’re really upset about this.” I felt incredibly amazed by their graciousness in response to their suffering.
 
-In terms of personal faith, I’m a Presbyterian, which does form my understanding of the world. &nbsp;Presbyterians are kind of funny Protestants because we believe in both free will and predestination—so you’re always toggling between the ideas of free will and fate. You believe that, underneath it all, there is a larger plan. But you’re not a fatalist. You believe that your free will matters. One way we exercise free will is by choosing to respond to injury with forgiveness, which is probably the hardest thing to do in the world. If someone punches you in the face, it’s tremendously hard to forgive them as you stand there with your broken nose, bleeding. But I want to believe that even the gravest injuries are an opportunity to respond with empathy, honesty, and justice, the way Joseph responds to his brothers. And I saw that grace, that capacity, in the Korean Japanese I interviewed.
+In terms of personal faith, I’m a Presbyterian, which does form my understanding of the world.  Presbyterians are kind of funny Protestants because we believe in both free will and predestination—so you’re always toggling between the ideas of free will and fate. You believe that, underneath it all, there is a larger plan. But you’re not a fatalist. You believe that your free will matters. One way we exercise free will is by choosing to respond to injury with forgiveness, which is probably the hardest thing to do in the world. If someone punches you in the face, it’s tremendously hard to forgive them as you stand there with your broken nose, bleeding. But I want to believe that even the gravest injuries are an opportunity to respond with empathy, honesty, and justice, the way Joseph responds to his brothers. And I saw that grace, that capacity, in the Korean Japanese I interviewed.
 
 Last night I was speaking at the Strand with some really smart writers, and the great, engaged audience asked us pressing questions about despair. How should we respond to this past year, they wanted to know, with our leadership behaving in ways that are so shocking? My thought is: You should despair, and you should lament. It would be cruel to say you don’t have the right to despair, just because worse atrocities are happening elsewhere in the world. But then, there’s the free will part: What is your response to that despair? Ultimately, what will you do? You can’t just give up. Compassion is so important, but if you really want justice, you have to take action.
 
