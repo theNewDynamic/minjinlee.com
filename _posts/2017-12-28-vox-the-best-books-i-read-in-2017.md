@@ -21,6 +21,4 @@ I don’t read as much fiction as I should, and the pleasure I got from reading 
 
 What’s more, it tracks the era in which Korea is sliced into halves, in which Koreans lose control of their own destiny, in which they are treated as pawns by the Americans and as subhuman by the Japanese, and is thus powerful context for today’s geopolitics.
 
-&nbsp;
-
-For the complete list, please click the link.&nbsp;
+For the complete list, please click the link.
