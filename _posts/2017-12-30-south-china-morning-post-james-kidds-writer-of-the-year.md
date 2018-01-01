@@ -4,6 +4,7 @@ date: 2017-12-30 12:00:00
 category: News
 tags:
   - Reviews
+  - News
 attribution: South China Morning Post
 link_to_original: >-
   http://www.scmp.com/magazines/post-magazine/books/article/2125856/2017s-best-books-big-name-writers-returned-spotlight
