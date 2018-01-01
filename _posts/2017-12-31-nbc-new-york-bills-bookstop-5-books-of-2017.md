@@ -13,4 +13,4 @@ description:
 ---
 
 
-Bill Goldstein selects Pachinko in his Top 5 Books of 2017 in NBC New York's Bill's Books. To see the video, please click the link.&nbsp;
+Bill Goldstein selects Pachinko in his Top 5 Books of 2017 in NBC New York's Bill's Books. To see the video, please click the link.
