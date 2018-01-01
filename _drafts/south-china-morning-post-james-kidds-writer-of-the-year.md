@@ -1,5 +1,5 @@
 ---
-title: 'South China Morning Post: 2017 Best Books'
+title: 'South China Morning Post: James Kidd''s "writer of the year"'
 date: 2017-12-30 12:00:00
 category: News
 tags:
@@ -15,4 +15,4 @@ By James Kidd
 
 "My writer of the year is Min Jin Lee, whose superb new novel Pachinko was accompanied by a timely reprint of her superb old one, Free Food for Millionaires (2007)."
 
-For the complete list and article, please click the link.&nbsp;
+For the complete list and article, please click the link.
