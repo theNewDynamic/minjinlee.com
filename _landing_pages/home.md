@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: listing-events
 ---
 
 
@@ -31,7 +31,7 @@ layout: home
 
 > “In 1930s Korea, an earnest young woman, abandoned by the lover who has gotten her pregnant, enters into a marriage of convenience that will take her to a new life in Japan. Thus begins Lee's luminous new novel *Pachinko* -a powerful meditation on what immigrants sacrifice to achieve a home in the world. *Pachinko* confirms Lee's place among our finest novelists.”
 
-**—Junot D&iacute;az, Pulitzer Prize-winning author of *The Brief Wondrous Life of Oscar Wao* and *This Is How You Lose Her***
+**—Junot Díaz, Pulitzer Prize-winning author of *The Brief Wondrous Life of Oscar Wao* and *This Is How You Lose Her***
 
 ---
 
