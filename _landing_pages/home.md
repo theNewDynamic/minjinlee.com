@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: listing-events
+layout: home
 ---
 
 
