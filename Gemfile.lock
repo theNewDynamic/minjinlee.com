@@ -4,13 +4,8 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
-    em-websocket (0.5.1)
-      eventmachine (>= 0.12.9)
-      http_parser.rb (~> 0.6.0)
-    eventmachine (1.2.1)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
-    http_parser.rb (0.6.0)
     jekyll (3.3.1)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -24,9 +19,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-archives (2.1.1)
       jekyll (>= 2.4)
-    jekyll-livereload (0.2.2)
-      em-websocket (~> 0.5)
-      jekyll (~> 3.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-seo-tag (2.1.0)
@@ -57,9 +49,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-archives
-  jekyll-livereload
   jekyll-seo-tag
   jekyll-sitemap
 
 BUNDLED WITH
-   1.13.7
+   1.16.1
