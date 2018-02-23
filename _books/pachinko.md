@@ -53,7 +53,7 @@ reviews:
     copy_markdown: "Through it all is a message about love, faith, and the deep-rooted bonds of family. Min Jin Lee gives us a phenomenal story about one family's struggle that resonates with us today. It will take hold of you and not let go!"
   - attribution: Toronto Star
     copy_markdown: "Top 10 Books of February of the Canadian Library Association's Loan Stars Program"
-cover_image_path: /uploads/cover-pachinko.jpg
+cover_image_path: /uploads/9781455563920.jpeg
 ---
 
 
