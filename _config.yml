@@ -60,7 +60,7 @@ compress_html:
   ignore:
     envs: [development]
   profile: false
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-archives
 plugins_dir:  ./_app/_plugins
