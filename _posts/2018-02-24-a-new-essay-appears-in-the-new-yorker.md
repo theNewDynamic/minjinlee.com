@@ -10,3 +10,5 @@ link_to_original: >-
 description:
 ---
 
+["After the Pyeongchang Winter Olympics, Healing the Deepest Fracture"](https://www.newyorker.com/culture/culture-desk/after-the-pyeongchang-winter-olympics-healing-the-deepest-fracture)appeared in the New Yorker on February 24th.&nbsp;
+{: .present-before-paste}
