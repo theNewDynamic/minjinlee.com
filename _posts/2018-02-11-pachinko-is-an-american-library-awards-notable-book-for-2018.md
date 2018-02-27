@@ -9,4 +9,6 @@ link_to_original:
 description:
 ---
 
-2018 Notable Books List: Year’s best in fiction, nonfiction and poetry announced. Read the press release at the [ALA Website](2018 Notable Books List: Year’s best in fiction, nonfiction and poetry announced).
+2018 Notable Books List: Year’s best in fiction, nonfiction and poetry announced.
+
+Read the press release at the [ALA Website](2018 Notable Books List: Year’s best in fiction, nonfiction and poetry announced).
