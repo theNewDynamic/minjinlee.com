@@ -6,7 +6,9 @@ tags:
   - News
 attribution:
 link_to_original:
-description:
+description: >-
+  2018 Notable Books List: Year’s best in fiction, nonfiction and poetry
+  announced.
 ---
 
 2018 Notable Books List: Year’s best in fiction, nonfiction and poetry announced.
