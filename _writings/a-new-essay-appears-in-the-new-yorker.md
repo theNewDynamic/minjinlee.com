@@ -1,11 +1,15 @@
 ---
 title: A new essay appears in The New Yorker
-date: 2007-03-01 22:39:00 -0500
+date: 2018-02-24 03:39:00
 category: Writing
-writing_category: short-stories
-where_published: The Missouri Review
-link_to_original: 'http://www.missourireview.com/'
-link_to_pdf: /uploads/motherland_minjinlee.pdf
+writing_category:
+  - Writing
+where_published: The New Yorker
+link_to_original: >-
+  https://www.newyorker.com/culture/culture-desk/after-the-pyeongchang-winter-olympics-healing-the-deepest-fracture
+link_to_pdf:
 description:
 _slug: 2007-03-01-motherland
 ---
+
+"After the Pyeongchang Winter Olympics, Healing the Deepest Fracture" in&nbsp;
