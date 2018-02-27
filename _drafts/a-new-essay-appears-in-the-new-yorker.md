@@ -1,11 +1,12 @@
 ---
 title: A new essay appears in The New Yorker
-date: 2016-11-01 12:00:00
-category:
-  - News
+date: 2018-02-24 12:00:00
+category: Media
 tags:
-  - Reviews
+  - Essays
 attribution:
-link_to_original:
+link_to_original: >-
+  https://www.newyorker.com/culture/culture-desk/after-the-pyeongchang-winter-olympics-healing-the-deepest-fracture
 description:
 ---
+
