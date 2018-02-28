@@ -4472,9 +4472,9 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
 
-typeface-lato@0.0.54:
+typeface-vesper-libre@^0.0.54:
   version "0.0.54"
-  resolved "https://registry.yarnpkg.com/typeface-lato/-/typeface-lato-0.0.54.tgz#6ea56309a8b0cfdb7e8246e05de4b58b8272b47c"
+  resolved "https://registry.yarnpkg.com/typeface-vesper-libre/-/typeface-vesper-libre-0.0.54.tgz#554b140945f01e9d3c43cb81eb1f6c929e03744d"
 
 ua-parser-js@^0.7.9:
   version "0.7.17"
