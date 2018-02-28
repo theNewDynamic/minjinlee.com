@@ -1,10 +1,10 @@
-const path = require("path");
-const CleanWebpackPlugin = require("clean-webpack-plugin");
-const ExtractTextPlugin = require("extract-text-webpack-plugin");
-const PurgecssPlugin = require("purgecss-webpack-plugin");
-const UglifyJSPlugin = require("uglifyjs-webpack-plugin");
-const glob = require("glob-all");
-const webpack = require("webpack");
+const path = require("path")
+const CleanWebpackPlugin = require("clean-webpack-plugin")
+const ExtractTextPlugin = require("extract-text-webpack-plugin")
+const PurgecssPlugin = require("purgecss-webpack-plugin")
+const UglifyJSPlugin = require("uglifyjs-webpack-plugin")
+const glob = require("glob-all")
+const webpack = require("webpack")
 
 //let toProvide = {}
 
@@ -12,15 +12,15 @@ const webpack = require("webpack");
 let pathsToClean = [
   "./static/dist/js/*.js",
   "./static/dist/css/*.css",
-  "./static/dist/Fonts/*.*"
-];
+  "./static/dist/Fonts/*.*",
+]
 // the clean options to use
 let cleanOptions = {
   root: __dirname,
   verbose: true,
   dry: false,
-  allowExternal: true
-};
+  allowExternal: true,
+}
 /**
  * Custom PurgeCSS Extractor
  * https://github.com/FullHuman/purgecss
@@ -28,13 +28,13 @@ let cleanOptions = {
  */
 class TailwindExtractor {
   static extract(content) {
-    return content.match(/[A-z0-9-:\/]+/g);
+    return content.match(/[A-z0-9-:\/]+/g)
   }
 }
 module.exports = function(environment) {
   var CONFIG = {
     entry: {
-      app: "./src/js/main.js"
+      app: "./src/js/main.js",
     },
     module: {
       rules: [
@@ -44,10 +44,10 @@ module.exports = function(environment) {
           use: {
             loader: "babel-loader",
             options: {
-              presets: ["env"]
+              presets: ["env"],
               // plugins: [require('babel-plugin-transform-object-rest-spread')]
-            }
-          }
+            },
+          },
         },
         {
           test: /\.css$/,
@@ -60,16 +60,16 @@ module.exports = function(environment) {
                   importLoaders: 1,
                   minimize: true || {
                     discardComments: {
-                      removeAll: true
+                      removeAll: true,
                     },
                     minifyFontValues: false,
-                    autoprefixer: false
-                  }
-                }
+                    autoprefixer: false,
+                  },
+                },
               },
-              "postcss-loader"
-            ]
-          })
+              "postcss-loader",
+            ],
+          }),
         },
         {
           test: /\.(woff|woff2|eot|ttf|otf|svg)$/,
@@ -77,77 +77,77 @@ module.exports = function(environment) {
             {
               loader: "file-loader",
               options: {
-                publicPath: "/dist",
-                outputPath: "/Fonts/"
-              }
-            }
-          ]
-        }
-      ]
+                publicPath: "/dist/Fonts",
+                outputPath: "/Fonts/",
+              },
+            },
+          ],
+        },
+      ],
     },
     output: {
-      path: path.join(__dirname, "./static/dist/")
+      path: path.join(__dirname, "./static/dist/"),
     },
 
     resolve: {
-      modules: [path.resolve(__dirname, "src"), "node_modules"]
+      modules: [path.resolve(__dirname, "src"), "node_modules"],
     },
 
-    plugins: [new CleanWebpackPlugin(pathsToClean, cleanOptions)]
-  };
+    plugins: [new CleanWebpackPlugin(pathsToClean, cleanOptions)],
+  }
 
   switch (environment) {
     case "development":
-      CONFIG.output.filename = "js/[name].js";
+      CONFIG.output.filename = "js/[name].js"
       CONFIG.plugins.push(
         new webpack.DefinePlugin({
-          PRODUCTION: JSON.stringify(false)
+          PRODUCTION: JSON.stringify(false),
         }),
         new ExtractTextPlugin({
           filename: getPath => {
-            return getPath("css/[name].css");
+            return getPath("css/[name].css")
           },
-          allChunks: true
+          allChunks: true,
         })
-      );
-      watch: true;
-      break;
+      )
+      watch: true
+      break
     case "production":
       // In production, hash our JS
-      CONFIG.output.filename = "js/[name].[chunkhash].js";
+      CONFIG.output.filename = "js/[name].[chunkhash].js"
       CONFIG.plugins.push(
         new webpack.DefinePlugin({
-          PRODUCTION: JSON.stringify(true)
+          PRODUCTION: JSON.stringify(true),
         }),
 
         // In production, hash our CSS
         new ExtractTextPlugin({
           filename: getPath => {
-            return getPath("css/[name].[contenthash].css");
+            return getPath("css/[name].[contenthash].css")
           },
-          allChunks: true
+          allChunks: true,
         }),
         // In production, Run our CSS through PurgeCSS
         new PurgecssPlugin({
           whitelist: ["body", ".whitelisted-class"],
           paths: glob.sync([
             path.join(__dirname, "layouts/**/*.html"),
-            path.join(__dirname, "themes/hugo-base-layouts/layouts/**/*.html")
+            path.join(__dirname, "themes/hugo-base-layouts/layouts/**/*.html"),
           ]),
           // TailwindExtractor runs through our layouts to get the CSS for PurgeCSS
           extractors: [
             {
               extractor: TailwindExtractor,
-              extensions: ["html"]
-            }
-          ]
+              extensions: ["html"],
+            },
+          ],
         }),
         new UglifyJSPlugin(),
         new webpack.optimize.ModuleConcatenationPlugin()
-      );
-      break;
+      )
+      break
     default:
-      CONFIG.output.filename = "js/[name].[chunkhash].js";
+      CONFIG.output.filename = "js/[name].[chunkhash].js"
   }
-  return CONFIG;
-};
+  return CONFIG
+}
