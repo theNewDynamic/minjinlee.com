@@ -1,6 +1,6 @@
 ---
 title: "Benefit for Asian Women's Giving Circle"
-start_at: 2017-04-20 18:00:00
+date: 2017-04-20 18:00:00
 show_time: true
 venue:
   name: 'Project: ARTspace'
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip:
-  link: info@asianwomengivingcircle.org
+link: info@asianwomengivingcircle.org
 ---
 
 

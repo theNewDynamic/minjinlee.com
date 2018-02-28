@@ -1,6 +1,6 @@
 ---
 title: Brooklyn Book Festival
-start_at: 2017-09-17 11:00:00
+date: 2017-09-17 11:00:00
 show_time: true
 venue:
   name: Brooklyn Historical Society
@@ -8,7 +8,7 @@ venue:
   city: Brooklyn
   state: NY
   zip:
-  link: 'http://www.brooklynbookfestival.org/authors/#filter=.festival-day'
+link: 'http://www.brooklynbookfestival.org/authors/#filter=.festival-day'
 ---
 
 

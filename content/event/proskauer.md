@@ -1,6 +1,6 @@
 ---
 title: Proskauer
-start_at: 2017-05-31 18:00:00
+date: 2017-05-31 18:00:00
 show_time: true
 venue:
   name: Proskauer
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

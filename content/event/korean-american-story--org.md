@@ -1,6 +1,6 @@
 ---
 title: KoreanAmericanStory. org
-start_at: 2017-12-08 18:30:00
+date: 2017-12-08 18:30:00
 show_time: true
 venue:
   name: Downtown Community Television Center
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10013'
-  link: >-
+link: >-
     https://www.eventbrite.com/e/sold-out-celebration-of-korean-american-women-authors-tickets-39667541685
 ---
 

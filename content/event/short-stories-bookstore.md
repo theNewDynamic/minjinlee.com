@@ -1,6 +1,6 @@
 ---
 title: Short Stories Bookshop
-start_at: 2017-05-06 16:00:00
+date: 2017-05-06 16:00:00
 show_time: true
 venue:
   name: 'Short Stories Bookshop & Community Hub'
@@ -8,7 +8,7 @@ venue:
   city: Madison
   state: NJ
   zip: 07940
-  link: 'http://www.shortstoriesnj.com'
+link: 'http://www.shortstoriesnj.com'
 ---
 
 

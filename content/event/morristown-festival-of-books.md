@@ -1,6 +1,6 @@
 ---
 title: Morristown Festival of Books
-start_at: 2017-10-14 12:20:00
+date: 2017-10-14 12:20:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

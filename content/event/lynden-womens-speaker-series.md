@@ -1,6 +1,6 @@
 ---
 title: "Lynden Women's Speaker Series: Milwaukee, WI"
-start_at: 2017-09-28 19:00:00
+date: 2017-09-28 19:00:00
 show_time: true
 venue:
   name: Lynden Sculpture Garden
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: 'http://www.lyndensculpturegarden.org/womens-speaker-series'
+link: 'http://www.lyndensculpturegarden.org/womens-speaker-series'
 ---
 
 

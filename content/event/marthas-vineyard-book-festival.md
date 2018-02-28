@@ -1,6 +1,6 @@
 ---
 title: "Martha's Vineyard Book Festival (Saturday Fiction Panel)"
-start_at: 2017-08-05 15:00:00
+date: 2017-08-05 15:00:00
 show_time: true
 venue:
   name: Harborview Hotel
@@ -8,7 +8,7 @@ venue:
   city: Edgartown
   state: MA
   zip:
-  link:
+link:
 ---
 
 

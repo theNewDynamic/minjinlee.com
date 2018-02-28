@@ -1,6 +1,6 @@
 ---
 title: Little City Books
-start_at: 2018-03-14 19:00:00
+date: 2018-03-14 19:00:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city: Hoboken
   state: NJ
   zip:
-  link: 'http://www.littlecitybooks.com'
+link: 'http://www.littlecitybooks.com'
 ---
 
 

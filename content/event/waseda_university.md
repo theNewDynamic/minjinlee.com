@@ -1,9 +1,9 @@
 ---
 title: WASEDA UNIVERSITY
-start_at: 2010-05-20T00:06:00-05:00
+date: 2010-05-20T00:06:00-05:00
 venue:
   name: WASEDA UNIVERSITY, Tokyo, JAPAN
-  link:
+link:
 _slug: waseda_university
 ---
 

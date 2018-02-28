@@ -1,9 +1,9 @@
 ---
 title: Book Club, Princeton
-start_at: 2008-02-25T05:42:00-05:00
+date: 2008-02-25T05:42:00-05:00
 venue:
   name: Book Club, Princeton, New Jersey
-  link:
+link:
 _slug: book_club_princeton
 ---
 

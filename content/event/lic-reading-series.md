@@ -1,6 +1,6 @@
 ---
 title: LIC Reading Series
-start_at: 2018-01-09 20:00:00
+date: 2018-01-09 20:00:00
 show_time: true
 venue:
   name: LIC Bar
@@ -8,7 +8,7 @@ venue:
   city: Long Island City
   state: NY
   zip: '11101'
-  link: 'https://www.licreadingseries.com/events'
+link: 'https://www.licreadingseries.com/events'
 ---
 
 

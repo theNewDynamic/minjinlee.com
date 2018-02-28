@@ -1,6 +1,6 @@
 ---
 title: Brazos Bookstore
-start_at: 2018-02-01 19:00:00
+date: 2018-02-01 19:00:00
 show_time: true
 venue:
   name: Brazos Bookstore
@@ -8,7 +8,7 @@ venue:
   city: Houston
   state: TX
   zip: '77005'
-  link: 'http://www.brazosbookstore.com/event/min-jin-lee-pachinko'
+link: 'http://www.brazosbookstore.com/event/min-jin-lee-pachinko'
 ---
 
 

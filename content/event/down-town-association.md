@@ -1,6 +1,6 @@
 ---
 title: Down Town Association
-start_at: 2017-05-09 18:30:00
+date: 2017-05-09 18:30:00
 show_time: true
 venue:
   name: Down Town Association
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10005'
-  link: 'http://www.thedta.com'
+link: 'http://www.thedta.com'
 ---
 
 

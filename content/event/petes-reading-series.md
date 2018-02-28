@@ -1,6 +1,6 @@
 ---
 title: "Pete's Candy Store: Pete's Reading Series"
-start_at: 2017-04-06 19:30:00
+date: 2017-04-06 19:30:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

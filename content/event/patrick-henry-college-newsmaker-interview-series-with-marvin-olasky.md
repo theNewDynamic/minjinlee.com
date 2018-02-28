@@ -1,6 +1,6 @@
 ---
 title: 'Patrick Henry College: Newsmaker Interview Series with Marvin Olasky'
-start_at: 2018-03-28 12:40:00
+date: 2018-03-28 12:40:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

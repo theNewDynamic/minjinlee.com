@@ -1,6 +1,6 @@
 ---
 title: Odyssey Bookshop
-start_at: 2017-02-11 16:00:00
+date: 2017-02-11 16:00:00
 show_time: true
 venue:
   name: Odyssey Bookshop
@@ -8,7 +8,7 @@ venue:
   city: South Hadley
   state: MA
   zip: '01075'
-  link: 'http://odysseybks.com'
+link: 'http://odysseybks.com'
 ---
 
 

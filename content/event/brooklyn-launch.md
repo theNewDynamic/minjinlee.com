@@ -1,6 +1,6 @@
 ---
 title: Brooklyn Launch at Greenlight Bookstore
-start_at: 2017-02-08 19:30:00
+date: 2017-02-08 19:30:00
 show_time: true
 venue:
   name: Greenlight Bookstore
@@ -8,7 +8,7 @@ venue:
   city: Brooklyn
   state: NY
   zip: '11217'
-  link: 'http://www.greenlightbookstore.com'
+link: 'http://www.greenlightbookstore.com'
 ---
 
 

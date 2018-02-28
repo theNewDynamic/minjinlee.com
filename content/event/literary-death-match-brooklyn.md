@@ -1,6 +1,6 @@
 ---
 title: 'Literary Death Match: Brooklyn'
-start_at: 2017-01-24 20:00:00
+date: 2017-01-24 20:00:00
 show_time: true
 venue:
   name: The Bell House
@@ -8,7 +8,7 @@ venue:
   city: Brooklyn
   state: NY
   zip:
-  link: 'http://www.literarydeathmatch.com/upcoming-events/jan-24-at-bell-house.html#'
+link: 'http://www.literarydeathmatch.com/upcoming-events/jan-24-at-bell-house.html#'
 ---
 
 

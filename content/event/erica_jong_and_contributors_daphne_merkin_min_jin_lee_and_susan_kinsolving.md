@@ -1,9 +1,9 @@
 ---
 title: Erica Jong and Contributors Daphne Merkin, Min Jin Lee and Susan Kinsolving
-start_at: 2011-06-15T12:30:38-05:00
+date: 2011-06-15T12:30:38-05:00
 venue:
   name: "Bryant Park Reading Room - 42nd St and 5th Ave New York, NY 10110 (212) 768-4242"
-  link:
+link:
 _slug: erica_jong_and_contributors_daphne_merkin_min_jin_lee_and_susan_kinsolving
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: JOHNS HOPKINS-SAIS U.S.-Korea Institute
-start_at: 2007-11-06T01:03:00-05:00
+date: 2007-11-06T01:03:00-05:00
 venue:
   name: U.S. Korea Institute at SAIS-Johns Hopkins University, Washington, D.C.
-  link: www.uskoreainstitute.org
+link: www.uskoreainstitute.org
 _slug: johns_hopkins_sais_us_korea_institute
 ---
 

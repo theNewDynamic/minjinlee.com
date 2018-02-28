@@ -1,6 +1,6 @@
 ---
 title: 'Brooklyn: Books Are Magic'
-start_at: 2017-11-29 19:30:00
+date: 2017-11-29 19:30:00
 show_time: true
 venue:
   name: Books Are Magic
@@ -8,7 +8,7 @@ venue:
   city: Brooklyn
   state: NY
   zip: '11231'
-  link: 'https://www.booksaremagic.net/?q=h'
+link: 'https://www.booksaremagic.net/?q=h'
 ---
 
 

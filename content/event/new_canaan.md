@@ -1,9 +1,9 @@
 ---
 title: New Canaan, Connecticut
-start_at: 2008-04-16T05:28:01-05:00
+date: 2008-04-16T05:28:01-05:00
 venue:
   name: New Canaan Library, Connecticut
-  link: www.newcanaanlibrary.org
+link: www.newcanaanlibrary.org
 _slug: new_canaan
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Shanghai International Literary Festival
-start_at: 2009-03-22T06:00:00-05:00
+date: 2009-03-22T06:00:00-05:00
 venue:
   name: SHANGHAI INTERNATIONAL LITERARY FESTIVAL
-  link: www.m-restaurantgroup.com
+link: www.m-restaurantgroup.com
 _slug: shanghai_international_literary_festival
 ---
 

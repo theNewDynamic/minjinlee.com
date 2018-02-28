@@ -1,6 +1,6 @@
 ---
 title: The Institute Library
-start_at: 2017-03-08 19:00:00
+date: 2017-03-08 19:00:00
 show_time: true
 venue:
   name: Institute Library
@@ -8,7 +8,7 @@ venue:
   city: New Haven
   state: CT
   zip: '06510'
-  link: 'http://institutelibrary.org'
+link: 'http://institutelibrary.org'
 ---
 
 

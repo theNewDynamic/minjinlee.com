@@ -1,6 +1,6 @@
 ---
 title: Brattleboro Literary Festival
-start_at: 2017-10-15 11:30:00
+date: 2017-10-15 11:30:00
 show_time: true
 venue:
   name: Robert H. Gibson River Garden
@@ -8,7 +8,7 @@ venue:
   city: Brattleboro
   state: VT
   zip:
-  link: 'http://brattleboroliteraryfestival.org'
+link: 'http://brattleboroliteraryfestival.org'
 ---
 
 

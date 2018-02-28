@@ -1,6 +1,6 @@
 ---
 title: 'AWP: Kundiman— Sigrid Nunez & Harold Augenbraum'
-start_at: 2018-03-10 13:30:00
+date: 2018-03-10 13:30:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

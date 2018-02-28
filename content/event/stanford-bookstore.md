@@ -1,6 +1,6 @@
 ---
 title: Stanford Bookstore
-start_at: 2017-02-25 13:00:00
+date: 2017-02-25 13:00:00
 show_time: true
 venue:
   name: Stanford Bookstore
@@ -8,7 +8,7 @@ venue:
   city: Stanford
   state: CA
   zip: '94305'
-  link: 'https://www.stanford.bkstr.com'
+link: 'https://www.stanford.bkstr.com'
 ---
 
 

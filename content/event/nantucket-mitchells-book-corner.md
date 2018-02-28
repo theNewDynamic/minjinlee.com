@@ -1,6 +1,6 @@
 ---
 title: "Nantucket: Mitchell's Book Corner"
-start_at: 2017-08-08 10:30:00
+date: 2017-08-08 10:30:00
 show_time: true
 venue:
   name: "Mitchell's Book Corner"
@@ -8,7 +8,7 @@ venue:
   city: Nantucket
   state: MA
   zip: '02554'
-  link: 'http://www.mitchellsbookcorner.com'
+link: 'http://www.mitchellsbookcorner.com'
 ---
 
 

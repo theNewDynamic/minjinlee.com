@@ -1,6 +1,6 @@
 ---
 title: Pen America Series at the Strand
-start_at: 2017-12-11 18:30:00
+date: 2017-12-11 18:30:00
 show_time: true
 venue:
   name: Strand Bookstore
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip:
-  link: 'http://www.strandbooks.com'
+link: 'http://www.strandbooks.com'
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 'Dublin: Pat Kenny on Newstalk National Radio'
-start_at: 2017-05-25 10:35:00
+date: 2017-05-25 10:35:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

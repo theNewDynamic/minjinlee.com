@@ -1,6 +1,6 @@
 ---
 title: "Tokyo: Foreign Correspondents' Club of Japan"
-start_at: 2017-09-12 18:15:00
+date: 2017-09-12 18:15:00
 show_time: true
 venue:
   name: FCCJ
@@ -8,7 +8,7 @@ venue:
   city: 'Yurakucho 1-7-1, Chiyoda-ku, Tokyo'
   state:
   zip: 100-0006
-  link: 'http://www.fccj.or.jp'
+link: 'http://www.fccj.or.jp'
 ---
 
 

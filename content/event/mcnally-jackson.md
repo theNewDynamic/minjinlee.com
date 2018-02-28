@@ -1,6 +1,6 @@
 ---
 title: McNally Jackson
-start_at: 2018-01-22 19:00:00
+date: 2018-01-22 19:00:00
 show_time: true
 venue:
   name: McNally Jackson
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10012'
-  link: 'http://www.mcnallyjackson.com/event/2018-01'
+link: 'http://www.mcnallyjackson.com/event/2018-01'
 ---
 
 

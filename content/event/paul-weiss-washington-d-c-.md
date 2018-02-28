@@ -1,6 +1,6 @@
 ---
 title: 'Paul Weiss, Washington, D.C.'
-start_at: 2017-06-20 12:30:00
+date: 2017-06-20 12:30:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

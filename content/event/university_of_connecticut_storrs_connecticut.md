@@ -1,6 +1,6 @@
 ---
 title: University of Connecticut, Storrs, Connecticut
-start_at: 2007-10-29T07:19:00-05:00
+date: 2007-10-29T07:19:00-05:00
 show_time: true
 venue:
   name: University of Connecticut
@@ -8,7 +8,7 @@ venue:
   city: Storrs
   state: CT
   zip:
-  link:
+link:
 ---
 
 Asian American Cultural Center

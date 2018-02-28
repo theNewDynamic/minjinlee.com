@@ -1,6 +1,6 @@
 ---
 title: PEN PARENTIS
-start_at: 2018-02-13 19:00:00
+date: 2018-02-13 19:00:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

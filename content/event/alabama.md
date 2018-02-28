@@ -1,9 +1,9 @@
 ---
 title: ALABAMA
-start_at: 2008-04-22T05:20:01-05:00
+date: 2008-04-22T05:20:01-05:00
 venue: 
   name: Alabama Booksmith, Birmingham
-  link: www.alabamabooksmith.com
+link: www.alabamabooksmith.com
 ---
 
 Reading and Q&A

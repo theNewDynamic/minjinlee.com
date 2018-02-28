@@ -1,9 +1,9 @@
 ---
 title: IMMIGRANT HERITAGE WEEK
-start_at: 2008-04-15 13:00:00
+date: 2008-04-15 13:00:00
 venue:
   name: INTERNATIONAL IMMIGRANTS FOUNDATION
-  link:
+link:
 _slug: immigrant_heritage_week
 ---
 

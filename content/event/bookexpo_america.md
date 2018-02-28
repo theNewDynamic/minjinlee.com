@@ -1,9 +1,9 @@
 ---
 title: BookExpo America
-start_at: 2007-05-31T10:00:00-05:00
+date: 2007-05-31T10:00:00-05:00
 venue:
   name: BookExpo
-  link: www.bookexpoamerica.com
+link: www.bookexpoamerica.com
 _slug: bookexpo_america
 ---
 

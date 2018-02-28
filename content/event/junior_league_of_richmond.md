@@ -1,9 +1,9 @@
 ---
 title: Junior League of Richmond
-start_at: 2008-05-06T04:22:00-05:00
+date: 2008-05-06T04:22:00-05:00
 venue:
   name: 63rd Book & Author Dinner of the Junior League of Richmond
-  link: www.jlrichmond.org
+link: www.jlrichmond.org
 _slug: junior_league_of_richmond
 ---
 

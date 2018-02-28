@@ -1,6 +1,6 @@
 ---
 title: R.J. Julia Booksellers
-start_at: 2018-01-25 19:00:00
+date: 2018-01-25 19:00:00
 show_time: true
 venue:
   name: R.J. Julia Booksellers
@@ -8,7 +8,7 @@ venue:
   city: Madison
   state: CT
   zip: '06443'
-  link: 'http://www.rjjulia.com/event/min-jin-lee-pachinko'
+link: 'http://www.rjjulia.com/event/min-jin-lee-pachinko'
 ---
 
 

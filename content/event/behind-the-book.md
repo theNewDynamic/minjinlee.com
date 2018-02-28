@@ -1,6 +1,6 @@
 ---
 title: Behind the Book
-start_at: 2017-04-13 19:00:00
+date: 2017-04-13 19:00:00
 show_time: true
 venue:
   name: KGB Bar
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10003'
-  link: www.behindthebook.org
+link: www.behindthebook.org
 ---
 
 

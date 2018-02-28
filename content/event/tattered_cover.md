@@ -1,9 +1,9 @@
 ---
 title: TATTERED COVER
-start_at: 2008-01-26T02:54:00-05:00
+date: 2008-01-26T02:54:00-05:00
 venue:
   name: TATTERED COVER, Denver, COLORADO
-  link: www.tatteredcover.com
+link: www.tatteredcover.com
 _slug: tattered_cover
 ---
 

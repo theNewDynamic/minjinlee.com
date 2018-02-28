@@ -1,6 +1,6 @@
 ---
 title: "Martha's Vineyard Book Festival (Sunday PACHINKO Event)"
-start_at: 2017-08-06 11:45:00
+date: 2017-08-06 11:45:00
 show_time: true
 venue:
   name: 'Chilmark Community Center Campus, Stonewall Tent'
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: In the Flesh Reading Series, May 16th
-start_at: 2007-05-16T21:00:00-05:00
+date: 2007-05-16T21:00:00-05:00
 venue:
   name: In the Flesh Reading Series with Rachel Kramer Bussel
-  link: www.inthefleshreadingseries.blogspot.com/
+link: www.inthefleshreadingseries.blogspot.com/
 _slug: happy_endings_may_16th
 ---
 

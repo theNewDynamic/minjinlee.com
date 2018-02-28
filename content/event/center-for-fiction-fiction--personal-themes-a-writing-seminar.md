@@ -1,6 +1,6 @@
 ---
 title: 'Center for Fiction: A Writing Seminar'
-start_at: 2017-10-07 10:00:00
+date: 2017-10-07 10:00:00
 show_time: true
 venue:
   name: Center for Fiction
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10017'
-  link: www.centerforfiction.org
+link: www.centerforfiction.org
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Women of Letters: Joe's Pub of The Public Theater"
-start_at: 2017-03-03 21:00:00
+date: 2017-03-03 21:00:00
 show_time: true
 venue:
   name: "Joe's Pub of The Public Theater"
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10003'
-  link: 'http://joespub.publictheater.org/en/Tickets/Calendar/PlayDetailsCollection/Joes-Pub/2017/W/WOL-Mar-17/?SiteTheme=JoesPub'
+link: 'http://joespub.publictheater.org/en/Tickets/Calendar/PlayDetailsCollection/Joes-Pub/2017/W/WOL-Mar-17/?SiteTheme=JoesPub'
 ---
 
 

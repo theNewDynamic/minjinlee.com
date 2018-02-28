@@ -1,6 +1,6 @@
 ---
 title: 'PEN WORLD LITERATURE FESTIVAL: GENDER & POWER'
-start_at: 2017-05-03 19:00:00
+date: 2017-05-03 19:00:00
 show_time: true
 venue:
   name: The Tenement Museum
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10002'
-  link: 'http://worldvoices.pen.org/schedule/'
+link: 'http://worldvoices.pen.org/schedule/'
 ---
 
 

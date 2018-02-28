@@ -1,6 +1,6 @@
 ---
 title: 'Brisbane Writers Festival: University of Queensland Writer-in-Residence'
-start_at: 2017-09-06 15:00:00
+date: 2017-09-06 15:00:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

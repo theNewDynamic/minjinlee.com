@@ -1,9 +1,9 @@
 ---
 title: The PAGE Series at The National Arts Club
-start_at: 2007-06-14T20:00:00-05:00
+date: 2007-06-14T20:00:00-05:00
 venue:
   name: National Arts Club
-  link: www.nationalartsclub.org
+link: www.nationalartsclub.org
 _slug: the_page_series_at_the_national_arts_club
 ---
 

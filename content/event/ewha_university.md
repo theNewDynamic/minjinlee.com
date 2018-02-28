@@ -1,9 +1,9 @@
 ---
 title: EWHA UNIVERSITY
-start_at: 2009-06-12T03:16:00-05:00
+date: 2009-06-12T03:16:00-05:00
 venue:
   name: EWHA WOMANS UNIVERSITY, SEOUL, SOUTH KOREA
-  link: www.fsel.org
+link: www.fsel.org
 _slug: ewha_university
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Harvard Book Store
-start_at: 2017-02-10 18:45:00
+date: 2017-02-10 18:45:00
 show_time: true
 venue:
   name: Harvard Book Store
@@ -8,7 +8,7 @@ venue:
   city: Cambridge
   state: MA
   zip: 02138
-  link: 'http://www.harvard.com'
+link: 'http://www.harvard.com'
 ---
 
 

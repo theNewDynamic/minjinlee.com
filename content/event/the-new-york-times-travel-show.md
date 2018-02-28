@@ -1,6 +1,6 @@
 ---
 title: The New York Times Travel Show
-start_at: 2018-01-28 15:00:00
+date: 2018-01-28 15:00:00
 show_time: true
 venue:
   name: Jacob K. Javits Convention Center
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

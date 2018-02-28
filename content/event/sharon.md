@@ -1,6 +1,6 @@
 ---
 title: Sharon Summer Book Signing
-start_at: 2017-08-04 18:00:00
+date: 2017-08-04 18:00:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: 'http://www.hotchkisslibrary.org/annual-book-signing/'
+link: 'http://www.hotchkisslibrary.org/annual-book-signing/'
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: BOOKS and BOOKS, MIAMI
-start_at: 2008-04-21T05:18:00-05:00
+date: 2008-04-21T05:18:00-05:00
 venue:
   name: Books & Books, Bal Harbour, Miami, FLA
-  link: www.booksandbooks.com
+link: www.booksandbooks.com
 ---
 
 Reading and Q&A

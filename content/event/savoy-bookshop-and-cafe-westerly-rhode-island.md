@@ -1,6 +1,6 @@
 ---
 title: 'Savoy Bookshop and Cafe: Westerly, Rhode Island'
-start_at: 2017-03-27 18:00:00
+date: 2017-03-27 18:00:00
 show_time: true
 venue:
   name: Savoy Bookshop and Cafe
@@ -8,7 +8,7 @@ venue:
   city: Westerly
   state: RI
   zip: 02891
-  link: 'http://www.banksquarebooks.com/westerly-store'
+link: 'http://www.banksquarebooks.com/westerly-store'
 ---
 
 

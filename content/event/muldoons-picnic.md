@@ -1,6 +1,6 @@
 ---
 title: "Muldoon's Picnic"
-start_at: 2017-10-09 19:30:00
+date: 2017-10-09 19:30:00
 show_time: true
 venue:
   name: Irish Arts Center
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10019'
-  link: 'http://irishartscenter.org'
+link: 'http://irishartscenter.org'
 ---
 
 

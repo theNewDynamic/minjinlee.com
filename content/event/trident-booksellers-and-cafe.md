@@ -1,6 +1,6 @@
 ---
 title: Trident Booksellers and Cafe
-start_at: 2018-01-18 19:00:00
+date: 2018-01-18 19:00:00
 show_time: true
 venue:
   name: Trident Booksellers and Cafe
@@ -8,7 +8,7 @@ venue:
   city: Boston
   state: MA
   zip:
-  link: 'https://www.tridentbookscafe.com'
+link: 'https://www.tridentbookscafe.com'
 ---
 
 

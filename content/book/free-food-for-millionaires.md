@@ -1,10 +1,11 @@
 ---
 title: Free Food for Millionaires
-date: 2010-09-18 00:50:00
-publication_date: 2007-05-07 00:00:00
-category:
+publication: 2007-05-07 00:00:00
+publisher:
+subtitle:
+genre:
   - Fiction
-description_markdown: >-
+description: >-
   “It would be remarkable if she had simply written a long novel that was as easy
   to devour as a 19th-century romance — packed with tales of flouted parental
   expectations, fluctuating female friendships and rivalries, ephemeral (and
@@ -16,11 +17,11 @@ description_markdown: >-
   a chameleon, but Lee pulls it off with conviction.”
 
   <br>**– Liesl Schillinger, *New York Times Book Review***
-editions:
-  - binding: paperback
-    isbn: '9780446699853'
-  - binding: ebook
-    isbn: '9780446504386'
+editions_isbn:
+  hardcover:
+  paperback: 9780446699853
+  ebook: 9780446504386
+
 reviews:
   - attribution: USA Today
     copy_markdown: 'Critic’s pick: Free Food for Millionaires, by Min Jin Lee (Grand Central, $13.99). USA TODAY’s Carol Memmott says this “vastly ambitious” and “stirring” …'
@@ -74,8 +75,7 @@ reviews:
     copy_markdown: The Five-Forty-Five to Cannes (Crown) by Tess Uriza Holthe; Free Food for Millionaires (Warner) by Min Jin Lee; The Gathering (Black Cat/Grove) by Anne …
   - attribution: New York Times
     copy_markdown: 'This accomplished first novel, the coming-of-age story of a Princeton-educated Korean-American woman making her way in New York City in the 1990s, recalls the Victorian novels its heroine devours. Our reviewer, Liesl Schillinger, described it as ‘packed with tales of flouted parental expectations, fluctuating female friendships and rivalries, … romantic hopes and losses, and high-stakes career gambles.’'
-cover_image_path: /uploads/cover_fffm_hdbk.jpg
+image: /uploads/cover_fffm_hdbk.jpg
 ---
-
 
 Casey Han’s parents, who live in Queens, are Korean immigrants working in a dry cleaner, desperately trying to hold on to their culture and their identity. Their daughter, on the other hand, has entered into rarified American society via scholarships. Free Food for Millionaires offers up a fresh exploration of the complex layers we inhabit both in society and within ourselves and examines maintaining one’s identity within changing communities.

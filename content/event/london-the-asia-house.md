@@ -1,6 +1,6 @@
 ---
 title: 'London: Asia House Bagri Foundation Literature Festival'
-start_at: 2017-05-23 18:45:00
+date: 2017-05-23 18:45:00
 show_time: true
 venue:
   name: Asia House
@@ -8,7 +8,7 @@ venue:
   city: 'Marylebone, London'
   state:
   zip: W1G 7LP
-  link: 'http://asiahouse.org/events/reflections-east-asian-20th-century/'
+link: 'http://asiahouse.org/events/reflections-east-asian-20th-century/'
 ---
 
 

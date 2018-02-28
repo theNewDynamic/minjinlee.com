@@ -1,9 +1,9 @@
 ---
 title: U.S. Embassy—TOKYO AMERICAN CENTER
-start_at: 2009-05-28T05:37:00-05:00
+date: 2009-05-28T05:37:00-05:00
 venue:
   name: U.S. Embassy—TOKYO AMERICAN CENTER
-  link: tokyo.usembassy.gov/j/amc/tamcj-map.html
+link: tokyo.usembassy.gov/j/amc/tamcj-map.html
 _slug: us_embassytokyo_american_center
 ---
 

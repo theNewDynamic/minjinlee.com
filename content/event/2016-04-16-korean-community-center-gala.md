@@ -1,6 +1,6 @@
 ---
 title: "Korean Community Center Gala"
-start_at: 2016-04-16T12:00:00Z
+date: 2016-04-16T12:00:00Z
 show_time: false
 venue:
   name: "Teaneck Marriott at Glenpointe"
@@ -8,6 +8,6 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 Keynote Address by Min Jin Lee: “The Power of My Mother’s and Father’s Stories”

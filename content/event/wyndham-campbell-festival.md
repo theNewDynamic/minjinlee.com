@@ -1,6 +1,6 @@
 ---
 title: Windham-Campbell Festival
-start_at: 2017-09-15 12:00:00
+date: 2017-09-15 12:00:00
 show_time: true
 venue:
   name: New Haven Free Public Library
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: www.windhamcampbell.org
+link: www.windhamcampbell.org
 ---
 
 

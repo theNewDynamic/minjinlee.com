@@ -1,9 +1,9 @@
 ---
 title: Asia Society of Northern California and Green Apple Books
-start_at: 2007-06-21T05:30:00-05:00
+date: 2007-06-21T05:30:00-05:00
 venue: 
   name: Asia Society of Northern California and Green Apple Books
-  link: www.asiasociety.org
+link: www.asiasociety.org
 _slug: asia_society_of_northern_california_and_green_apple_books
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Bedford Free Library
-start_at: 2017-10-11 19:00:00
+date: 2017-10-11 19:00:00
 show_time: true
 venue:
   name: Bedford Free Library
@@ -8,7 +8,7 @@ venue:
   city: Bedford
   state: NY
   zip:
-  link: 'http://bedfordfreelibrary.org'
+link: 'http://bedfordfreelibrary.org'
 ---
 
 

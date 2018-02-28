@@ -1,6 +1,6 @@
 ---
 title: 'Papercuts JP: Independent Bookstore Day (Parts 1 & 2)'
-start_at: 2017-04-29 19:00:00
+date: 2017-04-29 19:00:00
 show_time: true
 venue:
   name: Papercuts JP
@@ -8,7 +8,7 @@ venue:
   city: Boston
   state: MA
   zip:
-  link: www.papercutsjp.com
+link: www.papercutsjp.com
 ---
 
 

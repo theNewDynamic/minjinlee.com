@@ -1,9 +1,9 @@
 ---
 title: Books Inc. Laurel Village
-start_at: 2008-04-29T05:24:00-05:00
+date: 2008-04-29T05:24:00-05:00
 venue:
   name: Books, Inc., Laurel Village, SAN FRANCISCO, CA
-  link: www.booksinc.net
+link: www.booksinc.net
 _slug: books_inc_laurel_village
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Madison, WI: 702Wi'
-start_at: 2017-09-27 19:00:00
+date: 2017-09-27 19:00:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: 'http://www.702wi.com/events.html'
+link: 'http://www.702wi.com/events.html'
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Brookline Library
-start_at: 2016-08-01 12:00:00
+date: 2016-08-01 12:00:00
 show_time: true
 venue:
   name:
@@ -8,5 +8,5 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---

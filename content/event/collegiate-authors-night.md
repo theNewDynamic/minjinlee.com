@@ -1,6 +1,6 @@
 ---
 title: Collegiate  Authors Night
-start_at: 2017-10-24 18:00:00
+date: 2017-10-24 18:00:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

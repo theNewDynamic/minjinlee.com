@@ -1,9 +1,9 @@
 ---
 title: Yale University
-start_at: 2007-10-25T13:25:00-05:00
+date: 2007-10-25T13:25:00-05:00
 venue:
   name: Yale University, New Haven, CT
-  link:
+link:
 _slug: yale_university
 ---
 

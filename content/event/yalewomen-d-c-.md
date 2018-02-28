@@ -1,6 +1,6 @@
 ---
 title: YaleWomen D.C.
-start_at: 2017-06-21 18:30:00
+date: 2017-06-21 18:30:00
 show_time: true
 venue:
   name: 'Hughes Hubbard & Reed LLP'
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: www.yalewomen.org
+link: www.yalewomen.org
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Hachette Book Club Brunch"
-start_at: 2016-10-22T10:00:00Z
+date: 2016-10-22T10:00:00Z
 show_time: true
 venue:
   name: Hachette Book Group
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip:
-  link: http://www.bookclubbrunch.com
+link: http://www.bookclubbrunch.com
 
 ---
 Hachette Book Group’s 5th Annual Book Club Brunch

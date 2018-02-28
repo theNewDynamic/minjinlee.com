@@ -1,9 +1,9 @@
 ---
 title: loyola Marymount University
-start_at: 2008-04-24T05:22:00-05:00
+date: 2008-04-24T05:22:00-05:00
 venue:
   name: Loyola Marymount University, Los Angeles, CA
-  link:
+link:
 _slug: los_angeles
 ---
 

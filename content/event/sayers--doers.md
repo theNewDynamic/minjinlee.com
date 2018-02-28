@@ -1,6 +1,6 @@
 ---
 title: 'Sayers & Doers'
-start_at: 2017-06-12 19:00:00
+date: 2017-06-12 19:00:00
 show_time: true
 venue:
   name: MIST Harlem
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10026'
-  link: 'https://www.sayersanddoers.com'
+link: 'https://www.sayersanddoers.com'
 ---
 
 

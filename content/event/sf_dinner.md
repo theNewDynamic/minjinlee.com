@@ -1,9 +1,9 @@
 ---
 title: SF DINNER
-start_at: 2008-04-30T05:26:00-05:00
+date: 2008-04-30T05:26:00-05:00
 venue:
   name: SAN FRANCISCO, CA
-  link:
+link:
 _slug: sf_dinner
 ---
 

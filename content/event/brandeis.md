@@ -1,6 +1,6 @@
 ---
 title: Brandeis Book and Author Luncheon
-start_at: 2017-10-30 11:30:00
+date: 2017-10-30 11:30:00
 show_time: true
 venue:
   name: Yale Club of New York
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip:
-  link:
+link:
 ---
 
 

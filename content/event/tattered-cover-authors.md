@@ -1,6 +1,6 @@
 ---
 title: 'Tattered Cover Literary Feast: Writers Respond to Readers 2018'
-start_at: 2018-02-03 08:45:00
+date: 2018-02-03 08:45:00
 show_time: true
 venue:
   name: The Hangar at Stanley
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: >-
+link: >-
     https://www.eventbrite.com/e/tattered-cover-literary-feast-writers-respond-to-readers-2018-tickets-39337345058
 ---
 

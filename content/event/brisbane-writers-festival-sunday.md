@@ -1,6 +1,6 @@
 ---
 title: 'Brisbane Writers Festival: Sunday Panel'
-start_at: 2017-09-10 13:00:00
+date: 2017-09-10 13:00:00
 show_time: true
 venue:
   name: Auditorium 1
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: 'http://uplit.com.au/festival/brisbane-writers-festival-2017/program/from-across-the-sea'
+link: 'http://uplit.com.au/festival/brisbane-writers-festival-2017/program/from-across-the-sea'
 ---
 
 

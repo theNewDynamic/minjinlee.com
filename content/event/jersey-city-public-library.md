@@ -1,6 +1,6 @@
 ---
 title: Jersey City Public Library
-start_at: 2017-05-17 18:00:00
+date: 2017-05-17 18:00:00
 show_time: true
 venue:
   name: Jersey City Free Public Library
@@ -8,7 +8,7 @@ venue:
   city: Jersey City
   state: NJ
   zip: '07302'
-  link: 'http://www.jclibrary.org/programs-exhibits/icalrepeatdetail/2017/05/17/4871/min-jin-lee-pachinko-autor'
+link: 'http://www.jclibrary.org/programs-exhibits/icalrepeatdetail/2017/05/17/4871/min-jin-lee-pachinko-autor'
 ---
 
 

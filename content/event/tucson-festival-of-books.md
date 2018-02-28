@@ -1,6 +1,6 @@
 ---
 title: Tucson Festival of Books
-start_at: 2018-03-11 11:30:00
+date: 2018-03-11 11:30:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

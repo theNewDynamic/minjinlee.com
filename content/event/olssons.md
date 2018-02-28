@@ -1,9 +1,9 @@
 ---
 title: Olsson’s
-start_at: 2008-04-18T05:14:00-05:00
+date: 2008-04-18T05:14:00-05:00
 venue:
   name: Olsson's, Washington, D.C.
-  link: www.olssons.com
+link: www.olssons.com
 ---
 
 A Conversation with Andrew Getman and Min Jin Lee

@@ -1,9 +1,9 @@
 ---
 title: WARWICK’s
-start_at: 2008-04-28T05:23:00-05:00
+date: 2008-04-28T05:23:00-05:00
 venue:
   name: Warwick's, La Jolla, CA
-  link: www.warwicks.com
+link: www.warwicks.com
 _slug: la_jolla
 ---
 

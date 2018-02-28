@@ -1,6 +1,6 @@
 ---
 title: South Main Book Company
-start_at: 2018-02-06 18:00:00
+date: 2018-02-06 18:00:00
 show_time: true
 venue:
   name: South Main Book Company
@@ -8,7 +8,7 @@ venue:
   city: Salisbury
   state: NC
   zip: '28144'
-  link:
+link:
 ---
 
 

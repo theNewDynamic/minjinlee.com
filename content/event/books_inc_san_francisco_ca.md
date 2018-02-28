@@ -1,9 +1,9 @@
 ---
 title: Books Inc. San Francisco, CA
-start_at: 2007-06-22T20:00:00-05:00
+date: 2007-06-22T20:00:00-05:00
 venue:
   name: Books Inc. San Francisco, CA in Opera Plaza
-  link: www.booksinc.net
+link: www.booksinc.net
 _slug: books_inc_san_francisco_ca
 ---
 

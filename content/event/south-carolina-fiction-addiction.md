@@ -1,6 +1,6 @@
 ---
 title: 'South Carolina: Fiction Addiction'
-start_at: 2018-02-05 12:00:00
+date: 2018-02-05 12:00:00
 show_time: true
 venue:
   name: Fiction Addiction
@@ -8,7 +8,7 @@ venue:
   city: Greenville
   state: SC
   zip: '29607'
-  link: 'http://www.fiction-addiction.com'
+link: 'http://www.fiction-addiction.com'
 ---
 
 

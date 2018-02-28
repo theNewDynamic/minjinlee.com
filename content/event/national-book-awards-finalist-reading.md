@@ -1,6 +1,6 @@
 ---
 title: National Book Awards Finalists Reading
-start_at: 2017-11-14 19:00:00
+date: 2017-11-14 19:00:00
 show_time: true
 venue:
   name: 'The Auditorium, Alvin Johnson/J.M. Kaplan Hall'
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10011'
-  link: 'http://www.nationalbook.org/nba_finalists_reading.html#.WdW5585OjE4'
+link: 'http://www.nationalbook.org/nba_finalists_reading.html#.WdW5585OjE4'
 ---
 
 

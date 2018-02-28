@@ -1,6 +1,6 @@
 ---
 title: 'Washington, D.C.: East City Bookshop'
-start_at: 2017-06-22 18:30:00
+date: 2017-06-22 18:30:00
 show_time: false
 venue:
   name: East City Bookshop
@@ -8,7 +8,7 @@ venue:
   city: 'Washington, D.C.'
   state:
   zip: '20003'
-  link: 'http://www.eastcitybookshop.com'
+link: 'http://www.eastcitybookshop.com'
 ---
 
 

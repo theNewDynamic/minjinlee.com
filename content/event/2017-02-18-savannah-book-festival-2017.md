@@ -1,6 +1,6 @@
 ---
 title: Savannah Book Festival 2017
-start_at: 2017-02-18 09:00:00
+date: 2017-02-18 09:00:00
 show_time: false
 venue:
   name: First Baptist Church Fellowship Hall
@@ -8,7 +8,7 @@ venue:
   city: Savannah
   state: GA
   zip:
-  link: 'http://www.savannahbookfestival.org'
+link: 'http://www.savannahbookfestival.org'
 ---
 
 

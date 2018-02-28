@@ -1,9 +1,9 @@
 ---
 title: ODYSSEY BOOKSTORE
-start_at: 2008-05-02T20:00:00-05:00
+date: 2008-05-02T20:00:00-05:00
 venue:
   name: Odyssey Bookshop, South Hadley, MA
-  link: www.odysseybks.com
+link: www.odysseybks.com
 _slug: odyssey_bookstore
 ---
 

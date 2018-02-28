@@ -1,9 +1,9 @@
 ---
 title: Sedge Thomson’s WEST COAST LIVE
-start_at: 2007-06-23T10:00:00-05:00
+date: 2007-06-23T10:00:00-05:00
 venue:
   name: WEST COAST LIVE, Ferry Building, San Francisco, CA
-  link: www.wcl.org
+link: www.wcl.org
 _slug: sedge_thomsons_west_coast_live
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Book Passage
-start_at: 2017-02-16 19:00:00
+date: 2017-02-16 19:00:00
 show_time: true
 venue:
   name: Book Passage
@@ -8,7 +8,7 @@ venue:
   city: Corte Madera
   state: CA
   zip: '94925'
-  link: 'http://www.bookpassage.com'
+link: 'http://www.bookpassage.com'
 ---
 
 

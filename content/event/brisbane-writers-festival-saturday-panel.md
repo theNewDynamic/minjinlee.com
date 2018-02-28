@@ -1,6 +1,6 @@
 ---
 title: 'Brisbane Writers Festival: Saturday Literary Salon'
-start_at: 2017-09-09 19:00:00
+date: 2017-09-09 19:00:00
 show_time: true
 venue:
   name: 'The Edge, State Library of Queensland'
@@ -8,7 +8,7 @@ venue:
   city: South Brisbane QLD
   state:
   zip:
-  link: 'http://uplit.com.au/festival/brisbane-writers-festival-2017/program/a-world-without-writers'
+link: 'http://uplit.com.au/festival/brisbane-writers-festival-2017/program/a-world-without-writers'
 ---
 
 

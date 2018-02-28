@@ -1,6 +1,6 @@
 ---
 title: Nantucket Book Festival 2018
-start_at: 2018-06-14 12:00:00
+date: 2018-06-14 12:00:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: 'https://nantucketbookfestival.org'
+link: 'https://nantucketbookfestival.org'
 ---
 
 

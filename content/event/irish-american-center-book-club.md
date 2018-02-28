@@ -1,6 +1,6 @@
 ---
 title: Irish American Center Book Club
-start_at: 2017-12-04 18:30:00
+date: 2017-12-04 18:30:00
 show_time: true
 venue:
   name: Irish Arts Center
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10019'
-  link: 'http://irishartscenter.org/event/iac-book-club-pachinko-by-min-jin-lee'
+link: 'http://irishartscenter.org/event/iac-book-club-pachinko-by-min-jin-lee'
 ---
 
 

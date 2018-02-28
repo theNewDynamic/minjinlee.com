@@ -1,6 +1,6 @@
 ---
 title: Bronxville Public Library & Sommer Center at Concordia College
-start_at: 2018-01-23 19:00:00
+date: 2018-01-23 19:00:00
 show_time: true
 venue:
   name: Sommer Center at Concordia College
@@ -8,7 +8,7 @@ venue:
   city: Bronxville
   state: NY
   zip: '10708'
-  link: >-
+link: >-
     https://www.eventbrite.com/e/pachinko-by-min-jin-lee-author-talk-tickets-40805054015
 ---
 

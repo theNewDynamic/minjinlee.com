@@ -1,9 +1,9 @@
 ---
 title: MAN HONG KONG INTERNATIONAL LITERARY FESTIVAL
-start_at: 2009-03-14T12:52:00-05:00
+date: 2009-03-14T12:52:00-05:00
 venue:
   name: MAN HONG KONG INTERNATIONAL LITERARY FESTIVAL
-  link: www.festival.org.hk
+link: www.festival.org.hk
 _slug: man_hong_kong_international_literary_festival
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Red Ink
-start_at: 2018-02-08 19:00:00
+date: 2018-02-08 19:00:00
 show_time: true
 venue:
   name: Powerhouse Arena
@@ -8,7 +8,7 @@ venue:
   city: Brooklyn
   state: NY
   zip: '11201'
-  link:
+link:
 ---
 
 

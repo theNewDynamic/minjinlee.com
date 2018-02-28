@@ -1,6 +1,6 @@
 ---
 title: 'Newtown Literary Alliance: Fiction Writing Class'
-start_at: 2018-04-21 14:30:00
+date: 2018-04-21 14:30:00
 show_time: true
 venue:
   name: Lewis H. Latimer House Museum
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: 'https://www.newtownliterary.org/writingclasses'
+link: 'https://www.newtownliterary.org/writingclasses'
 ---
 
 

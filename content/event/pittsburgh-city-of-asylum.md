@@ -1,6 +1,6 @@
 ---
 title: 'Pittsburgh: City of Asylum'
-start_at: 2018-02-20 20:00:00
+date: 2018-02-20 20:00:00
 show_time: true
 venue:
   name: Alphabet City
@@ -8,7 +8,7 @@ venue:
   city: Pittsburgh
   state: PA
   zip: '15212'
-  link: 'http://www.alphabetcity.org'
+link: 'http://www.alphabetcity.org'
 ---
 
 

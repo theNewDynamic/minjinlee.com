@@ -1,9 +1,9 @@
 ---
 title: SEOUL INTERNATIONAL WRITERS’ CONFERENCE 2010
-start_at: 2010-05-11T23:49:00-05:00
+date: 2010-05-11T23:49:00-05:00
 venue:
   name: SEOUL INTERNATIONAL WRITERS' CONFERENCE 2010
-  link: www.sywf.org
+link: www.sywf.org
 _slug: seoul_writers_conference_2010
 ---
 

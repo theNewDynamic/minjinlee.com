@@ -1,6 +1,6 @@
 ---
 title: 'Tacoma, WA: King''s Books'
-start_at: 2018-02-15 19:00:00
+date: 2018-02-15 19:00:00
 show_time: true
 venue:
   name: King's Books
@@ -8,7 +8,7 @@ venue:
   city: Tacoma
   state: WA
   zip: '98402'
-  link: 'http://www.kingsbookstore.com/directions'
+link: 'http://www.kingsbookstore.com/directions'
 ---
 
 

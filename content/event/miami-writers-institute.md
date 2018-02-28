@@ -1,6 +1,6 @@
 ---
 title: 2018 Miami Writers Institute
-start_at: 2018-05-09 12:00:00
+date: 2018-05-09 12:00:00
 show_time: true
 venue:
   name:
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: www.miamibookfair.com
+link: www.miamibookfair.com
 ---
 
 

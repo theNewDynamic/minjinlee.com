@@ -1,9 +1,9 @@
 ---
 title: Korean Community Center Gala
-start_at: 2016-04-16T15:32:25-05:00
+date: 2016-04-16T15:32:25-05:00
 venue:
   name: Teaneck Marriott at Glenpointe
-  link:
+link:
 _slug: korean_community_center_gala
 ---
 

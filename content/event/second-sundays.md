@@ -1,6 +1,6 @@
 ---
 title: Second Saturdays Reading Series
-start_at: 2018-01-13 19:00:00
+date: 2018-01-13 19:00:00
 show_time: true
 venue:
   name: Private home.
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link:
+link:
 ---
 
 

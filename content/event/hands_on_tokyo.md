@@ -1,9 +1,9 @@
 ---
 title: HANDS ON TOKYO
-start_at: 2008-11-06T23:38:00-05:00
+date: 2008-11-06T23:38:00-05:00
 venue:
   name: HANDS ON TOKYO
-  link: www.handsontokyo.org
+link: www.handsontokyo.org
 _slug: hands_on_tokyo
 ---
 

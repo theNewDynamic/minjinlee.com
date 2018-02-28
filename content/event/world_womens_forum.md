@@ -1,9 +1,9 @@
 ---
 title: World Women’s Forum
-start_at: 2008-10-22T03:53:00-05:00
+date: 2008-10-22T03:53:00-05:00
 venue:
   name: World Women's Forum, Seoul, South Korea
-  link: www.womanforum.org
+link: www.womanforum.org
 _slug: world_womens_forum
 ---
 

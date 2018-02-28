@@ -1,6 +1,6 @@
 ---
 title: 'The New York Public Library: Immigrant Stories'
-start_at: 2017-04-18 18:30:00
+date: 2017-04-18 18:30:00
 show_time: true
 venue:
   name: Stephen A. Schwarzman Building
@@ -8,7 +8,7 @@ venue:
   city: New York
   state: NY
   zip: '10018'
-  link: 'https://www.showclix.com/event/immigrantstories/listing/tag/guest'
+link: 'https://www.showclix.com/event/immigrantstories/listing/tag/guest'
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 'Cape Cod: Literary Luncheon'
-start_at: 2017-08-03 12:00:00
+date: 2017-08-03 12:00:00
 show_time: true
 venue:
   name: Author Literary Luncheon Series in Cape Cod
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: 'http://www.booksonthecape.com/author-literary-luncheon-series/'
+link: 'http://www.booksonthecape.com/author-literary-luncheon-series/'
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 'Cincinnati, OH: Mercantile Library'
-start_at: 2018-03-06 19:00:00
+date: 2018-03-06 19:00:00
 show_time: true
 venue:
   name: Mercantile Library
@@ -8,7 +8,7 @@ venue:
   city: Cincinnati
   state: OH
   zip: '45202'
-  link: 'http://new.mercantilelibrary.com'
+link: 'http://new.mercantilelibrary.com'
 ---
 
 

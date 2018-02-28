@@ -1,9 +1,10 @@
 ---
 title: Pachinko
-date: 2016-08-04 03:12:00
-publication_date: 2017-02-07 00:00:00
+date: 2017-02-07 00:00:00
+publisher:
+subtitle:
 category: Fiction
-description_markdown: >-
+description: >-
   “Luminous…a powerful meditation on what immigrants sacrifice to achieve a home
   in the world. This story confirms Lee’s place among our finest novelists.”
 
@@ -13,13 +14,11 @@ description_markdown: >-
 
   ##### **–Junot D&iacute;az, Pulitzer Prize-Winning author of *The Brief
   Wondrous Life of Oscar Wao*&nbsp;and *This is How You Lose Her***
-editions:
-  - binding: paperback
-    isbn: '9781455563937'
-  - binding: hardcover
-    isbn: '9781455563937'
-  - binding: ebook
-    isbn: '9781455563913'
+
+editions_isbn:
+  hardcover: 9781455563937
+  paperback: 9781455563937
+  ebook: 9781455563913
 reviews:
   - attribution: 'Kate Christensen, Pen/Faulkner-winning author of *The Great Man* and *Blue Plate Special*'
     copy_markdown: "*Pachinko* is elegant and soulful, both intimate and sweeping. This story of several generations of one Korean family in Japan is the story of every family whose parents sacrificed for their children, every family whose children were unable to recognize the cost, but it's also the story of a specific cultural struggle in a riveting time and place. Min Jin Lee has written a big, beautiful book filled with characters I rooted for and cared about and remembered after I'd read the final page."
@@ -53,9 +52,8 @@ reviews:
     copy_markdown: "Through it all is a message about love, faith, and the deep-rooted bonds of family. Min Jin Lee gives us a phenomenal story about one family's struggle that resonates with us today. It will take hold of you and not let go!"
   - attribution: Toronto Star
     copy_markdown: "Top 10 Books of February of the Canadian Library Association's Loan Stars Program"
-cover_image_path: /uploads/9781455563920.jpeg
+image: /uploads/9781455563920.jpeg
 ---
-
 
 PACHINKO follows one Korean family through the generations, beginning in early 1900s Korea with Sunja, the prized daughter of a poor yet proud family, whose unplanned pregnancy threatens to shame them all. Deserted by her lover, Sunja is saved when a young tubercular minister offers to marry and bring her to Japan.
 

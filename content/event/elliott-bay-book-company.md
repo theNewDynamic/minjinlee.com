@@ -1,6 +1,6 @@
 ---
 title: Elliott Bay Book Company
-start_at: 2017-03-02 19:00:00
+date: 2017-03-02 19:00:00
 show_time: true
 venue:
   name: Elliott Bay Book Company
@@ -8,7 +8,7 @@ venue:
   city: Seattle
   state: WA
   zip: '98122'
-  link: 'https://elliottbaybook.com'
+link: 'https://elliottbaybook.com'
 ---
 
 

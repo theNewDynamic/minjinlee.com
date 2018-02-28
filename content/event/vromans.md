@@ -1,6 +1,6 @@
 ---
 title: "Vroman's"
-start_at: 2017-02-22 19:00:00
+date: 2017-02-22 19:00:00
 show_time: true
 venue:
   name: "Vroman's Bookstore"
@@ -8,7 +8,7 @@ venue:
   city: Pasadena
   state: CA
   zip: '91101'
-  link: 'https://vromansbookstore.com'
+link: 'https://vromansbookstore.com'
 ---
 
 

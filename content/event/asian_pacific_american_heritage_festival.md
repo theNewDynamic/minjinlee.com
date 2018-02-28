@@ -1,9 +1,9 @@
 ---
 title: AAJA
-start_at: 2008-05-04T05:29:00-05:00
+date: 2008-05-04T05:29:00-05:00
 venue:
   name: Asian American Heritage Festival, New York City [CANCELED]
-  link: www.aaja.org
+link: www.aaja.org
 _slug: asian_pacific_american_heritage_festival
 ---
 

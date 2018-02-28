@@ -1,9 +1,9 @@
 ---
 title: KACF/AWGC
-start_at: 2008-01-22T23:20:00-05:00
+date: 2008-01-22T23:20:00-05:00
 venue:
   name: Korean American Community Foundation and the Asian Women's Giving Circle, NEW YORK
-  link:
+link:
 _slug: kacf_awgc
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: LATIMES FESTIVAL OF BOOKS
-start_at: 2008-04-27T04:28:00-05:00
+date: 2008-04-27T04:28:00-05:00
 venue:
   name: The Los Angeles Times Festival of Books
-  link: http://www.latimes.com/extras/festivalofbooks/
+link: http://www.latimes.com/extras/festivalofbooks/
 _slug: la_times_book_festival
 ---
 

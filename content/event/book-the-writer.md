@@ -1,6 +1,6 @@
 ---
 title: Book the Writer
-start_at: 2017-05-04 19:30:00
+date: 2017-05-04 19:30:00
 show_time: true
 venue:
   name: Book The Writer
@@ -8,7 +8,7 @@ venue:
   city:
   state:
   zip:
-  link: 'http://bookthewriter.com'
+link: 'http://bookthewriter.com'
 ---
 
 

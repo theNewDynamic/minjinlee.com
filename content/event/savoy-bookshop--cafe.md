@@ -1,6 +1,6 @@
 ---
 title: 'Savoy Bookshop & Cafe'
-start_at: 2017-02-09 18:00:00
+date: 2017-02-09 18:00:00
 show_time: true
 venue:
   name: Savoy Books
@@ -8,7 +8,7 @@ venue:
   city: Westerly
   state: RI
   zip: 02891
-  link: 'http://www.savoybooks.com'
+link: 'http://www.savoybooks.com'
 ---
 
 
