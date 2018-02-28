@@ -1,7 +1,7 @@
-require("typeface-lato");
-import styles from "./../css/styles.css";
+require("typeface-vesper-libre")
+import styles from "./../css/styles.css"
 // import fonts from "./../fonts.css";
 
-import "./lazysizes.js";
-import "./turbolinks.js";
-import "./nojs.js";
+import "./lazysizes.js"
+import "./turbolinks.js"
+import "./nojs.js"
