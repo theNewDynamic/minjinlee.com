@@ -1,0 +1,7 @@
+<blockquote class="color-inherit lg:text-2xl mb-5 mb-0 ml1 mt-5 nested-copy-line-height serif">
+  <div class="f-subheadline float-left moon-gray nt3 nl4 ">&#8223;</div>
+    {{ .Content }}
+</blockquote>
+{{ with .Params.attribution }}
+  <div class="color-inherit text-base nt4 o-90 sans-serif"> – {{ . | markdownify }}</div>
+{{ end }}
