@@ -40,7 +40,7 @@
     "style-loader": "^0.20.1",
     "tailwindcss": "^0.4.1",
     "turbolinks": "^5.1.1",
-    "typeface-lato": "0.0.54",
+    "typeface-vesper-libre": "^0.0.54",
     "webpack": "^3.10.0",
     "webpack-merge": "^4.1.1"
   }
