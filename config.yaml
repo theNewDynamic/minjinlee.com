@@ -1,0 +1,99 @@
+---
+DefaultContentLanguage: en
+MetaDataFormat: yaml
+Paginate: 300
+baseURL: "https://www.thenewdynamic.org"
+enableRobotsTXT: true
+googleAnalytics: ""
+languageCode: en-us
+config: config.yaml
+theme: "hugo-base-layouts"
+#themesDir: "src/themes"
+#layoutDir: "src/layouts"
+mediaTypes:
+  text/netlify:
+    delimiter: ""
+    suffix: ""
+menu:
+  main:
+    -
+      identifier: home
+      name: "Home"
+      url: /
+      weight: 1
+    -
+      identifier: books
+      name: Books
+      url: /book/
+      weight: 10
+    -
+      identifier: news
+      name: "News"
+      url: /news/
+      weight: 20
+    -
+      identifier: writing
+      name: Writing
+      url: /writing/
+      weight: 30
+    -
+      identifier: events
+      name: Events
+      url: /events/
+      weight: 40
+    -
+      identifier: events
+      name: Events
+      url: /event/
+      weight: 50
+    -
+      identifier: about
+      name: About
+      url: /about/
+      weight: 60
+outputFormats:
+  HEADERS:
+    baseName: _headers
+    isPlainText: true
+    mediatype: text/netlify
+    notAlternative: true
+  REDIR:
+    baseName: _redirects
+    isPlainText: true
+    mediatype: text/netlify
+    notAlternative: true
+outputs:
+  home:
+    - HTML
+    - HEADERS
+    - REDIR
+params:
+  description: "Build Faster Better Websites with modern tools and techniques"
+  logo: ""
+  dev:
+    fonts_path: "static/dist/Fonts"
+    css_path: "static/dist/css"
+    js_path: "static/dist/js"
+  social:
+    meetup: "https://www.meetup.com/JAMstack-nyc/"
+    slack: "http://em.getrevue.co/mpss/c/JwE/1EoYAA/t.2ev/jSaKaYSMSceVQJcvS_U60A/h2/pOX6dG0WOSaHZ2xGmd4gW0-2BrN1qYSXeUzlrtE6-2BVVHGW98kh-2F2-2BGFDjImF5dH0Y6xebMeCT9MNxDau7ub3YeLycsgNuvcNz-2FX3nLY-2FICMvLdhuiC8Y73BLlet89Qcp29-2BePlJKx7TM7lfKr8D7ySqHSks0vCpkw0cfKSr0B6nrR7tXySaTIuzI7qAUTFoUtv5BAhGQCSnOpXZ6uUub7Pfw-3D-3D"
+
+preserveTaxonomyNames: true
+related:
+  includeNewer: true
+  indices:
+    -
+      name: tool
+      toLower: true
+      weight: 100
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+social:
+  twitter: thenewdynamic
+taxonomies:
+  series: series
+  tag: tags
+  tools: tools
+title: "Default Starter"

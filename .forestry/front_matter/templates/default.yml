@@ -1,0 +1,18 @@
+---
+hide_body: false
+fields:
+- type: textarea
+  name: title
+  label: Title
+  config:
+    wysiwyg: false
+  description: You can use bold or italics in titles (do not use links or images)
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 
+- type: image_gallery
+  name: images
+  label: Images
+- type: text

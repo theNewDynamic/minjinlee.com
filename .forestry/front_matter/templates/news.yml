@@ -1,0 +1,20 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: To make a word italicized put an *asterisk* before and after it, like
+    *The Saboteur*
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 
+- type: image_gallery
+  name: images
+  label: Images
+- type: text
+  label: Description
+  name: description
+  description: Very Short. Good for SEO

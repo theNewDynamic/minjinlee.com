@@ -1,0 +1,20 @@
+---
+upload_path: "/static/uploads/"
+frontmatter_file_url_template: "/uploads/"
+body_file_url_template: "/uploads/"
+new_page_extension: md
+auto_deploy: false
+admin_path: admin
+webhook_url: 
+sections:
+  review:
+    default_front_matter_template: review
+  news:
+    default_front_matter_template: news
+  event:
+    default_front_matter_template: event
+  book:
+    default_front_matter_template: book
+  article:
+    default_front_matter_template: article
+version: 0.31.1
