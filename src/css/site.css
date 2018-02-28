@@ -1,0 +1,22 @@
+.font-primary {
+    @apply .font-serif;
+}
+
+
+.body-color {
+  @apply bg-white text-grey-darkest;
+}
+
+header {
+  @apply .text-grey-dark .bg-white
+}
+
+@screen md {
+  header {
+    @apply .fixed .pin-t .pin-l .pin-r .z-50
+  }
+  .content {
+    @apply .mt-12
+        }
+
+}
