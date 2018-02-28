@@ -1,4 +1,5 @@
 ---
+title: "Min Jin Lee"
 DefaultContentLanguage: en
 MetaDataFormat: yaml
 Paginate: 300
@@ -79,9 +80,7 @@ params:
     fonts_path: "static/dist/Fonts"
     css_path: "static/dist/css"
     js_path: "static/dist/js"
-  social:
-    meetup: "https://www.meetup.com/JAMstack-nyc/"
-    slack: "http://em.getrevue.co/mpss/c/JwE/1EoYAA/t.2ev/jSaKaYSMSceVQJcvS_U60A/h2/pOX6dG0WOSaHZ2xGmd4gW0-2BrN1qYSXeUzlrtE6-2BVVHGW98kh-2F2-2BGFDjImF5dH0Y6xebMeCT9MNxDau7ub3YeLycsgNuvcNz-2FX3nLY-2FICMvLdhuiC8Y73BLlet89Qcp29-2BePlJKx7TM7lfKr8D7ySqHSks0vCpkw0cfKSr0B6nrR7tXySaTIuzI7qAUTFoUtv5BAhGQCSnOpXZ6uUub7Pfw-3D-3D"
+
 
 preserveTaxonomyNames: true
 related:
@@ -96,9 +95,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
 social:
-  twitter: thenewdynamic
+  facebook: "minjinleebooks"
+  twitter: "minjinlee11"
+  instagram: "lee_minjin"
 taxonomies:
   series: series
   tag: tags
   tools: tools
-title: "Default Starter"
