@@ -7,6 +7,9 @@ baseURL: "https://www.thenewdynamic.org"
 enableRobotsTXT: true
 googleAnalytics: ""
 languageCode: en-us
+blackfriday:
+  extensionsmask:
+    - noIntraEmphasis
 config: config.yaml
 theme: "hugo-base-layouts"
 #themesDir: "src/themes"
