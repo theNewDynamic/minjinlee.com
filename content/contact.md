@@ -14,7 +14,7 @@ menu:
 
 ---
 
-#### For literary rights/Inquiries, please contact:
+#### Literary Rights/Inquiries:
 
 **Suzanne Gluck**  
 The William Morris Endeavor Entertainment Agency  
@@ -24,7 +24,8 @@ Suzanne Gluck Assistant:       [SGluck_asst@wmeentertainment.com](javascript:voi
 
 ---
 
-#### PUBLICITY/PUBLIC RELATIONS INQUIRIES, PLEASE CONTACT:
+
+#### Publicity/Public Relations inquiries:
 
 **Andy Dodds**  
 Associate Director of Publicity  
@@ -33,8 +34,9 @@ Grand Central Publishing/Hachette
 
 [Andy.Dodds@hbgusa.com](javascript:void(location.href='mailto:'+String.fromCharCode(65,110,100,121,46,68,111,100,100,115,64,104,98,103,117,115,97,46,99,111,109)))
 
+---
 
-#### SPEAKING ENGAGEMENTS
+#### Speaking engagements:
 
-Please contact the Hachette Speakers Bureau  
-MS. SOPHIE COTTRELL: <SOPHIE.COTTRELL@HBGUSA.COM>
+Hachette Speakers Bureau  
+Ms. Sophie Cottrell: <sophie.cottrell@hbgusa.com>
