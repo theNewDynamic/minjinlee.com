@@ -1,4 +1,4 @@
-.font-primary {
+.font-primary, .font-brand {
     @apply .font-serif;
 }
 
@@ -11,6 +11,10 @@
 
 header {
   @apply .text-primary-color .bg-white
+}
+
+footer {
+  @apply .p-4 .mt-12 .text-sm .text-grey-dark;
 }
 
 @screen md {
