@@ -2,13 +2,15 @@
     @apply .font-serif;
 }
 
-
+.active {
+  @apply .text-grey-dark .underline;
+}
 .body-color {
   @apply bg-white text-grey-darkest;
 }
 
 header {
-  @apply .text-grey-dark .bg-white
+  @apply .text-primary-color .bg-white
 }
 
 @screen md {

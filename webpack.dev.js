@@ -29,7 +29,12 @@ module.exports = merge(common, {
         test: /\.css$/,
         exclude: /\.module\.css$/,
         use: [
-          "style-loader",
+          {
+            loader: "style-loader",
+            options: {
+              hmr: true,
+            },
+          },
 
           {
             loader: "css-loader",

@@ -1,5 +1,6 @@
-{{/* {{ define "header" }}{{ partial "page-header.html" . }}{{ end }} */}}
+
 {{ define "main" }}
+
   <main class="w-full cf min-vh-100">
     {{- partialCached "books/quote-featured.html" . -}}
     {{ range .Data.Pages }}

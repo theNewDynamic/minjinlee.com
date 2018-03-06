@@ -15,48 +15,6 @@ mediaTypes:
   text/netlify:
     delimiter: ""
     suffix: ""
-menu:
-  main:
-    -
-      identifier: home
-      name: "Home"
-      url: /
-      weight: 1
-    -
-      identifier: books
-      name: Books
-      url: /book/
-      weight: 10
-    -
-      identifier: news
-      name: "News & Media"
-      url: /news/
-      weight: 20
-    -
-      identifier: writing
-      name: Writing
-      url: /writing/
-      weight: 30
-    -
-      identifier: events
-      name: Events
-      url: /events/
-      weight: 40
-    -
-      identifier: events
-      name: Events
-      url: /event/
-      weight: 50
-    -
-      identifier: about
-      name: About
-      url: /about/
-      weight: 60
-    -
-      identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 60
 outputFormats:
   HEADERS:
     baseName: _headers
@@ -102,3 +60,45 @@ taxonomies:
   series: series
   tag: tags
   tools: tools
+# menu:
+#   main:
+#     -
+#       identifier: home
+#       name: "Home"
+#       url: /
+#       weight: 1
+#     -
+#       identifier: books
+#       name: Books
+#       url: /book/
+#       weight: 10
+#     -
+#       identifier: news
+#       name: "News & Media"
+#       url: /news/
+#       weight: 20
+#     -
+#       identifier: writing
+#       name: Writing
+#       url: /writing/
+#       weight: 30
+#     -
+#       identifier: events
+#       name: Events
+#       url: /events/
+#       weight: 40
+#     -
+#       identifier: events
+#       name: Events
+#       url: /event/
+#       weight: 50
+#     -
+#       identifier: about
+#       name: About
+#       url: /about/
+#       weight: 60
+#     -
+#       identifier: contact
+#       name: Contact
+#       url: /contact/
+#       weight: 60

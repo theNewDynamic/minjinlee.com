@@ -4,7 +4,13 @@
 
 
 
-
+  {{$headless := .Site.GetPage "page" "review" }}
+  {{$reusablePages := $headless.Resources}}
+  {{$reusablePages := where ($reusablePages) ".Params.book" "book/pachinko.md"}}
+  {{ range $reusablePages }}
+      <h3>{{ .Title }}</h3>
+      {{ .Content }}
+  {{ end }}
 
   <div class="center black mb5 ph4 w-75-l">
       {{- partial "books/praise.html" (dict "count" 100 "context" . ) -}}
