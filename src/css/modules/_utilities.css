@@ -13,7 +13,9 @@ html.js .js-only{
 .bg-inherit { background-color: inherit}
 .color-inherit { color: inherit}
 
-
+p {
+  @apply .mb-4;
+}
 p a:link, p a:active, p a:visited {
   /* This blue has a 4.77 contrast ratio on white 4.56 on near-white */
     color: #1A76C1;
