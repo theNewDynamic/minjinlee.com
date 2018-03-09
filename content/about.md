@@ -1,6 +1,6 @@
 ---
 title: About
-images: []
+images: ["/uploads/minjinlee.jpg"]
 description:
 menu:
   main:
