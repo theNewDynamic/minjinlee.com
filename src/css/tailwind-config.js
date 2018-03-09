@@ -46,11 +46,11 @@ let colors = {
   transparent: "transparent",
 
   "primary-color": "#607D8B",
-  //'primary-color-dark':   ,
+  "primary-color-dark": "#606f7b",
   //'primary-color-light':  ,
   //'accent-color':         ,
   //'accent-color-light':   ,
-  //'accent-color-dark':    ,
+  "accent-color-dark": "#606f7b",
   "text-color-primary": "#373737",
   //'text-on-primary-color': ,
   //'text-color-secondary': ,
@@ -203,7 +203,7 @@ module.exports = {
 
   fonts: {
     sans: [
-      "Lato",
+      "Helvetica",
       "Avenir Next W00",
       "Avenir Next",
       "Avenir",
@@ -233,15 +233,14 @@ module.exports = {
       "Georgia",
       "serif",
     ],
-    // ,
-    // 'mono': [
-    //   'Menlo',
-    //   'Monaco',
-    //   'Consolas',
-    //   'Liberation Mono',
-    //   'Courier New',
-    //   'monospace',
-    // ]
+    mono: [
+      "Menlo",
+      "Monaco",
+      "Consolas",
+      "Liberation Mono",
+      "Courier New",
+      "monospace",
+    ],
   },
 
   /*
@@ -583,6 +582,9 @@ module.exports = {
     "4xl": "90rem",
     "5xl": "100rem",
     full: "100%",
+    measure: "30em",
+    "measure-wide": "34em",
+    "measure-narrow": "20em",
   },
 
   /*
