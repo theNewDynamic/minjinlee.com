@@ -1,3 +1,6 @@
+/* Use the site file to define common component classes or to prevent duplicate sets of classes in templates. */
+
+/* BODY */
 .font-primary, .font-brand {
     @apply .font-serif;
 }
@@ -7,6 +10,14 @@
 }
 .body-color {
   @apply bg-white text-grey-darkest;
+}
+
+/* COMPONENTS */
+.page-heading {
+    @apply .text-primary-color .text-5xl .mb-2
+}
+.page-description {
+    @apply .text-base .mb-2 text-2xl .text-grey-dark .mb-8
 }
 
 header {
