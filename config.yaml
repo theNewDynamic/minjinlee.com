@@ -3,7 +3,7 @@ title: "Min Jin Lee"
 DefaultContentLanguage: en
 buildFuture: true
 MetaDataFormat: yaml
-Paginate: 300
+Paginate: 10
 baseURL: "https://www.thenewdynamic.org"
 enableRobotsTXT: true
 googleAnalytics: ""
@@ -61,7 +61,7 @@ social:
   twitter: "minjinlee11"
   instagram: "lee_minjin"
 taxonomies:
-  series: series
+  category: category
   tag: tags
   tools: tools
 # menu:
