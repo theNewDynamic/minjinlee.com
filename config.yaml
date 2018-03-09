@@ -1,6 +1,7 @@
 ---
 title: "Min Jin Lee"
 DefaultContentLanguage: en
+buildFuture: true
 MetaDataFormat: yaml
 Paginate: 300
 baseURL: "https://www.thenewdynamic.org"
