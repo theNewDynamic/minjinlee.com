@@ -1,8 +1,10 @@
-{{ with .Params.venue }}
-{{ .address }} {{ .city }}, {{ .state }} {{ .zip }}
-{{ end }}
-{{ with .Params.links }}
-  <a href="{{ printf  . | safeHTMLAttr }}" target="_blank" class="color-inherit hover:text-blue no-underline">
-    {{ . | replaceRE "^https?://([^/]+).*" "$1"  }}
-  </a>
-{{ end }}
+<aside class="font-sans text-sm text-grey-dark">
+  {{ with .Params.venue }}
+    {{with .address }}{{.}}{{end}} {{with .city }}{{.}}, {{end}}{{with .state }}{{.}}{{end}} {{with .zip }}{{.}}{{end}}
+  {{ end }}
+  {{ with .Params.link }}
+    <a href="{{ printf  . | safeHTMLAttr }}" target="_blank" class="inline-block ml-4 text-blue dim no-underline">
+      {{- replaceRE "^https?://([^/]+).*" "$1" . | safeHTMLAttr -}}
+    </a>
+  {{ end }}
+</aside>

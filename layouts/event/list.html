@@ -1,33 +1,32 @@
 {{ define "main" }}
-{{$section := .Site.GetPage "section" .Section}}
-{{ $event := .Data.Pages.ByDate }}
-{{ $events := where $event ".Date.Unix" "ge" now.Unix }}
-{{ $events_past := where $event.Reverse ".Date.Unix" "<" now.Unix }}
+  {{ $section := .Site.GetPage "section" .Section }}
+  {{ $event := .Pages.ByDate }}
+  {{ $events := where $event ".Date.Unix" "ge" now.Unix }}
+  {{ $events_past := where $event.Reverse ".Date.Unix" "<" now.Unix }}
 
+  <div class="max-w-md mx-auto px-4 pt-5">
+    {{ partial "_components/page-heading.html" $section }}
 
-  <div class="mw8 mx-auto px-4 pt-5">
-    <h1 class="accent-color text-5xl mb-2">{{$section.Title}}</h1>
-    {{with $section.Params.description}}
-      <p class="leading-normal">{{.}}</p>
-    {{end}}
     <section class="pt-5 min-vh-100">
       {{range $events}}
-        <div class="relative w-full mb-5 text-4xl text-black">
-            {{.Render "item-summary"}}
+        <div class="relative w-full mb-8 border-b">
+            {{.Render "item"}}
         </div>
       {{ end }}
       {{if $events_past}}
         {{$id := "events"}}
-        
-        <div class="hidden-{{$id}} mt-5">
+        <div class="mt-8">
+          <h2>Past Events</h2>
           {{range $events_past}}
-            <div class="text-2xl relative w-full mb-5">
-                {{.Render "item-summary"}}
+            <div class="relative w-full mb-8 border-b">
+                {{.Render "summary"}}
             </div>
           {{ end }}
         </div>
       {{ end }}
     </section>
+
+
     {{ template "_internal/pagination.html" . }}
   </div>
 {{ end }}

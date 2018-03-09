@@ -1,37 +1,6 @@
-<div class="accent-color"> 
-  {{ partial "components/time.html" (dict "context" . ) }}
-</div>
-<h1 class="lh-title mt-1">
-  <a href="{{ .URL }}" class="dim no-underline primary-color-dark">
-    {{ .Title | markdownify }}
-  </a>
-</h1>
-{{ with .Params.images }}
-  <img src="{{ index . 0 }}" class="img mx-auto tc"/>
-{{ end }}
-{{with .Content}}
-  <div class="text-xl nested-copy-line-height nested-links">
-    {{.}}
-  </div>
-{{end}}
-
-<div class="b--light-gray bt f6 mid-gray pt-2 sans-serif">
+<div class="pt-4">
+  {{- partial "_components/time.html" (dict "context" . "show_time" true ) -}}
+  {{- partial "_components/item-title.html" . -}}
+  {{- partial "_components/item-description.html" . -}}
   {{- partial "_components/event-venue.html" . -}}
 </div>
-
-
-  {{/*
-  ---
-  date: 2017-02-03 19:00:00
-  no-underline: http://www.Harvard.com
-  show_time: true
-  title: Harvard Book Store
-  venue:
-    address: 1256 Massachusetts Ave
-    city: Cambridge
-    name: Harvard Bookstore
-    state: MA
-    zip: 2138
-  ---
-
-  Reading */}}

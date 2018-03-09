@@ -6,7 +6,7 @@
 
   {{$headless := .Site.GetPage "page" "review" }}
   {{$reusablePages := $headless.Resources}}
-  {{$reusablePages := where ($reusablePages) ".Params.book" "book/pachinko.md"}}
+  {{$reusablePages := where ($reusablePages) ".Params.book" "book/book-.md"}}
   {{ range $reusablePages }}
       <h3>{{ .Title }}</h3>
       {{ .Content }}
