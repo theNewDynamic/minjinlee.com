@@ -3,8 +3,7 @@ title: Free Food for Millionaires
 publication: 2007-05-07 00:00:00
 publisher:
 subtitle:
-genre:
-  - Fiction
+genre: Fiction
 description: >-
   “It would be remarkable if she had simply written a long novel that was as easy
   to devour as a 19th-century romance — packed with tales of flouted parental

@@ -3,7 +3,7 @@ title: Pachinko
 date: 2017-02-07 00:00:00
 publisher:
 subtitle:
-category: Fiction
+genre: Fiction
 description: >-
   “Luminous…a powerful meditation on what immigrants sacrifice to achieve a home
   in the world. This story confirms Lee’s place among our finest novelists.”
