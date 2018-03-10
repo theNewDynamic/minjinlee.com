@@ -38,6 +38,7 @@ outputs:
 params:
   description: "Build Faster Better Websites with modern tools and techniques"
   logo: ""
+  tagsName: Type
   dev:
     fonts_path: "static/dist/Fonts"
     css_path: "static/dist/css"
