@@ -1,6 +1,6 @@
 ---
 title: Coolidge Corner Public Library in Brookline
-start_at: 2018-03-03 14:00:00
+date: 2018-03-03 14:00:00
 show_time: true
 venue:
   name: Coolidge Corner Public Library in Brookline
