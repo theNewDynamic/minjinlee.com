@@ -1,7 +1,7 @@
 ---
 title: 'BBC.com: 10 Books to Read in 2017'
 date: 2016-12-16 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: "BBC.com's Culture by Jane Ciabattari"

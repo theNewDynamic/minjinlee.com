@@ -1,7 +1,7 @@
 ---
 title: 'Center for Fiction: Modern Families (VIDEO)'
 date: 2016-12-01 19:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution:

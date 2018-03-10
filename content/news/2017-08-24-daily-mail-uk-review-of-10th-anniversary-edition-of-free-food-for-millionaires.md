@@ -3,7 +3,7 @@ title: >-
   Daily Mail UK: Review of 10th Anniversary Edition of FREE FOOD FOR
   MILLIONAIRES
 date: 2017-08-24 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

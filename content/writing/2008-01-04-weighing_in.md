@@ -1,8 +1,8 @@
 ---
 title: "Weighing In"
 date: 2008-01-04T21:26:03-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published: "Vogue"
 link_to_original: "http://www.accessmylibrary.com/coms2/summary_0286-34387551_ITM"

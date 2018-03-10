@@ -1,7 +1,7 @@
 ---
 title: 'Irish Times: Book Review by John Boyne'
 date: 2017-08-05 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Irish Times

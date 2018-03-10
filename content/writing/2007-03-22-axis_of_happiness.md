@@ -1,8 +1,8 @@
 ---
 title: "Axis of Happiness"
 date: 2007-03-22T17:45:45-05:00
-category: Writing
-writing_category: short-stories
+category: 
+tags: ["Short Stories"]
 
 where_published: "Narrative Magazine"
 link_to_original: "http://www.narrativemagazine.com/shared/prize.php"

@@ -1,8 +1,8 @@
 ---
 title: "Sex, Debt, and Revenge: Balzac’s Cousin Bette"
 date: 2008-04-27T22:27:40-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published: "Barnes & Noble Review"
 link_to_original: "http://www.barnesandnoble.com/bn-review/note.asp?note=16288150"

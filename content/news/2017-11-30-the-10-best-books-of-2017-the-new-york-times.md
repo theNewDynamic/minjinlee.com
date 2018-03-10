@@ -1,7 +1,7 @@
 ---
 title: 'The 10 Best Books of 2017: The New York Times'
 date: 2017-11-30 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

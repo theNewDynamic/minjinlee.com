@@ -1,9 +1,9 @@
 ---
 title: 'LitHub: On Selling Your First Novel After 11 Years'
 date: 2017-01-10 03:39:00
-category: Writing
-writing_category:
-  - Writing
+category: 
+tags:
+  - Publishing
 where_published: LitHub
 link_to_original: 'http://lithub.com/on-selling-your-first-novel-after-11-years/'
 link_to_pdf:

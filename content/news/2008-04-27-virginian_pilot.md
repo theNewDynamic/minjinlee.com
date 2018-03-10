@@ -1,7 +1,7 @@
 ---
 title: "Virginian Pilot"
 date: 2008-04-27T22:53:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "Virginian Pilot"

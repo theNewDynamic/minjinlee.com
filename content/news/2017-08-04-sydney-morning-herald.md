@@ -1,7 +1,7 @@
 ---
 title: Sydney Morning Herald
 date: 2017-08-04 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: The Sydney Morning Herald

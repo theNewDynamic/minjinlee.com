@@ -1,7 +1,7 @@
 ---
 title: Asian Review of Books (Book Review)
 date: 2017-04-13 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Asian Review of Books

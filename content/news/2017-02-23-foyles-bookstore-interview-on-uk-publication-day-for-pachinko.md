@@ -1,7 +1,7 @@
 ---
 title: 'Foyles Bookstore: Interview on UK Publication Day for PACHINKO'
 date: 2017-02-23 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Interviews

@@ -1,8 +1,8 @@
 ---
 title: "Times of London: My Favorite Novel of 2010"
 date: 2010-05-05T23:13:45-05:00
-category: Writing
-writing_category: reviews
+category: 
+tags: ["Reviews"]
 
 where_published: "Times of London"
 link_to_original: "http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/fiction/article7111534.ece"

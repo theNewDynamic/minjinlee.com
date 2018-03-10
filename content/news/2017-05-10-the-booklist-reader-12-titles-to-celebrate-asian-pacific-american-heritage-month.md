@@ -1,7 +1,7 @@
 ---
 title: 'The Booklist Reader: 12 Titles to celebrate Asian Pacific American Heritage Month'
 date: 2017-05-10 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

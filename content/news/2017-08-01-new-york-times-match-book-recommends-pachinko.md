@@ -1,7 +1,7 @@
 ---
 title: 'New York Times: Match Book Recommends Pachinko'
 date: 2017-08-01 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

@@ -1,8 +1,8 @@
 ---
 title: "Largehearted Boy: Book Notes Archives"
 date: 2007-06-19T22:17:08-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published: "Largehearted Boy: Book Notes Archives"
 link_to_original: "http://www.largeheartedboy.com/blog/archive/2007/06/book_notes_min.html"

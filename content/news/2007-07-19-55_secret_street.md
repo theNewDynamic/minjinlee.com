@@ -1,7 +1,7 @@
 ---
 title: "55 Secret Street"
 date: 2007-07-19T22:07:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "55 Secret Street"

@@ -1,7 +1,7 @@
 ---
 title: "Privilege and Poverty - A Rebellious Young Korean Woman Gets a Crash…"
 date: 2007-06-10T22:49:01-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "Charlotte Observer"

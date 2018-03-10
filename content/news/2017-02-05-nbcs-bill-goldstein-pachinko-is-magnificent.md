@@ -1,7 +1,7 @@
 ---
 title: "NBC's Bill Goldstein: Pachinko is \"Magnificent\""
 date: 2017-02-05 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: "NBC New York: Bill's Books"

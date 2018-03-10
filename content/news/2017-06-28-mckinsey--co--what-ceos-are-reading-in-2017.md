@@ -1,7 +1,7 @@
 ---
 title: 'McKinsey & Co.: What CEOs are Reading in 2017'
 date: 2017-06-28 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: McKinsey.com

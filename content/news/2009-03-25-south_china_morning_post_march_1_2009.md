@@ -1,7 +1,7 @@
 ---
 title: "South China Morning Post - March 1, 2009"
 date: 2009-03-25T10:45:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "South China Morning Post"

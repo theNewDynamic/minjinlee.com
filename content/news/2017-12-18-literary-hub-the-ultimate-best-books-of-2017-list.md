@@ -1,7 +1,7 @@
 ---
 title: 'Literary Hub: The Ultimate Best Books of 2017 List'
 date: 2017-12-18 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

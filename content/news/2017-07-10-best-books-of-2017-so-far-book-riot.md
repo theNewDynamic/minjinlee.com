@@ -1,7 +1,7 @@
 ---
 title: 'Best Books of 2017 (So Far): Book Riot'
 date: 2017-07-10 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

@@ -1,7 +1,7 @@
 ---
 title: "NPR Booktour"
 date: 2007-07-24T23:22:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Audio
 attribution: "NPR Booktour"

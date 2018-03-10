@@ -1,7 +1,7 @@
 ---
 title: "NPR Talk of the Nation"
 date: 2007-05-28T23:32:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Audio
 attribution: "NPR Talk of the Nation"

@@ -1,7 +1,7 @@
 ---
 title: "Sun-Sentinel"
 date: 2007-07-22T23:06:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: ""

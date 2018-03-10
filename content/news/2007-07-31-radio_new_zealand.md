@@ -1,7 +1,7 @@
 ---
 title: "Radio New Zealand"
 date: 2007-07-31T23:35:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Audio
 attribution: "Radio New Zealand"

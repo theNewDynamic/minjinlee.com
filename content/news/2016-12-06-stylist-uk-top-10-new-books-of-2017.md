@@ -1,7 +1,7 @@
 ---
 title: 'Stylist UK: Top 10 New Books of 2017'
 date: 2016-12-06 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Stylist UK

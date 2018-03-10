@@ -1,7 +1,7 @@
 ---
 title: 'The Times Literary Supplement: Podcast'
 date: 2017-05-25 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Audio

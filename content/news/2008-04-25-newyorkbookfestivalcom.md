@@ -1,7 +1,7 @@
 ---
 title: "newyorkbookfestival.com"
 date: 2008-04-25T23:38:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "Newyorkbookfestival.com"

@@ -1,7 +1,7 @@
 ---
 title: Japan Times (Book Review)
 date: 2017-03-04 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: The Japan Times

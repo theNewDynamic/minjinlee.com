@@ -1,7 +1,7 @@
 ---
 title: Michigan Daily
 date: 2017-03-26 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Michigan Daily

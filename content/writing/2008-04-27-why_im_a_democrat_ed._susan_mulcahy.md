@@ -1,8 +1,8 @@
 ---
 title: "Why I’m A Democrat (ed. Susan Mulcahy)"
 date: 2008-04-27T22:28:07-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published:
 link_to_original:

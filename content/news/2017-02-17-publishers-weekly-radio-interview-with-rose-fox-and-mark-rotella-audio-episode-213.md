@@ -1,7 +1,7 @@
 ---
 title: 'Publishers Weekly Radio: Interview with Rose Fox and Mark Rotella (AUDIO) Episode 213'
 date: 2017-02-17 12:00:00
-category: Media
+category: ["Media"]
 tags:
   - Reviews
   - Interviews

@@ -1,8 +1,8 @@
 ---
 title: "Pay Yourself First"
 date: 2007-06-18T22:14:50-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published: "Moleskinerie"
 link_to_original: "http://www.moleskinerie.com/2007/06/guest_essay_pay.html "

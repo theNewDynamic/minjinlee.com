@@ -1,7 +1,7 @@
 ---
 title: 'Seattle Post-Intelligencer: 10 Best Books'
 date: 2017-12-03 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

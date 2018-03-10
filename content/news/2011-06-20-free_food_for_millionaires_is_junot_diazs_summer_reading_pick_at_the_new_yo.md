@@ -1,7 +1,7 @@
 ---
 title: "Free Food for Millionaires is Junot Diaz’s Summer Reading Pick at The New Yorker"
 date: 2011-06-20T16:17:27-05:00
-category: News
+category: ["News"]
 tags:
   - News
 attribution: "The New Yorker"

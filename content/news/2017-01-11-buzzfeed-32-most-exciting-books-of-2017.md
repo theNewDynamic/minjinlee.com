@@ -1,7 +1,7 @@
 ---
 title: 'Buzzfeed: 32 Most Exciting Books of 2017'
 date: 2017-01-11 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: 'Buzzfeed by Jarry Lee, Deputy Books Editor'

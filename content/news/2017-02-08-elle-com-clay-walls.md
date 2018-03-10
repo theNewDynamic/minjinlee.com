@@ -1,7 +1,7 @@
 ---
 title: Elle.com CLAY WALLS
 date: 2017-02-08 12:00:00
-category: News
+category: ["News"]
 tags:
   - Essays
   - Interviews

@@ -1,7 +1,7 @@
 ---
 title: 'Nikkei Asian Review: Profile'
 date: 2017-05-27 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

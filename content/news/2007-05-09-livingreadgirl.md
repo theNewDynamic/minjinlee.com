@@ -1,7 +1,7 @@
 ---
 title: "Livingreadgirl"
 date: 2007-05-09T22:08:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "Livingreadgirl"

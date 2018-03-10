@@ -1,7 +1,7 @@
 ---
 title: 'New York Society Library: Pachinko Conversation with Jeannette Watson Sanger and Min Jin Lee (Video)'
 date: 2017-03-21 12:00:00
-category: Media
+category: ["Media"]
 tags:
   - Reviews
   - Interviews

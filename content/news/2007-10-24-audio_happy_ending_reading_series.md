@@ -1,7 +1,7 @@
 ---
 title: "Audio: Happy Ending Reading Series"
 date: 2007-10-24T07:36:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Audio
 attribution: "Radio-Press"

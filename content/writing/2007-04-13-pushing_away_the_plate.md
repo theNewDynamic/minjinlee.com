@@ -1,8 +1,8 @@
 ---
 title: "Pushing Away the Plate"
 date: 2007-04-13T23:54:28-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published:
 link_to_original:

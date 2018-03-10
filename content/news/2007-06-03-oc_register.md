@@ -1,7 +1,7 @@
 ---
 title: "OC Register"
 date: 2007-06-03T23:09:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "OC Register"

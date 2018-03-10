@@ -1,7 +1,7 @@
 ---
 title: "The Urban Muse"
 date: 2007-06-13T22:09:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "The Urban Muse"

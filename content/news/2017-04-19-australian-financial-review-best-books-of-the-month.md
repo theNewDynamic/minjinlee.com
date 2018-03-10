@@ -1,7 +1,7 @@
 ---
 title: 'Australian Financial Review: Best Books of the Month'
 date: 2017-04-19 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

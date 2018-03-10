@@ -1,7 +1,7 @@
 ---
 title: 'The Millions: Pachinko Review'
 date: 2017-02-28 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: The Millions by Steven Williams

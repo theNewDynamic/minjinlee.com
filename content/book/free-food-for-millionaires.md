@@ -2,6 +2,7 @@
 title: Free Food for Millionaires
 publication: 2007-05-07 00:00:00
 publisher:
+tags: ["fun"]
 subtitle:
 genre: Fiction
 description: >-

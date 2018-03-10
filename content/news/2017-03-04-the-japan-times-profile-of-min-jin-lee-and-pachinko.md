@@ -1,7 +1,7 @@
 ---
 title: 'The Japan Times: Profile of Min Jin Lee and PACHINKO'
 date: 2017-03-04 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Interviews

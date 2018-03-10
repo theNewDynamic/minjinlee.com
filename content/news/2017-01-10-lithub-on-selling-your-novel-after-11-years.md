@@ -1,7 +1,7 @@
 ---
 title: 'LitHub: On Selling Your Novel After 11 Years'
 date: 2017-01-10 12:00:00
-category: News
+category: ["News"]
 tags:
   - Essays
   - News

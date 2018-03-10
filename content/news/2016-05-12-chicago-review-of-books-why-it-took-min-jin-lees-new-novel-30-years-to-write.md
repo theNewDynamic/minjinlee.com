@@ -1,7 +1,7 @@
 ---
 title: "Chicago Review of Books: Why It Took Min Jin Lee's New Novel 30 Years to Write"
 date: 2016-05-12 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Chicago Review of Books by Lauren Stacks

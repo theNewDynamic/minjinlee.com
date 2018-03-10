@@ -1,7 +1,7 @@
 ---
 title: 'San Diego Magazine: Top 5 Books to Read in February 2017'
 date: 2017-01-27 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

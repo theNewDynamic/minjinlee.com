@@ -1,8 +1,8 @@
 ---
 title: "Wonder Woman: Love and Murder by Jodi Picoult"
 date: 2008-01-18T21:25:04-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published: "The Times (London)"
 link_to_original: "http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/fiction/article3210539.ece"

@@ -1,7 +1,7 @@
 ---
 title: 'Ottawa Citizen: Vancouver Public Librarians Book Lists'
 date: 2017-12-01 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

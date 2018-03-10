@@ -1,7 +1,7 @@
 ---
 title: 'Irish Times: The Best Books of the Year'
 date: 2017-12-02 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

@@ -1,8 +1,8 @@
 ---
 title: "Food & Wine Magazine"
 date: 2008-09-10T00:07:44-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published: "Food & WIne Magazine"
 link_to_original: "http://www.foodandwine.com/articles/why-star-chefs-revere-seiji-yamamoto"

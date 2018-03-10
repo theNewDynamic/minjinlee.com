@@ -1,7 +1,7 @@
 ---
 title: Radio Gorgeous UK (Podcast with Donna Freed)
 date: 2017-05-29 12:00:00
-category: Media
+category: ["Media"]
 tags:
   - Reviews
   - News

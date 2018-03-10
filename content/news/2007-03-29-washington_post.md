@@ -1,7 +1,7 @@
 ---
 title: "Washington Post"
 date: 2007-03-29T23:00:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "Washington Post"

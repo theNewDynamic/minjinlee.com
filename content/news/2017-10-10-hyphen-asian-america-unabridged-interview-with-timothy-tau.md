@@ -1,7 +1,7 @@
 ---
 title: 'Hyphen: Asian America Unabridged (Interview with Timothy Tau)'
 date: 2017-10-10 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Interviews

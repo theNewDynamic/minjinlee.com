@@ -1,7 +1,7 @@
 ---
 title: 'VOGUE: Up Front "After the Earthquake"'
 date: 2011-05-13 01:26:00
-category: News
+category: ["News"]
 tags:
   - Essays
 attribution: Vogue

@@ -1,7 +1,7 @@
 ---
 title: 'Vela Magazine: 6 New Books from Diverse Voices'
 date: 2016-10-26 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Vela Magazine by Grace Talusan

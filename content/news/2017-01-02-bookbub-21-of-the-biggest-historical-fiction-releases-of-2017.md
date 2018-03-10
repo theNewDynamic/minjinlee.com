@@ -1,7 +1,7 @@
 ---
 title: 'BookBub: 21 of the Biggest Historical Fiction Releases of 2017'
 date: 2017-01-02 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: BookBub

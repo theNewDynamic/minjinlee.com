@@ -1,7 +1,7 @@
 ---
 title: 'BookPage Cover Story: Interview by Adam Morgan'
 date: 2017-02-01 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Interviews

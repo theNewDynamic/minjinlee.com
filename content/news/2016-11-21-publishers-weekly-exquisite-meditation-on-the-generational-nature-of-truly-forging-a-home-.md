@@ -1,7 +1,7 @@
 ---
 title: 'Publishers Weekly: "Exquisite meditation on the generational nature of truly forging a home."'
 date: 2016-11-21 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Publishers Weekly

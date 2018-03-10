@@ -1,7 +1,7 @@
 ---
 title: "New York Daily News"
 date: 2008-04-27T23:02:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "New York Daily News"

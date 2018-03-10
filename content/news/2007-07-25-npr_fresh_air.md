@@ -1,7 +1,7 @@
 ---
 title: "NPR, Fresh Air"
 date: 2007-07-25T23:21:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Audio
 attribution: "NPR, Fresh Air"

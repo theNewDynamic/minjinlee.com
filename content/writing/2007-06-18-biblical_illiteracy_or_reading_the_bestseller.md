@@ -1,8 +1,8 @@
 ---
 title: "Biblical Illiteracy or Reading the Bestseller"
 date: 2007-06-18T22:12:25-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published: "ABC News"
 link_to_original: "http://abcnews.go.com/International/Story?id=3289585&page=1 "

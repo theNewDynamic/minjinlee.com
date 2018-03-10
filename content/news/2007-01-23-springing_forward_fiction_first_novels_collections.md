@@ -1,7 +1,7 @@
 ---
 title: "Springing Forward: Fiction/First Novels & Collections"
 date: 2007-01-23T00:14:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "Publishers Weekly"

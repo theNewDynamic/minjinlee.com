@@ -1,7 +1,7 @@
 ---
 title: "Kirkus Reviews: Fiction Editor Laurie Muchnick's My Own Most-Anticipated List"
 date: 2017-01-02 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: 'Kirkus Reviews by Fiction Editor, Laurie Muchnick'

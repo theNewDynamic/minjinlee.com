@@ -1,7 +1,7 @@
 ---
 title: 'Guardian: Best Holiday Reads 2017 Selected by Writers'
 date: 2017-07-10 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

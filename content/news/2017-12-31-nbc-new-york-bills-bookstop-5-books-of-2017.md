@@ -1,7 +1,7 @@
 ---
 title: 'NBC New York: Bill''s Books—Top 5 Books of 2017'
 date: 2017-12-31 12:00:00
-category: Media
+category: ["Media"]
 tags:
   - Reviews
   - News

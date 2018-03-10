@@ -1,7 +1,7 @@
 ---
 title: 'South China Morning Post: Profile'
 date: 2017-11-12 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Interviews

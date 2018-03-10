@@ -1,7 +1,7 @@
 ---
 title: 'The Millions: A Year In Reading 2017'
 date: 2017-12-14 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

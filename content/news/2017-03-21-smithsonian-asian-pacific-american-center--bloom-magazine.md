@@ -1,7 +1,7 @@
 ---
 title: 'Smithsonian Asian Pacific American Center & Bloom Magazine'
 date: 2017-03-21 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Interviews

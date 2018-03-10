@@ -1,7 +1,7 @@
 ---
 title: 'PBS NewsHour: Video Essay: "In My Humble Opinion"'
 date: 2017-10-27 12:00:00
-category: Media
+category: ["Media"]
 tags:
   - Reviews
   - Interviews

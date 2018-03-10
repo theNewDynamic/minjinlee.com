@@ -1,7 +1,7 @@
 ---
 title: 'Vanity Fair Magazine: Pachinko'
 date: 2017-02-23 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

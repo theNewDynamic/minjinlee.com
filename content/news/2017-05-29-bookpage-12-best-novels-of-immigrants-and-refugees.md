@@ -1,7 +1,7 @@
 ---
 title: 'BookPage: 12 Best Novels of Immigrants and Refugees'
 date: 2017-05-29 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

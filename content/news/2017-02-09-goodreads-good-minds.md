@@ -1,7 +1,7 @@
 ---
 title: 'Goodreads: Good Minds'
 date: 2017-02-09 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Essays

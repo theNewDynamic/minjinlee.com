@@ -1,7 +1,7 @@
 ---
 title: Amazon Best Books of the Year So Far 2017
 date: 2017-06-21 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

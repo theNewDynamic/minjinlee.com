@@ -1,7 +1,7 @@
 ---
 title: Lit Up Podcast with Angela Ledgerwood (AUDIO)
 date: 2017-03-07 12:00:00
-category: Media
+category: ["Media"]
 tags:
   - Reviews
   - Audio

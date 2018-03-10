@@ -1,7 +1,7 @@
 ---
 title: "Out This Week"
 date: 2007-05-22T23:04:01-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "Columbus Dispatch"

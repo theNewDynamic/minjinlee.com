@@ -1,7 +1,7 @@
 ---
 title: 'Fusion: PACHINKO'
 date: 2017-02-07 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Fusion by Anne Branigin

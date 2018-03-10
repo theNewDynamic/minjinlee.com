@@ -1,7 +1,7 @@
 ---
 title: ProBookNerds Podcast
 date: 2017-01-30 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Interviews

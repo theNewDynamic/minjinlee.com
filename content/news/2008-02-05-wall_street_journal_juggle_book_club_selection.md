@@ -1,7 +1,7 @@
 ---
 title: "Wall Street Journal Juggle Book Club Selection"
 date: 2008-02-05T21:55:01-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "Wall Street Journal Juggle Book Club Selection"

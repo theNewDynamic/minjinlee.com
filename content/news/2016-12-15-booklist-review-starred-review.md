@@ -1,7 +1,7 @@
 ---
 title: 'Booklist Review: Starred Review'
 date: 2016-12-15 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Booklist by Terry Hong

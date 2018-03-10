@@ -1,7 +1,7 @@
 ---
 title: 'South China Morning Post: James Kidd''s "writer of the year"'
 date: 2017-12-30 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

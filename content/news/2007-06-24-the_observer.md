@@ -1,7 +1,7 @@
 ---
 title: "The Observer, Guardian"
 date: 2007-06-24T23:13:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "The Observer"

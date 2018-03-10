@@ -1,7 +1,7 @@
 ---
 title: Other Ppl with Brad Listi (PODCAST)
 date: 2017-03-01 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Audio

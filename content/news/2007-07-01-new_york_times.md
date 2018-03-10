@@ -1,7 +1,7 @@
 ---
 title: "New York Times"
 date: 2007-07-01T22:14:00-05:00
-category: News
+category: ["News"]
 tags: 
   - Excerpts
 attribution: "New York Times (First Chapter Excerpt)"

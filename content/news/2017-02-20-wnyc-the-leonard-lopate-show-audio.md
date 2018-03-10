@@ -1,7 +1,7 @@
 ---
 title: 'WNYC: The Leonard Lopate Show (AUDIO)'
 date: 2017-02-20 12:00:00
-category: Media
+category: ["Media"]
 tags:
   - Reviews
   - News

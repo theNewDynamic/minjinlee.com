@@ -1,7 +1,7 @@
 ---
 title: "The New York Times"
 date: 2007-07-01T22:43:17-05:00
-category: News
+category: ["News"]
 tags: 
   - Reviews
 attribution: "The New York Times Sunday Book Review"

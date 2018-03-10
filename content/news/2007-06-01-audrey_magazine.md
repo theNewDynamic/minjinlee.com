@@ -1,7 +1,7 @@
 ---
 title: "Audrey Magazine"
 date: 2007-06-01T23:16:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "Audrey Magazine"

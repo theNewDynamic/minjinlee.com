@@ -1,8 +1,8 @@
 ---
 title: "TRAVEL   LEISURE"
 date: 2010-03-26T22:41:02-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published: "TRAVEL + LEISURE"
 link_to_original:

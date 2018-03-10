@@ -1,7 +1,7 @@
 ---
 title: The Times (of London) Book Review of Free Food for Millionaires
 date: 2007-07-28 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

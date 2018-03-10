@@ -1,8 +1,8 @@
 ---
 title: "Motherland"
 date: 2007-03-01T22:39:00-05:00
-category: Writing
-writing_category: short-stories
+category: 
+tags: ["Short Stories"]
 
 where_published: "The Missouri Review"
 link_to_original: "http://www.missourireview.com/"

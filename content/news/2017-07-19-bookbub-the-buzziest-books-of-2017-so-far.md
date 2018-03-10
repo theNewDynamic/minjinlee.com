@@ -1,7 +1,7 @@
 ---
 title: 'BookBub: The Buzziest Books of 2017 (So Far)'
 date: 2017-07-19 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

@@ -1,7 +1,7 @@
 ---
 title: 'National Book Review: Conversation with Sharon Pomerantz'
 date: 2017-02-07 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Interviews

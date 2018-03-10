@@ -1,7 +1,7 @@
 ---
 title: 'South China Morning Post: Post Magazine'
 date: 2017-01-11 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

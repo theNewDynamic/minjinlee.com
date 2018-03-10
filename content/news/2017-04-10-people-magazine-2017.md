@@ -1,7 +1,7 @@
 ---
 title: People Magazine 2017
 date: 2017-04-10 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: People Magazine

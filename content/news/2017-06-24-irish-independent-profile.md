@@ -1,7 +1,7 @@
 ---
 title: Irish Independent (Profile)
 date: 2017-06-24 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Interviews

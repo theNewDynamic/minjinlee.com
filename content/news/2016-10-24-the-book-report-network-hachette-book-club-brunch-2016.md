@@ -1,7 +1,7 @@
 ---
 title: 'The Book Report Network: Hachette Book Club Brunch 2016'
 date: 2016-10-24 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution:

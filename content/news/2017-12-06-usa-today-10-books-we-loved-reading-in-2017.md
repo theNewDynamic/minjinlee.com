@@ -1,7 +1,7 @@
 ---
 title: 'USA Today: 10 Books We Loved Reading in 2017'
 date: 2017-12-06 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News

@@ -1,7 +1,7 @@
 ---
 title: 'NYLON: 50 Best New Books 2017'
 date: 2016-12-25 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Nylon

@@ -1,7 +1,7 @@
 ---
 title: 'Vineyard Gazette: Profile'
 date: 2017-07-30 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Interviews

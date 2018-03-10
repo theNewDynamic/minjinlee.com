@@ -1,7 +1,7 @@
 ---
 title: "Yonhap News Agency: “Top 10 Bestsellers in South Korea’s Foreign Fiction List”"
 date: 2009-03-11T22:03:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Interviews
 attribution: "Yonhap News"

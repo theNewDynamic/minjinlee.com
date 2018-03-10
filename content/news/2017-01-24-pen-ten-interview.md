@@ -1,7 +1,7 @@
 ---
 title: PEN TEN Interview
 date: 2017-01-24 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - Interviews

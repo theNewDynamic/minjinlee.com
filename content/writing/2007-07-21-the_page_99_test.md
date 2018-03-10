@@ -1,8 +1,8 @@
 ---
 title: "The Page 99 Test"
 date: 2007-07-21T22:19:49-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published: "The Page 99 Test"
 link_to_original: "http://page99test.blogspot.com/2007/07/min-jin-lees-free-food-for-millionaires.html"

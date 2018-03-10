@@ -1,7 +1,7 @@
 ---
 title: 'Columbia University: Weatherhead East Asian Institute'
 date: 2017-04-19 12:00:00
-category: Media
+category: ["Media"]
 tags:
   - Reviews
   - Interviews

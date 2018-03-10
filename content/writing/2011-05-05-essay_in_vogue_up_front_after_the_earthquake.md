@@ -1,8 +1,8 @@
 ---
 title: "Up Front: After the Earthquake"
 date: 2011-05-05T09:49:28-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published: "Vogue"
 link_to_original: "http://www.vogue.com/culture/article/upfront-japan/"

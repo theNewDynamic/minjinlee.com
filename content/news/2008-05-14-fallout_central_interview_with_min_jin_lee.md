@@ -2,7 +2,7 @@
 title: "Fallout Central Interview with Min Jin Lee"
 published: false
 date: 2008-05-14T22:37:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - Video
 attribution: "Fall Out Central"

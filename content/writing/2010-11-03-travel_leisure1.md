@@ -1,7 +1,7 @@
 ---
 title: "TRAVEL + LEISURE November 2010"
 date: 2010-11-03T09:09:43-05:00
-category: Writing
+category: 
 tags:
 where_published: "Travel + Leisure "
 link_to_original: "http://www.travelandleisureasia.com/"

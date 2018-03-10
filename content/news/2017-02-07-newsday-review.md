@@ -1,7 +1,7 @@
 ---
 title: 'Newsday: Review'
 date: 2017-02-07 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Newsday by Tom Beer

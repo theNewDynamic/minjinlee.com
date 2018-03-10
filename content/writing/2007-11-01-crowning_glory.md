@@ -1,8 +1,8 @@
 ---
 title: "Crowning Glory"
 date: 2007-11-01T22:24:44-05:00
-category: Writing
-writing_category: essays
+category: 
+tags: ["Essays"]
 
 where_published: "Vogue"
 link_to_original:

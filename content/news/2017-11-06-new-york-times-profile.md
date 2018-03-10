@@ -1,7 +1,7 @@
 ---
 title: 'New York Times: Profile'
 date: 2017-11-06 12:00:00
-category: News
+category: ["News"]
 tags:
   - Interviews
   - News

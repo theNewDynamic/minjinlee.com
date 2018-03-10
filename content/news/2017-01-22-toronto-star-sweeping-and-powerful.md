@@ -1,7 +1,7 @@
 ---
 title: 'Toronto Star: "Sweeping and Powerful"'
 date: 2017-01-22 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
 attribution: Toronto Star By Marissa Stapley

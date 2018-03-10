@@ -1,7 +1,7 @@
 ---
 title: "Profile in The Japan Times"
 date: 2008-09-09T22:24:00-05:00
-category: Media
+category: ["Media"]
 tags:
   - News
 attribution: "The Japan Times"

@@ -1,7 +1,7 @@
 ---
 title: 'Book Riot: The Buzziest Books of 2017 So Far: Critical Linking'
 date: 2017-07-21 12:00:00
-category: News
+category: ["News"]
 tags:
   - Reviews
   - News
