@@ -1,14 +1,13 @@
 {{ define "main" }}
-  {{ $section := .Site.GetPage "section" .Section }}
-  {{ $event := .Pages.ByDate }}
-  {{ $events := where $event ".Date.Unix" "ge" now.Unix }}
-  {{ $events_past := where $event.Reverse ".Date.Unix" "<" now.Unix }}
+  {{ $events := .Pages.ByDate }}
+  {{ $events_upcoming := where $events ".Date" "ge" now }}
+  {{ $events_past := where $events.Reverse ".Date" "lt" now }}
 
   <div class="max-w-md mx-auto px-4 pt-5">
-    {{ partial "_components/page-heading.html" $section }}
+    {{ partial "_components/page-heading.html" . }}
 
     <section class="pt-5 min-vh-100">
-      {{range $events}}
+      {{range $events_upcoming}}
         <div class="relative w-full mb-8 border-b">
             {{.Render "item"}}
         </div>
@@ -19,14 +18,12 @@
           <h2>Past Events</h2>
           {{range $events_past}}
             <div class="relative w-full mb-8 border-b">
-                {{.Render "summary"}}
+                {{.Render "item"}}
             </div>
           {{ end }}
         </div>
       {{ end }}
     </section>
 
-
-    {{ template "_internal/pagination.html" . }}
   </div>
 {{ end }}
