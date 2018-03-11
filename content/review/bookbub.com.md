@@ -1,7 +1,7 @@
 ---
 title: BookBub.com on Pachkinko
 attribution: BookBub.com
-date: 2018-03-11 17:50:05 +0000
+date: 2017-03-11 17:50:05 +0000
 book: book/pachinko.md
 description: ''
 featured: false

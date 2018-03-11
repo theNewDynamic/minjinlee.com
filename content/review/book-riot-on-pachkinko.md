@@ -1,7 +1,7 @@
 ---
 title: Book Riot on Pachkinko
 attribution: 'Book Riot: Most Anticipated Books 2017'
-date: 2018-03-11 17:48:33 +0000
+date: 2017-03-11 17:48:33 +0000
 book: book/pachinko.md
 description: ''
 featured: false

@@ -2,7 +2,7 @@
 title: "Junot Diaz on Pachinko"
 attribution: "Junot Díaz, Pulitzer Prize-Winning author of *The Brief
 Wondrous Life of Oscar Wao* and *This is How You Lose Her*"
-date: 2018-02-28T14:47:12-05:00
+date: 2017-02-28T14:47:12-05:00
 book: book/pachinko.md
 featured: true
 ---

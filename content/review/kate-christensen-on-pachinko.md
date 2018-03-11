@@ -2,7 +2,7 @@
 title: Kate Christensen on Pachinko
 attribution: Kate Christensen, Pen/Faulkner-winning author of *The Great Man* and   *Blue
   Plate Special*
-date: 0201-03-13 14:43:00 +0000
+date: 2017-03-11 17:44:21 +0000
 book: book/pachinko.md
 description: ''
 featured: false

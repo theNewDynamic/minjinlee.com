@@ -1,7 +1,7 @@
 ---
 title: South China Morning Post on Pachkinko
 attribution: South China Morning Post by Bron Sibree
-date: 2018-03-11 17:51:13 +0000
+date: 2017-03-11 17:51:13 +0000
 book: book/pachinko.md
 description: ''
 featured: false

@@ -2,7 +2,7 @@
 title: American Booksellers Association on Pachkinko
 attribution: 'American Booksellers Association: INDIE NEXT Great Reads Feb 2017 (Jennifer
   Steele, Boswell Book Company)'
-date: 2018-03-11 17:52:37 +0000
+date: 2017-03-11 17:52:37 +0000
 book: book/pachinko.md
 description: ''
 featured: false

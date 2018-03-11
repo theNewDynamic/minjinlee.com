@@ -2,7 +2,7 @@
 title: Darin Strauss on Pachkinko
 attribution: Darin Strauss, National Book Critics Circle Award-winning author of *Half
   a Life* and *Chang & Eng*
-date: 2018-03-11 17:44:21 +0000
+date: 2017-03-11 17:44:21 +0000
 book: book/pachinko.md
 description: ''
 featured: false

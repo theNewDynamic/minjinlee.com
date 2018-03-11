@@ -2,7 +2,7 @@
 title: Simon Winchester on Pachkinko
 attribution: 'Simon Winchester, New York Times bestselling author of *The Professor
   and the Madman* and *Korea: A Walk through the Land of Miracles*'
-date: 2018-03-11 17:45:37 +0000
+date: 2017-03-11 17:45:37 +0000
 book: book/pachinko.md
 description: ''
 featured: false
