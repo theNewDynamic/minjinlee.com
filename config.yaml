@@ -36,7 +36,7 @@ outputs:
     - HEADERS
     - REDIR
 params:
-  description: "Build Faster Better Websites with modern tools and techniques"
+  description: "The Official Website of Min Jin Lee"
   logo: ""
   tagsName: Type
   dev:
