@@ -15,4 +15,3 @@ fields:
 - type: image_gallery
   name: images
   label: Images
-- type: text
