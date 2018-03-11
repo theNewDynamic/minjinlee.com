@@ -9,7 +9,7 @@
 
 {{$featured_review := $.Scratch.Get "featured_review"}}
 {{ with $featured_review }}
-  <section class="mx-auto pb-2">
+  <section class="mx-auto pb-2 px-4 mt-8">
     {{range first 1 .}}
       {{ .Render "fancy-quote" }}
     {{end}}
