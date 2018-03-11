@@ -1,9 +1,10 @@
 ---
 title: Brijit.com on Free Food for Millionaires
-attribution: ''
+attribution: Brijit.com
 date: 2018-03-11 18:13:38 +0000
-book: book/slug.md
+book: book/free-food-for-millionaires.md
 description: ''
-draft: true
+featured: false
+weight: ''
 
 ---
