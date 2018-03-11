@@ -6,7 +6,6 @@ book: book/pachinko.md
 description: ''
 featured: false
 weight: ''
-draft: true
 
 ---
 Ten Books to Read in 2017
