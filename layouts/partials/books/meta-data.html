@@ -1,11 +1,26 @@
-{{ with .Params.date }}
-  <dl class="my-2 font-sans font-bold text-sm">
-    <dt class="inline-block">Publication Date</dt> <dd class="inline-block">{{ .Format "January 2, 2006" }}</dd>
-  </dl>
-{{ end }}
+<dl class="my-2 font-sans font-bold text-sm">
+  {{ with .Params.genre -}}
+    <div class=" text-xl mb-2">
+      <dt class="inline-block hidden">Genre</dt>
+      <dd class="inline-block">{{- . | humanize -}}</dd>
+    </div>
+  {{- end }}
 
-{{with .Params.editions_isbn }}
-  <dl>
+  {{ with .Params.publisher }}
+    <div class="mb-2">
+      <dt class="inline-block">Publisher</dt>
+      <dd class="inline-block">{{- . -}}</dd>
+    </div>
+  {{ end }}
+
+  {{ with .Params.date }}
+    <div class="mb-2">
+      <dt class="inline-block">Publication Date</dt>
+      <dd class="inline-block">{{ .Format "January 2, 2006" }}</dd>
+    </div>
+  {{ end }}
+
+  {{with .Params.editions_isbn }}
     {{range $binding, $isbn := .}}
       {{with $isbn}}
         <div class="mb-1 font-sans text-primary-color text-sm">
@@ -18,5 +33,5 @@
         </div>
       {{end}}
     {{end}}
+  {{end}}
   </dl>
-{{end}}
