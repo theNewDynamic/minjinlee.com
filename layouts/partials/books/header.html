@@ -1,17 +1,10 @@
-<header class="mb-3 {{ $.Param "styles.books_header_class"}}">
-  <h1 class="text-4xl lg:text-5xl lh-solid mb-0">
-    <a href="{{ .URL }}" class="primary-color-dark dim no-underline">
-      {{ .Title }}
-    </a>
-    {{ with .Params.subtitle }}
-      <span class="text-xl block lg:inline-block lh-solid mt-2 lg:mt-0">
-        {{ . }}
-      </span>
-    {{ end }}
-  </h1>
-  {{ with .Params.genre }}
-    <h2 class="text-base fw2 gray ma0 sans-serif">
-      {{ . | humanize }}
-    </h2>
+<h1 class="page-heading leading-tight">
+  <a href="{{ .URL }}" class="text-primary-color-dark dim no-underline">
+    {{- .Title -}}
+  </a>
+  {{ with .Params.subtitle }}
+    <span class="text-xl block lg:inline-block lh-solid mt-2 lg:mt-0">
+      {{- . -}}
+    </span>
   {{ end }}
-</header>
+</h1>
