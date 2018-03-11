@@ -1,9 +1,0 @@
-{{/*
-For sections, requires $section being passed through: {{partial "_components/page-heading.html" $section}}
-*/}}
-<h1 class="page-heading leading-tight">
-  {{- .Title -}}
-</h1>
-{{with .Params.description}}
-  <p class="page-description leading-normal">{{- . | markdownify -}}</p>
-{{end}}
