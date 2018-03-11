@@ -11,16 +11,16 @@ fields:
   type: textarea
   hidden: false
   default: 
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: 
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: 
-- name: publication_date
-  label: Publication date
-  type: datetime
-  hidden: false
-  default: {}
 - name: publisher
   label: Publisher
   type: text
@@ -63,10 +63,5 @@ fields:
 - name: images
   label: Images
   type: image_gallery
-  hidden: false
-  default: 
-- name: description
-  label: Description
-  type: text
   hidden: false
   default: 
