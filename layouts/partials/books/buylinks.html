@@ -2,7 +2,7 @@
   <p class="text-sm fw6 mb-2">
     Order from these retailers
   </p>
-  {{if .Params.buy_links_external }}
+  {{ if .Params.buy_links_external }}
     {{ range $key, $value := .Params.buy_links_external }}
       <a href="{{ $value}}" class="btn btn-buylinks">
         {{- $key | humanize | title -}}
@@ -10,20 +10,20 @@
     {{ end }}
   {{ else }}
     {{ with .Params.editions_isbn }}
-      {{if isset . "paperback"}}
+      {{ if isset . "paperback" }}
         {{- template "links" .paperback -}}
-      {{else if isset "hardcover"}}
+      {{ else if isset "hardcover" }}
         {{- template "links" .hardcover -}}
-      {{end}}
-      {{if isset . "ebook"}}
+      {{ end }}
+      {{ if isset . "ebook" }}
         {{- template "links_ebook" .ebook -}}
-      {{end}}
+      {{ end }}
     {{ end }}
   {{ end }}
 </div>
 
 
-{{define "links"}}
+{{ define "links" }}
   <a href="//www.indiebound.org/product/info.jsp?isbn={{ . }}" target="_blank" class="btn btn-buylinks">
     Your Independent Bookstore
   </a>
@@ -32,10 +32,10 @@
   </a>
   <span class='isbn10_{{ . }}'></span><!--  pulls in 10 digit ASIN for -->
   {{ partial "books/amazon_convert_isbn_to_asin.js" (dict "edition" . ) }}
-{{end}}
+{{ end }}
 
-{{define "links_ebook"}}
+{{ define "links_ebook" }}
 <a href="//itunes.apple.com/us/book/isbn{{ . }}" target="_blank" class="btn btn-buylinks">
   Apple iBooks
 </a>
-{{end}}
+{{ end }}

@@ -1,0 +1,17 @@
+{{ $reviews := where (where .Site.RegularPages.ByDate.Reverse "Section" "review") ".Params.featured" true }}
+{{ $.Scratch.Set "featured_review" $reviews}}
+
+{{if eq .Kind "page"}}
+  {{/* If the review is for a single page, limit it to one related to that book */}}
+  {{ $featured_review := where ($reviews) ".Params.book" .File.Path }}
+  {{ $.Scratch.Set "featured_review" $featured_review}}
+{{end}}
+
+{{$featured_review := $.Scratch.Get "featured_review"}}
+{{ with $featured_review }}
+  <section class="mx-auto pb-2">
+    {{range first 1 .}}
+      {{ .Render "fancy-quote" }}
+    {{end}}
+  </section>
+{{ end }}
