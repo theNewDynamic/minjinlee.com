@@ -1,5 +1,5 @@
 {{ with .Params.description }}
-  <div class="text-2xl leading-normal mb-3 mt-3 lg:mt-0">
-    
+  <div class="leading-normal mb-3 mt-3 lg:mt-0 {{if lt (len .) 150 }} text-3xl{{else}} text-2xl{{end}}">
+    {{- . -}}
   </div>
 {{ end }}
