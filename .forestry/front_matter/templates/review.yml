@@ -29,3 +29,8 @@ fields:
 - type: boolean
   name: featured
   label: Featured
+- type: number
+  name: weight
+  label: Weight
+  config:
+    step: '1'
