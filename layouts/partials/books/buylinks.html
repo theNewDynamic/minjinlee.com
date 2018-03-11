@@ -2,11 +2,13 @@
   <p class="text-sm fw6 mb-2">
     Order from these retailers
   </p>
-  {{ if .Params.buy_links_external }}
-    {{ range $key, $value := .Params.buy_links_external }}
-      <a href="{{ $value}}" class="btn btn-buylinks">
-        {{- $key | humanize | title -}}
-      </a>
+  {{ with .Params.buy_links_external }}
+    {{ range . }}
+      {{ if .link }}
+        <a href="{{.link}}" class="btn btn-buylinks">
+          {{with .name}}{{.}}{{end}}
+        </a>
+      {{end}}
     {{ end }}
   {{ else }}
     {{ with .Params.editions_isbn }}

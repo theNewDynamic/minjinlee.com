@@ -1,5 +1,5 @@
 <dl class="my-2 font-sans font-bold text-sm text-color-secondary">
-  {{ with .Params.genre -}}
+  {{ with index .Params.genre 0 -}}
     <div class="text-xl mb-1">
       <dt class="inline-block hidden">Genre</dt>
       <dd class="inline-block">{{- . | humanize -}}</dd>

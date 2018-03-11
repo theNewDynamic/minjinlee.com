@@ -3,9 +3,9 @@ title: Pachinko
 date: 2017-02-07 00:00:00 +0000
 publisher: Grand Central Publishing
 subtitle: ''
-genre: Fiction
-description: A saga about four generations of a poor Korean immigrant family fight
-  to control their destiny in 20th-century Japan, exiled from their home.
+genre: 
+  - Fiction
+description: "A saga about four generations of a poor Korean immigrant family fight to control their destiny in 20th-century Japan, exiled from their home."
 editions_isbn:
   hardcover: 9781455563937
   paperback: 9781455563920
@@ -87,13 +87,7 @@ reviews:
     Stars Program
 images:
 - "/uploads/9781455563920.jpeg"
-buy_links_external:
-- name: link2
-  link: https://amazon.com
-- name: Aamazon
-  link: http://budparr.com
-publication_date: {}
-
+buy_links_external: []
 ---
 PACHINKO follows one Korean family through the generations, beginning in early 1900s Korea with Sunja, the prized daughter of a poor yet proud family, whose unplanned pregnancy threatens to shame them all. Deserted by her lover, Sunja is saved when a young tubercular minister offers to marry and bring her to Japan.
 
