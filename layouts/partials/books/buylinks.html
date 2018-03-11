@@ -12,7 +12,7 @@
     {{ with .Params.editions_isbn }}
       {{ if isset . "paperback" }}
         {{- template "links" .paperback -}}
-      {{ else if isset "hardcover" }}
+      {{ else if isset . "hardcover" }}
         {{- template "links" .hardcover -}}
       {{ end }}
       {{ if isset . "ebook" }}
