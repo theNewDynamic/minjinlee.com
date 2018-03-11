@@ -52,7 +52,8 @@ reviews:
     copy_markdown: "Through it all is a message about love, faith, and the deep-rooted bonds of family. Min Jin Lee gives us a phenomenal story about one family's struggle that resonates with us today. It will take hold of you and not let go!"
   - attribution: Toronto Star
     copy_markdown: "Top 10 Books of February of the Canadian Library Association's Loan Stars Program"
-image: /uploads/9781455563920.jpeg
+images: 
+  - /uploads/9781455563920.jpeg
 ---
 
 PACHINKO follows one Korean family through the generations, beginning in early 1900s Korea with Sunja, the prized daughter of a poor yet proud family, whose unplanned pregnancy threatens to shame them all. Deserted by her lover, Sunja is saved when a young tubercular minister offers to marry and bring her to Japan.
