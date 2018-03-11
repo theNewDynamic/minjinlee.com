@@ -1,20 +1,22 @@
 {{ with .Params.date }}
-  <h5 class="mb-2 sans-serif ">
-    Publication Date: {{ .Format "January 2, 2006" }}
-  </h5>
+  <dl class="my-2 font-sans font-bold text-sm">
+    <dt class="inline-block">Publication Date</dt> <dd class="inline-block">{{ .Format "January 2, 2006" }}</dd>
+  </dl>
 {{ end }}
-{{ with .Params.editions_isbn.hardcover }}
-  <p class="f6 sans-serif mv2">
-    Hardcover: {{ . }}
-  </p>
-{{ end }}
-{{ with .Params.editions_isbn.paperback }}
-  <p class="f6 sans-serif mv2">
-    Paperback: {{ . }}
-  </p>
-{{ end }}
-{{ with .Params.editions_isbn.ebook }}
-  <p class="f6 sans-serif  mv2">
-    Ebook: {{ . }}
-  </p>
-{{ end }}
+
+{{with .Params.editions_isbn }}
+  <dl>
+    {{range $binding, $isbn := .}}
+      {{with $isbn}}
+        <div class="mb-1 font-sans text-primary-color text-sm">
+          <dt class="f6 inline-block">
+            {{- $binding -}}
+          </dt>
+          <dd class="inline-block">
+            {{- . -}}
+          </dd>
+        </div>
+      {{end}}
+    {{end}}
+  </dl>
+{{end}}
