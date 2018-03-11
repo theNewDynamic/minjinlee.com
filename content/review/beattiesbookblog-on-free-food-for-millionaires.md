@@ -1,9 +1,11 @@
 ---
 title: Beattiesbookblog on Free Food for Millionaires
-attribution: ''
+attribution: Beattiesbookblog
 date: 2018-03-11 18:01:29 +0000
-book: book/slug.md
+book: book/free-food-for-millionaires.md
 description: ''
-draft: true
+featured: false
+weight: ''
 
 ---
+This new title, published 1 July, by Korean American writer Min Jin Lee is causing a stir…
