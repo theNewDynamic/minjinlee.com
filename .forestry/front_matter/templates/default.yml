@@ -6,7 +6,7 @@ fields:
   label: Title
   config:
     wysiwyg: false
-  description: You can use bold or italics in titles (do not use links or images)
+  description: You can use bold or italics in titles
 - name: date
   label: Date
   type: datetime

@@ -15,6 +15,4 @@ sections:
     default_front_matter_template: event
   book:
     default_front_matter_template: book
-  article:
-    default_front_matter_template: article
 version: 0.31.1
