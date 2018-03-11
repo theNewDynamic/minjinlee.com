@@ -1,0 +1,25 @@
+{{ $currentPageUrl := .URL }}
+{{ if .Params.tags }}
+  {{ $name := index .Params.tags 0 }}
+  {{ $name := $name | urlize }}
+  {{ $tags := index .Site.Taxonomies.tags $name }}
+  {{ $i := $tags | len }}
+  {{ if ge $i 2 }}
+    <div class="mt-5 f6 gray nested-leading-normal bg-light-gray px-3 py-2 measure-wide-l">
+      <ul class="list inline-block ml0 pl-0">
+        <li class="black inline-block mb-2 mr2">
+          Related:
+        </li>
+        {{ range $tags.Pages }}
+          {{ if ne .URL $currentPageUrl }}
+            <li class="mb-2 mr3">
+              <a href="{{ .URL }}" class="no-underline mid-gray dim">
+                 {{ .LinkTitle }}
+              </a>
+            </li>
+          {{ end }}
+        {{end}}
+      </ul>
+    </div>
+  {{ end }}
+{{end}}

@@ -1,0 +1,3 @@
+<a class="border text-black rounded block md:inline-block text-base hover:bg-near-black hover:text-white no-underline mt-5 mr-1 px-3 py-1{{ with .classes }} {{ . }}{{ end }}" href="{{ with .URL }}{{ . }}{{ end }}">
+  {{ with .copy }}{{ . | default "Mobe" }}{{ end }}
+</a>

@@ -1,0 +1,11 @@
+{{ $currentPage := . }}
+{{ $menu := .Site.Menus.main }}
+<ul class="inline-block hidden list ma0 px-0 scrolling-touch text-center z-999">
+  {{ range $menu }}
+    <li  class="tl inline-block ma0 hover:bg-black w-100">
+        <a href="{{.URL}}" class="brand-font block f6 hover:text-white hover:bg-primary-color-dark no-underline ma0 overflow px-4 primary-color-light py-3 ttu w-100{{if $currentPage.IsMenuCurrent "main" . }} bg-primary-color{{end}}">
+          {{ .Name }}
+        </a>
+    </li>
+  {{end}}
+</ul>

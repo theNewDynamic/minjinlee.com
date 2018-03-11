@@ -1,0 +1,17 @@
+<figure {{ with .class }}class="{{.}}"{{ end }}>
+    {{ with .no-underline }}<a href="{{.}}">{{ end }}
+        <img src="{{ .src }}{{with .query_string}}{{.}}{{end}}" {{ if or (.alt) (.caption) }}alt="{{ with .alt }}{{.}}{{else}}{{ .caption }}{{ end }}" {{ end }}{{ with .width }}width="{{ . }}" {{ end }}/>
+    {{ if .no-underline }}</a>{{ end }}
+
+    {{ if or (or (.title) (.caption)) (.attr) }}
+    <figcaption>{{ if isset .Params "title" }}
+        <h4>{{ .title }}</h4>{{ end }}
+        {{ if or (.caption) (.attr)}}<p>
+        {{ .caption }}
+        {{ with .attrno-underline }}<a href="{{ . }}"> {{ end }}
+            {{ .attr }}
+        {{ if .attrno-underline }}</a> {{ end }}
+        </p> {{ end }}
+    </figcaption>
+    {{ end }}
+</figure>

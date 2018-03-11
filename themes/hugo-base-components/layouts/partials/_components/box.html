@@ -1,0 +1,23 @@
+<div class="level-1 w-100 w-100-m w-50-ns flex-ns primary-color-dark flex-column justify-between bg-white  text-black-70 borderb--light-gray">
+  <div class="level-2 pt4 pb3 px-5 text-black-70">
+    <h2 class="text-xl mb-0">
+      {{ .heading | markdownify }}
+    </h2>
+    <div class="level-1-para text-xl md:text-base text-xl-l px-2 px-3-ns pt3 pb5 leading-normal">
+     <h3 class="font-family-brand text-5xl">{{ .video }}</h3>
+      <div class="mid-gray">{{ .copy | markdownify }}</div>
+    </div>
+  </div>
+
+  {{/* <div class="level-3 flex-ns flex-wrap">
+    <div class="level-3a w-100 w-50-ns py-4 px-5 leading-normal bg-gold">
+      <h3 class="mb-1">The old model</h3>
+      {{ .old_model | markdownify }}
+    </div>
+    <div class="level-3b w-100 w-50-ns py-4 px-5 lg-copy bg-primary-color text-on-primary-color">
+      <h3 class="mb-1">the New Dynamic</h3>
+      {{ .new_model | markdownify }}
+    </div>
+  </div> */}}
+
+</div>

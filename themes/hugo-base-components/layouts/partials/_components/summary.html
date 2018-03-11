@@ -1,0 +1,33 @@
+<div class="flex-l flex-wrap relative w-100 bg-inherit nested-copy-line-height">
+  {{if .item.Params.images}}
+    <div class="hide-child {{.classes_image | default "w5 mr3 nt2"}}">
+    <img src="{{index (.item.Params.images) 0}}" class="img" />
+      {{with .item.Params.image_credit}}
+        <span class="block f7 child helvetica">{{.}}</span>
+      {{end}}
+    </div>
+  {{end}}
+
+  <div class="{{.classes_content | default "mb-3 color-inherit overflow-hidden"}}">
+    <h1 class="text-2xl color-inherit mb-2 mt-1">
+      <a href="{{ .item.URL }}" class="no-underline text-black dim">
+        {{ .item.Title | markdownify }}
+      </a>
+    </h1>
+
+    {{if .item.Date}}
+      {{partial "components/time.html" (dict "context" .item "show_time" false)}}
+    {{end}}
+
+    <div class="nested-no-underlines text-base leading-normal nested-copy-line-height measure-wide mv2">
+      {{with .item.Params.description}}
+        {{. | markdownify}}
+      {{else}}
+        {{ .item.Content  | markdownify | safeHTML | truncate 200 }}
+      {{end}}
+    </div>
+
+    {{partial "articles/no-underline-to-original.html" .}}
+
+  </div>
+</div>

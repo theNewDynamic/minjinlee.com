@@ -1,0 +1,36 @@
+{{ if .Params.images }}
+{{ $featured_image := index (.Params.images) 0 }}
+  {{/* Trimming the slash and adding relURL make sure the image works no matter where our site lives */}}
+  {{ $featured_image := (trim $featured_image "/") | relURL }}
+  <header class="bg-top cover" style="background-image: url('{{ $featured_image }}');">
+    <div class="bg-black-60">
+      {{partial "nav/nav.html" .}}
+      <div class="px-3 px-4-ns py-4 lg:py-6 lg:text-center">
+        <h1 class="f-subheadline-l text-4xl fw2 lh-title mb-0 text-white-90">
+          {{.Title | default .Site.Title}}
+        </h1>
+        {{with .Params.description}}
+          <h2 class="mx-auto lg:text-2xl text-base fw1 leading-normal measure-wide-l mt-3 text-white-80">
+            {{ . }}
+          </h2>
+        {{ end }}
+      </div>
+    </div>
+  </header>
+{{ else }}
+  <header>
+    <div class="pb3-m pb5-l {{ .Site.Params.styles.background_color_class | default "bg-primary-color-dark" }}">
+      {{partial "nav/nav.html" .}}
+      <div class="px-3 px-4-ns py-3 lg:text-center">
+        <h1 class="f-subheadline-l text-4xl fw2 lh-title light-silver mb-0">
+          {{.Title | default .Site.Title}}
+        </h1>
+        {{ with .Params.description }}
+          <h2 class="mx-auto lg:text-2xl text-base fw1 leading-normal mb-4 measure-wide-l mt-3 text-white-80">
+            {{.}}
+          </h2>
+        {{end}}
+      </div>
+    </div>
+  </header>
+{{ end }}

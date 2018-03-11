@@ -1,0 +1,10 @@
+<h1 class="page-heading leading-tight">
+  <a href="{{ .URL }}" class="text-primary-color-dark dim no-underline">
+    {{- .Title -}}
+  </a>
+  {{ with .Params.subtitle }}
+    <span class="text-xl block lg:inline-block lh-solid mt-2 lg:mt-0">
+      {{- . -}}
+    </span>
+  {{ end }}
+</h1>

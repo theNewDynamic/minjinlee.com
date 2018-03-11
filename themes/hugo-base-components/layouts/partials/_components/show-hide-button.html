@@ -1,0 +1,10 @@
+<style>
+  input#show-{{.id}} + .hidden-{{.id}} {
+    display: none;
+  }
+  input#show-{{.id}}:checked + .hidden-{{.id}} {
+    display: block;
+  }
+</style>
+<label for="show-{{.id}}" class="inline-block bg-accent-color rounded dim text-base no-underline mv3 px-3 py-2 text-white">{{.label}}</label>
+<input type="checkbox" name="show-{{.id}}" class="clip" value="{{.label}}" id="show-{{.id}}" />

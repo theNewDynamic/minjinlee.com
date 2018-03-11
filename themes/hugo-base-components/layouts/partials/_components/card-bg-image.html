@@ -1,0 +1,8 @@
+<a href="{{ .URL }}" class="no-underline block border bg-mx-auto cover w-100 w-30-l text-white "{{ with .Params.images_path }} style="background-image:url('{{ .}}');"{{ end }}>
+  <div class="py-5 lg:py-6 px-4 px-6-ns fw8 bg-black-40 h-100 text-4xl">
+    {{ .Title }}
+    <span class="f6 py-2 block text-white-70">
+      {{ .Date.Format "January 2, 2006" }}
+    </span>
+  </div>
+</a>

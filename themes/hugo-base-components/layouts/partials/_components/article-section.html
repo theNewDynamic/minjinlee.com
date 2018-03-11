@@ -1,0 +1,14 @@
+<section class="h-entry mx-auto cf mw7 py-2 lg:pt-3 px-4">
+  <h2 class="text-4xl color-inherit">
+    {{ .Title | markdownify }}
+  </h2>
+  <section class="nested-copy-line-height leading-normal text-xl nested-no-underlines nested-imgTK mid-gray">
+    {{ with .Params.images }}
+      <img src="{{index . 0 | absURL }}" class="float-left mb-2 mr3 mt-2 mw5 shadow-5" alt="Image " />
+    {{ end }}
+    {{with .Params.description}}
+      <p>{{. | markdownify}}</p>
+    {{end}}
+    {{ .Content }}
+  </section>
+</section>

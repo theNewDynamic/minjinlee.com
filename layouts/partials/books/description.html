@@ -1,0 +1,5 @@
+{{ with .Params.description }}
+  <div class="leading-tight  mb-3 mt-3 lg:mt-0 {{if lt (len .) 150 }} text-3xl{{else}} text-2xl{{end}}">
+    {{- . -}}
+  </div>
+{{ end }}

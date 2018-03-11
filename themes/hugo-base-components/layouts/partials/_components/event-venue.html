@@ -1,0 +1,8 @@
+{{ with .Params.venue }}
+{{ .address }} {{ .city }}, {{ .state }} {{ .zip }}
+{{ end }}
+{{ with .Params.no-underline }}
+  <a href="{{ printf  . | safeHTMLAttr }}" target="_blank" class="color-inherit hover:text-blue no-underline ">
+    {{ . | replaceRE "^https?://([^/]+).*" "$1"  }}
+  </a>
+{{ end }}

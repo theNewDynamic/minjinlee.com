@@ -1,0 +1,43 @@
+<div class="mt-4 smallprint-font">
+  <p class="text-sm fw6 mb-2">
+    Order from these retailers
+  </p>
+  {{ with .Params.buy_links_external }}
+    {{ range . }}
+      {{ if .link }}
+        <a href="{{.link}}" class="btn btn-buylinks">
+          {{with .name}}{{.}}{{end}}
+        </a>
+      {{end}}
+    {{ end }}
+  {{ else }}
+    {{ with .Params.editions_isbn }}
+      {{ if isset . "paperback" }}
+        {{- template "links" .paperback -}}
+      {{ else if isset . "hardcover" }}
+        {{- template "links" .hardcover -}}
+      {{ end }}
+      {{ if isset . "ebook" }}
+        {{- template "links_ebook" .ebook -}}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>
+
+
+{{ define "links" }}
+  <a href="//www.indiebound.org/product/info.jsp?isbn={{ . }}" target="_blank" class="btn btn-buylinks">
+    Your Independent Bookstore
+  </a>
+  <a href="//search.barnesandnoble.com/booksearch/isbnInquiry.asp?EAN={{ . }}" target="_blank" class="btn btn-buylinks">
+    Barnes & Noble
+  </a>
+  <span class='isbn10_{{ . }}'></span><!--  pulls in 10 digit ASIN for -->
+  {{ partial "books/amazon_convert_isbn_to_asin.js" (dict "edition" . ) }}
+{{ end }}
+
+{{ define "links_ebook" }}
+<a href="//itunes.apple.com/us/book/isbn{{ . }}" target="_blank" class="btn btn-buylinks">
+  Apple iBooks
+</a>
+{{ end }}
