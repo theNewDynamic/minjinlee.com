@@ -7,11 +7,14 @@ description: ''
 genre:
 - fiction
 editions_isbn:
-  hardcover: ''
-  paperback: 9781501126376
+  hardcover: f0909
+  paperback: dff
   ebook: 9781501126406
-images: ''
+images: []
 featured_image: ''
+publisher: ''
+buy_links_external: []
 draft: true
 
 ---
+dsff
