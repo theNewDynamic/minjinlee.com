@@ -1,7 +1,7 @@
 ---
 title: Erica Wagner on Pachkinko
 attribution: Erica Wagner, author of *Ariel's Gift* and *Seizure*
-date: 2018-03-11 17:41:35 +0000
+date: 2018-03-11 17:42:35 +0000
 book: book/pachinko.md
 description: ''
 featured: false
