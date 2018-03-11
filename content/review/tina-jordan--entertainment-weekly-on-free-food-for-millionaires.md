@@ -1,7 +1,7 @@
 ---
 title: Tina Jordan, Entertainment Weekly on Free Food for Millionaires
 attribution: Tina Jordan, Entertainment Weekly
-date: 2018-03-11 18:03:11 +0000
+date: 2007-03-11 18:03:11 +0000
 book: book/free-food-for-millionaires.md
 description: ''
 featured: false

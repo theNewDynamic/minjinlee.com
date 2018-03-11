@@ -1,7 +1,7 @@
 ---
 title: Psychiatric Services, A Journal of the American Psychiatric Association
 attribution: Psychiatric Services, A Journal of the American Psychiatric Association
-date: 2018-03-11 18:15:14 +0000
+date: 2007-03-11 18:15:14 +0000
 book: book/free-food-for-millionaires.md
 description: ''
 featured: false
