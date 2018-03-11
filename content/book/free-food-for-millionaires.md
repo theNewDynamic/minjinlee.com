@@ -19,7 +19,7 @@ _description: >-
 
   <br>**– Liesl Schillinger, *New York Times Book Review***
 editions_isbn:
-  hardcover:
+  hardcover: 9780641856150
   paperback: 9780446699853
   ebook: 9780446504386
 
