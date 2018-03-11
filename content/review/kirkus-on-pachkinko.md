@@ -1,9 +1,11 @@
 ---
 title: Kirkus on Pachkinko
-attribution: ''
+attribution: _Kirkus_ (Starred Review)
 date: 2018-03-11 17:46:23 +0000
-book: book/slug.md
+book: book/pachinko.md
 description: ''
-draft: true
+featured: false
+weight: ''
 
 ---
+Deeply compelling story. An old-fashioned epic whose simple, captivating storytelling delivers both wisdom and truth.
