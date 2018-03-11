@@ -22,7 +22,9 @@ editions_isbn:
   hardcover: 9780641856150
   paperback: 9780446699853
   ebook: 9780446504386
-
+buy_links_external:
+  - name:
+    link: 
 reviews:
   - attribution: USA Today
     copy_markdown: 'Critic’s pick: Free Food for Millionaires, by Min Jin Lee (Grand Central, $13.99). USA TODAY’s Carol Memmott says this “vastly ambitious” and “stirring” …'
