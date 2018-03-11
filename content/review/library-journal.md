@@ -1,5 +1,5 @@
 ---
-title: Library Journal
+title: Library Journal on Pachkinko
 attribution: _Library Journal_ (Starred Review)
 date: 2018-03-11 17:46:58 +0000
 book: book/pachinko.md
