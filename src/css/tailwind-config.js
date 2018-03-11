@@ -53,7 +53,7 @@ let colors = {
   "accent-color-dark": "#606f7b",
   "text-color-primary": "#373737",
   //'text-on-primary-color': ,
-  //'text-color-secondary': ,
+  "color-secondary": "#515e68",
   //'text-color-disabled':  ,
   //'divider-color':        ,
   //'warn-color': var(--dark-red);
