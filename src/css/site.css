@@ -14,7 +14,7 @@
 
 /* COMPONENTS */
 .page-heading {
-    @apply .text-primary-color .text-5xl .mb-2
+    @apply .text-primary-color .text-5xl .mb-1
 }
 .page-description {
     @apply .text-base .mb-2 text-2xl .text-grey-dark .mb-8
@@ -27,7 +27,9 @@ header {
 footer {
   @apply .p-4 .mt-12 .text-sm .text-grey-dark;
 }
-
+.sidebar-list {
+  @apply .bg-grey-lighter .p-4
+}
 @screen md {
   header {
     @apply .fixed .pin-t .pin-l .pin-r .z-50
@@ -36,4 +38,13 @@ footer {
     @apply .mt-12
         }
 
+}
+
+
+.btn-buylinks {
+  @apply .text-xs .font-sans .text-black
+}
+
+.btn-buylinks:hover {
+  @apply .bg-black .text-white
 }

@@ -1,29 +1,29 @@
 
 {{ define "main" }}
 
-  <main class="w-full cf min-vh-100">
-    {{- partialCached "books/quote-featured.html" . -}}
+  <main class="max-w-xl mx-auto px-4 pt-5">
+    {{/* {{- partialCached "books/quote-featured.html" . -}} */}}
     {{ range .Data.Pages }}
 
-      <section class="mx-auto px-4 md:px-4 py-4 py-5-l text-on-primary-color w-80-l">
+      <section class="mx-auto px-4 md:px-4 py-4 py- w-80-l">
         {{- partial "books/header.html" . -}}
-        <div class="flex-l flex-wrap">
-          <div class="w-full w-40-l lg:pt-2">
-            {{ partial "books/cover.html" . }}
-            {{ partial "books/meta-data.html" . }}
+        <div class="md:flex flex-wrap">
+          <div class="w-full md:w-2/5 lg:pt-2">
+            {{- partial "books/cover.html" . -}}
+            {{- partial "books/meta-data.html" . -}}
           </div>
 
-          <div class="w-full w-60-l mt-4 md:mt-0">
+          <div class="w-full md:w-3/5 mt-4 md:mt-0 md:px-6">
               {{ partial "books/description.html" . }}
-            <div class="b--black-20 bb mv4 nested-copy-line-height">
+            <div class="border-b my-4 leading-normal">
               {{ .Content }}
             </div>
-            {{ partial "books/buylinks.html" (dict "context" . "buyno-underlineClasses" "b--mid-gray text-base no-underline  hover:bg-near-black hover:text-white rounded border px-3 py-2 mr-1 mb-2 block md:inline-block mid-gray" "textcolor" "gray") }}
+            {{ partial "books/buylinks.html" . }}
           </div>
         </div>
       </section>
       <section class="mx-auto mb-6 px-4 md:px-4 text-on-primary-color w-80-l">
-        {{- partial "books/praise.html" (dict "count" 1 "context" . ) -}}
+        {{/* {{- partial "books/praise.html" (dict "count" 1 "context" . ) -}} */}}
         {{/* {{ partial "components/button-bordered.html" (dict "URL" .URL "copy" "more" "classes" "b--red") }} */}}
       </section>
     {{ end }}
