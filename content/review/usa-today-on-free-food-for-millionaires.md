@@ -6,7 +6,6 @@ book: book/_index.md
 description: ''
 featured: false
 weight: ''
-draft: true
 
 ---
-Critic’s pick: Free Food for Millionaires, by Min Jin Lee (Grand Central, $13.99). USA TODAY’s Carol Memmott says this “vastly ambitious” and “stirring"
+Critic’s pick: _Free Food for Millionaires_, by Min Jin Lee (Grand Central, $13.99). USA TODAY’s Carol Memmott says this “vastly ambitious” and “stirring"
