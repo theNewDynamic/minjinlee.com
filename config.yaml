@@ -4,7 +4,7 @@ DefaultContentLanguage: en
 buildFuture: true
 MetaDataFormat: yaml
 Paginate: 10
-baseURL: "https://www.thenewdynamic.org"
+baseURL: "https://www.minjinlee.com/"
 enableRobotsTXT: true
 googleAnalytics: ""
 languageCode: en-us
