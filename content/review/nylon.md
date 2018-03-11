@@ -1,9 +1,11 @@
 ---
 title: Nylon
-attribution: ''
+attribution: Nylon
 date: 2018-03-11 17:51:52 +0000
-book: book/slug.md
+book: book/_index.md
 description: ''
-draft: true
+featured: false
+weight: ''
 
 ---
+50 Most Anticipated Books of 2017
