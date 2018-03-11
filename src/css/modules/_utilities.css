@@ -28,3 +28,7 @@ p a:hover {
 hr {
   @apply .py-4;
 }
+
+dt::after {
+  content: ": ";
+}
