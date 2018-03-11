@@ -26,3 +26,6 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: boolean
+  name: featured
+  label: Featured
