@@ -1,20 +1,10 @@
 ---
 title: Pachinko
 date: 2017-02-07 00:00:00
-publisher:
+publisher: Grand Central Publishing
 subtitle:
 genre: Fiction
-description: >-
-  “Luminous…a powerful meditation on what immigrants sacrifice to achieve a home
-  in the world. This story confirms Lee’s place among our finest novelists.”
-
-
-
-
-
-  ##### **–Junot D&iacute;az, Pulitzer Prize-Winning author of *The Brief
-  Wondrous Life of Oscar Wao*&nbsp;and *This is How You Lose Her***
-
+description: "A saga about four generations of a poor Korean immigrant family fight to control their destiny in 20th-century Japan, exiled from their home."
 editions_isbn:
   hardcover: 9781455563937
   paperback: 9781455563937

@@ -1,11 +1,12 @@
 ---
 title: Free Food for Millionaires
 date: 2007-05-07 00:00:00
-publisher:
+publisher: Grand Central Publishing
 tags: ["fun"]
 subtitle:
 genre: Fiction
-description: >-
+description: "In her critically acclaimed debut, National Book Award finalist Min Jin Lee introduces the indelible Casey Han: a strong-willed, Queens-bred daughter of Korean immigrants who is addicted to a glamorous Manhattan lifestyle she cannot afford. Fresh out of Princeton with an economics degree, no job, and a popular white boyfriend, Casey is determined to carve a space for herself in the glittering world she craves-but at what cost?"
+_description: >-
   “It would be remarkable if she had simply written a long novel that was as easy
   to devour as a 19th-century romance — packed with tales of flouted parental
   expectations, fluctuating female friendships and rivalries, ephemeral (and
