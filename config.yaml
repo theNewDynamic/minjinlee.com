@@ -6,7 +6,7 @@ MetaDataFormat: yaml
 Paginate: 10
 baseURL: "https://www.minjinlee.com/"
 enableRobotsTXT: true
-googleAnalytics: ""
+googleAnalytics: "UA-176386-75"
 languageCode: en-us
 blackfriday:
   extensionsmask:
