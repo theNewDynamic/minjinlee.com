@@ -1,5 +1,5 @@
 ---
-title: "Min Jin Lee's Pachinko, Released 2017"
+title: "Min Jin Lee -  Pachinko, Released 2017"
 linktitle: Home
 menu:
   main:
