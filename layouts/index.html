@@ -1,7 +1,7 @@
 {{ define "main" }}
   <main class="max-w-2xl mx-auto px-3 pt-5">
     {{ range first 1 (where .Data.Pages "Section" "book") }}
-      <section class="flex flex-wrap md:flex-row flex-col-reverse mx-auto px-4 md:px-4 py-4 py- w-80-l">
+      <section class="flex flex-wrap md:flex-row flex-col-reverse mx-auto px-4 md:px-4 py-4">
           <div class="w-full md:w-1/2 mt-8 lg:pr-12">
             {{- partial "books/praise-featured.html" . -}}
             {{ partial "books/buylinks.html" . }}
@@ -10,8 +10,8 @@
             {{- partial "books/cover.html" . -}}
           </div>
       </section>
-      <section class="mx-auto flex mb-12 mt-8 px-4 text-on-primary-color">
-        {{- partial "books/praise.html" (dict "count" 1 "Page" . ) -}}
+      <section class="mx-auto flex mb-12 mt-8 px-8 text-on-primary-color">
+        {{- partial "books/praise.html" (dict "count" 10 "Page" . ) -}}
         <a class="btn my-8 btn-buylinks self-end" href="{{.URL }}">more</a>
       </section>
     {{ end }}
