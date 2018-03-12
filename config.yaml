@@ -15,6 +15,7 @@ config: config.yaml
 theme: "hugo-base-layouts"
 #themesDir: "src/themes"
 #layoutDir: "src/layouts"
+logo: "/uploads/9781455563920.jpeg"
 mediaTypes:
   text/netlify:
     delimiter: ""
