@@ -30,7 +30,7 @@ footer {
 .sidebar-list {
   @apply .bg-grey-lighter .p-4
 }
-@screen md {
+@screen lg {
   header {
     @apply .fixed .pin-t .pin-l .pin-r .z-50
   }
