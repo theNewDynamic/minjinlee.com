@@ -1,7 +1,0 @@
-{{ if .Params.images }}
-<div class="lazyload" data-noscript="">
-  <noscript>
-    <img src="{{ index (.Params.images) 0 }}" alt="Cover image for {{ .Title }}" class="lazyload w-full shadow-lg mt-1 mb-2 max-h-screenf">
-  </noscript>
-</div>
-{{ end }}
