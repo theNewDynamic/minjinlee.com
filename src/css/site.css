@@ -5,6 +5,10 @@
     @apply .font-serif;
 }
 
+.page-list_default, .page-single_default {
+  @apply .max-w-xl;
+}
+
 .active {
   @apply .text-grey-dark .underline;
 }
