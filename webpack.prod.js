@@ -21,6 +21,13 @@ module.exports = merge(common, {
       PRODUCTION: JSON.stringify(true),
     }),
 
+    // In production, hash our CSS
+    new ExtractTextPlugin({
+      filename: getPath => {
+        return getPath("css/[name].[contenthash].css")
+      },
+      allChunks: true,
+    }),
     // In production, Run our CSS through PurgeCSS
     new PurgecssPlugin({
       whitelist: [
@@ -37,7 +44,6 @@ module.exports = merge(common, {
       ],
       paths: glob.sync([
         path.join(__dirname, "layouts/**/*.html"),
-        path.join(__dirname, "src/js/algolia/templates/*.html"),
         path.join(__dirname, "themes/hugo-base-layouts/layouts/**/*.html"),
       ]),
       // TailwindExtractor runs through our layouts to get the CSS for PurgeCSS
@@ -48,13 +54,7 @@ module.exports = merge(common, {
         },
       ],
     }),
-    // In production, hash our CSS
-    new ExtractTextPlugin({
-      filename: getPath => {
-        return getPath("css/[name].[contenthash].css")
-      },
-      allChunks: true,
-    }),
+    // UGly
     new UglifyJSPlugin(),
     new webpack.optimize.ModuleConcatenationPlugin(),
   ],
