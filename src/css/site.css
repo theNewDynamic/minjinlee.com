@@ -6,7 +6,25 @@
 }
 
 .page-list_default, .page-single_default {
-  @apply .max-w-xl;
+  @apply .max-w-xl .px-4 .pt-6;
+}
+
+@screen md {
+.nav {
+  margin-left: 4rem;
+}
+}
+
+
+.list-item {
+  @apply .inline-block;
+
+}
+
+
+.flex-direction {
+  /* @apply items-end; */
+  @apply items-center
 }
 
 .active {
