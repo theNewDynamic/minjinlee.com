@@ -32,13 +32,7 @@ module.exports = merge(common, {
     new PurgecssPlugin({
       whitelist: [
         "body",
-        "ais-hits",
-        "ais-hits--item",
-        "results-hidden",
-        "hidden",
-        "ais-pagination",
-        "ais-pagination--item__active ais-pagination--item__first",
-        "ais-pagination--item__last",
+        "pagination",
         "bg-primary-color",
         "turbolinks-progress-bar",
       ],
