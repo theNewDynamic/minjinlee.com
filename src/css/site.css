@@ -12,7 +12,7 @@
 @screen md {
 .nav {
   margin-left: 4rem;
-}
+  }
 }
 
 
@@ -68,5 +68,5 @@ footer {
 }
 
 .btn-buylinks:hover {
-  @apply .bg-black .text-white
+  @apply .bg-primary-color .text-white
 }
