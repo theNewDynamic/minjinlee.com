@@ -5,19 +5,18 @@ fields:
   label: Date
   type: field_group
   hidden: false
-  default: {}
-- name: category
+- name: categories
   label: Category
   type: text
   hidden: false
-  default: 
+  default:
 - name: where_published
   label: Where published
   type: text
   hidden: false
-  default: 
+  default:
 - name: link_to_original
   label: Link to original
   type: text
   hidden: false
-  default: 
+  default:
