@@ -1,7 +1,7 @@
 ---
 title: PACHINKO is an American Library Awards Notable Book for 2018
 date: 2018-02-11 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - News
 attribution:

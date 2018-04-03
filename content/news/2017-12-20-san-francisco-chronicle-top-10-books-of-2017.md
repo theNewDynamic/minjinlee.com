@@ -1,7 +1,7 @@
 ---
 title: 'San Francisco Chronicle: Top 10 Books of 2017'
 date: 2017-12-20 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

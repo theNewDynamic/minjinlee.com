@@ -1,7 +1,7 @@
 ---
 title: "Chosun Ilbo"
 date: 2010-05-01T09:52:00-05:00
-category: ["News"]
+categories: ["News"]
 tags: 
   - Essays
 attribution: "Chosun Ilbo"

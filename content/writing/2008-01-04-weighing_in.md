@@ -1,7 +1,7 @@
 ---
 title: "Weighing In"
 date: 2008-01-04T21:26:03-05:00
-category: 
+categories: 
 tags: ["Essays"]
 
 where_published: "Vogue"

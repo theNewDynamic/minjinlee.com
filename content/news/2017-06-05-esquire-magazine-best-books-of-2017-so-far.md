@@ -1,7 +1,7 @@
 ---
 title: 'Esquire Magazine: Best Books of 2017  (So Far)'
 date: 2017-06-05 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: Esquire Magazine

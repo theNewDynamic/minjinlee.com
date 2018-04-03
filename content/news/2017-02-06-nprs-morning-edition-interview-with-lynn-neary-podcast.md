@@ -1,7 +1,7 @@
 ---
 title: "NPR's MORNING EDITION: Interview with Lynn Neary (Podcast)"
 date: 2017-02-06 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - Interviews

@@ -1,7 +1,7 @@
 ---
 title: "People Magazine"
 date: 2007-05-01T22:54:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "People Magazine"

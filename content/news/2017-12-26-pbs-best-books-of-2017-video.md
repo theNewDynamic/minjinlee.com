@@ -1,7 +1,7 @@
 ---
 title: 'PBS: Best Books of 2017 (Video)'
 date: 2017-12-26 12:00:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Reviews
   - News

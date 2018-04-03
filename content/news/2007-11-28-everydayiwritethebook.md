@@ -1,7 +1,7 @@
 ---
 title: "EverydayIwritethebook"
 date: 2007-11-28T22:05:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "Everydayiwritethebook"

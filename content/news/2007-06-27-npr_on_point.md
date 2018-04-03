@@ -1,7 +1,7 @@
 ---
 title: "NPR On Point"
 date: 2007-06-27T23:23:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Audio
 attribution: "WBUR On Point"

@@ -1,7 +1,7 @@
 ---
 title: 'BookBub: 22 Most Anticipated Book Club Reads 2017'
 date: 2017-01-09 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: BookBub

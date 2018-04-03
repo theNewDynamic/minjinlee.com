@@ -1,7 +1,7 @@
 ---
 title: "NPR: KQED The Writer’s Block"
 date: 2008-03-19T23:30:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Audio
 attribution: "NPR: KQED The Writer's Block"

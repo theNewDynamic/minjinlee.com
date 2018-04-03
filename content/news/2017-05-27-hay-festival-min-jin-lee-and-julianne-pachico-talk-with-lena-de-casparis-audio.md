@@ -1,7 +1,7 @@
 ---
 title: 'Hay Festival: Min Jin Lee and Julianne Pachico talk with Lena de Casparis  (Audio)'
 date: 2017-05-27 12:00:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Audio
   - Interviews

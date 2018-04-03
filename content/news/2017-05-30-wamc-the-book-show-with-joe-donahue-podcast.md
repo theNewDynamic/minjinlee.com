@@ -1,7 +1,7 @@
 ---
 title: 'WAMC: The Book Show with Joe Donahue (Podcast)'
 date: 2017-05-30 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - Audio

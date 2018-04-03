@@ -1,7 +1,7 @@
 ---
 title: A new essay appears in The New Yorker
 date: 2018-02-24 12:00:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Essays
 attribution:

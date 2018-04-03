@@ -1,7 +1,7 @@
 ---
 title: Pachinko is a National Book Awards Finalist for Fiction
 date: 2017-10-04 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - News
 attribution: NPR
@@ -15,7 +15,7 @@ By Colin Dwyer
 
 It began with more than 1,500 books.
 
-With all the works submitted by publishers, the judges for this year's National Book Awards have had their hands (and bookshelves) full the past few months. But that daunting number of contenders winnowed further Wednesday, as the National Book Foundation announced the finalists for its literary prize — just five works each in four category: fiction, nonfiction, poetry and young people's literature.
+With all the works submitted by publishers, the judges for this year's National Book Awards have had their hands (and bookshelves) full the past few months. But that daunting number of contenders winnowed further Wednesday, as the National Book Foundation announced the finalists for its literary prize — just five works each in four categories: fiction, nonfiction, poetry and young people's literature.
 
 You can find those shortlists below, paired with links to NPR's previous coverage for readers to get to know those nominees better.
 

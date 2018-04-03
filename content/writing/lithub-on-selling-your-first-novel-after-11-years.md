@@ -1,7 +1,7 @@
 ---
 title: 'LitHub: On Selling Your First Novel After 11 Years'
 date: 2017-01-10 03:39:00
-category: 
+categories: 
 tags:
   - Publishing
 where_published: LitHub

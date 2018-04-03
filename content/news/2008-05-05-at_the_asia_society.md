@@ -1,7 +1,7 @@
 ---
 title: "Min Jin Lee at the Asia Society"
 date: 2008-05-05T13:07:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Video
 attribution: "Asia Society Video"

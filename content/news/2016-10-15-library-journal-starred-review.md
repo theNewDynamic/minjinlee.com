@@ -1,7 +1,7 @@
 ---
 title: 'Library Journal: Starred Review'
 date: 2016-10-15 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: Library Journal

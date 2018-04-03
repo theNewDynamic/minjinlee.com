@@ -1,7 +1,7 @@
 ---
 title: "Newsweek Interview"
 date: 2007-07-12T21:57:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: ""

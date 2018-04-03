@@ -1,7 +1,7 @@
 ---
 title: 'POPMATTERS: An Interview with Min Jin Lee'
 date: 2017-03-03 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - Interviews

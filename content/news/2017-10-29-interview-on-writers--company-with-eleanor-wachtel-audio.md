@@ -1,7 +1,7 @@
 ---
 title: Interview on Writers & Company with Eleanor Wachtel (Audio)
 date: 2017-10-29 12:00:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Audio
   - News

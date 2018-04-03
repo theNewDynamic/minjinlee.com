@@ -1,7 +1,7 @@
 ---
 title: 'The New York Times Best Sellers: December 24, 2017'
 date: 2017-12-24 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

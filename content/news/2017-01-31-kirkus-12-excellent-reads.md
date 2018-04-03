@@ -1,7 +1,7 @@
 ---
 title: Kirkus 12 Excellent Reads
 date: 2017-01-31 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

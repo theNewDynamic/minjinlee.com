@@ -1,7 +1,7 @@
 ---
 title: 'Publishers Weekly Spring 2017 Announcements: Literary Fiction'
 date: 2016-12-09 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: Publishers Weekly by Louisa Ermelino

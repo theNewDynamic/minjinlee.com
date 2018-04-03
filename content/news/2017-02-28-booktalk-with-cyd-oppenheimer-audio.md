@@ -1,7 +1,7 @@
 ---
 title: BookTalk with Cyd Oppenheimer (AUDIO)
 date: 2017-02-28 12:00:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Reviews
   - Interviews

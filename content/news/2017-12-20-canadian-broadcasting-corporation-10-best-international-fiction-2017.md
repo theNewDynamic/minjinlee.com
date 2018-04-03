@@ -1,7 +1,7 @@
 ---
 title: 'Canadian Broadcasting Corporation: 10 Best International Fiction 2017'
 date: 2017-12-20 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

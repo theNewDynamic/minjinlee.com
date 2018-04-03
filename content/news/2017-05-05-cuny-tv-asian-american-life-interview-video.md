@@ -1,7 +1,7 @@
 ---
 title: 'CUNY TV: ASIAN AMERICAN LIFE INTERVIEW (Video)'
 date: 2017-05-05 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - Interviews

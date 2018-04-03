@@ -1,7 +1,7 @@
 ---
 title: 'Parchment Girl: 50 Amazing New Books 2017'
 date: 2016-11-01 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution:

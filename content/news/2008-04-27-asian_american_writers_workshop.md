@@ -1,7 +1,7 @@
 ---
 title: "Asian American Writer’s Workshop"
 date: 2008-04-27T22:00:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "Asian American Writer's Workshop"

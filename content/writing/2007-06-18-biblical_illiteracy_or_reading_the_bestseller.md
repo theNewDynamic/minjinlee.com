@@ -1,7 +1,7 @@
 ---
 title: "Biblical Illiteracy or Reading the Bestseller"
 date: 2007-06-18T22:12:25-05:00
-category: 
+categories: 
 tags: ["Essays"]
 
 where_published: "ABC News"

@@ -1,7 +1,7 @@
 ---
 title: "A Review of Toni Morrison’s new book HOME in The TIMES of LONDON"
 date: 2012-04-24T14:21:13-05:00
-category: 
+categories: 
 tags: ["Essays"]
 
 where_published: "THE TIMES OF LONDON"

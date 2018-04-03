@@ -1,7 +1,7 @@
 ---
 title: "Washington Times"
 date: 2008-04-27T22:54:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "Washington Times"

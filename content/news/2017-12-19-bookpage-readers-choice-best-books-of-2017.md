@@ -1,7 +1,7 @@
 ---
 title: 'BookPage: Readers'' Choice Best Books of 2017'
 date: 2017-12-19 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

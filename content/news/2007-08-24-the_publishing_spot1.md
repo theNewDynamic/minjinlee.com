@@ -1,7 +1,7 @@
 ---
 title: "The Publishing Spot"
 date: 2007-08-24T22:04:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "The Publishing Spot"

@@ -1,7 +1,7 @@
 ---
 title: 'Elle: 25 Most Anticipated Books by Women 2017'
 date: 2017-01-05 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: Elle by Sara Novic

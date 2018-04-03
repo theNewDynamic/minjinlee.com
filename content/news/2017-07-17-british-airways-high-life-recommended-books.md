@@ -1,7 +1,7 @@
 ---
 title: 'British Airways High Life: Recommended Books'
 date: 2017-07-17 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution:

@@ -1,7 +1,7 @@
 ---
 title: 'Washington Post: Book Review of Pachinko Audio'
 date: 2017-04-05 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - Audio

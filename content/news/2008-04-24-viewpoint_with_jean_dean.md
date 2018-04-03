@@ -1,7 +1,7 @@
 ---
 title: "Viewpoint with Jean Dean"
 date: 2008-04-24T13:19:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Audio
 attribution: "ESPN Radio 930"

@@ -1,7 +1,7 @@
 ---
 title: 'American Booksellers Association: Feb 2017 INDIE NEXT Great Reads Pick'
 date: 2016-12-22 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: American Booksellers Association

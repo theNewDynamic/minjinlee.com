@@ -1,7 +1,7 @@
 ---
 title: 'CNN: The Fiction that Got Me Through 2017'
 date: 2017-12-12 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: CNN.com

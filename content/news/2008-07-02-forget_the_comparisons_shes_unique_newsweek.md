@@ -1,7 +1,7 @@
 ---
 title: "“Forget the Comparisons, She’s Unique” - Newsweek"
 date: 2008-07-02T10:28:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "Newsweek"

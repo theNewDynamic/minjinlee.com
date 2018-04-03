@@ -1,7 +1,7 @@
 ---
 title: 'Irish Independent: Pat Kenny''s Top Book Picks'
 date: 2017-12-04 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - News
   - Reviews

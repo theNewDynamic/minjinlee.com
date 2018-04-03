@@ -1,7 +1,7 @@
 ---
 title: "Upstairs at the Square"
 date: 2008-05-06T21:17:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Video
 attribution:

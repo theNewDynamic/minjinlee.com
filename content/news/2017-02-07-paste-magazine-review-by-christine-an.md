@@ -1,7 +1,7 @@
 ---
 title: 'Paste Magazine: Review by Christine An'
 date: 2017-02-07 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

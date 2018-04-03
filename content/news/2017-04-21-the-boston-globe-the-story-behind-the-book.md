@@ -1,7 +1,7 @@
 ---
 title: 'The Boston Globe: The Story Behind the Book'
 date: 2017-04-21 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - Interviews

@@ -1,7 +1,7 @@
 ---
 title: 'Times Literary Supplement: Book Review of books by Bandi, J.M. Lee, Mun-yol Yi, and Jieun Baek'
 date: 2017-05-24 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: The Times Literary Supplement by Min Jin Lee

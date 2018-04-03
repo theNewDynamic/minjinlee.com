@@ -1,7 +1,7 @@
 ---
 title: "The Chronicle Journal"
 date: 2007-06-02T23:05:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "The Chronicle Journal"

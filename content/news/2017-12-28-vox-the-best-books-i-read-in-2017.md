@@ -1,7 +1,7 @@
 ---
 title: 'Vox: The Best Books I read in 2017'
 date: 2017-12-28 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

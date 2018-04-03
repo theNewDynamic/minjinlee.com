@@ -1,7 +1,7 @@
 ---
 title: 'Top 10 Books of February 2017:'
 date: 2017-01-09 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: Toronto Star

@@ -1,7 +1,7 @@
 ---
 title: 'New Statesman: Book Review'
 date: 2017-05-20 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

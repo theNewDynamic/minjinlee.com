@@ -1,7 +1,7 @@
 ---
 title: San Francisco Chronicle (Book Review)
 date: 2017-03-31 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

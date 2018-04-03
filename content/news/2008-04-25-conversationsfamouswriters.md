@@ -1,7 +1,7 @@
 ---
 title: "Conversationsfamouswriters"
 date: 2008-04-25T22:58:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "Conversationsfamouswriters"

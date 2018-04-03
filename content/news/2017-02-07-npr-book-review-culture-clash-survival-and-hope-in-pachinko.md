@@ -1,7 +1,7 @@
 ---
 title: 'NPR Book Review: Culture Clash, Survival and Hope in PACHINKO'
 date: 2017-02-07 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

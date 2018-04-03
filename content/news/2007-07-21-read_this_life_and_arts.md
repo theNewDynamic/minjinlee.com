@@ -1,7 +1,7 @@
 ---
 title: "Read This (Life and Arts)"
 date: 2007-07-21T22:55:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "Seattle Post-Intelligencer"

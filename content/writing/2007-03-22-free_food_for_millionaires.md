@@ -1,7 +1,7 @@
 ---
 title: "Free Food for Millionaires"
 date: 2007-03-22T15:58:02-05:00
-category: 
+categories: 
 tags: ["Short Stories"]
 
 where_published: "Narrative Magazine"

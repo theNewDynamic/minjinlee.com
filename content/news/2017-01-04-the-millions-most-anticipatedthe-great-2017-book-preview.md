@@ -1,7 +1,7 @@
 ---
 title: 'The Millions: Most Anticipated—The Great 2017 Book Preview'
 date: 2017-01-04 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: The Millions by

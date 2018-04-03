@@ -1,7 +1,7 @@
 ---
 title: "Minnesota Public Radio: The Thread's Book of the Week"
 date: 2017-05-06 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - Interviews

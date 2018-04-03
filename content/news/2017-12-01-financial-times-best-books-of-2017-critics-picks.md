@@ -1,7 +1,7 @@
 ---
 title: 'Financial Times: Best Books of 2017: critics'' picks'
 date: 2017-12-01 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: Financial Times

@@ -1,7 +1,7 @@
 ---
 title: "Axis of Happiness"
 date: 2007-03-22T17:45:45-05:00
-category: 
+categories: 
 tags: ["Short Stories"]
 
 where_published: "Narrative Magazine"

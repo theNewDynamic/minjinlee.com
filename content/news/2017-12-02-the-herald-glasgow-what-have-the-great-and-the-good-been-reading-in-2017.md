@@ -1,7 +1,7 @@
 ---
 title: 'The Herald (Glasgow): "What have the great and the good been reading in 2017?"'
 date: 2017-12-02 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: The Herald (Glasgow)

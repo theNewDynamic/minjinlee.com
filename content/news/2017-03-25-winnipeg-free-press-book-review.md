@@ -1,7 +1,7 @@
 ---
 title: Winnipeg Free Press (Book Review)
 date: 2017-03-25 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

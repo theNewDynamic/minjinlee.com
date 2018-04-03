@@ -1,7 +1,7 @@
 ---
 title: The TNB Announces PACHINKO as its February Book Club Selection
 date: 2017-01-13 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: The Nervous Breakdown Book Club

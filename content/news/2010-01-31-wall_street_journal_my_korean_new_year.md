@@ -1,7 +1,7 @@
 ---
 title: "Wall Street Journal—My Korean New Year:"
 date: 2010-01-31T00:32:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Video
 attribution: "Wall Street Journal"

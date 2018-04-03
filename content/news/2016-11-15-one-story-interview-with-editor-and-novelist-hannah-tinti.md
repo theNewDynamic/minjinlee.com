@@ -1,7 +1,7 @@
 ---
 title: 'One Story: Interview with Editor and Novelist Hannah Tinti'
 date: 2016-11-15 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution:

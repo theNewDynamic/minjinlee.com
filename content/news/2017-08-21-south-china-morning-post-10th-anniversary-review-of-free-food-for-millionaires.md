@@ -3,7 +3,7 @@ title: >-
   South China Morning Post: 10th Anniversary Review of FREE FOOD FOR
   MILLIONAIRES
 date: 2017-08-21 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

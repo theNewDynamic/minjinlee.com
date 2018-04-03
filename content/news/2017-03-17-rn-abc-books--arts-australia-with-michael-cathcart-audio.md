@@ -1,7 +1,7 @@
 ---
 title: 'RN ABC: Books & Arts (Australia) with Michael Cathcart (AUDIO)'
 date: 2017-03-17 12:00:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Reviews
   - Audio

@@ -1,7 +1,7 @@
 ---
 title: "Daily Camera"
 date: 2007-06-01T23:12:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "Daily Camera"

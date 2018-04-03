@@ -1,7 +1,7 @@
 ---
 title: World Magazine
 date: 2017-06-10 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

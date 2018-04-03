@@ -1,7 +1,7 @@
 ---
 title: 'Bookish: Best Book Club Picks for February 2017'
 date: 2017-01-23 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

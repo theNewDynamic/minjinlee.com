@@ -1,7 +1,7 @@
 ---
 title: "Profile in J-Select"
 date: 2008-09-09T22:27:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - News
 attribution: "J-Select"

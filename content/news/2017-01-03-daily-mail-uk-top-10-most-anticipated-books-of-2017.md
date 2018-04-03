@@ -1,7 +1,7 @@
 ---
 title: 'Daily Mail UK: Top 10 Most Anticipated Books of 2017'
 date: 2017-01-03 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - News
 attribution: Daily Mail UK

@@ -1,7 +1,7 @@
 ---
 title: 'Washington Post: PACHINKO is Roxane Gay''s Favorite Book of 2017'
 date: 2017-08-31 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: The Washington Post

@@ -1,7 +1,7 @@
 ---
 title: '*Free Food for Millionaires* Trailer'
 date: 2010-09-15 12:00:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Video
 attribution:

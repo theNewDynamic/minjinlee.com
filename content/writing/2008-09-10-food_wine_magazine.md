@@ -1,7 +1,7 @@
 ---
 title: "Food & Wine Magazine"
 date: 2008-09-10T00:07:44-05:00
-category: 
+categories: 
 tags: ["Essays"]
 
 where_published: "Food & WIne Magazine"

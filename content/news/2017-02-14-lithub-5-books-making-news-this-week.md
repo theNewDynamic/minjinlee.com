@@ -1,7 +1,7 @@
 ---
 title: 'LITHUB: 5 Books Making News This Week'
 date: 2017-02-14 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: LitHub by Jane Ciabattari

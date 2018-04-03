@@ -1,7 +1,7 @@
 ---
 title: "Columbia University Conference “Fear of Flying” Can a Feminist Classic Be an American Classic?"
 date: 2008-03-28T22:42:01-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Video
 attribution: "Columbia University"

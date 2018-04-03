@@ -1,7 +1,7 @@
 ---
 title: "Up Front: After the Earthquake"
 date: 2011-05-05T09:49:28-05:00
-category: 
+categories: 
 tags: ["Essays"]
 
 where_published: "Vogue"

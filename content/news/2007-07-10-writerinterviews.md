@@ -1,7 +1,7 @@
 ---
 title: "Writerinterviews"
 date: 2007-07-10T22:10:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "Writerinterviews"

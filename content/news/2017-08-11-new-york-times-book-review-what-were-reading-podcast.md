@@ -1,7 +1,7 @@
 ---
 title: 'New York Times Book Review: What We''re Reading (Podcast)'
 date: 2017-08-11 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
 attribution: New York Times Book Review

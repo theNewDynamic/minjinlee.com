@@ -1,7 +1,7 @@
 ---
 title: "San Francisco Chronicle"
 date: 2007-06-05T22:47:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "San Francisco Chronicle"

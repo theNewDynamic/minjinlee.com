@@ -1,7 +1,7 @@
 ---
 title: "New York Times Podcast"
 date: 2008-04-25T23:29:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Audio
 attribution: "New York Times Podcast"

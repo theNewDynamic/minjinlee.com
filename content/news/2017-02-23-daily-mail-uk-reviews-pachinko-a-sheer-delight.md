@@ -1,7 +1,7 @@
 ---
 title: 'Daily Mail UK Reviews PACHINKO: "A sheer delight"'
 date: 2017-02-23 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

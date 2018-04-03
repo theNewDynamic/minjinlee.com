@@ -1,7 +1,7 @@
 ---
 title: "Times of London: My Favorite Novel of 2010"
 date: 2010-05-05T23:13:45-05:00
-category: 
+categories: 
 tags: ["Reviews"]
 
 where_published: "Times of London"

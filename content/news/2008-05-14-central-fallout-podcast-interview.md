@@ -1,7 +1,7 @@
 ---
 title: "Fallout Central Podcast"
 date: 2008-05-14 12:00:00
-category:
+categories:
   - Media
 tags:
   - Video

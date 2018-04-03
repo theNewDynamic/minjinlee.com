@@ -1,7 +1,7 @@
 ---
 title: National Book Awards Longlist for FICTION
 date: 2017-09-15 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - News
 attribution: New York Times

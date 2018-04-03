@@ -1,7 +1,7 @@
 ---
 title: "Pay Yourself First"
 date: 2007-06-18T22:14:50-05:00
-category: 
+categories: 
 tags: ["Essays"]
 
 where_published: "Moleskinerie"

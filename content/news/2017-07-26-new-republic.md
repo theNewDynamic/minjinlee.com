@@ -1,7 +1,7 @@
 ---
 title: New Republic
 date: 2017-07-26 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

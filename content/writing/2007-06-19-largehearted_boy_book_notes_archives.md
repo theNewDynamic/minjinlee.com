@@ -1,7 +1,7 @@
 ---
 title: "Largehearted Boy: Book Notes Archives"
 date: 2007-06-19T22:17:08-05:00
-category: 
+categories: 
 tags: ["Essays"]
 
 where_published: "Largehearted Boy: Book Notes Archives"

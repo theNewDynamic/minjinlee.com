@@ -1,7 +1,7 @@
 ---
 title: "Village Voice: NYC's Best Independent Booksellers Share their Picks for Summer Reading"
 date: 2017-06-14 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - News

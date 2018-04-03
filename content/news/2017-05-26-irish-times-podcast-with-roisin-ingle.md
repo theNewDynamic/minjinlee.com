@@ -1,7 +1,7 @@
 ---
 title: Irish Times (Podcast with Roisin Ingle)
 date: 2017-05-26 12:00:00
-category: ["News"]
+categories: ["News"]
 tags:
   - Reviews
   - Interviews

@@ -1,7 +1,7 @@
 ---
 title: "Wall Street Journal- Asia, April 3, 2009"
 date: 2009-04-05T18:43:00-05:00
-category: ["Media"]
+categories: ["Media"]
 tags:
   - Interviews
 attribution: "Wall Street Journal Asia"
