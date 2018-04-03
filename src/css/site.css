@@ -5,10 +5,28 @@
     @apply .font-serif;
 }
 
+/* --------- Pages -------------- */
 .page-list_default, .page-single_default {
   @apply .max-w-xl .px-4 .pt-6;
 }
 
+/* --------- Title -------------- */
+.site-title {
+  @apply font-brand dim text-5xl .font-bold no-underline color-inherit inline-block
+}
+
+@screen md {
+  .site-title {
+    @apply text-4xl;
+  }
+}
+@screen xl {
+  .site-title {
+    @apply text-5xl;
+  }
+}
+
+/* --------- NAV -------------- */
 nav li {
   @apply .inline-block;
 }
@@ -17,8 +35,8 @@ nav ul a {
 }
 
 @screen md {
-.nav {
-  margin-left: 4rem;
+nav {
+  @apply .ml-8
   }
   nav ul a {
     @apply .pr-8;
@@ -26,12 +44,14 @@ nav ul a {
 }
 
 
+
+
 .list-item {
   @apply .inline-block;
 
 }
 
-
+/* --------- MISC  -------------- */
 .flex-direction {
   /* @apply items-end; */
   @apply items-center
