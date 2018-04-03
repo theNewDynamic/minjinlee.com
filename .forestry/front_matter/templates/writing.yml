@@ -1,22 +1,39 @@
 ---
 hide_body: false
 fields:
-- name: date
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- type: datetime
+  name: date
   label: Date
-  type: field_group
+- name: images
+  label: Image
+  type: image_gallery
   hidden: false
-- name: categories
+  default: ''
+- name: image_credit
+  label: Image Credit
+  type: text
+  hidden: false
+  default: ''
+- type: tag_list
   label: Category
-  type: text
-  hidden: false
-  default:
+  name: categories
 - name: where_published
-  label: Where published
+  label: Where Published
   type: text
   hidden: false
-  default:
+  default: ''
 - name: link_to_original
   label: Link to original
+  description: Use a full address, e.g. https://www.example.com
   type: text
   hidden: false
-  default:
+  default: ''
+- name: description
+  label: description
+  type: textarea
+  description: Very short. Good for SEO and sharing
