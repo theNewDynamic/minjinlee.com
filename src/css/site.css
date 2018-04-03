@@ -9,9 +9,19 @@
   @apply .max-w-xl .px-4 .pt-6;
 }
 
+nav li {
+  @apply .inline-block;
+}
+nav ul a {
+  @apply block color-inherit dim leading-none no-underline pr-3 py-3;
+}
+
 @screen md {
 .nav {
   margin-left: 4rem;
+  }
+  nav ul a {
+    @apply .pr-8;
   }
 }
 
@@ -47,7 +57,7 @@ header {
 }
 
 footer {
-  @apply .p-4 .mt-12 .text-sm .text-grey-dark;
+  @apply .p-4 .mt-32 .text-sm .text-grey-dark;
 }
 .sidebar-list {
   @apply .bg-grey-lighter .p-4
@@ -57,7 +67,7 @@ footer {
     @apply .fixed .pin-t .pin-l .pin-r .z-50
   }
   .content {
-    @apply .mt-12
+    @apply .mt-32
         }
 
 }
