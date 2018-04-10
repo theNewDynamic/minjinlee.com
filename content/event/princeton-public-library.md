@@ -1,5 +1,5 @@
 ---
-title: Princeton Public Library
+title: 'Princeton Public Library and Labyrinth Books: Princeton Migration Project '
 date: 2018-04-18 18:00:00 -0400
 show_time: true
 venue:
