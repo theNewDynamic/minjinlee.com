@@ -10,7 +10,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default:
+  default: 
 - type: image_gallery
   name: images
   label: Images

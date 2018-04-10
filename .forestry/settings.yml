@@ -7,10 +7,10 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-  review:
-    default_front_matter_template: review
   news:
     default_front_matter_template: news
+  review:
+    default_front_matter_template: review
   event:
     default_front_matter_template: event
   book:
