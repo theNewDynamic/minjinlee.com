@@ -11,6 +11,5 @@ venue:
   name: 'Javits Center '
   state: ''
   zip: ''
-draft: true
 
 ---
