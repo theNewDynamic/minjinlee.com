@@ -1,7 +1,7 @@
 ---
 title: 'Nantucket Book Festival 2018: PACHINKO '
-date: 2018-04-11 01:39:46 +0000
-images: ''
+date: 2018-06-16 14:00:46 -0400
+images: []
 description: ''
 link: ''
 show_time: true
