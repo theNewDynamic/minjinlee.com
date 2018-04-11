@@ -12,6 +12,5 @@ venue:
   name: 'Strand Books '
   state: ''
   zip: ''
-draft: true
 
 ---
