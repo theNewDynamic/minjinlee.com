@@ -11,6 +11,5 @@ venue:
   name: 'NYU Kimmel Center '
   state: ''
   zip: ''
-draft: true
 
 ---
