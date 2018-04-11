@@ -1,8 +1,8 @@
 ---
 title: Hampton Library Summer Author Series
-date: 2018-04-11 01:44:53 +0000
-images: ''
-description: ''
+date: 2018-08-24 17:00:53 -0400
+images: []
+description: Pachinko with Min Jin Lee
 link: ''
 show_time: true
 venue:
