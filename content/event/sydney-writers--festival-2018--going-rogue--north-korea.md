@@ -1,16 +1,16 @@
 ---
 title: 'Sydney Writers'' Festival 2018: Going Rogue: North Korea'
-date: 2018-04-11 01:20:36 +0000
-images: ''
-description: ''
-link: ''
+date: 2018-05-04 13:30:36 -0400
+images: []
+description: Linda Jaivin, Michael Pembroke, Robert E. Kelly, Anna Broinowski, and
+  Min Jin Lee
+link: https://www.swf.org.au/writers/min-jin-lee/
 show_time: true
 venue:
-  address: ''
+  address: 245 Wilson Street
   city: ''
-  name: ''
+  name: Carriageworks, Bay 17
   state: ''
   zip: ''
-draft: true
 
 ---
