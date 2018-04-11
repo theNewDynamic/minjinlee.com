@@ -1,14 +1,14 @@
 ---
 title: Book Expo America
-date: 2018-04-11 01:36:52 +0000
-images: ''
-description: ''
+date: 2018-05-31 14:00:52 -0400
+images: []
+description: 'BookExpo Signing at Hachette Book Group Booth: PACHINKO and FFFM Signing'
 link: ''
 show_time: true
 venue:
   address: ''
   city: ''
-  name: ''
+  name: 'Javits Center '
   state: ''
   zip: ''
 draft: true
