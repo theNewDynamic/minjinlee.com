@@ -11,6 +11,5 @@ venue:
   name: Carnegie Music Hall in Oakland
   state: ''
   zip: ''
-draft: true
 
 ---
