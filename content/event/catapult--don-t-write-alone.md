@@ -1,7 +1,7 @@
 ---
 title: 'Catapult: Don''t Write Alone'
-date: 2018-04-11 01:42:21 +0000
-images: ''
+date: 2018-07-27 18:30:21 -0400
+images: []
 description: ''
 link: ''
 show_time: true
