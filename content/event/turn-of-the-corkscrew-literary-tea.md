@@ -11,6 +11,5 @@ venue:
   name: 'Madison Theater at Molloy College '
   state: ''
   zip: ''
-draft: true
 
 ---
