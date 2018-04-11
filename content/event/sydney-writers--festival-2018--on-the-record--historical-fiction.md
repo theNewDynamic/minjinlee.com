@@ -11,6 +11,5 @@ venue:
   name: Carriageworks, Bay 17, Eveleigh
   state: ''
   zip: ''
-draft: true
 
 ---
