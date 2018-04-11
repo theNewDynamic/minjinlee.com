@@ -11,6 +11,5 @@ venue:
   name: 'Community Bookstore '
   state: ''
   zip: ''
-draft: true
 
 ---
