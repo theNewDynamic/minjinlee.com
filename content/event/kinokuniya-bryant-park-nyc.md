@@ -11,6 +11,5 @@ venue:
   name: 'Kinokuniya USA '
   state: ''
   zip: ''
-draft: true
 
 ---
