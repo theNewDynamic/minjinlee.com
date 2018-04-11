@@ -11,6 +11,5 @@ venue:
   name: Partners Village Storee at Dedee Shattuck Gallery
   state: MA
   zip: 02790
-draft: true
 
 ---
