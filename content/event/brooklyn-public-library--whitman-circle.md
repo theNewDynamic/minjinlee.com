@@ -1,8 +1,8 @@
 ---
 title: 'Brooklyn Public Library: Whitman Circle'
-date: 2018-04-11 01:40:59 +0000
-images: ''
-description: ''
+date: 2018-06-20 18:30:59 -0400
+images: []
+description: 'Fundraiser for Brooklyn Public Library '
 link: ''
 show_time: true
 venue:
