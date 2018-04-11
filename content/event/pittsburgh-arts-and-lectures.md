@@ -1,14 +1,14 @@
 ---
 title: Pittsburgh Arts & Lectures
-date: 2018-04-11 01:51:21 +0000
-images: ''
+date: 2019-04-01 19:30:21 -0400
+images: []
 description: ''
-link: ''
+link: https://pittsburghlectures.org/programs/ten-evenings/
 show_time: true
 venue:
   address: ''
   city: ''
-  name: ''
+  name: Carnegie Music Hall in Oakland
   state: ''
   zip: ''
 draft: true
