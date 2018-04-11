@@ -1,7 +1,7 @@
 ---
 title: 'Yale University: Davenport College Tea'
-date: 2018-04-11 01:50:15 +0000
-images: ''
+date: 2018-11-29 16:00:15 -0500
+images: []
 description: ''
 link: ''
 show_time: true
