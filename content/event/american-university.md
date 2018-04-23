@@ -1,7 +1,7 @@
 ---
 title: American University
-date: 2018-04-22 23:45:19 -0400
-images: ''
+date: 2019-02-13 18:30:19 -0500
+images: []
 description: ''
 link: ''
 show_time: true
