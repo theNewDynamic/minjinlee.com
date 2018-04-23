@@ -1,5 +1,5 @@
 ---
-title: 'BABEL: Just Buffalo Literary Center '
+title: 'Just Buffalo Literary Center '
 date: 2019-03-20 20:00:30 -0400
 images: []
 description: ''
@@ -11,5 +11,6 @@ venue:
   name: Kleinhans Music Hall
   state: NY
   zip: 14201
+draft: true
 
 ---
