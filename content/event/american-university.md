@@ -11,6 +11,5 @@ venue:
   name: ''
   state: ''
   zip: ''
-draft: true
 
 ---
