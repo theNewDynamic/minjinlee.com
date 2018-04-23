@@ -11,6 +11,5 @@ venue:
   name: Kleinhans Music Hall
   state: NY
   zip: 14201
-draft: true
 
 ---
