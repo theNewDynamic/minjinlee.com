@@ -8,6 +8,4 @@ featured: true
 weight: ''
 
 ---
-Beautiful…Lee's sweeping four-generation saga of a Korean family is
-
-an extraordinary epic.
+Beautiful…Lee's sweeping four-generation saga of a Korean family is an extraordinary epic.
