@@ -86,7 +86,7 @@ reviews:
   copy_markdown: Top 10 Books of February of the Canadian Library Association's Loan
     Stars Program
 images:
-- "/uploads/9781455563920.jpeg"
+- "/uploads/9781455563920.jpg"
 buy_links_external: []
 ---
 PACHINKO follows one Korean family through the generations, beginning in early 1900s Korea with Sunja, the prized daughter of a poor yet proud family, whose unplanned pregnancy threatens to shame them all. Deserted by her lover, Sunja is saved when a young tubercular minister offers to marry and bring her to Japan.
