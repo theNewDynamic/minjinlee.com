@@ -88,8 +88,7 @@ footer {
   }
   .content {
     @apply .mt-32
-        }
-
+    }
 }
 
 
@@ -97,6 +96,6 @@ footer {
   @apply .text-xs .font-sans .text-black
 }
 
-.btn-buylinks:hover {
+.btn-buylinks:hover, .btn-buylinks:focus {
   @apply .bg-primary-color .text-white
 }
