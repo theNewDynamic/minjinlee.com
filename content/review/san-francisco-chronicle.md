@@ -1,6 +1,6 @@
 ---
 title: San Francisco Chronicle
-attribution: ''
+attribution: San Francisco Chronicle
 date: 2018-05-09 09:46:23 -0400
 book: book/pachinko.md
 description: ''
