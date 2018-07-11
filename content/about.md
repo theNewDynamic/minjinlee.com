@@ -27,4 +27,4 @@ Lee has spoken about writing, politics, film and literature at various instituti
 
 She was born in Seoul, South Korea and immigrated to Queens, New York with her family in 1976 when she was seven years old. Lee is a graduate of the Bronx High School of Science and was recently inducted into its Alumni Hall of Fame. At Yale College, she majored in History and was awarded the Henry Wright Prize for Nonfiction and the James Ashmun Veech Prize for Fiction. She attended law school at Georgetown University and worked as a lawyer for several years in New York prior to writing full time.
 
-From 2007 to 2011, Lee lived in Tokyo where she researched and wrote _Pachinko_. She lives in New York with her family; however, she will be based in Boston as of the fall of 2018. 
+From 2007 to 2011, Lee lived in Tokyo where she researched and wrote _Pachinko_. As of the fall of 2018, she will be based in Boston, where she will be working on _American Hagwon_, the third diaspora novel of "The Koreans" trilogy.
