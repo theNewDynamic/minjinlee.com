@@ -39,3 +39,5 @@ fields:
   label: description
   type: textarea
   description: Very short. Good for SEO and sharing
+pages:
+- content/event/brooklyn-book-festival-2018--national-book-foundation-panel-.md
