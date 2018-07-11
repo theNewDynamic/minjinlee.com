@@ -1,18 +1,34 @@
 ---
-upload_path: "/static/uploads/"
-frontmatter_file_url_template: "/uploads/"
-body_file_url_template: "/uploads/"
 new_page_extension: md
 auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-  news:
-    default_front_matter_template: news
-  review:
-    default_front_matter_template: review
-  event:
-    default_front_matter_template: event
-  book:
-    default_front_matter_template: book
+- path: content/book
+  label: Book
+  create: all
+  default_front_matter_template: book
+- path: content/event
+  label: Event
+  create: all
+  default_front_matter_template: event
+- path: content/writing
+  label: Writing
+  create: all
+- path: content/news
+  label: News
+  create: all
+  default_front_matter_template: news
+- path: content/review
+  label: Review
+  create: all
+  default_front_matter_template: review
+- path: content
+  label: Pages
+  create: all
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: "/uploads"
+use_front_matter_path: false
+file_template: ":filename:"
 version: 0.31.1
