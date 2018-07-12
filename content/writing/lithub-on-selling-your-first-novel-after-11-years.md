@@ -1,17 +1,16 @@
 ---
 title: 'LitHub: On Selling Your First Novel After 11 Years'
-date: 2017-01-10 03:39:00
+date: 2017-01-10 03:39:00 +0000
 categories: 
 tags:
-  - Publishing
+- Publishing
 where_published: LitHub
-link_to_original: 'http://lithub.com/on-selling-your-first-novel-after-11-years/'
-link_to_pdf:
+link_to_original: https://lithub.com/on-selling-your-first-novel-after-11-years/
+link_to_pdf: 
 description: On the 10th Anniversary Edition Publication of FREE FOOD FOR MILLIONAIRES
-_slug: 2007-03-01-motherland
+_slug: 2007-03-01 00:00:00 +0000
+
 ---
-
-
 I had already failed at two novel manuscripts. Publishers had rejected my first manuscript, and I rejected the second, because it was not good enough to send out. I was 32 years old and beginning my third novel.
 
 I had been trying to get a novel published since 1995, the year I quit being a lawyer. Since high school, I’d had a chronic liver disease, and I couldn’t work the hours of a Manhattan law firm without getting ill, so I thought I’d write fiction. My husband Christopher had a steady job with health insurance, but we had gotten our apartment and mortgage with two incomes in mind. Money was tight. After a miscarriage and a difficult pregnancy, our son Sam was born, and that same year, we learned that beloved family members, who could no longer support themselves, were awash in catastrophic debt, and suddenly, we were responsible for another household.
