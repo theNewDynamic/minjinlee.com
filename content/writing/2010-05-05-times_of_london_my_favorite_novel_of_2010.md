@@ -7,7 +7,7 @@ tags: ["Reviews"]
 where_published: "Times of London"
 link_to_original: "http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/fiction/article7111534.ece"
 link_to_pdf:
-description: "![](http://www.minjinlee.com/images/uploads/Screen_shot_2010-05-11_at_9.57.06_AM.png)
+description: "![](https://www.minjinlee.com/images/uploads/Screen_shot_2010-05-11_at_9.57.06_AM.png)
 TONY & SUSAN by Austin Wright is a masterful achievement in literature: [Times Online](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/fiction/article7111534.ece)"
 _slug: 2010-05-05-times_of_london_my_favorite_novel_of_2010
 ---
