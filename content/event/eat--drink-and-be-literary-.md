@@ -1,5 +1,5 @@
 ---
-title: 'Eat, Drink & Be Literary '
+title: 'BAM: Eat, Drink & Be Literary '
 date: 2019-05-01 18:30:53 -0400
 images: []
 image_credit: ''
