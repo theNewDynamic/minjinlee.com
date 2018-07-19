@@ -1,5 +1,5 @@
 ---
-title: Min Jin Lee Delivers Commencement Address to Monmouth College
+title: Commencement Address to Monmouth College Class of 2018
 date: 2018-05-13 00:13:12 -0400
 images: []
 image_credit: ''
