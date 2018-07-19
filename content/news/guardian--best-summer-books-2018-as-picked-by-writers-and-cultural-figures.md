@@ -18,6 +18,5 @@ description: "Viet Thanh Nguyen: \n\nLuis Alberto Urrea’s The House of Broken 
   Louis’ The End of Eddy (Vintage, translated by Michael Lucey), Leila Slimani’s Lullaby
   (Faber), Han Kang’s The Vegetarian (Portobello), Min Jin Lee’s Pachinko (Head of
   Zeus), Lisa Ko’s The Leavers (Dialogue) and Jenny Zhang’s Sour Heart (Bloomsbury)."
-draft: true
 
 ---
