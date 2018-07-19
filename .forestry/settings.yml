@@ -7,21 +7,33 @@ sections:
 - path: content/book
   label: Book
   create: all
+  templates:
+  - book
 - path: content/event
   label: Event
   create: all
+  templates:
+  - event
 - path: content/writing
   label: Writing
   create: all
+  templates:
+  - writing
 - path: content/news
   label: News
   create: all
+  templates:
+  - news
 - path: content/review
   label: Review
   create: all
+  templates:
+  - review
 - path: content
   label: Pages
   create: all
+  templates:
+  - default
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
