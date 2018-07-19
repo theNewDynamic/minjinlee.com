@@ -7,6 +7,5 @@ categories: []
 where_published: Literary Hub
 link_to_original: https://lithub.com/min-jin-lee-love-in-the-new-world/
 description: ''
-draft: true
 
 ---
