@@ -8,6 +8,5 @@ categories: []
 where_published: The New York Times Book Review
 link_to_original: https://www.nytimes.com/2017/04/21/books/review/signs-for-lost-children-sarah-moss.html
 description: Review of Sarah Moss's SIGNS FOR LOST CHILDREN
-draft: true
 
 ---
