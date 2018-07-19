@@ -7,6 +7,5 @@ categories: []
 where_published: Literary Affairs
 link_to_original: http://literaryaffairs.net/the-medici-book-club-prize/
 description: ''
-draft: true
 
 ---
