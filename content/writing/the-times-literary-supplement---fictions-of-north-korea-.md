@@ -7,6 +7,5 @@ categories: []
 where_published: The Times Literary Supplement
 link_to_original: https://www.the-tls.co.uk/articles/private/north-korea/
 description: ''
-draft: true
 
 ---
