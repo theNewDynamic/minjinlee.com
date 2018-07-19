@@ -1,6 +1,12 @@
 ---
 title: 'JumpStart Fall Luncheon '
-date: 2018-07-18 23:23:34 -0400
+date: 2018-11-13 12:00:34 -0500
+images: []
+image_credit: ''
+categories: []
+where_published: ''
+link_to_original: ''
+description: ''
 draft: true
 
 ---
