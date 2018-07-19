@@ -7,6 +7,5 @@ categories: []
 where_published: PBS NewsHour
 link_to_original: https://www.pbs.org/newshour/arts/choose-the-important-over-the-urgent-and-more-writing-advice-from-min-jin-lee
 description: ''
-draft: true
 
 ---
