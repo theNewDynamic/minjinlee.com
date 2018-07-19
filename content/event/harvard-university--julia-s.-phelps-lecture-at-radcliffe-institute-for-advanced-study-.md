@@ -8,6 +8,5 @@ categories: []
 where_published: ''
 link_to_original: ''
 description: Knafel Center
-draft: true
 
 ---
