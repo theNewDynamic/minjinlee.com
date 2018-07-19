@@ -9,6 +9,5 @@ categories: []
 where_published: ''
 link_to_original: ''
 description: ''
-draft: true
 
 ---
