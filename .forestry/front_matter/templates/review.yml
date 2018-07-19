@@ -36,4 +36,3 @@ fields:
   label: Weight
   config:
     step: '1'
-pages:

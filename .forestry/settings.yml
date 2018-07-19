@@ -7,37 +7,31 @@ sections:
 - path: content/book
   label: Book
   create: all
-  default_front_matter_template: book
   templates:
   - book
 - path: content/event
   label: Event
   create: all
-  default_front_matter_template: event
   templates:
   - event
 - path: content/writing
   label: Writing
   create: all
-  default_front_matter_template: writing
   templates:
   - writing
 - path: content/news
   label: News
   create: all
-  default_front_matter_template: news
   templates:
   - news
 - path: content/review
   label: Review
   create: all
-  default_front_matter_template: review
   templates:
   - review
 - path: content
   label: Pages
   create: all
-  default_front_matter_template: default
   templates:
   - default
 upload_dir: static/uploads
