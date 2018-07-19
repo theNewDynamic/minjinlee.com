@@ -1,8 +1,8 @@
 ---
-title: Hampton Library Summer Author Series
-date: 2018-08-24 21:00:53 +0000
+title: 'Hampton Library Summer Author Series: Fridays at Five '
+date: 2018-08-24 17:00:53 -0400
 images: []
-description: Pachinko with Min Jin Lee
+description: 'Pachinko: Min Jin Lee in Conversation with Bill McCuddy'
 link: http://www.hamptonlibrary.org/about-us/friends-of-the-library/156-fridays-at-five/1716-august-24-min-jin-lee-with-bill-mccuddy
 show_time: true
 venue:
