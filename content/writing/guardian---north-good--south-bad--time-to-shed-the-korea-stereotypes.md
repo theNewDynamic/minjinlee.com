@@ -7,6 +7,5 @@ categories: []
 where_published: The Guardian
 link_to_original: https://www.theguardian.com/commentisfree/2018/feb/12/north-south-korea-koreans
 description: ''
-draft: true
 
 ---
