@@ -6,7 +6,7 @@ image_credit: ''
 categories: []
 where_published: 'The Guardian '
 link_to_original: https://www.theguardian.com/books/2018/jul/08/best-summer-holiday-reads-2018-philip-pullman-maggie-ofarrell-nina-stibbe-part-two
-description: "Viet Thanh Nguyen: \n\n\nLuis Alberto Urrea’s The House of Broken Angels
+description: "Viet Thanh Nguyen: \n\nLuis Alberto Urrea’s The House of Broken Angels
   (Little, Brown) is a great American novel, if we understand “America” to be all
   of the Americas, including Mexico. It’s profane, funny and moving. Sayaka Murata’s
   Convenience Store Woman (Portobello, translated by Ginny Tapley Takemori) takes
@@ -18,5 +18,6 @@ description: "Viet Thanh Nguyen: \n\n\nLuis Alberto Urrea’s The House of Broke
   Louis’ The End of Eddy (Vintage, translated by Michael Lucey), Leila Slimani’s Lullaby
   (Faber), Han Kang’s The Vegetarian (Portobello), Min Jin Lee’s Pachinko (Head of
   Zeus), Lisa Ko’s The Leavers (Dialogue) and Jenny Zhang’s Sour Heart (Bloomsbury)."
+draft: true
 
 ---
