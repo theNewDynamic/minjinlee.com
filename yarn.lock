@@ -5672,6 +5672,10 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
+typeface-raleway@^0.0.54:
+  version "0.0.54"
+  resolved "https://registry.yarnpkg.com/typeface-raleway/-/typeface-raleway-0.0.54.tgz#f166c517becc81f34d14e72736d28b8923c79c65"
+
 typeface-vesper-libre@^0.0.54:
   version "0.0.54"
   resolved "https://registry.yarnpkg.com/typeface-vesper-libre/-/typeface-vesper-libre-0.0.54.tgz#554b140945f01e9d3c43cb81eb1f6c929e03744d"

@@ -217,6 +217,7 @@ module.exports = {
       "serif",
     ],
     'sans': [
+      'typeface-raleway',
       'system-ui',
       'BlinkMacSystemFont',
       '-apple-system',
