@@ -1,6 +1,12 @@
 ---
 title: 'Medici Prize '
-date: 2018-07-18 23:21:58 -0400
+date: 2018-11-02 23:21:58 -0400
+images: []
+image_credit: ''
+categories: []
+where_published: ''
+link_to_original: ''
+description: ''
 draft: true
 
 ---
