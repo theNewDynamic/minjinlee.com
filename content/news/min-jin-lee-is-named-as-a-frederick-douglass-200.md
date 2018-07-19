@@ -1,5 +1,5 @@
 ---
-title: Min Jin Lee is named as a Frederick Douglass 200
+title: Frederick Douglass 200 Announced
 date: 2018-07-12 00:05:22 -0400
 images: []
 image_credit: ''
