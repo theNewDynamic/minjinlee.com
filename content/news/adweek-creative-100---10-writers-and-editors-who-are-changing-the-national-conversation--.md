@@ -8,6 +8,5 @@ categories: []
 where_published: Adweek
 link_to_original: https://www.adweek.com/creativity/10-writers-and-editors-who-are-changing-the-national-conversation-2018/
 description: ''
-draft: true
 
 ---
