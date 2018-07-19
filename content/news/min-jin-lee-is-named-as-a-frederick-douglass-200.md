@@ -10,6 +10,5 @@ description: '"The Frederick Douglass 200 is a project to honor the impact of 20
   living individuals who best embody the work and spirit of Douglass across those
   areas where he had such an impact - abolitionist, politician, writer, feminist,
   educator, entrepreneur and diplomat."'
-draft: true
 
 ---
