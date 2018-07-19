@@ -8,6 +8,5 @@ categories: []
 where_published: The New York Review of Books
 link_to_original: https://www.nybooks.com/articles/2018/07/19/han-kang-korean-souls/
 description: ''
-draft: true
 
 ---
