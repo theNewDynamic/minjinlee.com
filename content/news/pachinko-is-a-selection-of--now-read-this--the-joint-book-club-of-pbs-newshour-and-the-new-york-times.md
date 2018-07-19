@@ -8,6 +8,5 @@ categories: []
 where_published: ''
 link_to_original: https://www.nytimes.com/spotlight/now-read-this
 description: ''
-draft: true
 
 ---
