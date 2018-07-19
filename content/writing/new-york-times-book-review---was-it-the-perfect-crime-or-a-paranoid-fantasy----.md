@@ -7,6 +7,5 @@ categories: []
 where_published: New York Times Book Review
 link_to_original: https://www.nytimes.com/2018/02/15/books/review/junichiro-tanizaki-in-black-and-white.html
 description: A review of Junichiro Tanizaki's IN BLACK AND WHITE
-draft: true
 
 ---
