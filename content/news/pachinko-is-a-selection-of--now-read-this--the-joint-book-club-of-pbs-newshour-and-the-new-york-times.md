@@ -5,7 +5,7 @@ date: 2018-06-29 23:59:53 -0400
 images: []
 image_credit: ''
 categories: []
-where_published: ''
+where_published: New York Times and PBS NewsHour
 link_to_original: https://www.nytimes.com/spotlight/now-read-this
 description: ''
 
