@@ -1,6 +1,12 @@
 ---
 title: 'Eat, Drink & Be Literary '
-date: 2018-07-18 23:24:53 -0400
+date: 2019-05-01 18:30:53 -0400
+images: []
+image_credit: ''
+categories: []
+where_published: ''
+link_to_original: ''
+description: ''
 draft: true
 
 ---
