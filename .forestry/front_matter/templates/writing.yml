@@ -40,5 +40,6 @@ fields:
   type: textarea
   description: Very short. Good for SEO and sharing
 pages:
+- content/event/100th-anniversary-of-the-meeting-of-virginia-woolf-and-t.s.-eliot.md
 - content/event/brooklyn-book-festival-2018--national-book-foundation-panel-.md
 - content/writing/lithub-on-selling-your-first-novel-after-11-years.md
