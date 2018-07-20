@@ -1,7 +1,6 @@
 ---
-title: Min Jin Lee -  Pachinko, A saga about four generations of a poor Korean immigrant
-  family fight to control their destiny in 20th-century Japan, exiled from their home.
-  Released 2017.
+title: 'Min Jin Lee -  The official site of the author of FREE FOOD FOR MILLIONAIRES
+  and PACHINKO '
 linktitle: Home
 menu:
   main:
