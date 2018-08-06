@@ -13,6 +13,9 @@ fields:
   type: datetime
   hidden: false
   default: 
+- type: text
+  name: link_to_original
+  label: Link to Original
 - type: image_gallery
   name: images
   label: Images
