@@ -3,7 +3,11 @@ title: 'The Guardian: Frederick Douglass 200 Interview'
 date: 2018-08-02 15:22:17 -0400
 images: []
 tags: []
-categories: []
+categories:
+- 'Interview '
+- Profile
+- Award
+- Frederick Douglass
 description: Throughout 2018 – the bicentennial of Frederick Douglass – The Antiracist
   Research and Policy Center at American University and the Frederick Douglass Family
   Initiatives are honoring 200 individuals whose modern-day work best embodies Douglass’s
