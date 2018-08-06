@@ -16,5 +16,6 @@ description: Throughout 2018 – the bicentennial of Frederick Douglass – The 
   director of advocacy and strategic partnerships at The Antiracist Research and Policy
   Center at American University, speaks to one of the honorees, Min Jin Lee.
 link_to_original: https://www.theguardian.com/commentisfree/2018/aug/02/min-jin-lee-interview-frederick-douglass-200
+draft: true
 
 ---
