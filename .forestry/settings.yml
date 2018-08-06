@@ -4,34 +4,46 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-- path: content/book
+- type: directory
+  path: content/book
   label: Book
   create: all
+  match: "**/*"
   templates:
   - book
-- path: content/event
+- type: directory
+  path: content/event
   label: Event
   create: all
+  match: "**/*"
   templates:
   - event
-- path: content/writing
+- type: directory
+  path: content/writing
   label: Writing
   create: all
+  match: "**/*"
   templates:
   - writing
-- path: content/news
+- type: directory
+  path: content/news
   label: News
   create: all
+  match: "**/*"
   templates:
   - news
-- path: content/review
+- type: directory
+  path: content/review
   label: Review
   create: all
+  match: "**/*"
   templates:
   - review
-- path: content
+- type: directory
+  path: content
   label: Pages
   create: all
+  match: "*"
   templates:
   - default
 upload_dir: static/uploads
