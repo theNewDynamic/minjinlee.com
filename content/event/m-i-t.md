@@ -1,15 +1,17 @@
 ---
-title: M.I.T.
-date: 2018-08-06 15:15:59 -0400
-images: 
-description: 
-link: 
+title: M.I.T. Starr Forum Series
+date: 2018-10-30 16:30:00 -0400
+images: []
+description: 'In Conversation with Dr. Amy Carleton. Sponsored by MIT Starr Forum,
+  Migration Seminar, Center for International Studies, Japan Program, Korea Program,
+  and Women''s Studies. '
+link: ''
 show_time: true
 venue:
-  address: 
-  city: 
-  name: 
-  state: 
-  zip: 
+  address: ''
+  city: ''
+  name: ''
+  state: ''
+  zip: ''
 
 ---
