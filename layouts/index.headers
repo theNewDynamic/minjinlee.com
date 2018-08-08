@@ -16,28 +16,16 @@
 
 
 
-  {{ with $style }}    
-    Link: <{{ .Permalink | relURL }}>; rel=preload; as=style
-  {{ end }}
-  
-  {{ with $fonts }}    
-    Link: <{{ .Permalink | relURL }}>; rel=preload; as=style
-  {{ end }}
-
-  {{ with $js }}
-  Link: <{{ .Permalink | relURL }}>; rel=preload; as=script
-  {{end}}
-
-  # Set a long cache expiry on asset urls
-  {{ with $style }}    
-  {{ .Permalink | relURL }}
-  Cache-Control: public, max-age=31556926
-  {{end }}
-  {{ with $fonts }}    
-  {{ .Permalink | relURL }}
-  Cache-Control: public, max-age=31556926
-  {{end }}
-  {{ with $js }}
-  {{ .Permalink | relURL }}
-  Cache-Control: public, max-age=31556926
-  {{end}}
+# Set a long cache expiry on asset urls
+{{ with $style }}    
+{{ .Permalink | relURL }}
+Cache-Control: public, max-age=31556926
+{{end }}
+{{ with $fonts }}    
+{{ .Permalink | relURL }}
+Cache-Control: public, max-age=31556926
+{{end }}
+{{ with $js }}
+{{ .Permalink | relURL }}
+Cache-Control: public, max-age=31556926
+{{end}}
