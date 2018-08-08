@@ -19,10 +19,24 @@ _description: >-
   a chameleon, but Lee pulls it off with conviction.”
 
   <br>**– Liesl Schillinger, *New York Times Book Review***
-editions_isbn:
-  hardcover: 9780641856150
-  paperback: 9780446699853
-  ebook: 9780446504386
+
+editions:
+- isbn: 9780446699853
+  binding: paperback
+  publisher: 
+  description: Trade Paperback
+  date: 2007-05-07 00:00:00
+  cover_image: "/uploads/cover_fffm_hdbk.jpg"
+- isbn: 9780641856150
+  binding: hardcover
+  publisher: 
+  description: Hardcover
+- isbn: 9780446504386
+  binding: ebook
+  publisher: 
+
+
+
 reviews:
   - attribution: USA Today
     copy_markdown: 'Critic’s pick: Free Food for Millionaires, by Min Jin Lee (Grand Central, $13.99). USA TODAY’s Carol Memmott says this “vastly ambitious” and “stirring” …'

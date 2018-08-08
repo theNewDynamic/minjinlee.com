@@ -6,10 +6,22 @@ subtitle: ''
 genre: 
   - Fiction
 description: "A saga about four generations of a poor Korean immigrant family fight to control their destiny in 20th-century Japan, exiled from their home."
-editions_isbn:
-  hardcover: 9781455563937
-  paperback: 9781455563920
-  ebook: 9781455563913
+
+editions:
+- isbn: 9781455563920
+  binding: paperback
+  publisher: 
+  description: Trade Paperback
+  date: 2017-02-07 00:00:00 +0000
+  cover_image: "/uploads/9781455563920.jpg"
+- isbn: 9781455563937
+  binding: hardcover
+  publisher: 
+  description: Hardcover
+- isbn: 9781455563913
+  binding: ebook
+  publisher: 
+
 reviews:
 - attribution: Kate Christensen, Pen/Faulkner-winning author of *The Great Man* and
     *Blue Plate Special*
