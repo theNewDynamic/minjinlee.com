@@ -74,6 +74,6 @@ twitter = "minjinlee11"
 instagram = "lee_minjin"
 
 [taxonomies]
-category = "category"
+category = "categories"
 tag = "tags"
 tools = "tools"
