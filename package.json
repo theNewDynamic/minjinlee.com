@@ -11,7 +11,8 @@
     "build": "webpack --config webpack.js",
     "build-dev": "webpack --config webpack.js --watch",
     "deploy": "yarn build && hugo --gc",
-    "start": "hugo server --gc --disableFastRender"
+    "dev": "hugo server --gc --disableFastRender",
+    "start": "hugo --gc"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.0.1",
