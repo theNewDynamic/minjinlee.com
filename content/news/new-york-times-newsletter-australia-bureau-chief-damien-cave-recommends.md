@@ -14,6 +14,5 @@ description: This week, I’ve got a literary recommendation that lines up with 
   that makes it feel like a cozy warm blanket (as my very smart wife put it).  I’m
   not quite finished yet, but I agree. It’s a family saga more about human connections
   than history, even as conflict and occupation intervene.
-draft: true
 
 ---
