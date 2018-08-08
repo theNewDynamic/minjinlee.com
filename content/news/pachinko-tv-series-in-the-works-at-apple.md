@@ -12,6 +12,5 @@ description: '"History is the record of human imagination, will and decisions. I
   of history, into a visual story for a global audience," Lee told The Hollywood Reporter.
   "I am honored by their faith and feel confident of their powerful and ground-breaking
   vision in making history anew.”'
-draft: true
 
 ---
