@@ -9,13 +9,22 @@
 {{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./assets/css/config/postcss.config.js")  | minify | fingerprint }}  
 {{ $js := resources.Get "output/js/app.js" | fingerprint }}
 {{ if (fileExists "./assets/output/fonts/fonts.css") -}}
-  {{ $font_File := resources.Get "output/fonts/fonts.css" | minify | fingerprint }}
-  {{ $.Scratch.Set "fonts" $font_File }}
+  {{ $font_css := resources.Get "output/fonts/fonts.css" | minify | fingerprint }}
+  {{ $.Scratch.Set "fonts" $font_css }}
 {{ end }}
 {{ $fonts := $.Scratch.Get "fonts" }}
 
 
+{{$font_file := readDir "/static/fonts/" }}
+{{ range $font_file }}
+  {{ if in .Name "woff2" -}}  
+  Link: </fonts/{{ .Name }}>;rel="preload";as="font";crossorigin
+  {{- end }}
+{{ end }}
 
+    
+
+{{/**
   {{ with $style }}    
     Link: <{{ .Permalink | relURL }}>; rel=preload; as=style
   {{ end }}
@@ -27,7 +36,7 @@
   {{ with $js }}
   Link: <{{ .Permalink | relURL }}>; rel=preload; as=script
   {{end}}
-
+**/}}
   # Set a long cache expiry on asset urls
   {{ with $style }}    
   {{ .Permalink | relURL }}
