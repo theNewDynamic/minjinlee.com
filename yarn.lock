@@ -4070,6 +4070,10 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
+typeface-josefin-sans@^0.0.54:
+  version "0.0.54"
+  resolved "https://registry.yarnpkg.com/typeface-josefin-sans/-/typeface-josefin-sans-0.0.54.tgz#c7f1c88d9a01605762465139ef9f485b42c306ff"
+
 typeface-tenor-sans@^0.0.54:
   version "0.0.54"
   resolved "https://registry.yarnpkg.com/typeface-tenor-sans/-/typeface-tenor-sans-0.0.54.tgz#1812de7dfce08fe07ac7f6a8c6f792a67fbef7b7"

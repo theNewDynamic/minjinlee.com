@@ -203,6 +203,7 @@ module.exports = {
 
   fonts: {
     brand: [
+      'Josefin Sans',
       'Tenor Sans',
       'system-ui',
       'BlinkMacSystemFont',
