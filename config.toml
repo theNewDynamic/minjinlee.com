@@ -1,0 +1,79 @@
+title = "Min Jin Lee"
+DefaultContentLanguage = "en"
+buildFuture = true
+MetaDataFormat = "yaml"
+Paginate = 10.0
+baseURL = "https://www.minjinlee.com/"
+enableRobotsTXT = true
+googleAnalytics = "UA-176386-75"
+languageCode = "en-us"
+themesDir = "layout_modules"
+theme = ["hugo-layout_module-base", "hugo-layout_module-books"]
+#theme = "hugo-base-layouts"
+logo = "/uploads/9781455563920.jpeg"
+preserveTaxonomyNames = true
+
+[blackfriday]
+extensionsmask = [
+  "noIntraEmphasis"
+]
+
+[mediaTypes]
+
+  [mediaTypes."text/netlify"]
+  delimiter = ""
+  suffixes = ""
+
+[outputFormats]
+
+  [outputFormats.HEADERS]
+  baseName = "_headers"
+  isPlainText = true
+  mediatype = "text/netlify"
+  notAlternative = true
+
+  [outputFormats.REDIR]
+  baseName = "_redirects"
+  isPlainText = true
+  mediatype = "text/netlify"
+  notAlternative = true
+
+[outputs]
+home = [
+  "HTML",
+  "HEADERS",
+  "REDIR"
+]
+
+[params]
+description = "The Official Website for Min Jin Lee"
+logo = ""
+tagsName = "Type"
+
+  [params.dev]
+  fonts_path = "static/dist/Fonts"
+  css_path = "static/dist/css"
+  js_path = "static/dist/js"
+
+[related]
+includeNewer = true
+
+  [[related.indices]]
+  name = "tool"
+  toLower = true
+  weight = 100.0
+
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
+
+[social]
+facebook = "minjinleebooks"
+twitter = "minjinlee11"
+instagram = "lee_minjin"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+tools = "tools"

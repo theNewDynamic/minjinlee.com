@@ -1,3 +1,6 @@
-[submodule "themes/hugo-base-layouts"]
-	path = themes/hugo-base-layouts
-	url = https://github.com/theNewDynamic/hugo-base-layouts.git
+[submodule "layout_modules/hugo-layout_module-base"]
+	path = layout_modules/hugo-layout_module-base
+	url = https://github.com/theNewDynamic/hugo-layout_module-base.git
+[submodule "layout_modules/hugo-layout_module-books"]
+	path = layout_modules/hugo-layout_module-books
+	url = https://github.com/theNewDynamic/hugo-layout_module-books.git
