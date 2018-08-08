@@ -29,7 +29,6 @@
     "postcss-import": "^11.0.0",
     "tailwindcss": "0.6.4",
     "turbolinks": "^5.1.1",
-    "typeface-josefin-sans": "^0.0.54",
     "typeface-tenor-sans": "^0.0.54",
     "webpack": "^4.16.2",
     "webpack-command": "^0.4.1"
