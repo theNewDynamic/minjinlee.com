@@ -1,0 +1,43 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  {{with $.Param "dev.content-security-policy"}}  Content-Security-Policy-Report-Only: {{.}}{{end}}
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer-when-downgrade
+
+/*
+{{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./assets/css/config/postcss.config.js")  | minify | fingerprint }}  
+{{ $js := resources.Get "output/js/app.js" | fingerprint }}
+{{ if (fileExists "./assets/output/fonts/fonts.css") -}}
+  {{ $font_File := resources.Get "output/fonts/fonts.css" | minify | fingerprint }}
+  {{ $.Scratch.Set "fonts" $font_File }}
+{{ end }}
+{{ $fonts := $.Scratch.Get "fonts" }}
+
+
+
+  {{ with $style }}    
+    Link: <{{ .Permalink }}>; rel=preload; as=style
+  {{ end }}
+  
+  {{ with $fonts }}    
+    Link: <{{ .Permalink }}>; rel=preload; as=style
+  {{ end }}
+
+  {{ with $js }}
+  Link: <{{ .Permalink }}>; rel=preload; as=script
+  {{end}}
+
+  # Set a long cache expiry on asset urls
+  {{ with $style }}    
+  {{ .Permalink }}
+  Cache-Control: public, max-age=31556926
+  {{end }}
+  {{ with $fonts }}    
+  {{ .Permalink }}
+  Cache-Control: public, max-age=31556926
+  {{end }}
+  {{ with $js }}
+  {{ .Permalink }}
+  Cache-Control: public, max-age=31556926
+  {{end}}
