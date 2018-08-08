@@ -1,5 +1,5 @@
 ---
-title: 'New York Times Newsletter: Australia Bureau Chief Damien Cave Recommends'
+title: 'New York Times Australia Letter: Australia Bureau Chief Damien Cave Recommends'
 date: 2018-08-01 00:03:01 -0400
 link_to_original: https://www.nytimes.com/2018/08/01/world/australia/joy-wonder-goop-good-news.html
 images: []
