@@ -17,6 +17,5 @@ description: RECOGNIZING THE POWER OF LITERATURE TO PROMOTE PEACE AND RECONCILIA
   prize awarded in the United States. The Prize celebrates the power of literature
   to promote peace, justice, and global understanding. This year's winners will be
   honored at a gala ceremony in Dayton on October 28th.
-draft: true
 
 ---
