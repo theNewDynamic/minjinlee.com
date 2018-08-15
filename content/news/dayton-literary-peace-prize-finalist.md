@@ -1,5 +1,5 @@
 ---
-title: Dayton Literary Peace Prize Finalist
+title: Pachinko is named as a Dayton Literary Peace Prize Finalist
 date: 2018-08-14 22:31:51 -0400
 link_to_original: http://daytonliterarypeaceprize.org/2018-finalists-press_release.htm
 images: []
