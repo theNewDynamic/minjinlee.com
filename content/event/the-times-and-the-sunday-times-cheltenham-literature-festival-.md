@@ -5,7 +5,7 @@ images: []
 image_credit: ''
 categories: []
 where_published: ''
-link_to_original: https://www.cheltenhamfestivals.com/literature/whats-on/grid?genres=425
+link_to_original: https://www.cheltenhamfestivals.com/literature/whats-on/2018/divided-lands-family-ties/
 description: 'Clare Clark hosts a unique conversation between two acclaimed Korean-
   American writers: Min Jin Lee’s Pachinko – one of The New York Times 10 Best Books
   of 2017 – is an epic tale of family, identity, love, death and survival set between
