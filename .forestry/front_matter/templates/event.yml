@@ -61,11 +61,11 @@ fields:
   name: images
   label: Images
 pages:
+- content/event/literary-death-match-boston-ma.md
 - content/event/georgetown-university-law-center.md
 - content/event/poly-prep-high-school.md
 - content/event/london-waterstones-piccadilly.md
 - content/event/wellesley-college.md
-- content/event/literary-death-match-boston-ma.md
 - content/event/san-francisco-ca.md
 - content/event/germany.md
 - content/event/los-angeles-ca.md
