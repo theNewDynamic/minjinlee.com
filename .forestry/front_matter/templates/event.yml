@@ -61,6 +61,7 @@ fields:
   name: images
   label: Images
 pages:
+- content/event/georgetown-university-law-center.md
 - content/event/poly-prep-high-school.md
 - content/event/london-waterstones-piccadilly.md
 - content/event/wellesley-college.md
