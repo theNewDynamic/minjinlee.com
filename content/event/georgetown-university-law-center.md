@@ -11,6 +11,5 @@ venue:
   name: Hotung 2nd Floor
   state: ''
   zip: 20001
-draft: true
 
 ---
