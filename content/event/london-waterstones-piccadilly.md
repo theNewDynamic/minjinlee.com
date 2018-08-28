@@ -11,6 +11,5 @@ venue:
   name: 'Waterstones, Piccadilly '
   state: ''
   zip: 'W1V 9LE, UK '
-draft: true
 
 ---
