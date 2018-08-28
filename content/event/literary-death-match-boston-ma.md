@@ -1,8 +1,8 @@
 ---
 title: Literary Death Match, Boston, MA
-date: 2018-09-11 02:46:15 -0400
+date: 2018-09-11 19:00:15 -0400
 images: []
-description: ''
+description: 'Doors open at 7pm and the LDM begins at 8pm. '
 link: http://www.literarydeathmatch.com/upcoming-events/sept-11-at-the-comedy-studio.html
 show_time: true
 venue:
