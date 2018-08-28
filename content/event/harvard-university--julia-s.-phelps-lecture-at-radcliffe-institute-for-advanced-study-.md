@@ -7,7 +7,8 @@ image_credit: ''
 categories: []
 where_published: ''
 link_to_original: ''
-description: 'Knafel Center: 10 Garden Street, Cambridge, MA 02138 THIS EVENT IS FREE
-  AND OPEN TO THE PUBLIC'
+description: "In Conversation with New Yorker writer and legal scholar Jeannie Suk
+  Gersen\nKnafel Center: 10 Garden Street, Cambridge, MA 02138 \nTHIS EVENT IS FREE
+  AND OPEN TO THE PUBLIC"
 
 ---
