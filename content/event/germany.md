@@ -1,6 +1,6 @@
 ---
-title: Germany
-date: 2018-10-11 02:44:12 -0400
+title: 'Frankfurt, Germany: Literaturhaus '
+date: 2018-10-12 20:00:12 -0400
 images: []
 description: ''
 link: ''
