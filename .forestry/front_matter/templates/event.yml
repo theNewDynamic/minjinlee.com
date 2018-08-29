@@ -61,6 +61,7 @@ fields:
   name: images
   label: Images
 pages:
+- content/event/hugo-house.md
 - content/event/literary-death-match-boston-ma.md
 - content/event/georgetown-university-law-center.md
 - content/event/poly-prep-high-school.md
