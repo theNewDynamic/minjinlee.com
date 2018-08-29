@@ -40,6 +40,7 @@ fields:
   type: textarea
   description: Very short. Good for SEO and sharing
 pages:
+- content/event/brooklyn-book-festival-2018--national-book-foundation-panel-.md
 - content/event/the-times-and-the-sunday-times-cheltenham-literature-festival-.md
 - content/news/guardian--best-summer-books-2018-as-picked-by-writers-and-cultural-figures.md
 - content/news/pbs-newshour--interview-for--now-read-this-.md
@@ -61,5 +62,4 @@ pages:
 - content/news/min-jin-lee-is-named-as-a-frederick-douglass-200.md
 - content/event/eat--drink-and-be-literary-.md
 - content/event/medici-prize-.md
-- content/event/brooklyn-book-festival-2018--national-book-foundation-panel-.md
 - content/writing/lithub-on-selling-your-first-novel-after-11-years.md
