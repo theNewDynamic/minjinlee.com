@@ -30,6 +30,7 @@ fields:
   name: description
   description: Very Short. Good for SEO
 pages:
+- content/news/Pachinko-is-the-runner-up-for-the-Dayton-Literary-Peace-Prize.md
 - content/news/dayton-literary-peace-prize-finalist.md
 - content/news/2017-10-24-marthas-vineyard-book-festival-2017-video-introduction-by-ambassador-caroline-kennedy.md
 - content/news/2008-09-09-profile_in_j_select.md
