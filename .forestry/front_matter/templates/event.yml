@@ -61,6 +61,7 @@ fields:
   name: images
   label: Images
 pages:
+- content/event/london-waterstones-piccadilly.md
 - content/event/dayton-literary-peace-prize-.md
 - content/event/northeastern-university-.md
 - content/event/an-unlikely-story-bookstore,-plainville,-ma.md
@@ -91,7 +92,6 @@ pages:
 - content/event/brisbane-writers-festival-university-of-queensland-fryer-library.md
 - content/event/germany.md
 - content/event/helen-zell-writers-program-at-university-of-michigan-mfa.md
-- content/event/london-waterstones-piccadilly.md
 - content/event/yale-club-of-new-york-city.md
 - content/event/literary-death-match-brooklyn.md
 - content/event/sharon.md
