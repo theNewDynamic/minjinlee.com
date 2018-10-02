@@ -17,6 +17,5 @@ description: "“I was a history major when I was an undergraduate, and I had no
   “Each draft teaches us more about what we want to say, and I would be happy if my
   students learned to see that in their work — that with their efforts, they are approaching
   who they are, what they want to say, and what they care about.”"
-draft: true
 
 ---
