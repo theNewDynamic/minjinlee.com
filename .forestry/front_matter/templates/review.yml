@@ -37,13 +37,13 @@ fields:
   config:
     step: '1'
 pages:
+- content/review/simon-winchester-on-pachkinko.md
+- content/review/asia-pacific-arts-on-free-food-for-millionaires.md
 - content/review/outofthewoods.com-on-free-food-for-millionaires.md
 - content/review/olsson-s-bookstore-on-free-food-for-millionaires.md
-- content/review/simon-winchester-on-pachkinko.md
 - content/review/bookreporter.com.md
 - content/review/bookbub.com.md
 - content/review/bbc.com-on-pachkinko.md
-- content/review/asia-pacific-arts-on-free-food-for-millionaires.md
 - content/review/new-york-times-on-free-food-for-millionaires.md
 - content/review/erica-wagner-on-pachkinko.md
 - content/review/san-francisco-chronicle-on-free-food-for-millionaires.md
