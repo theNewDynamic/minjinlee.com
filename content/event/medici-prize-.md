@@ -1,12 +1,15 @@
 ---
-title: 'Los Angeles—Literary Affairs Medici Prize '
-date: 2018-11-02 23:21:58 -0400
+title: 'Los Angeles—The Literary Affairs Medici Foundation: The Beverly Hills Literary
+  Escape '
+date: 2018-11-02 08:30:58 -0400
 images: []
 image_credit: ''
 categories: []
 where_published: ''
-link_to_original: ''
-description: ''
+link_to_original: http://literaryaffairs.net/donate/
+description: 'Attending authors: Min Jin Lee, Mira T. Lee, Madeline Miller, Kamila
+  Shamsie, Joan Silber, and Luis Alberto Urrea. Moderated by Mark Sarvas. Tickets:
+  $500 Donation to the Medici Foundation, $450 of which is tax deductible. '
 draft: true
 
 ---
