@@ -24,6 +24,5 @@ description: 'The 2018 Dayton Literary Peace Prize Runner-Up in Fiction:  In Pac
   because I believe that our love can refine our worse nature. I am deeply honored
   to join the Dayton Literary Peace Prize family of writers as we pursue our collective
   call toward global peace."'
-draft: true
 
 ---
