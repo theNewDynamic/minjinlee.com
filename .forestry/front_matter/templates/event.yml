@@ -61,6 +61,7 @@ fields:
   name: images
   label: Images
 pages:
+- content/event/northeastern-university-.md
 - content/event/an-unlikely-story-bookstore,-plainville,-ma.md
 - content/event/erica_jong_and_contributors_daphne_merkin_min_jin_lee_and_susan_kinsolving.md
 - content/event/denison-university.md
