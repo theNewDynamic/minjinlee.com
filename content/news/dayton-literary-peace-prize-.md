@@ -1,5 +1,5 @@
 ---
-title: 'Dayton Literary Peace Prize: Pachinko is Fiction Runner-up'
+title: Dayton Literary Peace Prize
 date: 2018-09-17 00:19:40 -0400
 link_to_original: http://daytonliterarypeaceprize.org/2018-winners-press_release.htm
 images: []
