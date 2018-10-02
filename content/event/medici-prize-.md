@@ -10,6 +10,5 @@ link_to_original: http://literaryaffairs.net/donate/
 description: 'Attending authors: Min Jin Lee, Mira T. Lee, Madeline Miller, Kamila
   Shamsie, Joan Silber, and Luis Alberto Urrea. Moderated by Mark Sarvas. Tickets:
   $500 Donation to the Medici Foundation, $450 of which is tax deductible. '
-draft: true
 
 ---
