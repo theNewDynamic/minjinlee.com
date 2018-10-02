@@ -1,16 +1,16 @@
 ---
-title: 'Wall Street Journal: Women in Work '
-date: 2018-10-02 00:24:52 -0400
-images: 
-description: 
-link: 
+title: 'Wall Street Journal: Women in the Workplace'
+date: 2018-10-23 13:30:52 -0400
+images: []
+description: 'In conversation with WSJ '
+link: ''
 show_time: true
 venue:
-  address: 
-  city: 
-  name: 
-  state: 
-  zip: 
+  address: ''
+  city: ''
+  name: ''
+  state: ''
+  zip: ''
 draft: true
 
 ---
