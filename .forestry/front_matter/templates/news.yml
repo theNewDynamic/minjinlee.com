@@ -30,6 +30,7 @@ fields:
   name: description
   description: Very Short. Good for SEO
 pages:
+- content/news/writer-min-jin-lee-to-teach-at-amherst-college-.md
 - content/news/dayton-literary-peace-prize-.md
 - content/news/2017-02-17-publishers-weekly-radio-interview-with-rose-fox-and-mark-rotella-audio-episode-213.md
 - content/news/2017-12-28-history-channel-best-books-of-2017.md
