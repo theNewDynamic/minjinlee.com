@@ -8,7 +8,7 @@ description: 'In Conversation with Dr. Amy Carleton. Sponsored by MIT Starr Foru
 link: https://calendar.mit.edu/event/starrforum_Pachinko?utm_campaign=widget&utm_medium=widget&utm_source=MIT+Events+#.W6_LqhNKgUF
 show_time: true
 venue:
-  address: MIT 10-250
+  address: 'MIT Building 10, 250 '
   city: 50 Vassar Street, Cambridge
   name: 'M.I.T. Starr Forum '
   state: MA
