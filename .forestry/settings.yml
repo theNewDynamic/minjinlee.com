@@ -6,14 +6,14 @@ webhook_url:
 sections:
 - type: directory
   path: content/book
-  label: Book
+  label: Books
   create: all
   match: "**/*"
   templates:
   - book
 - type: directory
   path: content/event
-  label: Event
+  label: Events
   create: all
   match: "**/*"
   templates:
@@ -34,23 +34,18 @@ sections:
   - news
 - type: directory
   path: content/review
-  label: Review
+  label: Reviews
   create: all
   match: "**/*"
   templates:
   - review
 - type: directory
   path: content
-  label: Pages
+  label: Other Pages
   create: all
   match: "*"
   templates:
   - default
-- type: directory
-  path: data
-  label: Data
-  create: none
-  match: "**/*.{json,yaml,yml,toml}"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
