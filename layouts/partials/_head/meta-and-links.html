@@ -1,0 +1,78 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width,minimum-scale=1">
+{{ .Hugo.Generator }}
+{{ if eq (getenv "HUGO_ENV") "production" }}
+  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+{{ else }}
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+{{ end }}
+
+{{ if (fileExists "./assets/output/fonts/fonts.css") -}}
+  {{ with (resources.Get "output/fonts/fonts.css") }}
+    {{ $fonts := . | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $fonts.Permalink | relURL }}" integrity="{{ $fonts.Data.Integrity }}"> 
+  {{ end }}
+{{ end }}
+
+{{ if .Site.IsServer }}
+  {{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./assets/css/config/dev/postcss.config.js") | minify | fingerprint }}    
+    {{ with $style }}
+      <link rel="stylesheet" href="{{ .Permalink | relURL }}" data> 
+    {{ end }}
+{{ else }}
+  {{ $style := resources.Get "css/styles.css" | postCSS (dict "config" "./assets/css/config/postcss.config.js")  | minify | fingerprint }}  
+  {{ with $style }}
+    <link rel="stylesheet" href="{{ .Permalink | relURL }}" integrity="{{ .Data.Integrity }}"> 
+  {{ end }}  
+{{ end }}
+
+
+{{ partial "_head/manifest.html" . }}
+
+
+{{ if .RSSLink }}
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+{{ end }}
+
+{{ if eq (getenv "HUGO_ENV") "production" }}
+  {{/* Images */}}
+  {{ $image_url := ($.Param "dev.image_url") }}
+  {{ if eq .Section "book" }}
+    {{ with .Params.editions }}
+      {{ with (index . 0).cover_image }}
+        <meta property="og:image" content="{{ $image_url }}{{ . }}" />
+        <meta itemprop="image" content="{{ $image_url }}{{.}}">
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    {{ if $.Param "image.file" }}
+      {{ $image := printf "%s%s" $image_url ($.Param "image.file") }}
+      <meta property="og:image" content="{{ $image }}" />
+      <meta itemprop="image" content="{{ $image }}">
+      <meta name="twitter:card" content="summary_large_image"/>
+      <meta name="twitter:image:src" content="{{ $image }}"/>
+    {{ else if $.Param "featured_image.file" }}
+        {{ $image := printf "%s%s" $image_url ($.Param "featured_image.file") }}
+        <meta property="og:image" content="{{ $image }}" />
+        <meta itemprop="image" content="{{ $image }}">
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:image:src" content="{{ $image }}"/>
+      {{ else }}
+        <meta name="twitter:card" content="summary"/>
+    {{ end }}
+  {{ end }}
+
+  {{/* TITLES/Descriptions etc */}}
+
+  {{- partial "_head/meta-opengraph.html" . -}}
+  {{- partial "_head/meta-google_news.html" . -}}
+  {{- partial "_head/meta-schema.html" . -}}
+  {{- partial "_head/meta-twitter_cards.html" . -}}
+  {{ partial "_head/google-analytics.html" . }}
+
+
+{{ end }}
