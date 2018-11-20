@@ -61,6 +61,7 @@ fields:
   name: images
   label: Images
 pages:
+- content/event/brooklyn-ny.md
 - content/event/northeastern-university-.md
 - content/event/frankfurt-the-other-half-asia-pacific—societies-in-diversity-and-change.-innovation,-religion,-gender-new-directions-in-challenging-times.md
 - content/event/wall-street-journal-women-in-work-.md
@@ -110,7 +111,6 @@ pages:
 - content/event/wellesley-college.md
 - content/event/los-angeles-ca.md
 - content/event/miami-fla.md
-- content/event/brooklyn-ny.md
 - content/event/turn-of-the-corkscrew-literary-tea.md
 - content/event/the_collegiate_school.md
 - content/event/marthas-vineyard-book-festival-sunday-pachinko-event.md
