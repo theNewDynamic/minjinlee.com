@@ -1,12 +1,13 @@
 ---
-title: Miami, FLA
-date: 2019-01-17 02:41:45 -0500
-images: []
-description: ''
-link: ''
+title: 'Miami: Brickell Avenue Literary Society'
+date: 2019-01-18 12:00:00 -0500
+images:
+- "/uploads/Brickell Literary Logo.jpg"
+description: Lunch with Min Jin Lee
+link: https://brickellavenueliterarysociety.wildapricot.org/event-3069454
 show_time: true
 venue:
-  address: ''
+  address: Temple Israel
   city: ''
   name: ''
   state: ''
