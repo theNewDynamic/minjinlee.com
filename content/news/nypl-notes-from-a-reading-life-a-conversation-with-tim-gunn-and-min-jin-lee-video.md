@@ -1,7 +1,12 @@
 ---
-title: 'NYPL: Notes from a Reading Life––A Conversation with Tim Gunn and Min Jin
+title: 'NYPL: Notes from the Reading Life––A Conversation with Tim Gunn and Min Jin
   Lee (Video)'
-date: 2018-11-21 15:35:25 -0500
-draft: true
+date: 2018-06-08 18:00:25 -0400
+link_to_original: http://media.nypl.org/video/2018-06-08_NotesFromTheReadingLife_TimGunn_MinJinLee_NBF.mp4
+images:
+- "/uploads/maxresdefault.jpg"
+tags: []
+categories: []
+description: ''
 
 ---
