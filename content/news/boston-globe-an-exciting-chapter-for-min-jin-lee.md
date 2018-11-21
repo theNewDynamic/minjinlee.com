@@ -6,6 +6,9 @@ images:
 - "/uploads/DqsQNEmWkAghjFI.jpg"
 tags: []
 categories: []
-description: ''
+description: Lee said she’d planned for Boston to be a setting in her new book even
+  before she moved here. “Boston is an epicenter of education,” she said. “People
+  around the world want to come here to this city to be educated. You can’t not include
+  Boston in this book.”
 
 ---
