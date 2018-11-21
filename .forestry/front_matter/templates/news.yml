@@ -30,6 +30,7 @@ fields:
   name: description
   description: Very Short. Good for SEO
 pages:
+- content/news/dayton-literary-peace-prize.md
 - content/news/nypl-notes-from-a-reading-life-a-conversation-with-tim-gunn-and-min-jin-lee-video.md
 - content/news/wsj-making-the-leap.md
 - content/news/boston-globe-an-exciting-chapter-for-min-jin-lee.md
