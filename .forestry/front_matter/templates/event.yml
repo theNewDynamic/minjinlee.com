@@ -61,6 +61,7 @@ fields:
   name: images
   label: Images
 pages:
+- content/event/sun-valley-writers-conference.md
 - content/event/brooklyn-ny.md
 - content/event/northeastern-university-.md
 - content/event/frankfurt-the-other-half-asia-pacific—societies-in-diversity-and-change.-innovation,-religion,-gender-new-directions-in-challenging-times.md
