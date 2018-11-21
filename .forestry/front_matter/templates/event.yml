@@ -61,6 +61,7 @@ fields:
   name: images
   label: Images
 pages:
+- content/event/boston-university.md
 - content/event/sun-valley-writers-conference.md
 - content/event/brooklyn-ny.md
 - content/event/northeastern-university-.md
