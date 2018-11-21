@@ -30,6 +30,7 @@ fields:
   name: description
   description: Very Short. Good for SEO
 pages:
+- content/news/nypl-notes-from-a-reading-life-a-conversation-with-tim-gunn-and-min-jin-lee-video.md
 - content/news/wsj-making-the-leap.md
 - content/news/boston-globe-an-exciting-chapter-for-min-jin-lee.md
 - content/news/pachinko-long-listed-for-the-the-international-dublin-literary-award-2019.md
