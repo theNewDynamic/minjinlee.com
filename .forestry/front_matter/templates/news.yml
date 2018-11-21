@@ -30,6 +30,7 @@ fields:
   name: description
   description: Very Short. Good for SEO
 pages:
+- content/news/pbs-books-at-the-associated-writing-programs-conference.md
 - content/news/the-muse-the-marketplace-keynote-video.md
 - content/news/dayton-literary-peace-prize.md
 - content/news/nypl-notes-from-a-reading-life-a-conversation-with-tim-gunn-and-min-jin-lee-video.md
