@@ -1,19 +1,20 @@
 ---
 title: 'The Atlantic: "By Heart" interview with Joe Fassler'
-date: 2017-12-20 12:00:00
-categories: ["News"]
+date: 2017-12-20 12:00:00 +0000
+categories:
+- News
 tags:
-  - Reviews
-  - Essays
-  - Interviews
-  - News
+- Reviews
+- Essays
+- Interviews
+- News
 attribution: The Atlantic
-link_to_original: >-
-  https://www.theatlantic.com/entertainment/archive/2017/12/min-jin-lee-by-heart/548810/
-description:
+link_to_original: https://www.theatlantic.com/entertainment/archive/2017/12/min-jin-lee-by-heart/548810/
+description: ''
+images:
+- "/uploads/09599d6aa.jpg"
+
 ---
-
-
 By Joe Fassler
 
 **By Heart is a series in which authors share and discuss their all-time favorite passages in literature. See entries from Colum McCann, George Saunders, Emma Donoghue, Michael Chabon, and more.**
