@@ -1,17 +1,18 @@
 ---
-title: 'New York Times: Profile'
-date: 2017-11-06 12:00:00
-categories: ["News"]
+title: 'New York Times: "A Novelist Confronts the Complex Relationship Between Japan
+  and Korea"'
+date: 2017-11-06 12:00:00 +0000
+categories:
+- News
 tags:
-  - Interviews
-  - News
+- Interviews
+- News
 attribution: The New York Times
-link_to_original: >-
-  https://www.nytimes.com/2017/11/06/books/book-pachinko-min-jin-lee-japan-korea.html
-description:
+link_to_original: https://www.nytimes.com/2017/11/06/books/book-pachinko-min-jin-lee-japan-korea.html
+description: ''
+images: []
+
 ---
-
-
 A Novelist Confronts the Complex Relationship Between Japan and Korea
 
 By JONATHAN SOBLE
