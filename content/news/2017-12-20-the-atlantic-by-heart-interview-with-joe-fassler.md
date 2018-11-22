@@ -11,8 +11,7 @@ tags:
 attribution: The Atlantic
 link_to_original: https://www.theatlantic.com/entertainment/archive/2017/12/min-jin-lee-by-heart/548810/
 description: ''
-images:
-- "/uploads/09599d6aa.jpg"
+images: []
 
 ---
 By Joe Fassler
