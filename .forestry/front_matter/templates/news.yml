@@ -30,6 +30,7 @@ fields:
   name: description
   description: Very Short. Good for SEO
 pages:
+- content/news/mit-news-novelist-min-jin-lee-makes-the-case-for-understanding-through-fiction.md
 - content/news/the-huntington-news-author-min-jin-lee-speaks-with-students-as-part-of-the-visiting-distinguished-writer-series.md
 - content/news/pbs-books-at-the-miami-book-festival-video.md
 - content/news/pbs-books-at-the-associated-writing-programs-conference.md
