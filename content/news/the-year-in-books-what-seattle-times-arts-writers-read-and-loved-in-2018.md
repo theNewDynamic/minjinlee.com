@@ -5,11 +5,11 @@ link_to_original: https://www.seattletimes.com/entertainment/books/the-year-in-b
 images: []
 tags: []
 categories: []
-description: “'Pachinko' is one of those family sagas that you get lost in, forgetting
+description: '"''Pachinko'' is one of those family sagas that you get lost in, forgetting
   the passage of time, disappearing into places far away — a poor fisherman’s cramped
   lodging house; a fragrant restaurant kitchen where kimchee is crafted; a noisy pachinko
-  parlor; a hospital room where generations become linked. 'Sweeping' and 'epic' are
-  words that are always applied to books like this, but they fit; you leave 'Pachinko'
-  feeling changed, as if your world got a little bigger."
+  parlor; a hospital room where generations become linked. ''Sweeping'' and ''epic''
+  are words that are always applied to books like this, but they fit; you leave ''Pachinko''
+  feeling changed, as if your world got a little bigger."'
 
 ---
