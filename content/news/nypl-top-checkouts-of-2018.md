@@ -7,6 +7,5 @@ images:
 tags: []
 categories: []
 description: '"Pachinko" included in the Top 10 Books in Manhattan'
-draft: true
 
 ---
