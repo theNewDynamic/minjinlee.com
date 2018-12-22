@@ -7,6 +7,5 @@ tags: []
 categories: []
 description: '"''Pachinko'' by Min Jin Lee was one of the most popular books at Cambridge
   Public Library in 2018."'
-draft: true
 
 ---
