@@ -1,16 +1,14 @@
 ---
-title: 'Festival Neue Literatur: "Another Country: Distant Lands Up Close and Personal"'
-date: 2019-03-30 18:00:00 -0400
+title: NYPL Library Lunch
+date: 2019-04-18 12:00:00 -0400
 show_time: true
 venue:
-  name: POWERHOUSE Arena
-  address: 28 Adams Street
-  city: Brooklyn
-  state: NY
-  zip: 11201
-link: https://festivalneueliteratur.org/festival/events/the-lives-of-others/
-draft: true
+  name: ''
+  address: ''
+  city: ''
+  state: ''
+  zip: ''
+link: https://2019librarylunch.splashthat.com/
 
 ---
-Moderated by Liesl Schillinger  
-![](/uploads/FNL-Logo-2018.jpg)
+Featuring Jennifer Egan, Min Jin Lee, and Colm Tóibín in conversation with David Remnick
