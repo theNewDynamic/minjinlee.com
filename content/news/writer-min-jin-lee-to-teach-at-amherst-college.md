@@ -1,16 +1,15 @@
 ---
-title: '"Writer Min Jin Lee to Teach at Amherst College" '
-date: 2018-09-28 04:50:11 +0000
-link_to_original: https://amherststudent.com/article/writer-min-jin-lee-to-teach-at-college
-images: []
+title: 'Harvard Magazine: "Min Jin Lee on Her New Novel and Writing about the Korean
+  Diaspora"'
+date: 2019-02-13 00:50:11 -0500
+link_to_original: https://www.harvardmagazine.com/2019/02/min-jin-lee-on-her-new-novel-and-writing-about-the-korean-diaspora
+images:
+- "/uploads/radcliffe-institute-min-jin-lee_ella-rinaldo-photography_2-12-19_dsc_9227_sm.jpg"
 tags: []
 categories: []
-description: "\"Above all, I would like to create a welcoming space for non-writers
-  and advanced writers to take greater risks in their written expression.” She hopes
-  to help students “fall in love with the generative process,” she said. “Each draft
-  teaches us more about what we want to say, and I would be happy if my students learned
-  to see that in their work — that with their efforts, they are approaching who they
-  are, what they want to say, and what they care about.”"
-draft: true
+description: “I’ve been asked why I write about Koreans,” Lee said. “And it seems
+  like such a strange question. Because why wouldn’t I write about Koreans? To me,
+  Koreans are mothers and fathers and daughters and sons, which means Koreans are
+  like us; we are worthy of consideration and reflection."
 
 ---
