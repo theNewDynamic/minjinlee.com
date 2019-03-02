@@ -1,16 +1,17 @@
 ---
-title: '"Writer Min Jin Lee to Teach at Amherst College" '
-date: 2018-09-28 04:50:11 +0000
-link_to_original: https://amherststudent.com/article/writer-min-jin-lee-to-teach-at-college
-images: []
+title: 'Video: "Are Koreans Human?" at Radcliffe Institute for Advanced Study at Harvard
+  University'
+date: 2019-03-01 00:50:11 -0500
+link_to_original: https://www.radcliffe.harvard.edu/video/are-koreans-human-min-jin-lee
+images:
+- "/uploads/Screen Shot 2019-03-02 at 4.46.14 PM.png"
 tags: []
 categories: []
-description: "\"Above all, I would like to create a welcoming space for non-writers
-  and advanced writers to take greater risks in their written expression.” She hopes
-  to help students “fall in love with the generative process,” she said. “Each draft
-  teaches us more about what we want to say, and I would be happy if my students learned
-  to see that in their work — that with their efforts, they are approaching who they
-  are, what they want to say, and what they care about.”"
-draft: true
+description: The author Min Jin Lee RI '19 asks, "Who are the modern Koreans, and
+  what do they care about?" To answer this enormously complex question, Lee explores
+  the will of Koreans to survive and flourish as global citizens, their enduring faith
+  in education, and the costs of such a quest and what it may mean to the larger world
+  they seek to engage. She explains that when she's writing, she isn't just writing
+  about Koreans, education, or the diaspora—she's writing about humans.
 
 ---
