@@ -1,14 +1,13 @@
 ---
-title: A Review of Toni Morrison’s new book HOME in The TIMES of LONDON
-date: 2012-04-24 19:21:13 +0000
+title: 'New York Times: "In Praise of bell hooks"'
+date: 2019-02-28 15:21:13 -0500
 categories: 
 tags:
 - Essays
-where_published: THE TIMES OF LONDON
-link_to_original: http://www.thetimes.co.uk/tto/arts/books/fiction/article3386800.ece
+where_published: New York Times
+link_to_original: https://www.nytimes.com/2019/02/28/books/bell-hooks-min-jin-lee-aint-i-a-woman.html
 link_to_pdf: 
 description: 
-_slug: 2012-04-24-a_review_of_toni_morrisons_new_book_home_in_the_times_of_london
-draft: true
+_slug: 2019-02-28 00:00:00 -0500
 
 ---
