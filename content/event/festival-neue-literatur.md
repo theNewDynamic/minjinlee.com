@@ -1,6 +1,6 @@
 ---
 title: 'Festival Neue Literatur: "Another Country: Distant Lands Up Close and Personal"'
-date: 2019-03-30 18:00:00 -0400
+date: 2019-03-30 14:00:00 -0400
 show_time: true
 venue:
   name: POWERHOUSE Arena
