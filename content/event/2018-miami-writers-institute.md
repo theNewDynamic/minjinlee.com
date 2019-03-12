@@ -1,19 +1,15 @@
 ---
-title: 2018 Miami Writers Institute
-date: 2018-05-09 12:00:00 +0000
+title: Columbia University APAHM Keynote
+date: 2019-03-28 20:30:00 -0400
 show_time: true
 venue:
-  name: ''
+  name: Roone Arledge Auditorium
   address: ''
   city: ''
   state: ''
   zip: ''
-link: www.miamibookfair.com
+link: ''
 description: ''
 images: []
-draft: true
 
 ---
-Intensive Creative Writing Conference: May 9-11, 2018
-
-I will be teaching a 4-day fiction workshop.&nbsp;
