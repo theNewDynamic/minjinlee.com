@@ -1,16 +1,14 @@
 ---
-title: 'Festival Neue Literatur: "Another Country: Distant Lands Up Close and Personal"'
-date: 2019-03-30 14:00:00 -0400
+title: 'New York Public Library: One Book, One New York'
+date: 2019-04-23 18:30:00 -0400
 show_time: true
 venue:
-  name: POWERHOUSE Arena
-  address: 28 Adams Street
-  city: Brooklyn
+  name: Stephen A. Schwarzman Building, Celeste Bartos Forum
+  address: New York Public Library
+  city: New York
   state: NY
-  zip: 11201
-link: https://festivalneueliteratur.org/festival/events/the-lives-of-others/
-draft: true
+  zip: 10018
+link: https://www.nypl.org/events/programs/2019/04/23/one-book-one-new-york-launch-event?nref=370068
 
 ---
-Moderated by Liesl Schillinger  
-![](/uploads/FNL-Logo-2018.jpg)
+The Mayor’s Office of Media and Entertainment and the BuzzFeed Book Club introduce all five nominated books and authors for One Book, One New York in a special evening of conversation at The New York Public Library. Hear what inspired the authors to write these celebrated titles, check-out the books and then cast your vote for the One Book we should read altogether.![](/uploads/60716-v1-600x.jpg)
