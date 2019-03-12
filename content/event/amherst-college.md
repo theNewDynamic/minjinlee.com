@@ -1,6 +1,6 @@
 ---
-title: Amherst College
-date: 2019-09-11 08:00:00 -0400
+title: Boston University, MFA Program
+date: 2019-10-02 08:00:00 -0400
 show_time: true
 venue:
   name: ''
@@ -11,6 +11,5 @@ venue:
 link: ''
 description: ''
 images: []
-draft: true
 
 ---
