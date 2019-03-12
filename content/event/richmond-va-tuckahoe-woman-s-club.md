@@ -1,6 +1,6 @@
 ---
-title: 'Richmond, VA: Tuckahoe Woman’s Club'
-date: 2020-03-11 08:00:00 -0400
+title: Denver, CO
+date: 2020-03-16 08:00:00 -0400
 show_time: true
 venue:
   name: ''
@@ -11,6 +11,5 @@ venue:
 link: ''
 description: ''
 images: []
-draft: true
 
 ---
