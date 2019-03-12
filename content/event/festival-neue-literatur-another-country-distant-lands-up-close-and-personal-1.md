@@ -1,5 +1,5 @@
 ---
-title: 'New York Public Library: One Book, One New York'
+title: 'NYPL: One Book, One New York'
 date: 2019-04-23 18:30:00 -0400
 show_time: true
 venue:
