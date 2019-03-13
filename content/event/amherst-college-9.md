@@ -1,6 +1,6 @@
 ---
-title: Amherst College
-date: 2019-09-11 08:00:00 -0400
+title: Portland, OR
+date: 2020-01-15 08:00:00 -0500
 show_time: true
 venue:
   name: ''
@@ -11,6 +11,5 @@ venue:
 link: ''
 description: ''
 images: []
-draft: true
 
 ---
