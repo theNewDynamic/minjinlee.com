@@ -1,16 +1,13 @@
 ---
-title: '"Writer Min Jin Lee to Teach at Amherst College" '
-date: 2018-09-28 04:50:11 +0000
-link_to_original: https://amherststudent.com/article/writer-min-jin-lee-to-teach-at-college
-images: []
+title: 'Hollywood Reporter: ''Pachinko'' Picked Up to Series at Apple'
+date: 2019-03-14 00:50:11 -0400
+link_to_original: https://www.hollywoodreporter.com/live-feed/pachinko-picked-up-series-at-apple-1194524
+images:
+- "/uploads/soo_hugh__pachinko_cover_split.jpg"
 tags: []
 categories: []
-description: "\"Above all, I would like to create a welcoming space for non-writers
-  and advanced writers to take greater risks in their written expression.” She hopes
-  to help students “fall in love with the generative process,” she said. “Each draft
-  teaches us more about what we want to say, and I would be happy if my students learned
-  to see that in their work — that with their efforts, they are approaching who they
-  are, what they want to say, and what they care about.”"
-draft: true
+description: '"Sources say the eight-episode drama — the third show from Michael Ellenberg''s
+  Media Res — is among the biggest budgeted productions the iPhone maker has in the
+  works."'
 
 ---
