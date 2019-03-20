@@ -1,9 +1,9 @@
 ---
 title: Ridgewood, NJ
-date: 2019-04-03 02:37:58 -0400
+date: 2019-04-03 06:37:58 +0000
 images: []
 description: ''
-link: ''
+link: https://www.ridgewoodlibrary.org/friends
 show_time: true
 venue:
   address: ''
