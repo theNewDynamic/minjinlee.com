@@ -1,6 +1,6 @@
 ---
 title: 'Seattle: Hugo House'
-date: 2019-05-02 23:00:20 +0000
+date: 2019-05-02 19:00:20 -0400
 images:
 - "/uploads/HugoHouse_Logo-Square_color-cmyk.png"
 description: 'Word Works: Min Jin Lee on Having Faith'
