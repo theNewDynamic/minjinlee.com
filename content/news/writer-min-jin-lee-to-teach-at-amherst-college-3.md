@@ -1,16 +1,19 @@
 ---
-title: '"Writer Min Jin Lee to Teach at Amherst College" '
-date: 2018-09-28 04:50:11 +0000
-link_to_original: https://amherststudent.com/article/writer-min-jin-lee-to-teach-at-college
+title: NYFA Inducts Sanford Biggers, Karl Kellner, And Min Jin Lee Into Hall Of Fame
+date: 2019-04-12 00:50:11 -0400
+link_to_original: https://www.broadwayworld.com/off-off-broadway/article/NYFA-Inducts-Sanford-Biggers-Karl-Kellner-And-Min-Jin-Lee-Into-Hall-Of-Fame-20190412
 images: []
 tags: []
 categories: []
-description: "\"Above all, I would like to create a welcoming space for non-writers
-  and advanced writers to take greater risks in their written expression.” She hopes
-  to help students “fall in love with the generative process,” she said. “Each draft
-  teaches us more about what we want to say, and I would be happy if my students learned
-  to see that in their work — that with their efforts, they are approaching who they
-  are, what they want to say, and what they care about.”"
-draft: true
+description: '"Min Jin Lee discussed her process and interests, and reflected on the
+  hardships of being a professional artist, especially as a woman of color. She also
+  described the impact of receiving a NYSCA/NYFA Artist Fellowship: ''I needed to
+  have this kind of support that somehow what I did mattered. And that was so important
+  to have NYFA recognize that my little question was worth supporting, and I think
+  that when the average person in this country thinks that art matters, that''s a
+  huge step. Because it is so often seen as less important than food, and housing,
+  and jobs, and healthcare, and all those things are really important for me, too.
+  But I chose this path because I think that literature can create the level of empathy
+  that many things cannot. I believe that, I believe that with everything that I do.''"'
 
 ---
