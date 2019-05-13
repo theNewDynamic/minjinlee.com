@@ -1,16 +1,12 @@
 ---
-title: '"Writer Min Jin Lee to Teach at Amherst College" '
-date: 2018-09-28T04:50:11.000+00:00
-link_to_original: https://amherststudent.com/article/writer-min-jin-lee-to-teach-at-college
-images: []
+title: President Obama Recommends PACHINKO
+date: 2019-05-08T00:50:11-04:00
+link_to_original: https://www.bookweb.org/news/btw-news-briefs-572187
+images:
+- "/uploads/image1.jpeg"
+- "/uploads/image2.jpeg"
 tags: []
 categories: []
-description: "\"Above all, I would like to create a welcoming space for non-writers
-  and advanced writers to take greater risks in their written expression.” She hopes
-  to help students “fall in love with the generative process,” she said. “Each draft
-  teaches us more about what we want to say, and I would be happy if my students learned
-  to see that in their work — that with their efforts, they are approaching who they
-  are, what they want to say, and what they care about.”"
-draft: true
+description: ''
 
 ---
