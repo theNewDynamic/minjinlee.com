@@ -14,5 +14,3 @@ description: |-
 
 ---
 > [https://www.nytimes.com/2019/05/20/opinion/confidence-public-speaking.html](https://www.nytimes.com/2019/05/20/opinion/confidence-public-speaking.html "https://www.nytimes.com/2019/05/20/opinion/confidence-public-speaking.html")
-
-["Breaking My Own Silence"](https://www.newyorker.com/culture/culture-desk/after-the-pyeongchang-winter-olympics-healing-the-deepest-fracture) appeared in the _New York Times_ on May 20th.
