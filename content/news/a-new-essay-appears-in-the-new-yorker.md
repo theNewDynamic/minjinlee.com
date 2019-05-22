@@ -1,19 +1,18 @@
 ---
-title: A new essay appears in The New Yorker
-date: 2018-02-24T12:00:00.000+00:00
+title: 'New York Times: "Breaking My Own Silence'
+date: 2019-05-20T07:00:00-04:00
 categories:
 - Media
 tags:
 - Essays
 attribution: 
-link_to_original: https://www.newyorker.com/culture/culture-desk/after-the-pyeongchang-winter-olympics-healing-the-deepest-fracture
-description: During the opening ceremony for the Winter Olympics in Pyeongchang, I
-  didn’t expect to cry when athletes from two Koreas marched as one into the stadium,
-  carrying the flag of unification, but tears filled my eyes. It was as if my body
-  couldn’t be stopped from remembering some unspent grief.
-draft: true
+link_to_original: https://www.nytimes.com/2019/05/20/opinion/confidence-public-speaking.html
+description: |-
+  "I am 50 years old, and after more than four decades of living in the West, I realize that like writing, talking is painful because we expose our ideas for evaluation; however, like writing, talking is powerful because our ideas may, in fact, have value and require expression.
+
+  As a girl, I did not know this power, yet this is my power now."
 
 ---
-> The twenty-third Winter Olympics are closing out their second week, and the Games may yet live up to their billing as the “Olympics of peace.”
+> [https://www.nytimes.com/2019/05/20/opinion/confidence-public-speaking.html](https://www.nytimes.com/2019/05/20/opinion/confidence-public-speaking.html "https://www.nytimes.com/2019/05/20/opinion/confidence-public-speaking.html")
 
-["After the Pyeongchang Winter Olympics, Healing the Deepest Fracture"](https://www.newyorker.com/culture/culture-desk/after-the-pyeongchang-winter-olympics-healing-the-deepest-fracture)&nbsp;appeared in *The New Yorker* on February 24th.&nbsp;
+["Breaking My Own Silence"](https://www.newyorker.com/culture/culture-desk/after-the-pyeongchang-winter-olympics-healing-the-deepest-fracture) appeared in the _New York Times_ on May 20th.
