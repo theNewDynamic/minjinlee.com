@@ -1,14 +1,13 @@
 ---
-title: Crowning Glory
-date: 2007-11-02T03:24:44.000+00:00
+title: 'New York Times: Breaking My Own Silence'
+date: 2019-05-20T00:00:44-04:00
 categories: 
-tags:
-- Essays
-where_published: Vogue
+tags: []
+where_published: New York Times
 link_to_original: 
 link_to_pdf: 
 description: 
-_slug: 2007-11-01-crowning_glory
-draft: true
+_slug: 2019-05-20T00:00:00-04:00
 
 ---
+[https://www.nytimes.com/2019/05/20/opinion/confidence-public-speaking.html](https://www.nytimes.com/2019/05/20/opinion/confidence-public-speaking.html "https://www.nytimes.com/2019/05/20/opinion/confidence-public-speaking.html")
