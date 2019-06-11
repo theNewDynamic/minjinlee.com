@@ -1,14 +1,13 @@
 ---
-title: 'The New Yorker: "Stonehenge"'
-date: 2019-06-03T02:00:13-04:00
+title: 'On Point: "Writer Min Jin Lee On Life As An Immigrant At Elite Colleges ––
+  And In America"'
+date: 2019-06-10T02:00:13-04:00
 categories: 
 tags: []
-where_published: The New Yorker
-link_to_original: https://www.newyorker.com/magazine/2019/06/10/stonehenge
+where_published: On Point (NPR)
+link_to_original: https://www.wbur.org/onpoint/2019/06/10/min-jin-lee-immigrant-college-school-america-stonehenge-new-yorker
 link_to_pdf: 
 description: 
-_slug: 2019-06-03T02:00:00-04:00
-draft: true
+_slug: 2019-06-10T02:00:00-04:00
 
 ---
-"In their attractive, polished faces, I saw that Stonehenge was as familiar to them as having a gun held to my face was to me."
