@@ -1,5 +1,5 @@
 ---
-title: 'On Point: "Writer Min Jin Lee On Life As An Immigrant At Elite Colleges ––
+title: 'On Point: "Writer Min Jin Lee On Life As An Immigrant At Elite Colleges —
   And In America"'
 date: 2019-06-10T02:00:13-04:00
 categories: 
