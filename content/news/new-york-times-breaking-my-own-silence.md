@@ -8,7 +8,7 @@ tags:
 attribution: 
 link_to_original: https://www.newyorker.com/magazine/2019/06/10/stonehenge
 description: '"In their attractive, polished faces, I saw that Stonehenge was as familiar
-  to them as having a gun held to my face was to me."'
+  to them as having a gun held to my face was to me." '
 
 ---
 > [https://www.newyorker.com/magazine/2019/06/10/stonehenge](https://www.newyorker.com/magazine/2019/06/10/stonehenge "https://www.newyorker.com/magazine/2019/06/10/stonehenge")
