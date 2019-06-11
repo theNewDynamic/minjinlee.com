@@ -1,16 +1,13 @@
 ---
-title: 'New York Times: "Breaking My Own Silence"'
-date: 2019-05-20T00:00:13-04:00
+title: 'The New Yorker: "Stonehenge"'
+date: 2019-06-03T02:00:13-04:00
 categories: 
 tags: []
-where_published: New York Times
-link_to_original: https://www.nytimes.com/2019/05/20/opinion/confidence-public-speaking.html
+where_published: The New Yorker
+link_to_original: https://www.newyorker.com/magazine/2019/06/10/stonehenge
 link_to_pdf: 
 description: 
-_slug: 2019-05-20T00:00:00-04:00
-draft: true
+_slug: 2019-06-03T02:00:00-04:00
 
 ---
-"I am 50 years old, and after more than four decades of living in the West, I realize that like writing, talking is painful because we expose our ideas for evaluation; however, like writing, talking is powerful because our ideas may, in fact, have value and require expression.
-
-As a girl, I did not know this power, yet this is my power now."
+"In their attractive, polished faces, I saw that Stonehenge was as familiar to them as having a gun held to my face was to me."
