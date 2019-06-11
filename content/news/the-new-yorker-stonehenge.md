@@ -1,15 +1,15 @@
 ---
-title: 'The New Yorker: "Stonehenge"'
-date: 2019-06-03T02:00:00-04:00
+title: 'On Point: "Min Jin Lee On Life As An Immigrant At Elite Colleges –– And In
+  America"'
+date: 2019-06-10T02:00:00-04:00
 categories:
 - Media
 tags:
-- Essays
+- Audio
+- Interviews
 attribution: 
-link_to_original: https://www.newyorker.com/magazine/2019/06/10/stonehenge
-description: '"In their attractive, polished faces, I saw that Stonehenge was as familiar
-  to them as having a gun held to my face was to me." '
-draft: true
+link_to_original: https://www.wbur.org/onpoint/2019/06/10/min-jin-lee-immigrant-college-school-america-stonehenge-new-yorker
+description: " "
 
 ---
-> [https://www.newyorker.com/magazine/2019/06/10/stonehenge](https://www.newyorker.com/magazine/2019/06/10/stonehenge "https://www.newyorker.com/magazine/2019/06/10/stonehenge")
+> [https://www.wbur.org/onpoint/2019/06/10/min-jin-lee-immigrant-college-school-america-stonehenge-new-yorker](https://www.wbur.org/onpoint/2019/06/10/min-jin-lee-immigrant-college-school-america-stonehenge-new-yorker "https://www.wbur.org/onpoint/2019/06/10/min-jin-lee-immigrant-college-school-america-stonehenge-new-yorker")
