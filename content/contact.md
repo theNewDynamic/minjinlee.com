@@ -10,7 +10,7 @@ menu:
 ---
 #### To contact Min Jin Lee
 
-[FFFM.MJL@gmail.com](mailto:FFFM.MJL@gmail.com)
+minjinlee.asst@gmail.com
 
 ***
 
