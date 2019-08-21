@@ -1,14 +1,14 @@
 ---
-title: Seattle, WA (II)
-date: 2020-03-18 08:00:00 -0400
+title: Lakeside School Lecture Series
+date: 2020-03-18T19:00:00-04:00
 show_time: true
 venue:
-  name: ''
-  address: ''
-  city: ''
-  state: ''
-  zip: ''
-link: ''
+  name: St. Nicholas Hall
+  address: Lakeside Upper School
+  city: Seattle
+  state: WA
+  zip: "98125"
+link: https://www.lakesideschool.org/about-us/lakeside-lecture-series/lakeside-lecture-series-jewell
 description: ''
 images: []
 
