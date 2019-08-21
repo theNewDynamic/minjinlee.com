@@ -1,14 +1,14 @@
 ---
-title: Seattle, WA (I)
-date: 2020-03-17 08:00:00 -0400
+title: 'Seattle Arts & Lectures: Min Jin Lee'
+date: 2020-03-17T19:30:00-04:00
 show_time: true
 venue:
-  name: ''
-  address: ''
-  city: ''
-  state: ''
-  zip: ''
-link: ''
+  name: Benaroya Hall
+  address: 200 University St
+  city: Seattle
+  state: WA
+  zip: "98101"
+link: https://lectures.org/event/min-jin-lee/
 description: ''
 images: []
 
