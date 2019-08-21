@@ -9,7 +9,7 @@ venue:
   state: NY
   zip: ''
 link: https://writersdigestconference.com/min-jin-lee/
-description: ''
+description: Followed by Book Signing
 images: []
 
 ---
