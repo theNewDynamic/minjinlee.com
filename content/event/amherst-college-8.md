@@ -1,6 +1,6 @@
 ---
 title: Writer’s Digest Annual Conference, Closing Keynote
-date: 2019-08-25 09:00:00 -0400
+date: 2019-08-25T09:00:00-04:00
 show_time: true
 venue:
   name: ''
@@ -8,8 +8,9 @@ venue:
   city: New York
   state: NY
   zip: ''
-link: ''
+link: https://writersdigestconference.com/min-jin-lee/
 description: ''
-images: []
+images:
+- "/uploads/WDC18-Website-Bracket.png"
 
 ---
