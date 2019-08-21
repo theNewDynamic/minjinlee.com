@@ -10,7 +10,6 @@ venue:
   zip: ''
 link: https://writersdigestconference.com/min-jin-lee/
 description: ''
-images:
-- "/uploads/WDC18-Website-Bracket.png"
+images: []
 
 ---
