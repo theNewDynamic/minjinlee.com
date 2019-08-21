@@ -1,5 +1,5 @@
 ---
-title: '2019/2020 Portland Arts & Lectures: Min Jin Lee'
+title: 'Portland Arts & Lectures: Min Jin Lee'
 date: 2020-01-15T19:30:00-05:00
 show_time: true
 venue:
