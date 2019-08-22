@@ -1,15 +1,16 @@
 ---
-title: North Carolina
-date: 2020-03-06 08:00:00 -0500
+title: Lenoir-Rhyne Visiting Writers Series
+date: 2020-03-05T19:00:00-05:00
 show_time: true
 venue:
-  name: ''
+  name: Belk Centrum
   address: ''
-  city: ''
-  state: ''
-  zip: ''
-link: ''
+  city: Hickory
+  state: NC
+  zip: "28601"
+link: https://www.lr.edu/public-events/visiting-writers-series
 description: ''
-images: []
+images:
+- "/uploads/Screen Shot 2019-08-22 at 4.21.25 PM.png"
 
 ---
