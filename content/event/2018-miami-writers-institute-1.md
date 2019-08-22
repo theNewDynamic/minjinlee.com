@@ -1,6 +1,6 @@
 ---
 title: Amherst College
-date: 2019-09-11 08:00:00 -0400
+date: 2019-09-11T20:00:00-04:00
 show_time: true
 venue:
   name: ''
