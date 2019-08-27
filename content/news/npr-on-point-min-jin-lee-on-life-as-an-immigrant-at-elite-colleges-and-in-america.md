@@ -1,16 +1,17 @@
 ---
-title: 'NPR On Point: "Min Jin Lee On Life As An Immigrant At Elite Colleges — And
-  In America"'
-date: 2019-06-10T02:00:00-04:00
+title: 'Burdock: An Interview with Min Jin Lee'
+date: 2019-04-12T02:00:00-04:00
 categories:
 - Media
 tags:
-- Audio
 - Interviews
+- News
 attribution: 
-link_to_original: https://www.wbur.org/onpoint/2019/06/10/min-jin-lee-immigrant-college-school-america-stonehenge-new-yorker
-description: " "
-draft: true
+link_to_original: https://burdockmedia.com/profile/min-jin-lee-5cb3f05ffc42c5660ea0d182
+description: |2-
+   Burdock had the honor of interviewing Korean American writer Min Jin Lee while she was working on her third book, AMERICAN HAGWON.
+
+  Words by Noël Duan
 
 ---
-> [https://www.wbur.org/onpoint/2019/06/10/min-jin-lee-immigrant-college-school-america-stonehenge-new-yorker](https://www.wbur.org/onpoint/2019/06/10/min-jin-lee-immigrant-college-school-america-stonehenge-new-yorker "https://www.wbur.org/onpoint/2019/06/10/min-jin-lee-immigrant-college-school-america-stonehenge-new-yorker")
+> ![](/uploads/min jin.jpg)
