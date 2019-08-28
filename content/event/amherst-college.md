@@ -1,6 +1,6 @@
 ---
 title: Boston University, MFA Program
-date: 2019-10-02 08:00:00 -0400
+date: 2020-10-07T19:00:00-04:00
 show_time: true
 venue:
   name: ''
