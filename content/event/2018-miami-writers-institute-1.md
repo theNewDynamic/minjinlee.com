@@ -9,8 +9,7 @@ venue:
   state: MA
   zip: '01002'
 link: ''
-description: The first event of the Amherst College Creative Writing Fall Reading
-  Series
+description: ''
 images:
 - "/uploads/attachment 1.jpg"
 
