@@ -8,7 +8,7 @@ venue:
   city: Princeton
   state: NJ
   zip: '08544'
-link: ''
+link: https://ams.princeton.edu/news/2019-20/celebrating-new-asian-american-writing
 description: ''
 images:
 - "/uploads/Image-1.jpg"
