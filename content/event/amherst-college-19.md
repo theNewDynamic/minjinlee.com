@@ -1,5 +1,5 @@
 ---
-title: 'Princeton: Min Jin Lee and Parul Sehgal'
+title: 'Princeton University: Min Jin Lee and Parul Sehgal'
 date: 2020-04-29T16:30:00-04:00
 show_time: true
 venue:
