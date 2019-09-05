@@ -1,18 +1,17 @@
 ---
-title: New American Festival
-date: 2019-09-14T13:30:00-04:00
+title: 'The New Yorker Festival: American Identity'
+date: 2019-10-13T11:00:00-04:00
 show_time: true
 venue:
-  name: NeueHouse
-  address: 110 E 25th St
+  name: Directors Guild Theatre
+  address: 110 West 57th Street
   city: New York
   state: New York
-  zip: "10010"
-link: https://www.newamericanfestival.com/#festival-schedule
-description: Literary Panel curated by Aminatou Sow featuring Min Jin Lee and Daniel
-  Jose Older
+  zip: "10019"
+link: https://festival.newyorker.com/tickets/my-american-identity/
+description: With Daniel Alarcón, Min Jin Lee, Téa Obreht, and Ocean Vuong. Moderated
+  by Cressida Leyshon.
 images:
-- "/uploads/static1.squarespace.png"
-draft: true
+- "/uploads/Screen Shot 2019-09-05 at 1.43.30 PM.png"
 
 ---
