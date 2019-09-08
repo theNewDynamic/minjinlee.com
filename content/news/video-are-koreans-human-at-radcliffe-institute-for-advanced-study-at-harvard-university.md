@@ -1,5 +1,5 @@
 ---
-title: 'Video: 2019 DeMott Lecture at Amherst College'
+title: 2019 DeMott Lecture at Amherst College (VIDEO)
 date: 2019-09-01T00:50:11-04:00
 link_to_original: https://www.youtube.com/watch?time_continue=517&v=ch1FIKfFw7k
 images:
