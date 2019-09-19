@@ -1,16 +1,15 @@
 ---
-title: 2019 DeMott Lecture at Amherst College (VIDEO)
-date: 2019-09-01T00:50:11-04:00
-link_to_original: https://www.youtube.com/watch?time_continue=517&v=ch1FIKfFw7k
+title: 'Radcliffe Magazine: How to Write What You Don''t Know'
+date: 2019-09-18T00:50:11-04:00
+link_to_original: https://www.radcliffe.harvard.edu/news/radcliffe-magazine/how-to-write-what-you-dont-know
 images:
-- "/uploads/2019_0901_Orientation_JL_3416_820x547.jpg"
+- "/uploads/lee-greenidge-groff_305px.jpg"
 tags:
 - Media
 - news
-- video
 categories: []
-description: ''
-draft: true
+description: In the stories of Min Jin Lee, Kaitlyn Greenidge, and Lauren Groff, research
+  is a recurring theme.
 
 ---
-[https://www.amherst.edu/news/news_releases/2019/9-2019/to-all-the-other-new-kids-](https://www.amherst.edu/news/news_releases/2019/9-2019/to-all-the-other-new-kids- "https://www.amherst.edu/news/news_releases/2019/9-2019/to-all-the-other-new-kids-")
+[https://www.radcliffe.harvard.edu/news/radcliffe-magazine/how-to-write-what-you-dont-know](https://www.radcliffe.harvard.edu/news/radcliffe-magazine/how-to-write-what-you-dont-know "https://www.radcliffe.harvard.edu/news/radcliffe-magazine/how-to-write-what-you-dont-know")
