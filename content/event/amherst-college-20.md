@@ -1,17 +1,16 @@
 ---
-title: Amherst College
-date: 2019-09-11T20:00:00-04:00
+title: 'First Presbyterian: "Min Jin Lee: Faith, Family & Identity"'
+date: 2019-11-13T14:00:00-05:00
 show_time: true
 venue:
-  name: Amherst Books
-  address: 8 Main Street
-  city: Amherst
-  state: MA
-  zip: '01002'
-link: ''
-description: ''
-images:
-- "/uploads/attachment 1.jpg"
-draft: true
+  name: First Presbyterian Church of Brooklyn
+  address: 124 Henry Street
+  city: Brooklyn
+  state: NY
+  zip: "11201"
+link: http://brooklynheightsblog.com/archives/89442
+description: 'Join First Church Brooklyn for an evening with NY Times best selling
+  author Min Jin Lee, author of PACHINKO and FREE FOOD FOR MILLIONAIRES. '
+images: []
 
 ---
