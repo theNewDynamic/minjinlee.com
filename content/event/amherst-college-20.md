@@ -9,8 +9,8 @@ venue:
   state: NY
   zip: "11201"
 link: http://brooklynheightsblog.com/archives/89442
-description: 'Join First Church Brooklyn for an evening with NY Times best selling
-  author Min Jin Lee, author of PACHINKO and FREE FOOD FOR MILLIONAIRES. '
+description: Join First Church Brooklyn for an evening with NY Times best selling
+  author Min Jin Lee in conversation with Rev. Adriene Thorne
 images: []
 
 ---
