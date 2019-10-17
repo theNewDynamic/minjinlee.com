@@ -1,6 +1,6 @@
 ---
-title: Schaumburg, IL
-date: 2020-02-19T20:00:00-05:00
+title: Bristol, CT
+date: 2020-10-14T20:00:00-04:00
 show_time: true
 venue:
   name: ''
@@ -11,6 +11,5 @@ venue:
 link: ''
 description: ''
 images: []
-draft: true
 
 ---
