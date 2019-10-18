@@ -1,6 +1,6 @@
 ---
 title: Schaumburg, IL
-date: 2020-02-19T20:00:00-05:00
+date: 2020-02-20T12:00:00-05:00
 show_time: true
 venue:
   name: ''
