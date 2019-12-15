@@ -37,5 +37,12 @@ Andy.Dodds@hbgusa.com
 
 #### Speaking engagements:
 
-Hachette Speakers Bureau  
-Ms. Carol Bruckner:  CarolB@hachettespeakersbureau.com
+For Speaking Engagements
+
+Please contact
+
+Steven Barclay
+
+[steven@barclayagency.com](mailto:steven@barclayagency.com)
+
+\+1-707-773-0654
