@@ -20,7 +20,9 @@ minjinlee.asst@gmail.com
 The William Morris Endeavor Entertainment Agency  
 (212) 586-5100
 
-Suzanne Gluck Assistant:   SGluck_asst@wmeentertainment.com
+Suzanne Gluck Assistant:   
+
+SGluck_asst@wmeentertainment.com
 
 ***
 
