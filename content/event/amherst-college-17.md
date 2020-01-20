@@ -1,13 +1,13 @@
 ---
-title: New Castle, DE
-date: 2020-04-23T08:00:00-04:00
+title: New Castle Country Reads
+date: 2020-04-23T18:15:00-04:00
 show_time: true
 venue:
-  name: ''
-  address: ''
-  city: ''
-  state: ''
-  zip: ''
+  name: Chase Center of the Riverfront
+  address: 815 Justison St.
+  city: Wilmington
+  state: DE
+  zip: "19801"
 link: ''
 description: ''
 images: []
