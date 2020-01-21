@@ -1,0 +1,81 @@
+---
+label: review
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- type: datetime
+  name: date
+  label: Date
+- name: attribution
+  label: Attribution
+  type: text
+  hidden: false
+  default: ''
+- type: select
+  name: book
+  config:
+    source:
+      type: pages
+      section: book
+  label: Book
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- type: boolean
+  name: featured
+  label: Featured
+- type: number
+  name: weight
+  label: Weight
+  config:
+    step: '1'
+pages:
+- content/review/simon-winchester-on-pachkinko.md
+- content/review/asia-pacific-arts-on-free-food-for-millionaires.md
+- content/review/outofthewoods.com-on-free-food-for-millionaires.md
+- content/review/olsson-s-bookstore-on-free-food-for-millionaires.md
+- content/review/bookreporter.com.md
+- content/review/bookbub.com.md
+- content/review/bbc.com-on-pachkinko.md
+- content/review/new-york-times-on-free-food-for-millionaires.md
+- content/review/erica-wagner-on-pachkinko.md
+- content/review/san-francisco-chronicle-on-free-food-for-millionaires.md
+- content/review/junot-diaz-on-pachinko.md
+- content/review/book-riot-on-pachkinko.md
+- content/review/kate-christensen-on-pachinko.md
+- content/review/the-missouri-review-on-free-food-for-millionaires.md
+- content/review/south-china-morning-post-on-pachkinko.md
+- content/review/psychiatric-services--a-journal-of-the-american-psychiatric-association.md
+- content/review/tina-jordan--entertainment-weekly-on-free-food-for-millionaires.md
+- content/review/elisabeth-egan-on-free-food-for-millionaires.md
+- content/review/david-mitchell-on-pachinko.md
+- content/review/usa-today-on-free-food-for-millionaires.md
+- content/review/buzzfeed-on-pachkinko.md
+- content/review/politics-prose.com-on-free-food-for-millionaires.md
+- content/review/mixed-race-america-on-free-food-for-millionaires.md
+- content/review/library-journal.md
+- content/review/entertainment-weekly-on-free-food-for-millionaires.md
+- content/review/american-booksellers-association.md
+- content/review/pattinase-on-free-food-for-millionaires.md
+- content/review/jens-book-reviews-on-free-food-for-millionaires.md
+- content/review/new-york-times.md
+- content/review/northwestasianweekly.com.md
+- content/review/beattiesbookblog-on-free-food-for-millionaires.md
+- content/review/gary-shteyngart-on-pachkinko.md
+- content/review/darin-strauss-on-pachkinko.md
+- content/review/whatarewritersreading-on-free-food-for-millionaires.md
+- content/review/eugeneweekly.com-on-free-food-for-millionaires.md
+- content/review/historywire.com-on-free-food-for-millionaires.md
+- content/review/kirkus-on-pachkinko.md
+- content/review/toronto-star-on-pachkinko.md
+- content/review/st.-louis-dispatch-on-free-food-for-millionaires.md
+- content/review/nylon.md
+- content/review/lonestar-librarian.md
+- content/review/san-francisco-chronicle.md
