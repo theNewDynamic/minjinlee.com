@@ -9,6 +9,7 @@ sections:
   label: Books
   create: all
   match: "**/*"
+  exclude: _index.md
   templates:
   - book
 - type: directory
