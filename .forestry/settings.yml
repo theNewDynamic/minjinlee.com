@@ -15,8 +15,9 @@ sections:
 - type: directory
   path: content/event
   label: Events
-  create: all
+  create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - event
 - type: directory
