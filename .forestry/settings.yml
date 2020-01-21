@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: content/book
   label: Books
-  create: all
+  create: documents
   match: "**/*"
   exclude: _index.md
   templates:
