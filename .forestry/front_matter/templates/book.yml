@@ -67,6 +67,5 @@ fields:
   hidden: false
   default: 
 pages:
-- content/book/_index.md
 - content/book/free-food-for-millionaires.md
 - content/book/pachinko.md
