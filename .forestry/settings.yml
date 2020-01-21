@@ -23,8 +23,9 @@ sections:
 - type: directory
   path: content/writing
   label: Writing
-  create: all
+  create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - writing
 - type: directory
