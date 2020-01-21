@@ -38,15 +38,17 @@ sections:
 - type: directory
   path: content/review
   label: Reviews
-  create: all
+  create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - review
 - type: directory
   path: content
   label: Other Pages
-  create: all
+  create: documents
   match: "*"
+  exclude: _index.md
   templates:
   - default
 upload_dir: static/uploads
