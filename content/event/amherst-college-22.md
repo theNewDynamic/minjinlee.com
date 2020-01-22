@@ -7,7 +7,7 @@ venue:
   address: '201 Schaumburg Ct., '
   city: Schaumburg
   state: IL
-  zip: "60194"
+  zip: "60193"
 link: ''
 description: ''
 images: []
