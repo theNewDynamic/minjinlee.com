@@ -4,7 +4,7 @@ date:
 attribution: President Barrack Obama
 book: ''
 description: ''
-featured: false
+featured: true
 weight: 
 draft: true
 
