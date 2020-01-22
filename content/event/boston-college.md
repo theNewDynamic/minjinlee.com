@@ -1,6 +1,6 @@
 ---
 title: Calvin College
-date: 2020-04-16T10:00:00-04:00
+date: 2020-04-16T13:15:00-04:00
 show_time: true
 venue:
   name: Calvin College
