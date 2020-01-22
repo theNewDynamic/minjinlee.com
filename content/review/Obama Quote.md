@@ -6,7 +6,6 @@ book: ''
 description: ''
 featured: true
 weight: 
-draft: true
 
 ---
 _“The novel takes us through four generations and each character’s search for identity and success. It’s a powerful story about resilience and compassion.”_
