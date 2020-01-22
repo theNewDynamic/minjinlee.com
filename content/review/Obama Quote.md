@@ -1,5 +1,5 @@
 ---
-title: ''
+title: President Barrack Obama on Pachinko
 date: 
 attribution: President Barrack Obama
 book: ''
