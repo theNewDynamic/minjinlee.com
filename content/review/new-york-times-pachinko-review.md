@@ -6,7 +6,6 @@ book: ''
 description: ''
 featured: false
 weight: 
-draft: true
 
 ---
 Min Jin Lee’s stunning novel “Pachinko” — her second, after “Free Food for Millionaires” (2007) — announces its ambitions right from the opening sentence: “History has failed us, but no matter.”
