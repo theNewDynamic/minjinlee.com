@@ -1,6 +1,6 @@
 ---
 title: President Barrack Obama on Pachinko
-date: 2020-01-23T08:00:00-05:00
+date: 2018-05-18T00:00:00-04:00
 attribution: President Barrack Obama
 book: ''
 description: ''
