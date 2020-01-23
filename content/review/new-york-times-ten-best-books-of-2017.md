@@ -4,7 +4,7 @@ date: 2020-01-23T00:00:00-05:00
 attribution: Editors of The New York Times Book Review.
 book: book/pachinko.md
 description: ''
-featured: true
+featured: false
 weight: 
 
 ---
