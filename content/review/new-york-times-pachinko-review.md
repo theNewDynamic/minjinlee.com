@@ -2,7 +2,7 @@
 title: New York Times Pachinko Review
 date: 2020-01-23T00:00:00-05:00
 attribution: Krys Lee for the New York Times
-book: ''
+book: book/pachinko.md
 description: ''
 featured: true
 weight: 
