@@ -20,7 +20,7 @@ fields:
   config:
     source:
       type: pages
-      section: book
+      section: books
   label: Book
 - name: description
   label: Description
