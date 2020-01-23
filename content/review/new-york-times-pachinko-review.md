@@ -4,7 +4,7 @@ date: 2020-01-23T00:00:00-05:00
 attribution: Krys Lee for the New York Times
 book: book/pachinko.md
 description: ''
-featured: true
+featured: false
 weight: 
 
 ---
