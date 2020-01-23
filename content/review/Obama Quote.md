@@ -2,7 +2,7 @@
 title: President Barrack Obama on Pachinko
 date: 2018-05-18T00:00:00-04:00
 attribution: President Barrack Obama
-book: ''
+book: book/pachinko.md
 description: ''
 featured: true
 weight: 
