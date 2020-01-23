@@ -2,7 +2,7 @@
 title: New York Times Ten Best Books of 2017
 date: 2020-01-23T00:00:00-05:00
 attribution: Editors of The New York Times Book Review.
-book: ''
+book: book/pachinko.md
 description: ''
 featured: true
 weight: 
