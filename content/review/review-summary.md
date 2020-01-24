@@ -6,7 +6,6 @@ book: ''
 description: ''
 featured: false
 weight: 
-draft: true
 
 ---
 National Book Award Finalist
