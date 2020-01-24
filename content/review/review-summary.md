@@ -10,6 +10,6 @@ weight:
 ---
 National Book Award Finalist
 
-New York Times Top Ten Books of the Year
+_New York Times_ Top Ten Books of the Year
 
 President Obama Recommendation
