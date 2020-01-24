@@ -1,5 +1,5 @@
 ---
-title: Review Summary
+title: ''
 date: 2020-01-24T00:00:00-05:00
 attribution: ''
 book: ''
