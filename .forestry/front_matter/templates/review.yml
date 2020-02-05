@@ -36,7 +36,6 @@ fields:
   config:
     step: '1'
 pages:
-- content/review/Obama Quote.md
 - content/review/american-booksellers-association.md
 - content/review/asia-pacific-arts-on-free-food-for-millionaires.md
 - content/review/bbc.com-on-pachkinko.md
