@@ -11,6 +11,5 @@ venue:
   zip: "10027"
 link: ''
 images: []
-draft: true
 
 ---
