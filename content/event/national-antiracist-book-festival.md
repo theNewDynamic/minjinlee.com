@@ -11,6 +11,5 @@ venue:
   zip: "20016"
 link: https://www.dcareaeducators4socialjustice.org/events/second-annual-antiracist-book-festival
 images: []
-draft: true
 
 ---
