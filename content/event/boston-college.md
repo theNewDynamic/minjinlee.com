@@ -1,6 +1,6 @@
 ---
-title: Calvin College
-date: 2020-04-16T13:15:00-04:00
+title: Calvin College - Postponed
+date: 2020-04-16T17:15:00.000+00:00
 show_time: true
 venue:
   name: Calvin College
