@@ -1,6 +1,6 @@
 ---
-title: 'Seattle Arts & Lectures: Min Jin Lee'
-date: 2020-03-17T19:30:00-04:00
+title: 'Seattle Arts & Lectures: Min Jin Lee - Rescheduled'
+date: 2020-03-17T23:30:00.000+00:00
 show_time: true
 venue:
   name: Benaroya Hall
