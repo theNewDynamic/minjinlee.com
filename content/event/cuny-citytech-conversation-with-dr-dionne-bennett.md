@@ -1,6 +1,6 @@
 ---
 show_time: true
-title: 'CUNY Citytech: Conversation with Dr. Dionne Bennett'
+title: 'CUNY Citytech: Conversation with Dr. Dionne Bennett - Rescheduled'
 date: 2020-03-26T18:00:00-04:00
 description: ''
 venue:
