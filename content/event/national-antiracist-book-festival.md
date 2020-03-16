@@ -1,6 +1,6 @@
 ---
 show_time: true
-title: National Antiracist Book Festival
+title: National Antiracist Book Festival - Postponed
 date: 2020-04-25T09:00:00-04:00
 description: ''
 venue:
