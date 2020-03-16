@@ -1,6 +1,6 @@
 ---
-title: 'Boston College: Fiction Days presents Min Jin Lee'
-date: 2020-03-25T19:00:00-04:00
+title: 'Boston College: Fiction Days presents Min Jin Lee - Postponed'
+date: 2020-03-25T23:00:00.000+00:00
 show_time: true
 venue:
   name: Gasson Hall
