@@ -1,5 +1,5 @@
 ---
-title: 'Calvin College '
+title: Calvin College - Postponed
 date: 2021-04-08T13:15:00-04:00
 show_time: true
 venue:
