@@ -1,6 +1,6 @@
 ---
-title: 'Lakeside Lecture Series: An Evening with Min Jin Lee - Rescheduled'
-date: 2020-03-18T23:00:00.000+00:00
+title: 'Lakeside Lecture Series: An Evening with Min Jin Lee '
+date: 2021-03-17T19:00:00-04:00
 show_time: true
 venue:
   name: St. Nicholas Hall
