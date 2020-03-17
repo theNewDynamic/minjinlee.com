@@ -1,7 +1,7 @@
 ---
 show_time: true
-title: National Antiracist Book Festival - Postponed
-date: 2020-04-25T09:00:00-04:00
+title: 'National Antiracist Book Festival '
+date: 2021-04-24T09:00:00-04:00
 description: ''
 venue:
   address: 4300 Nebraska Ave NW
