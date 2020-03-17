@@ -1,7 +1,7 @@
 ---
 title: New Castle County Reads - Rescheduling
-date: 2020-04-23T22:15:00.000+00:00
-show_time: true
+date: 2020-04-23T18:15:00-04:00
+show_time: false
 venue:
   name: Chase Center of the Riverfront
   address: 815 Justison St.
