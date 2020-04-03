@@ -1,16 +1,13 @@
 ---
-title: '"Writer Min Jin Lee to Teach at Amherst College" '
-date: 2018-09-28T04:50:11.000+00:00
-link_to_original: https://amherststudent.com/article/writer-min-jin-lee-to-teach-at-college
+title: 'NY Post: "The 10 best books to read to beat coronavirus boredom"'
+date: 2020-03-18T00:50:11-04:00
+link_to_original: https://nypost.com/2020/03/18/the-10-best-books-to-read-to-beat-coronavirus-boredom/
 images: []
 tags: []
 categories: []
-description: "\"Above all, I would like to create a welcoming space for non-writers
-  and advanced writers to take greater risks in their written expression.” She hopes
-  to help students “fall in love with the generative process,” she said. “Each draft
-  teaches us more about what we want to say, and I would be happy if my students learned
-  to see that in their work — that with their efforts, they are approaching who they
-  are, what they want to say, and what they care about.”"
-draft: true
+description: ''
 
 ---
+> _Free Food for Millionaires_, Min Jin Lee (fiction, Grand Central Publishing)
+>
+> "Casey Han is the Queens-bred daughter of Korean immigrants, back in the city after graduating from Princeton and realizing her expensive degree is no match for the credit card debt she’s racked up. As she navigates the city, trying to figure out where she fits in this privileged world, she questions what will truly make her happy."
