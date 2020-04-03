@@ -1,14 +1,13 @@
 ---
-title: 'NY Post: "The 10 best books to read to beat coronavirus boredom"'
-date: 2020-03-18T00:50:11-04:00
-link_to_original: https://nypost.com/2020/03/18/the-10-best-books-to-read-to-beat-coronavirus-boredom/
+title: 'Esquire: "The Best Books for Distancing Yourself From Reality Right Now"'
+date: 2020-03-25T00:50:11-04:00
+link_to_original: https://www.esquire.com/entertainment/books/g31813146/books-to-read-while-social-distancing-quarantine-coronavirus/
 images: []
 tags: []
 categories: []
 description: ''
-draft: true
 
 ---
-> _Free Food for Millionaires_, Min Jin Lee (fiction, Grand Central Publishing)
+> _Packinko_, Min Jin Lee
 >
-> "Casey Han is the Queens-bred daughter of Korean immigrants, back in the city after graduating from Princeton and realizing her expensive degree is no match for the credit card debt she’s racked up. As she navigates the city, trying to figure out where she fits in this privileged world, she questions what will truly make her happy."
+> "With the epic sweep of Zola or Dickens, Lee chronicles four storied generations of a Korean immigrant family, beginning with a pregnant young woman’s decision to enter a marriage of convenience that ferries her to a new beginning in Japan. Her decision to leave home echoes across generations, all of it playing out against the rich tapestry of an ever-changing 20th-century Japan. The sheer bigness of this novel is majestic, as are its themes of joy, sacrifice, and heartbreak."
