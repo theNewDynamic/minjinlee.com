@@ -5,8 +5,8 @@ link_to_original: https://www.kirkusreviews.com/book-lists/13-fiction-breakthrou
 images: []
 tags: []
 categories: []
-description: '" BOOKSHELF An old-fashioned epic whose simple, captivating storytelling
-  delivers both wisdom and truth."'
+description: '"An old-fashioned epic whose simple, captivating storytelling delivers
+  both wisdom and truth."'
 
 ---
 "An absorbing saga of 20th-century Korean experience, seen through the fate of four generations.
