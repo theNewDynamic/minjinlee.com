@@ -40,8 +40,7 @@ module.exports = {
       "take-action",]
     }),    
     require('autoprefixer')({
-      grid: true,
-      browsers: ['>1%']
+      grid: true
     }),    
   ]
 }
