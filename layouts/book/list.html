@@ -29,7 +29,7 @@
       </section>
       <section class="mx-auto flex flex-columnd mb-16 mt-8 px-4 md:px-4 text-on-primary-color">
         {{- partial "books/praise.html" (dict "count" 1 "Page" . ) -}}
-        <a class="more-button btn my-8 btn-buylinks self-end" href="{{ .URL }}">more</a>
+        <a class="more-button btn my-8 btn-buylinks self-end" href="{{ .RelPermalink }}">more</a>
       </section>
     {{ end }}
   </main>
