@@ -32,10 +32,15 @@
 
 {{ partial "_head/manifest.html" . }}
 
+{{ $rss := false }}
 
-{{ if .RSSLink }}
-  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+{{ with .OutputFormats.Get "RSS" }}
+  {{ $rss = .RelPermalink }}
+{{ end }}
+
+{{ if $rss }}
+  <link href="{{ $rss }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="{{ $rss }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 {{ end }}
 
 {{ if eq (getenv "HUGO_ENV") "production" }}
