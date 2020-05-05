@@ -1,6 +1,6 @@
 ---
-title: '"The Best Books to Read During The Coronavirus Pandemic, According to PEOPLE
-  Editors"'
+title: The Best Books to Read During The Coronavirus Pandemic, According to PEOPLE
+  Editors
 date: 2020-04-02T00:50:11-04:00
 link_to_original: https://people.com/books/best-books-to-read-during-the-coronavirus-pandemic-people-editors/
 images: []
