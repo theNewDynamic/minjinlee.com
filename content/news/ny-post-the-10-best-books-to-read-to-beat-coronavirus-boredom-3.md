@@ -1,5 +1,5 @@
 ---
-title: 'Condé Nast Traveler: "Best Books to Read if You''re Dreaming of Japan"'
+title: 'Condé Nast Traveler: Best Books to Read if You''re Dreaming of Japan'
 date: 2020-03-30T00:50:11-04:00
 link_to_original: https://www.cntraveler.com/story/best-books-to-read-before-a-trip-to-japan
 images: []
