@@ -1,5 +1,5 @@
 ---
-title: 'Kirkus: "13 Fiction Breakthroughs That Live Up to the Hype"'
+title: 'Kirkus: 13 Fiction Breakthroughs That Live Up to the Hype'
 date: 2020-03-19T00:50:11-04:00
 link_to_original: https://www.kirkusreviews.com/book-lists/13-fiction-breakthroughs-live-hype/#station-eleven
 images: []
