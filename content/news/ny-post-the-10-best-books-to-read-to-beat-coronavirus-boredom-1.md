@@ -1,5 +1,5 @@
 ---
-title: 'Esquire: "The Best Books for Distancing Yourself From Reality Right Now"'
+title: 'Esquire: The Best Books for Distancing Yourself From Reality Right Now'
 date: 2020-03-25T00:50:11-04:00
 link_to_original: https://www.esquire.com/entertainment/books/g31813146/books-to-read-while-social-distancing-quarantine-coronavirus/
 images: []
