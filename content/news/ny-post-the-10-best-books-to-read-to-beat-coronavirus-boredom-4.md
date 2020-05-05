@@ -1,14 +1,13 @@
 ---
-title: 'NY Post: "The 10 best books to read to beat coronavirus boredom"'
-date: 2020-03-18T00:50:11-04:00
-link_to_original: https://nypost.com/2020/03/18/the-10-best-books-to-read-to-beat-coronavirus-boredom/
+title: 12 must-read books for Asian Pacific American Heritage Month
+date: 2020-04-21T00:50:11-04:00
+link_to_original: https://www.businessinsider.my/best-books-asian-pacific-american-heritage-authors-2020-4
 images: []
 tags: []
 categories: []
 description: ''
-draft: true
 
 ---
-> _Free Food for Millionaires_, Min Jin Lee (fiction, Grand Central Publishing)
+> “'War, displacement, and colonialism have been the story of millions of Asian immigrant families but seldom have those stories been told in the voices and about the sacrifices of the women who held it all together,' Sung Yeon Choimorrow said. 'In telling the story of a Korean woman’s family trying to survive among their colonizers, PACHINKO captures perfectly the melancholy and suffering so embedded in the Korean psyche.'
 >
-> "Casey Han is the Queens-bred daughter of Korean immigrants, back in the city after graduating from Princeton and realizing her expensive degree is no match for the credit card debt she’s racked up. As she navigates the city, trying to figure out where she fits in this privileged world, she questions what will truly make her happy."
+> Michelle Hicks of APANO added, 'This incredible, epic novel is filled with a family throughout four generations of forbidden love, a search for belonging, and overcoming the odds.'"
