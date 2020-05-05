@@ -1,5 +1,5 @@
 ---
-title: 'NY Post: "The 10 best books to read to beat coronavirus boredom"'
+title: 'NY Post: The 10 best books to read to beat coronavirus boredom'
 date: 2020-03-18T00:50:11-04:00
 link_to_original: https://nypost.com/2020/03/18/the-10-best-books-to-read-to-beat-coronavirus-boredom/
 images: []
