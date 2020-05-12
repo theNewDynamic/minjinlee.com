@@ -1,6 +1,6 @@
 ---
 show_time: false
-title: Talks@Google - Postponed
+title: 'Talks@Google '
 date: 2020-05-27T12:00:00-04:00
 description: ''
 venue:
