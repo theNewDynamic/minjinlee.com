@@ -1,7 +1,7 @@
 ---
 show_time: true
 title: Talks@Google - Postponed
-date: 2020-05-18T12:00:00-04:00
+date: 2020-05-27T12:00:00-04:00
 description: ''
 venue:
   address: 76 Ninth Ave,
