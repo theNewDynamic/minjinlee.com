@@ -1,5 +1,5 @@
 ---
-title: 'Talks at Google: Musings & Writings: Asian-American Voices'
+title: 'Talks at Google: Musings & Writings: Asian-American Voices (video)'
 date: 2020-06-19T00:50:11-04:00
 link_to_original: https://www.youtube.com/watch?v=xKIA5w2Iflo
 images: []
