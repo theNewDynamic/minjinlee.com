@@ -8,6 +8,6 @@ categories: []
 description: ''
 
 ---
-Bestselling author Min Jin Lee provides a masterclass on writing. In addition, she speaks about representation in media, fiction, non-fiction and her views on the evolving Asian-American identity. 
+"Bestselling author Min Jin Lee provides a masterclass on writing. In addition, she speaks about representation in media, fiction, non-fiction and her views on the evolving Asian-American identity."
 
 Moderated by Michelle Pham. 
