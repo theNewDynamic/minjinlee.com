@@ -1,14 +1,11 @@
 ---
 title: 'Oprah: 25 Books About Immigration That Movingly Capture the Experience'
-date: 2020-04-21T00:50:11-04:00
-link_to_original: https://www.businessinsider.my/best-books-asian-pacific-american-heritage-authors-2020-4
+date: 2020-07-21T00:50:11-04:00
+link_to_original: https://www.oprahmag.com/entertainment/books/g29193389/books-about-immigration/
 images: []
 tags: []
 categories: []
 description: ''
-draft: true
 
 ---
-> “'War, displacement, and colonialism have been the story of millions of Asian immigrant families but seldom have those stories been told in the voices and about the sacrifices of the women who held it all together,' Sung Yeon Choimorrow said. 'In telling the story of a Korean woman’s family trying to survive among their colonizers, PACHINKO captures perfectly the melancholy and suffering so embedded in the Korean psyche.'
->
-> Michelle Hicks of APANO added, 'This incredible, epic novel is filled with a family throughout four generations of forbidden love, a search for belonging, and overcoming the odds.'"
+> "_Pachinko_ is a tale of immigration within a different context than stories of coming to the U.S. The multigenerational epic follows a Korean family who moves to Japan in the early 1900s. Their roots in Korea follow them, as they remain in a society that labels them outsiders, and estranged from their country of origin."
