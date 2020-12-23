@@ -1,6 +1,6 @@
 ---
-title: New Castle County Reads - Rescheduling
-date: 2020-04-23T18:15:00-04:00
+title: 'New Castle County Reads '
+date: 2020-10-22T18:15:00-04:00
 show_time: false
 venue:
   name: Chase Center of the Riverfront
