@@ -1,6 +1,6 @@
 ---
 title: 'Calvin College '
-date: 2021-04-08T13:15:00-04:00
+date: 2022-03-24T00:00:00-04:00
 show_time: true
 venue:
   name: Calvin College
