@@ -1,7 +1,7 @@
 ---
 show_time: false
-title: 'Williams College '
-date: 2020-12-03T19:00:00-05:00
+title: Williams College - Tentative
+date: 2021-05-01T00:00:00-04:00
 description: ''
 venue:
   address: Griffin Hall Room 3, 84 Main Street
