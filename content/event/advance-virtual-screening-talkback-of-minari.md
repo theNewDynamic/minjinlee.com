@@ -11,6 +11,5 @@ venue:
   zip: ''
 link: https://aaww.org/curation/advance-virtual-screening-talkback-of-minari/
 images: []
-draft: true
 
 ---
