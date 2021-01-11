@@ -11,6 +11,5 @@ venue:
   zip: ''
 link: https://www.symphonyspace.org/events/thalia-book-club-salon-min-jin-lee-in-conversation-with-you
 images: []
-draft: true
 
 ---
