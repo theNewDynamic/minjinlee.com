@@ -12,6 +12,5 @@ venue:
   zip: ''
 link: https://www.greenlightbookstore.com/event/great-gatsby-feat-min-jin-lee-jennifer-buehler
 images: []
-draft: true
 
 ---
