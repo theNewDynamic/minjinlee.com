@@ -11,6 +11,5 @@ venue:
   zip: ''
 link: https://the1a.org/about/
 images: []
-draft: true
 
 ---
