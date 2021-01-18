@@ -1,8 +1,8 @@
 ---
-show_time: true
+show_time: false
 title: Onondaga Central Library - An Evening with Min Jin Lee
-date: 2020-11-11T19:30:00-05:00
-description: ''
+date: 2021-02-23T19:30:00-05:00
+description: Virtual
 venue:
   address: '411 Montgomery St. '
   city: Syracuse
