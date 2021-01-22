@@ -12,6 +12,5 @@ venue:
   zip: ''
 link: https://www.eventbrite.com/e/literary-conversations-intersections-tickets-136730928889
 images: []
-draft: true
 
 ---
