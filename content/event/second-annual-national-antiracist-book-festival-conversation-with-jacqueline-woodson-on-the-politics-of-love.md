@@ -19,6 +19,5 @@ venue:
   zip: ''
 link: https://www.bu.edu/antiracism-center/narrative/national-antiracist-book-festival/
 images: []
-draft: true
 
 ---
