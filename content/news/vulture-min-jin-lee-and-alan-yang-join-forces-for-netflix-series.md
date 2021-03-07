@@ -1,12 +1,10 @@
 ---
 title: 'Vulture: Min Jin Lee and Alan Yang Join Forces for Netflix Series'
-date: 2020-07-21T00:50:11.000-04:00
-link_to_original: https://www.oprahmag.com/entertainment/books/g29193389/books-about-immigration/
+date: 2021-01-27T00:50:11-05:00
+link_to_original: https://www.vulture.com/2021/01/free-food-for-millionaires-tv-shows-netflix.html
 images: []
 tags: []
 categories: []
 description: ''
-draft: true
 
 ---
-> "_Pachinko_ is a tale of immigration within a different context than stories of coming to the U.S. The multigenerational epic follows a Korean family who moves to Japan in the early 1900s. Their roots in Korea follow them, as they remain in a society that labels them outsiders, and estranged from their country of origin."
