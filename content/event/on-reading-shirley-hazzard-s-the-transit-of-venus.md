@@ -19,6 +19,5 @@ venue:
   zip: ''
 link: https://centerforfiction.org/event/on-reading-shirley-hazzards-the-transit-of-venus/
 images: []
-draft: true
 
 ---
