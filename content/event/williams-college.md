@@ -7,10 +7,10 @@ description: Min Jin Lee, will read from her work, engage in conversation with S
   Science, and take audience questions. Free and open to the public. All are invited.
   Sponsored by the Asian Studies Department.
 venue:
-  address: Griffin Hall Room 3, 84 Main Street
-  city: Williamstown
+  address: Virtual
+  city: ''
   name: ''
-  state: MA
+  state: ''
   zip: ''
 link: https://events.williams.edu/event/min-jin-lee-reading-and-conversation/
 images: []
