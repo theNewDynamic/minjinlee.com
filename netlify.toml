@@ -15,12 +15,12 @@ command = "hugo --minify -F -e cached"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "hugo --minify -e cached -D -F -b $DEPLOY_PRIME_URL"
+command = "hugo --minify -e cached -D -b $DEPLOY_PRIME_URL"
 [context.deploy-preview.environment]
 HUGO_ENV = "staging"
 
 [context.branch-deploy]
-command = "hugo --minify -e cached -F -b $DEPLOY_URL"
+command = "hugo --minify -e cached -b $DEPLOY_URL"
 [context.branch-deploy.environment]
 HUGO_ENV = "staging"
 

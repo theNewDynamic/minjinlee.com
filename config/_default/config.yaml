@@ -6,6 +6,7 @@ baseURL: https://www.minjinlee.com/
 DefaultContentLanguage: en
 enableRobotsTXT: true
 disableAliases: true
+buildFuture: true
 # Some bugs related to 404 template https://github.com/gohugoio/hugo/issues/7603
 disableKinds:
   - '404'
