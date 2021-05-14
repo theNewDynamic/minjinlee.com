@@ -9,7 +9,7 @@
       {{ range .ByTitle }}
         <li class="inline md:block pr-3">
           <a href="{{ .Page.RelPermalink }}" class="no-underline text-grey-darker dim{{if eq $ .Page }} active{{end}}">
-            {{ .Page.Title }}
+            {{ .Page.Title | humanize }}
           </a>
         </li>
       {{ end }}
