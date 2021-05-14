@@ -1,0 +1,5 @@
+includeNewer: true
+indices:
+  name: tool
+  toLower: true
+  weight: 100.0

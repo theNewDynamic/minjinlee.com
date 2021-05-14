@@ -1,19 +1,28 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify "
+command = "hugo --minify -e cached"
 
 [build.environment]
-HUGO_VERSION = "0.63.2"
+  GO_VERSION = "1.14"
+  NODE_VERSION = "15.4.0"
+  HUGO_VERSION = "0.83.0"
+
+[context]
+
+[context.production]
 
 [context.production.environment]
 HUGO_ENV = "production"
-HUGO_VERSION = "0.63.2"
 
 [context.deploy-preview]
-command = "hugo -b $DEPLOY_PRIME_URL"
+command = "hugo --minify -e cached -D -b $DEPLOY_PRIME_URL"
+[context.deploy-preview.environment]
+HUGO_ENV = "staging"
 
 [context.branch-deploy]
-command = "hugo -b $DEPLOY_URL"
+command = "hugo --minify -e cached -b $DEPLOY_URL"
+[context.branch-deploy.environment]
+HUGO_ENV = "staging"
 
-# https://www.netlify.com/docs/continuous-deployment/#deploy-contexts
-# https://www.netlify.com/blog/2017/04/11/netlify-plus-hugo-0.20-and-beyond/
+[context.main]
+command = "hugo --minify -e cached -b $DEPLOY_URL"

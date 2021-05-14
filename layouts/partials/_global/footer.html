@@ -1,0 +1,14 @@
+<footer class="footer font-sans" role="contentinfo">
+  <div class="flex justify-between items-center">
+    <div class="flex items-center">
+      <a class="hover:text-white no-underline px-3 color-inherit" href="{{ site.Home.RelPermalink }}" >
+        &copy; {{ now.Format "2006" }} {{ site.Title }}
+      </a>
+      {{ partial "tnd-socials/follow.html" "w-4" }}
+    </div>
+
+    <a class="hover:text-gray no-underline color-inherit" href="https://www.thenewdynamic.com/?utm_source={{site.Title | urlize}}" >
+      site by the New Dynamic
+    </a>
+  </div>
+</footer>

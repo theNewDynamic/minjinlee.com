@@ -1,0 +1,6 @@
+.pagination{
+  @apply flex justify-center items-center;
+  .page-item a {
+    @apply px-4;
+  }
+}

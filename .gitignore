@@ -1,32 +1,28 @@
-# Ignore docs files
-_site
-.ruby-version
-.jekyll-metadata
-.vscode
-
-# Numerous always-ignore extensions
-*.diff
-*.err
-*.orig
-*.log
-*.rej
-*.swo
-*.swp
-*.zip
-*.vi
-*~
-# *.lock
-
-# OS or Editor folders
-*.scssc
+# OS
 .DS_Store
 Thumbs.db
-.cache
+
+# IDEs
+.buildpath
 .project
-.settings
-.tmproj
-.asset-cache
-.sass-cache
+.settings/
+.build/
+.idea/
+nbproject/
+
+# Vagrant
+.vagrant/
+
+# FE Setup
+.bin/node_modules/
+/node_modules/
+/npm-debug.log.*
+/npm-debug.log
+/npm-debug.log*
+
+# Hugo
+hugo_stats.json
 public
-# Folders to ignore
-node_modules
+
+# Local Netlify folder
+.netlify

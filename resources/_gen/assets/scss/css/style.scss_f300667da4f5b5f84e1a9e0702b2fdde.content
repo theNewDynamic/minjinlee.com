@@ -1,0 +1,293 @@
+/* Modules */
+/*
+
+  HOVER EFFECTS
+  Docs: http://tachyons.io/docs/themes/hovers/
+
+    - Dim
+    - Glow
+    - Hide Child
+    - Underline text
+    - Grow
+    - Pointer
+    - Shadow
+
+*/
+/*
+
+  Dim element on hover by adding the dim class.
+
+*/
+.dim {
+  opacity: 1;
+  transition: opacity .15s ease-in; }
+
+.dim:hover,
+.dim:focus {
+  opacity: .5;
+  transition: opacity .15s ease-in; }
+
+.dim:active {
+  opacity: .8;
+  transition: opacity .15s ease-out; }
+
+/*
+
+  Animate opacity to 100% on hover by adding the glow class.
+
+*/
+.glow {
+  transition: opacity .15s ease-in; }
+
+.glow:hover,
+.glow:focus {
+  opacity: 1;
+  transition: opacity .15s ease-in; }
+
+/*
+
+  Hide child & reveal on hover:
+
+  Put the hide-child class on a parent element and any nested element with the
+  child class will be hidden and displayed on hover or focus.
+
+  <div class="hide-child">
+    <div class="child"> Hidden until hover or focus </div>
+    <div class="child"> Hidden until hover or focus </div>
+    <div class="child"> Hidden until hover or focus </div>
+    <div class="child"> Hidden until hover or focus </div>
+  </div>
+*/
+.hide-child .child {
+  opacity: 0;
+  transition: opacity .15s ease-in; }
+
+.hide-child:hover .child,
+.hide-child:focus .child,
+.hide-child:active .child {
+  opacity: 1;
+  transition: opacity .15s ease-in; }
+
+.underline-hover:hover,
+.underline-hover:focus {
+  text-decoration: underline; }
+
+/* Can combine this with overflow-hidden to make background images grow on hover
+ * even if you are using background-size: cover */
+.grow {
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out; }
+
+.grow:hover,
+.grow:focus {
+  transform: scale(1.05); }
+
+.grow:active {
+  transform: scale(0.9); }
+
+.grow-large {
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform .25s ease-in-out; }
+
+.grow-large:hover,
+.grow-large:focus {
+  transform: scale(1.2); }
+
+.grow-large:active {
+  transform: scale(0.95); }
+
+/* Add pointer on hover */
+.pointer:hover {
+  cursor: pointer; }
+
+/*
+   Add shadow on hover.
+
+   Performant box-shadow animation pattern from
+   http://tobiasahlin.com/blog/how-to-animate-box-shadow/
+*/
+.shadow-hover {
+  cursor: pointer;
+  position: relative;
+  transition: all 0.5s cubic-bezier(0.165, 0.84, 0.44, 1); }
+
+.shadow-hover::after {
+  content: '';
+  box-shadow: 0px 0px 16px 2px rgba(0, 0, 0, 0.2);
+  border-radius: inherit;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  transition: opacity 0.5s cubic-bezier(0.165, 0.84, 0.44, 1); }
+
+.shadow-hover:hover::after,
+.shadow-hover:focus::after {
+  opacity: 1; }
+
+/* Combine with classes in skins and skins-pseudo for
+ * many different transition possibilities. */
+.bg-animate,
+.bg-animate:hover,
+.bg-animate:focus {
+  transition: background-color .95s ease-out; }
+
+/* pagination.html: https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L117 */
+.pagination {
+  @apply my-3 mx-0; }
+
+.pagination li {
+  @apply inline-block text-xs mb-8 mr-1 font-sans; }
+
+.pagination li a {
+  @apply no-underline rounded text-grey-dark border bg-white py-1 px-3; }
+
+.pagination li a:hover {
+  @apply bg-grey; }
+
+.pagination li.disabled {
+  @apply hidden; }
+
+.pagination li.active a:link,
+.pagination li.active a:active,
+.pagination li.active a:visited {
+  @apply bg-grey-light; }
+
+.facebook, .twitter, .instagram, .youtube, .meetup, .slack {
+  color: #BABABA; }
+
+.facebook:hover {
+  color: #3b5998; }
+
+.twitter:hover {
+  color: #55acee; }
+
+.instagram:hover, .slack:hover {
+  color: #e95950; }
+
+.youtube:hover, .meetup:hover {
+  color: #bb0000; }
+
+tags span {
+  @apply bg-grey-lighter font-semibold mr-2 px-3 py-1 rounded-full text-grey-darker text-sm; }
+
+h1, h2, h3, h4, h5 {
+  @apply font-brand my-4; }
+
+html.no-js .js-only {
+  visibility: hidden; }
+
+html.js .js-only {
+  visibility: visible; }
+
+.bg-inherit {
+  background-color: inherit; }
+
+.color-inherit {
+  color: inherit; }
+
+p {
+  @apply mb-4; }
+
+p a:link, p a:active, p a:visited {
+  /* This blue has a 4.77 contrast ratio on white 4.56 on near-white */
+  color: #1A76C1; }
+
+p a:hover {
+  color: #12283a; }
+
+hr {
+  @apply py-4; }
+
+dt::after {
+  content: ": "; }
+
+.btn {
+  @apply font-bold py-2 px-4 rounded no-underline border inline-block mb-2; }
+
+/* Site Specific */
+/* Use the site file to define common component classes or to prevent duplicate sets of classes in templates. */
+/* BODY */
+.font-primary {
+  @apply font-sans; }
+
+blockquote {
+  @apply font-brand; }
+
+/* --------- Pages -------------- */
+.page-list_default, .page-single_default {
+  @apply max-w-5xl px-4 pt-6; }
+
+/* --------- Title -------------- */
+.site-title {
+  @apply font-brand dim text-5xl no-underline color-inherit inline-block; }
+
+@screen md {
+  .site-title {
+    @apply text-4xl; } }
+
+@screen xl {
+  .site-title {
+    @apply text-5xl; } }
+
+/* --------- NAV -------------- */
+nav li {
+  @apply inline-block; }
+
+nav ul a {
+  @apply block color-inherit dim leading-none no-underline pr-3 py-3; }
+
+@screen md {
+  nav {
+    @apply ml-8; }
+  nav ul a {
+    @apply pr-8; } }
+
+.list-item {
+  @apply inline-block; }
+
+/* --------- MISC  -------------- */
+.flex-direction {
+  /* @apply items-end; */
+  @apply items-center; }
+
+.active {
+  @apply text-grey-dark underline; }
+
+.body-color {
+  @apply bg-white text-grey-darkest; }
+
+/* COMPONENTS */
+.page-heading {
+  @apply text-primary-color text-5xl mb-1; }
+
+.page-description {
+  @apply text-base mb-2 text-2xl text-grey-dark mb-8; }
+
+header {
+  @apply text-primary-color bg-white; }
+
+footer {
+  @apply p-4 mt-32 text-sm text-grey-dark; }
+
+.sidebar-list {
+  @apply bg-grey-lighter p-4; }
+
+@screen lg {
+  header {
+    @apply fixed top-0 left-0 right-0 z-50; }
+  .content {
+    @apply mt-32; } }
+
+.btn-buylinks {
+  @apply text-xs font-sans text-black; }
+
+.btn-buylinks:hover, .btn-buylinks:focus {
+  @apply bg-primary-color text-white; }

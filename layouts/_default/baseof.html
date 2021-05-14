@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="{{ site.Language.Lang }}" class="no-js">
+  <head>
+    {{ partial "head.html" . }}
+    {{ block "addtohead" . }}{{ end }}
+  </head>
+  <body class="{{.Kind}} m-0 body-color font-primary leading-normal text-base{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+    {{ block "header" . }}{{ partial "_global/header.html" . }}{{ end }}
+    <div id="content" class="content">
+      <main role="main">
+        {{ block "hero" . }}{{ end }}
+        {{ block "main" . }}{{ end }}
+      </main>
+      {{ block "footer" . }}
+        {{- partial "_global/footer.html" . -}}
+      {{ end }}
+    </div>
+    {{ block "page_bottom" . }}
+      {{- partial "_global/page-bottom.html" . -}}
+    {{ end }}
+  </body>
+</html>

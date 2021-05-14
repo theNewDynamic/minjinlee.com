@@ -1,0 +1,36 @@
+{{ $taxonomies := slice
+  (dict
+    "key" "categories"
+    "label" "Categories"
+  )
+  (dict
+    "key" "tags"
+    "label" "Types"
+  )
+}}
+{{ $pages := $.Pages }}
+{{ if eq .Kind "taxonomy" "term"}}
+  {{ $pages = site.RegularPages }}
+{{ end }}
+{{ $output := slice }}
+{{ range $tax := $taxonomies }}
+  {{ $terms := slice }}
+  {{ $ids := slice }}
+  {{ range $pages }}
+    {{ range .GetTerms $tax.key }}
+      {{ if not (in $ids .Title) }}
+        {{ $ids = $ids | append .Title }}
+        {{ $terms = $terms | append . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ with $terms }}
+    {{ $output = $output | append (dict
+      "key" $tax.key
+      "label" $tax.label
+      "terms" ($terms)
+    ) }}
+  {{ end }}
+{{ end }}
+
+{{ return $output }}

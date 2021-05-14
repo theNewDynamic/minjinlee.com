@@ -1,38 +1,60 @@
 {
-  "name": "hugostarter",
-  "version": "2.0.0",
-  "description": "Starter files for a Hugo project",
-  "main": "index.js",
-  "repository": "https://github.com/theNewDynamic/hugo-starter.git",
-  "author": "budparr <budparr@gmail.com>",
-  "license": "MIT",
-  "scripts": {
-    "algolia": "atomic-algolia",
-    "build": "webpack --config webpack.js",
-    "build-dev": "webpack --config webpack.js --watch",
-    "deploy": "yarn build && hugo --gc",
-    "dev": "hugo server --gc --disableFastRender",
-    "start": "hugo --gc"
-  },
+ "author": "theNewDynamic",
+ "comments": {
+  "dependencies": {},
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^1.0.1",
-    "autoprefixer": "^9.0.1",
-    "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.5",
-    "babel-preset-env": "^1.7.0",
-    "clean-webpack-plugin": "^0.1.19",
-    "css-loader": "^1.0.0",
-    "file-loader": "^1.1.11",
-    "lazysizes": "^4.0.2",
-    "mini-css-extract-plugin": "^0.4.1",
-    "postcss": "^7.0.1",
-    "postcss-cli": "^6.0.0",
-    "postcss-import": "^11.0.0",
-    "tailwindcss": "0.6.4",
-    "turbolinks": "^5.1.1",
-    "typeface-tenor-sans": "^0.0.54",
-    "webpack": "^4.16.2",
-    "webpack-command": "^0.4.1"
-  },
-  "dependencies": {}
+   "@tailwindcss/typography": "github.com/theNewDynamic/hugo-module-tnd-styles",
+   "algoliasearch": "github.com/theNewDynamic/hugo-module-tnd-search",
+   "instantsearch.js": "github.com/theNewDynamic/hugo-module-tnd-search",
+   "lazysizes": "project",
+   "npm-run-all": "project",
+   "postcss-cli": "project",
+   "postcss-import": "project",
+   "quicklink": "project",
+   "tailwindcss": "project"
+  }
+ },
+ "dependencies": {},
+ "description": "Replace this description with project's",
+ "devDependencies": {
+  "@tailwindcss/typography": "^0.4.0",
+  "algoliasearch": "^4.8.6",
+  "instantsearch.js": "^4.17.0",
+  "lazysizes": "^5.3.0",
+  "npm-run-all": "^4.1.5",
+  "postcss-cli": "^8.0.0",
+  "postcss-import": "^12.0.1",
+  "quicklink": "^2.0.0",
+  "tailwindcss": "^2.0.2"
+ },
+ "hugo": {
+  "extended": "true",
+  "version": "0.83.0"
+ },
+ "keywords": [
+  "template"
+ ],
+ "license": "ISC",
+ "main": "index.js",
+ "name": "hugo-project-template",
+ "repository": {
+  "type": "git",
+  "url": "github.com/theNewDynamic/hugo-project-template"
+ },
+ "scripts": {
+  "clean": "rm -rf public/ static/dist resources",
+  "cms": "npx netlify-cms-proxy-server",
+  "deploy": "npm run prod:hugo",
+  "dev:cms": "run-p cms hugo-cms",
+  "dev:hugo": "HUGO_ENV=development bin/hugo* server --minify -D --gc --navigateToChanged --noHTTPCache",
+  "dev:netlify": "netlify dev -l",
+  "gethugo": "bash get-hugo.sh",
+  "hugo-cms": "HUGO_ENV=development bin/hugo* server -D --gc --noHTTPCache",
+  "modinit": "bin/hugo* mod init $REPO",
+  "modpack": "bin/hugo* mod npm pack",
+  "prod:hugo": "HUGO_ENV=production bin/hugo* --gc --minify --cleanDestinationDir",
+  "start": "npm run dev:hugo",
+  "version": "auto-changelog -p --template keepachangelog --unreleased true"
+ },
+ "version": "0.1.0"
 }

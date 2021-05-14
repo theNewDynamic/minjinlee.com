@@ -1,0 +1,26 @@
+
+
+{{/*
+  follow
+  Prints the social links and icons
+
+  @author @regisphilibert
+
+  @context Slice of Strings
+
+  @access public
+
+  @example - Go Template
+    <div class="socials">
+      {{ partial "tnd-socials/follow.html" . }}
+    </div>
+*/}}
+{{ range partialCached "tnd-socials/GetSocials" . . }}
+  <a href="{{ .URL }}" title="{{ .Name }}" class="{{ .Name }} {{ $ }} inline-block no-underline mr-2 lg:pt-0 pt-3 z-999">
+    {{ with .SVG }}
+      {{ . }}
+    {{ else }}
+      {{ .Name }}
+    {{ end }}
+  </a>
+{{ end }}

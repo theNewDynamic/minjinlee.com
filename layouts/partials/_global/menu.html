@@ -1,0 +1,28 @@
+{{ $args := dict
+  "menu" .menu
+  "Page" .page
+}}
+{{ with partialCached "tnd-menus/GetMenu" $args .page.File.UniqueID }}
+  <nav aria-label="{{ $.menu }}">
+    <ul name="{{ $.menu }}" class="list-reset">
+      {{ range . }}
+        <li class="{{ .Identifier }}">
+          <a class="color-inherit {{ if .Active }} active{{ end }}" href="{{ .URL }}" title="{{ .Name }} page">
+            {{ .Name }}
+          </a>
+          {{ if .HasChildren }}
+            <ul class="list-reset">
+              {{ range .Children }}
+                <li {{ if .IsActive }} class="bg-primary-color-dark"{{ end }}>
+                  <a href="{{ .URL }}">
+                    {{ .Name }}
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+{{ end }}

@@ -1,0 +1,21 @@
+# Config Base
+# This is where root config key goes.
+# ###################################
+title: Min Jin Lee
+baseURL: https://www.minjinlee.com/
+DefaultContentLanguage: en
+enableRobotsTXT: true
+disableAliases: true
+# Some bugs related to 404 template https://github.com/gohugoio/hugo/issues/7603
+disableKinds:
+  - '404'
+googleAnalytics: UA-176386-75
+logo: /uploads/9781455563920.jpeg
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+taxonomies:
+  category: categories
+  tag: tags
+  tools: tools

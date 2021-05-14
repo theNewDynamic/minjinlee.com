@@ -1,0 +1,100 @@
+description: The Official Website for Min Jin Lee
+tagsName: Type
+# ###############
+# TND SEO
+# https://github.com/theNewDynamic/hugo-module-tnd-seo#settings
+# ###############
+tnd_seo:
+  jsonld: true
+  enable_follow: true
+  disable_title: false
+
+# ###############
+# TND STYLES
+# https://github.com/theNewDynamic/hugo-module-tnd-styles#fonts
+# ###############
+tnd_styles:
+  fonts:
+  - family: Tenor Sans
+    file: fonts/tenor-sans-latin-400
+    weight: 300
+    display: swap
+    style: normal
+
+# ###############
+# TND SCRIPTS
+# https://github.com/theNewDynamic/hugo-module-tnd-scripts
+# ###############
+tnd_scripts:
+  scripts:
+    - name: main
+      path: /js/index.js
+
+# ###############
+# TND MEDIA
+# https://github.com/theNewDynamic/hugo-module-tnd-media#settings
+# If used in combination with imgix:
+# https://github.com/theNewDynamic/hugo-module-tnd-imgix#settings
+# ###############
+tnd_media:
+  storage: bundle
+# If imgix is used:
+# imgix: imgix.project.net
+# defaults:
+#   auto: format
+#   ch: Width,DPR
+#   q: 95
+
+# ###############
+# TND SOCIALS
+# https://github.com/theNewDynamic/hugo-module-tnd-socials#configure
+# ###############
+tnd_socials:
+  services:
+  - name: facebook
+    handle: minjinleebooks
+  - name: twitter
+    handle: minjinlee11
+  - name: instagram
+    handle: lee_minjin
+
+# ###############
+# TND REDIRECTS
+# https://github.com/theNewDynamic/hugo-module-tnd-redirects#api
+# ###############
+tnd_redirects:
+  use_aliases: true
+  rules:
+  - origin: https://minjinlee.netlify.app/*
+    target: https://www.minjinlee.com/:splat
+    code: 301
+    force: true
+
+# ###############
+# TND HEADERS
+# https://github.com/theNewDynamic/hugo-module-tnd-headers#adding-custom-headers
+# ###############
+tnd_headers:
+  groups:
+    - headers:
+      - field: Content-Security-Policy
+        value: upgrade-insecure-requests
+      - field: Strict-Transport-Security
+        value: max-age=15768000
+      - field: X-Xss-Protection
+        value: 1; mode=block
+      - field: X-Frame-Options
+        value: DENY
+      - field: X-Content-Type-Options
+        value: nosniff
+      - field: Referrer-Policy
+        value: strict-origin-when-cross-origin
+      - field: Feature-Policy
+        value: camera 'none'; geolocation 'none'; microphone 'none';
+
+# ###############
+# TND Search
+# https://github.com/theNewDynamic/hugo-module-tnd-search/tree/master#settings
+# ###############
+tnd_search:
+  service: algolia
