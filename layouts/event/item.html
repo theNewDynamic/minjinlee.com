@@ -1,6 +1,13 @@
-<div class="pt-4">
-  {{- partial "_components/time.html" (dict "context" . "show_time" true ) -}}
-  {{- partial "_components/item-title.html" . -}}
-  {{- partial "_components/item-summary.html" . -}}
-  {{- partial "_components/event-venue.html" . -}}
+<div class="pt-4 md:flex justify-between">
+  <div>
+    {{- partial "_components/time.html" (dict "context" . "show_time" true ) -}}
+    {{- partial "_components/item-title.html" . -}}
+    {{- partial "_components/item-summary.html" . -}}
+    {{ partial "tnd-events/view/venue" . }}
+  </div>
+  {{ if ge .Date now }}
+    <div class="my-4 md:my-0">
+      {{ partial "tnd-events/view/addtocal" . }}
+    </div>
+  {{ end }}
 </div>

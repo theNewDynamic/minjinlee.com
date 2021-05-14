@@ -1,0 +1,16 @@
+
+{{ with $venue := partialCached "tnd-events/GetEventVenue" . . }}
+<div class="venue font-sans text-sm text-grey-dark mt-3">
+    {{ with .name }}{{- . -}}&nbsp;&bull; {{ end }} {{ with .address }}{{- . -}}{{ end }}
+    {{ with .city }}&nbsp;&bull;&nbsp;{{- . -}}, {{ end }}{{ with .state }}{{- . -}}{{ end }}
+    {{ with .zip }}{{- . -}}{{ end }}
+    {{ with $.Params.link }}
+    <a href="{{ . }}" target="_blank"
+      class="inline-block ml-2 text-blue dim no-underline">
+      {{ with urls.Parse . }}
+        {{ .Host }}
+      {{ end }}
+    </a>
+    {{ end }}
+</div>
+{{ end }}

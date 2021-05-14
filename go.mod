@@ -1,5 +1,5 @@
 module github.com/theNewDynamic/minjinlee.com
-
+replace github.com/theNewDynamic/hugo-module-tnd-events => /Users/regisphilibert/Boulot/tnd/hugo-module-tnd-events
 go 1.14
 
 require (
@@ -8,8 +8,10 @@ require (
 	github.com/theNewDynamic/hugo-layout_module-base v0.0.0-20210503172815-58d023fa7345 // indirect
 	github.com/theNewDynamic/hugo-layout_module-books v0.0.0-20190815205753-3dfb6f6b9b30 // indirect
 	github.com/theNewDynamic/hugo-layout_module-events v0.0.0-20190603181923-82d7a9938c40 // indirect
+	github.com/theNewDynamic/hugo-module-tnd-addtocal v0.0.0-20210329170110-05f9c52fbb4d // indirect
 	github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210513163346-3529f63e064f // indirect
 	github.com/theNewDynamic/hugo-module-tnd-env v0.0.0-20210512181247-90dd1a287016 // indirect
+	github.com/theNewDynamic/hugo-module-tnd-events v0.0.0-20210305172131-01f594f06c94 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-forms v0.0.0-20210215134930-f4988c330b3b // indirect
 	github.com/theNewDynamic/hugo-module-tnd-func v0.0.0-20210316194241-a6d99cfae5a6 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-headers v0.1.4 // indirect

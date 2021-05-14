@@ -1,23 +1,19 @@
 {{ define "main" }}
-  {{ $events := .Pages.ByDate }}
-  {{ $events_upcoming := where $events ".Date" "ge" now }}
-  {{ $events_past := where $events.Reverse ".Date" "lt" now }}
-
 <div class="page-list_default mx-auto min-h-screen">
     {{ partial "_components/page-heading.html" . }}
 
     <section class="pt-5 min-vh-100">
-      {{ range $events_upcoming }}
+      {{ range partialCached "tnd-events/GetUpcomingEvents" "GetUpcomingEvents" }}
         <div class="relative w-full mb-8 border-b">
           {{ .Render "item" }}
         </div>
       {{ end }}
-      {{ if $events_past }}
+      {{ with partialCached "tnd-events/GetPastEvents" "GetPastEvents" }}
         {{ $id := "events" }}
         <hr />
         <div class="mt-32">
           <h2>Past Events</h2>
-          {{ range $events_past }}
+          {{ range . }}
             <div class="relative w-full mb-8 border-b">
                 {{ .Render "item" }}
             </div>

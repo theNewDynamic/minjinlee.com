@@ -98,3 +98,7 @@ tnd_headers:
 # ###############
 tnd_search:
   service: algolia
+
+tnd_events:
+  date_formats:
+    datetime: January 2, 2006 3:04 pm

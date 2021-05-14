@@ -13,7 +13,7 @@
     {{/* {{partial "_components/description.html" .}} */}}
 
     {{ .Content }}
-    {{partial "_components/venue.html" .}}
+    {{ partial "tnd-events/view/venue" . }}
 
     {{partial "_components/link-to-original.html" (dict "item" .)}}
   </section>

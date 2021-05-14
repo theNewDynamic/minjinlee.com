@@ -21,6 +21,7 @@ imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-scripts
   - path: github.com/theNewDynamic/hugo-module-tnd-media
   - path: github.com/theNewDynamic/hugo-module-tnd-books
+  - path: github.com/theNewDynamic/hugo-module-tnd-events
   - path: github.com/theNewDynamic/hugo-layout_module-base
   - path: github.com/theNewDynamic/hugo-layout_module-books
   - path: github.com/theNewDynamic/hugo-layout_module-events
