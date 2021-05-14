@@ -1,0 +1,12 @@
+name: Trigger API Calls
+on:
+  schedule:
+    # Run every day at midnight
+    - cron: '0 0 * * *'
+jobs:
+  build:
+    name: Request Netlify Webhook
+    runs-on: ubuntu-latest
+    steps:
+      - name: curl
+        run: curl -X GET -d {} ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
