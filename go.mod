@@ -1,5 +1,5 @@
 module github.com/theNewDynamic/minjinlee.com
-replace github.com/theNewDynamic/hugo-module-tnd-events => /Users/regisphilibert/Boulot/tnd/hugo-module-tnd-events
+
 go 1.14
 
 require (
