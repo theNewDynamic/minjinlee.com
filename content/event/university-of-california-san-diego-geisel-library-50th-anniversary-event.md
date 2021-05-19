@@ -14,6 +14,5 @@ venue:
   zip: ''
 link: https://library.ucsd.edu/news-events/events/min-jin-lee/
 images: []
-draft: true
 
 ---
