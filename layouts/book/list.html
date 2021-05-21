@@ -23,7 +23,7 @@
             <div class="border-b my-4 leading-normal">
               {{ .Content }}
             </div>
-            {{ partial "books/buylinks_array.html" (dict "item" . "count" "10") }}
+            {{ partialCached "tnd-books/view/buylinks" . . }}
           </div>
         </div>
       </section>

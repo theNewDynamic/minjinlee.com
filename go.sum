@@ -4,6 +4,8 @@ github.com/theNewDynamic/hugo-layout_module-books v0.0.0-20190815205753-3dfb6f6b
 github.com/theNewDynamic/hugo-layout_module-events v0.0.0-20190603181923-82d7a9938c40/go.mod h1:kmZUfbUGnrhkHzn4v6iATXhmbmagC4XnA0OW8FPobm0=
 github.com/theNewDynamic/hugo-module-tnd-addtocal v0.0.0-20210329170110-05f9c52fbb4d/go.mod h1:LZr+ma6fUL1bpVkf2TOyJDWtrR4PMuffdlbSej3r5TI=
 github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210513163346-3529f63e064f/go.mod h1:TdaxDaT3NKAmACVDPufOGCYivfO8Ty8d0ThXPPEvlYk=
+github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210521150338-185a66c15d43 h1:flW3NtEfqYP7kHudf7q9hB9mk8GstI8TGjssdwA/zYk=
+github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210521150338-185a66c15d43/go.mod h1:TdaxDaT3NKAmACVDPufOGCYivfO8Ty8d0ThXPPEvlYk=
 github.com/theNewDynamic/hugo-module-tnd-env v0.0.0-20210512181247-90dd1a287016/go.mod h1:IKV0f84Fz5bzRjWzq8vlwO3EdDe0yog//Fqx1QnddZU=
 github.com/theNewDynamic/hugo-module-tnd-events v0.0.0-20210518184329-a622ef0433fb/go.mod h1:g8zxx/XdjIQZX+Vy3kf7rU2gtMTjwvgLHhuQKYo9pJk=
 github.com/theNewDynamic/hugo-module-tnd-forms v0.0.0-20210215134930-f4988c330b3b/go.mod h1:j9sQrPJ9va1OJYgokFkc15g/Y8BeeWzW26nJqtI8puQ=

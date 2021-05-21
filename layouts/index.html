@@ -5,7 +5,7 @@
       <div class="w-full md:w-1/2 mt-8 lg:pr-12">
         {{- partial "books/praise-featured.html" . -}}
         <div class="mt-16">
-          {{ partial "books/buylinks_array.html" (dict "item" . "count" "1") }}
+          {{ partialCached "tnd-books/view/buylinks" . . }}
         </div>
       </div>
       <div class="w-full md:w-2/5 lg:pt-2 lg:pl-16">
