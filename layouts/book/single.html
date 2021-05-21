@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <div class="page-single_default mx-auto min-h-screen"> 
+    <div class="mb-8">
+      {{- partial "books/praise-featured.html" . -}}
+    </div>
+    <section class="mx-auto px-4 md:px-4 py-4 py- w-80-l">
+      {{- partial "books/header.html" . -}}
+      <div class="md:flex flex-wrap">
+        <div class="w-full md:w-2/5 lg:pt-2">
+          {{- partial "books/cover.html" . -}}
+          {{- partial "books/meta-data-array.html" . -}}
+        </div>
+        <div class="w-full md:w-3/5 mt-4 md:mt-0 md:px-6">
+            {{ partial "books/description.html" . }}
+          <div class="border-b pb-4 my-4 leading-normal">
+            {{ .Content }}
+          </div>
+          {{ partialCached "tnd-books/view/buylinks" . . }}
+        </div>
+      </div>
+    </section>
+    <section class="mx-auto flex flex-columnd mb-32 mt-8 px-4 md:px-4 text-on-primary-color">
+      {{- partial "books/covers-editions.html" . -}}
+    </section>
+    <section class="mx-auto flex flex-columnd mb-32 mt-8 px-4 md:px-4 text-on-primary-color">
+      {{- partial "books/praise.html" (dict "count" 100 "Page" . ) -}}
+    </section>
+  </div>
+{{ end }}

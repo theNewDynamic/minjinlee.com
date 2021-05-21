@@ -8,7 +8,7 @@ require (
 	github.com/theNewDynamic/hugo-layout_module-books v0.0.0-20190815205753-3dfb6f6b9b30 // indirect
 	github.com/theNewDynamic/hugo-layout_module-events v0.0.0-20190603181923-82d7a9938c40 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-addtocal v0.0.0-20210329170110-05f9c52fbb4d // indirect
-	github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210513163346-3529f63e064f // indirect
+	github.com/theNewDynamic/hugo-module-tnd-books v0.0.0-20210521150338-185a66c15d43 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-env v0.0.0-20210512181247-90dd1a287016 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-events v0.0.0-20210518184329-a622ef0433fb // indirect
 	github.com/theNewDynamic/hugo-module-tnd-forms v0.0.0-20210215134930-f4988c330b3b // indirect
