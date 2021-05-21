@@ -33,7 +33,7 @@ editions:
   description: Hardcover
 - isbn: 9780446504386
   binding: ebook
-  publisher: 
+  asin: B000U0NSSQ
 
 
 

@@ -20,7 +20,7 @@ editions:
   description: Hardcover
 - isbn: 9781455563913
   binding: ebook
-  publisher: 
+  asin: B01GZY28JA
 
 reviews:
 - attribution: Kate Christensen, Pen/Faulkner-winning author of *The Great Man* and
