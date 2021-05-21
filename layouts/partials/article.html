@@ -16,5 +16,11 @@
     {{ partial "tnd-events/view/venue" . }}
 
     {{partial "_components/link-to-original.html" (dict "item" .)}}
+
+    {{ if and (ge .Date now) (eq .Type "event") }}
+    <div class="float-right w-32 my-4 pb-2 text-xs">
+      {{ partial "tnd-events/view/addtocal" . }}
+    </div>
+    {{ end }}
   </section>
 </article>
