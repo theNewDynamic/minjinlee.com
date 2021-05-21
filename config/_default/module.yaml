@@ -30,7 +30,6 @@ imports:
   - path: github.com/theNewDynamic/hugo-module-tnd-headers
   - path: github.com/theNewDynamic/hugo-module-tnd-redirects
   - path: github.com/theNewDynamic/hugo-module-tnd-netlifycms
-  - path: github.com/theNewDynamic/hugo-module-tnd-search
   - path: github.com/theNewDynamic/hugo-module-tnd-icons
   - path: github.com/theNewDynamic/hugo-module-tnd-menus
   - path: github.com/theNewDynamic/hugo-component-tnd-blocks

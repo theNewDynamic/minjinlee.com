@@ -3,7 +3,6 @@ module github.com/theNewDynamic/minjinlee.com
 go 1.14
 
 require (
-	github.com/itemsapi/itemsjs v1.0.30 // indirect
 	github.com/theNewDynamic/hugo-component-tnd-blocks v0.0.0-20200618163712-a1fce85c0c7b // indirect
 	github.com/theNewDynamic/hugo-layout_module-base v0.0.0-20210503172815-58d023fa7345 // indirect
 	github.com/theNewDynamic/hugo-layout_module-books v0.0.0-20190815205753-3dfb6f6b9b30 // indirect
@@ -22,7 +21,6 @@ require (
 	github.com/theNewDynamic/hugo-module-tnd-netlifycms v0.1.71 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-redirects v1.2.4 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-scripts v0.0.0-20210512182152-9e0809896a22 // indirect
-	github.com/theNewDynamic/hugo-module-tnd-search v0.1.5 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-seo v0.1.8 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-socials v0.1.5 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-styles v0.7.4 // indirect
