@@ -8,11 +8,21 @@ menu:
     weight: 9
 
 ---
-#### To contact Min Jin Lee
+#### To Contact Min Jin Lee
 
 minjinlee.asst@gmail.com
 
 ***
+
+#### To Contact Agent:
+
+**Nicole Aragi**
+
+Aragi Inc
+
+[queries@aragi.net](mailto:queries@aragi.net)
+
+Tel: 212 675 8353
 
 #### Publicity/Public Relations inquiries:
 
@@ -31,7 +41,7 @@ For Speaking Engagements
 
 Please contact
 
-Steven Barclay
+**Steven Barclay**
 
 [steven@barclayagency.com](mailto:steven@barclayagency.com)
 
